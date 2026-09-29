@@ -15,7 +15,7 @@ Every Epic, omnibus, TPB and important single is a note in `Books/<line>/`. The 
 | `my_rating` | your own rating after reading, 1-10. Your impressions go in the note's "My impressions" section and in [[Reading Log]] |
 | `budget` | `monthly` or `quarterly` (quarterly pre-orders are outside the 200 EUR) |
 | `price_paid` / `price_seen` / `store` / `price_note` | what I paid, what I saw, and where |
-| `ordered` | date the order was placed (e.g. `2026-09-24`). Puts the book in the right month on the Spending dashboard |
+| `ordered` | date the order was placed (e.g. `2026-09-24`). Puts the book in the right budget month on the Spending dashboard |
 | `order_ref` | store and order number, e.g. `"Walt's #127228"` |
 | `cart` | e.g. `"2026-10"`: the book is in that month's cart. The Cart dashboard totals it |
 | `covers` / `covers_partial` | on an omnibus/TPB: the Epics it contains completely / only in part |
@@ -27,7 +27,7 @@ Every Epic, omnibus, TPB and important single is a note in `Books/<line>/`. The 
 | `goodreads_rating`, `goodreads_votes` | reader averages pulled from Goodreads |
 | `verified` | true once the book's issues/pages/editions were checked against Wikipedia (see [[Sources and Verification]]) |
 
-**Computed by `Tools/refresh.py`, don't edit:** `seq` (timeline position), `purpose` (reading, security, preorder, future, modern, event), `missing_before` (unowned Epics between your reading position and this book; 0 = a contiguous next-reading buy), `covered_via`, `order_month`, and the status of Epics you get through an omnibus (below).
+**Computed by `Tools/refresh.py`, don't edit:** `seq` (timeline position), `purpose` (reading, security, preorder, future, modern, event), `missing_before` (unowned Epics between your reading position and this book; 0 = a contiguous next-reading buy), `covered_via`, `budget_month` (the budget month of `ordered`: the 24th to the 23rd, named after that 24th's cart, so Sep 24 - Oct 23 is the September budget), and the status of Epics you get through an omnibus (below).
 
 ## Statuses
 - `owned`: I have the Epic itself (or the omnibus/TPB/single itself).

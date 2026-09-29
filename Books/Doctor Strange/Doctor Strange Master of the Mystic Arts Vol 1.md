@@ -17,7 +17,7 @@ budget: "monthly"
 ordered: 2026-08-17
 order_ref: "Walt's #121519"
 cover_note: "Frank Brunner Doctor Strange & Clea cover"
-order_month: "2026-08"
+budget_month: "2026-07"
 source: "Wikipedia Marvel Omnibus (2026-09-29) + conversation"
 wikipedia_checked: "2026-09-29"
 verified: true

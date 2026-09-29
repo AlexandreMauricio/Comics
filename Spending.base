@@ -7,16 +7,16 @@ properties:
     displayName: Book
   price_paid:
     displayName: Paid
-  order_month:
-    displayName: Month
+  budget_month:
+    displayName: Budget month
 views:
   - type: table
-    name: Monthly budget by month
+    name: By budget month (24th to 23rd)
     filters:
       and:
         - budget != "quarterly"
     groupBy:
-      property: order_month
+      property: budget_month
       direction: DESC
     order:
       - file.name
@@ -52,7 +52,7 @@ views:
     order:
       - file.name
       - price_paid
-      - order_month
+      - budget_month
       - budget
       - status
       - price_note

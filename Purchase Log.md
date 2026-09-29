@@ -12,7 +12,10 @@ Monthly budget ~200 EUR (flexible, no rollover). Quarterly pre-orders are outsid
 | ~2026-08 | Shipping for Spider-Man Epic 17 | Vinted | ~4? |
 
 ## Month notes
-- **2026-09:** Walt's 24th order (free shipping) about 208 to 211, plus IM Epic 14 about 33 = about 242. Well over the 200 budget, which is why October is planned lean. On 2026-09-29, Daredevil: Battlin' Jack Murdock #1-4 on Vinted, 31 with shipping, brings September to about 273.
+A budget month runs from the 24th to the 23rd and is named after the cart placed on that 24th.
+- **July budget (Jul 24 - Aug 23):** Walt's #121519 on Aug 17, 168.98 (DS Master of the Mystic Arts Omnibus 1, Spider-Man Epic 13, IM Epic 13). Spider-Man Epic 17 (Vinted, 34.30, about August) probably belongs here or in August once its date is known.
+- **August budget (Aug 24 - Sep 23):** Walt's #122655 on Aug 24, 194.88 (IM Epic 6, 7, DS Epic 5, DD Epic 2), plus IM Epic 14 on Vinted (29.05 + ~4 shipping) = about 228.
+- **September budget (Sep 24 - Oct 23):** Walt's order on Sep 24 about 208 to 211 (free shipping), plus Battlin' Jack Murdock #1-4 on Vinted on Sep 29 (31) = about 240. Over the 200, so no extras before the October cart.
 - **Q4 2026 pre-orders:** DD Epic 9, Venom War Omnibus, ASM Epic 29, 157.99 in total, Walt's order #127228 placed 2026-09-16, charged at order time. Outside the monthly budget.
 
 ## Missing dates

@@ -17,7 +17,7 @@ covers: ["[[DD Epic 03 - Brother, Take My Hand]]"]
 seq: 3.5
 covers_partial: ["[[DD Epic 04 - A Woman Called Widow]]"]
 ordered: 2026-09-24
-order_month: "2026-09"
+budget_month: "2026-09"
 source: "Wikipedia Marvel Omnibus (2026-09-29) + conversation"
 wikipedia_checked: "2026-09-29"
 verified: true

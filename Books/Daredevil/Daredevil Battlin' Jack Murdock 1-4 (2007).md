@@ -17,7 +17,7 @@ price_note: "All 4 issues, shipping included. Waiting to be shipped (2026-09-29)
 ordered: 2026-09-29
 order: 0.5
 seq: 0.5
-order_month: "2026-09"
+budget_month: "2026-09"
 source: "Conversation with user (2026-09-29)"
 verified: false
 tags: ["comics", "line/daredevil"]

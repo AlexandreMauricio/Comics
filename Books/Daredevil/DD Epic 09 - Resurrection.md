@@ -33,7 +33,7 @@ seq: 9
 coverage_gaps: "#192-193; Marvel Fanfare #1; What If #35"
 ordered: 2026-09-16
 order_ref: "Walt's #127228"
-order_month: "2026-09"
+budget_month: "2026-08"
 source: "Epics.xlsx Main Page + Ranking tab, cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"
 wikipedia_checked: "2026-09-29"
 verified: true

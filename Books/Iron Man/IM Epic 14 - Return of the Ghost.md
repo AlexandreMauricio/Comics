@@ -31,7 +31,7 @@ goodreads_votes: 74
 goodreads_checked: "2026-09-29"
 seq: 14
 ordered: 2026-09-15
-order_month: "2026-09"
+budget_month: "2026-08"
 source: "Epics.xlsx Main Page + Ranking tab, cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"
 wikipedia_checked: "2026-09-29"
 verified: true

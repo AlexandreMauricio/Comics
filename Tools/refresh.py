@@ -15,7 +15,8 @@ Derived properties (written here, don't edit by hand):
   covered_via    the owned/incoming omnibuses that derived status came from.
   missing_before books you still need: unowned Epics between the reading position and this book (0 = contiguous).
   purpose        reading | security | preorder | future | modern | event
-  order_month    "YYYY-MM" from the hand-set `ordered` date, for the Spending dashboard.
+  budget_month   "YYYY-MM" budget month of the hand-set `ordered` date. A budget month runs from the 24th (payday,
+                 when that month's cart is placed) to the 23rd, so an order on Sep 24 - Oct 23 counts as "2026-09".
 Generated notes: Cart Planner.md, and the %% generated %% blocks in Comics Hub.md and Ratings Overview.md.
 """
 import datetime
@@ -30,7 +31,7 @@ READY = ("owned", "covered", "incoming")
 NEEDS = ("wanted", "oop", "planned", "partial")
 STATUSES = READY + NEEDS + ("unreleased", "parked")
 RANK = {"owned": 5, "covered": 4, "incoming": 3, "partial": 2}
-DERIVED = ("seq", "missing_before", "purpose", "covered_via", "order_month")
+DERIVED = ("seq", "missing_before", "purpose", "covered_via", "budget_month")
 MAIN = ["Iron Man", "Doctor Strange", "Spider-Man", "Thor", "Daredevil"]
 PRIORITY = {"Iron Man": 1, "Doctor Strange": 2}
 
@@ -108,6 +109,13 @@ def load_notes():
     for f in glob.glob(VAULT + "Books/**/*.md", recursive=True):
         notes[os.path.basename(f)[:-3]] = (f, load(f)[2])
     return notes
+
+
+def budget_month(d):
+    """The budget month a date falls in: from the 24th to the next 23rd, named after the month of that 24th."""
+    if d.day < 24:
+        d = d.replace(day=1) - datetime.timedelta(days=1)
+    return d.strftime("%Y-%m")
 
 
 def default_cart(today=None):
@@ -205,7 +213,7 @@ def build(notes):
             else:
                 first_gap = (num, n)
         runway[line], gap[line] = r, first_gap
-    # 4. purpose / missing_before / order_month
+    # 4. purpose / missing_before / budget_month
     for n, (f, fm) in notes.items():
         st, line = fm.get("status"), fm["line"]
         if st in NEEDS:
@@ -236,7 +244,9 @@ def build(notes):
         else:
             upd[n]["purpose"] = upd[n]["missing_before"] = None
             fm.pop("purpose", None), fm.pop("missing_before", None)
-        upd[n]["order_month"] = scalar(str(fm["ordered"])[:7]) if fm.get("ordered") else None
+        d = parse_date(fm.get("ordered"))
+        upd[n]["budget_month"] = scalar(budget_month(d)) if d else None
+        upd[n]["order_month"] = None  # replaced by budget_month
     return upd, seq, pos, runway, gap, line_epics
 
 
@@ -385,10 +395,12 @@ def make_tracker(notes, cart_month, today=None):
     L.append("")
 
     # spending this month
-    month = f"{today:%Y-%m}"
-    spent = [(n, fm) for n, fm in data.items() if fm.get("order_month") == month and fm.get("price_paid") and fm.get("budget") != "quarterly"]
+    month = budget_month(today)
+    start = datetime.datetime.strptime(month + "-24", "%Y-%m-%d").date()
+    end = (start.replace(day=1) + datetime.timedelta(days=32)).replace(day=23)
+    spent = [(n, fm) for n, fm in data.items() if fm.get("budget_month") == month and fm.get("price_paid") and fm.get("budget") != "quarterly"]
     s = sum(fm["price_paid"] for n, fm in spent)
-    L += [f"## Spent in {today:%B %Y}", "",
+    L += [f"## Spent in the {start:%B} budget ({start:%b %d} - {end:%b %d})", "",
           f"**{money(s)}** on {len(spent)} book(s) against about {BUDGET}" + (f", {money(s - BUDGET)} over" if s > BUDGET else f", {money(BUDGET - s)} left")
           + ". Shipping and supplies are extra (see [[Purchase Log]]); quarterly pre-orders don't count. Details: [[Spending.base|Spending]].", ""]
 
