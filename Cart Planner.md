@@ -45,7 +45,7 @@ Sorted by purpose, then by how short the line's runway is, then by the first com
 | future | Thor | 1 | [[The Mighty Thor Omnibus Vol 5]] | wanted |  |  | 1 |  |
 | future | Thor | 1 | [[Thor Epic 08 - War of the Gods]] | wanted |  |  | 2 |  |
 | future | Iron Man | 2 | [[Iron Man Dragon Seed Saga TPB]] | wanted | 30 |  | 2 |  |
-| future | Iron Man | 2 | [[IM Epic 19 - Crash & Burn]] | wanted | 50 | Walt's | 4 | low - Easy to find, Walt's about 50 |
+| future | Iron Man | 2 | [[IM Epic 19 - Crash & Burn]] | wanted | 40.99 | Walt's | 4 | low - Easy to find; Walt's pre-order 40.99 (2026-09-30) |
 | future | Iron Man | 2 | [[IM Epic 21 - The Crossing]] | wanted | 50 | Walt's | 5 | low - Low rated, may skip |
 | future | Iron Man | 2 | [[IM Epic 22 - Age of Innocence]] | wanted | 50 | Walt's | 6 | low - Low rated, last purchase |
 | future | Spider-Man | 5 | [[SM Epic 10 - Big Apple Battleground]] | wanted |  |  | 2 |  |

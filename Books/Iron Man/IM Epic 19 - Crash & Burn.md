@@ -15,7 +15,7 @@ release_date: "Jun 23, 2026"
 editions: ["Jun 23, 2026"]
 isbn: ["978-1302965297"]
 cover_note: "Iron Man #300 cover"
-price_seen: 50
+price_seen: 40.99
 store: "Walt's"
 ai_stars: "⭐⭐⭐"
 ai_tier: "C+"
@@ -29,10 +29,11 @@ goodreads_votes: 13
 goodreads_checked: "2026-09-29"
 goodreads_sample: "low (under 30 ratings)"
 urgency: "low"
-urgency_reason: "Easy to find, Walt's about 50"
+urgency_reason: "Easy to find; Walt's pre-order 40.99 (2026-09-30)"
 seq: 19
 purpose: "future"
 missing_before: 4
+price_note: "Walt's lists it as a pre-order (new printing) at 40.99, down from 54.99 (checked 2026-09-30)."
 source: "Epics.xlsx Main Page + Ranking tab, cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"
 wikipedia_checked: "2026-09-29"
 verified: true
