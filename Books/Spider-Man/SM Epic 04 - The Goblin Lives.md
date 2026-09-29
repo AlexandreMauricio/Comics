@@ -24,6 +24,12 @@ goodreads_rating: 4.2
 goodreads_votes: 241
 goodreads_checked: "2026-09-29"
 seq: 4
+price_paid: 67.9
+store: "Vinted"
+budget: "monthly"
+ordered: 2026-07-29
+price_note: "67.90 with shipping on Vinted. Vinted only shows '2 months ago' (checked 2026-09-29), so the date is approximate."
+budget_month: "2026-07"
 source: "Epics.xlsx Main Page + Ranking tab, cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"
 wikipedia_checked: "2026-09-29"
 verified: true
