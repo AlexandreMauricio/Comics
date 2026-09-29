@@ -1,0 +1,138 @@
+filters:
+  and:
+    - file.inFolder("Books")
+properties:
+  file.name:
+    displayName: Book
+  type:
+    displayName: Format
+  price_paid:
+    displayName: Paid
+  price_seen:
+    displayName: Seen at
+  release_date:
+    displayName: Release
+views:
+  - type: table
+    name: All books
+    groupBy:
+      property: line
+      direction: ASC
+    order:
+      - file.name
+      - type
+      - status
+      - read
+      - issues
+      - price_paid
+      - price_seen
+      - store
+      - release_date
+    sort:
+      - property: line
+        direction: ASC
+      - property: seq
+        direction: ASC
+  - type: table
+    name: Iron Man
+    filters:
+      and:
+        - 'line == "Iron Man"'
+    order:
+      - file.name
+      - status
+      - read
+      - issues
+      - price_paid
+      - price_seen
+      - store
+      - tier
+    sort:
+      - property: seq
+        direction: ASC
+  - type: table
+    name: Doctor Strange
+    filters:
+      and:
+        - 'line == "Doctor Strange"'
+    order:
+      - file.name
+      - status
+      - read
+      - issues
+      - price_paid
+      - price_seen
+      - store
+      - tier
+    sort:
+      - property: seq
+        direction: ASC
+  - type: table
+    name: Spider-Man
+    filters:
+      and:
+        - 'line == "Spider-Man"'
+    order:
+      - file.name
+      - status
+      - read
+      - issues
+      - price_paid
+      - price_seen
+      - store
+      - tier
+    sort:
+      - property: seq
+        direction: ASC
+  - type: table
+    name: Daredevil
+    filters:
+      and:
+        - 'line == "Daredevil"'
+    order:
+      - file.name
+      - status
+      - read
+      - issues
+      - price_paid
+      - price_seen
+      - store
+      - tier
+    sort:
+      - property: seq
+        direction: ASC
+  - type: table
+    name: Thor
+    filters:
+      and:
+        - 'line == "Thor"'
+    order:
+      - file.name
+      - status
+      - read
+      - issues
+      - price_paid
+      - price_seen
+      - store
+      - tier
+    sort:
+      - property: seq
+        direction: ASC
+  - type: table
+    name: Omnibus and TPB
+    filters:
+      or:
+        - 'type == "Omnibus"'
+        - 'type == "TPB"'
+    order:
+      - file.name
+      - status
+      - issues
+      - price_paid
+      - price_seen
+      - store
+    sort:
+      - property: line
+        direction: ASC
+      - property: seq
+        direction: ASC

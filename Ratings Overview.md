@@ -1,0 +1,146 @@
+# Ratings Overview
+
+Goodreads reader ratings pulled 2026-09-29, one Epic Collection series page per line. These are **reader averages**, not critics and not your taste. Below 30 ratings is marked low sample. The old ChatGPT/Gemini tier is shown for comparison. Iron Man 9, 12 and Thor 14-15 aren't published yet, and Goodreads had no rating for Iron Man 12, Strange 6-7 or the Spider-Man Epics still to come.
+
+See also the sortable [[Ratings.base|Ratings dashboard]].
+
+## Iron Man
+
+| Epic | Book | Goodreads | Ratings | ChatGPT/Gemini tier | Status | Read |
+|---|---|---|---|---|---|---|
+| 1 | [[IM Epic 01 - The Golden Avenger\|The Golden Avenger]] | 3.61 | 177 | S+ | owned | yes |
+| 2 | [[IM Epic 02 - By Force of Arms\|By Force of Arms]] | 3.6 | 91 | A | covered | yes |
+| 3 | [[IM Epic 03 - The Man Who Killed Tony Stark\|The Man Who Killed Tony Stark]] | 3.68 | 68 | A | covered | yes |
+| 4 | [[IM Epic 04 - The Fury of the Firebrand\|The Fury of the Firebrand]] | 2.86 | 42 | A | covered | yes |
+| 5 | [[IM Epic 05 - Battle Royal\|Battle Royal]] | 3.06 | 36 | A | covered | yes |
+| 6 | [[IM Epic 06 - War of the Super Villains\|War of the Super Villains]] | 3.23 | 30 | A+ | owned | yes |
+| 7 | [[IM Epic 07 - Ten Rings to Rule the World\|Ten Rings to Rule the World]] | 3.55 ⚠ | 22 | A | owned |  |
+| 8 | [[IM Epic 08 - Demon in a Bottle\|Demon in a Bottle]] | 4.0 ⚠ | 7 | S+ | incoming |  |
+| 10 | [[IM Epic 10 - The Enemy Within\|The Enemy Within]] | 3.7 | 125 | B | owned |  |
+| 11 | [[IM Epic 11 - Duel of Iron\|Duel of Iron]] | 3.68 | 93 | B | owned |  |
+| 13 | [[IM Epic 13 - Stark Wars\|Stark Wars]] | 3.77 | 115 | S+ | owned |  |
+| 14 | [[IM Epic 14 - Return of the Ghost\|Return of the Ghost]] | 3.61 | 74 | B+ | incoming |  |
+| 15 | [[IM Epic 15 - Doom\|Doom]] | 3.41 | 100 | B+ | incoming |  |
+| 16 | [[IM Epic 16 - War Games\|War Games]] | 3.86 | 100 | B | oop |  |
+| 17 | [[IM Epic 17 - War Machine\|War Machine]] | 3.69 | 55 | A | owned |  |
+| 18 | [[IM Epic 18 - The Return of Tony Stark\|The Return of Tony Stark]] | 3.61 | 36 | C | oop |  |
+| 19 | [[IM Epic 19 - Crash & Burn\|Crash & Burn]] | 3.46 ⚠ | 13 | C+ | wanted |  |
+| 20 | [[IM Epic 20 - In the Hands of Evil\|In the Hands of Evil]] | 3.32 | 41 | C+ | owned |  |
+| 21 | [[IM Epic 21 - The Crossing\|The Crossing]] | 2.82 | 33 | D | wanted |  |
+| 22 | [[IM Epic 22 - Age of Innocence\|Age of Innocence]] | 2.28 ⚠ | 18 | C | wanted |  |
+
+## Doctor Strange
+
+| Epic | Book | Goodreads | Ratings | ChatGPT/Gemini tier | Status | Read |
+|---|---|---|---|---|---|---|
+| 1 | [[DS Epic 01 - Master of the Mystic Arts\|Master of the Mystic Arts]] | 3.96 | 261 | S+ | owned | yes |
+| 2 | [[DS Epic 02 - I, Dormammu\|I, Dormammu]] | 3.85 | 59 | A+ | owned | yes |
+| 3 | [[DS Epic 03 - A Separate Reality\|A Separate Reality]] | 3.91 | 271 | A+ | owned | yes |
+| 4 | [[DS Epic 04 - Alone Against Eternity\|Alone Against Eternity]] | 3.8 | 69 | A | covered | yes |
+| 5 | [[DS Epic 05 - The Reality War\|The Reality War]] | 3.74 | 61 | A | owned |  |
+| 8 | [[DS Epic 08 - Triumph and Torment\|Triumph and Torment]] | 3.8 | 107 | S+ | owned |  |
+| 9 | [[DS Epic 09 - The Vampiric Verses\|The Vampiric Verses]] | 3.47 | 53 | B+ | wanted |  |
+| 10 | [[DS Epic 10 - Infinity War\|Infinity War]] | 3.7 | 44 | B+ | wanted |  |
+| 11 | [[DS Epic 11 - Nightmare on Bleecker Street\|Nightmare on Bleecker Street]] | 3.38 ⚠ | 29 | B | wanted |  |
+| 12 | [[DS Epic 12 - Strangers Among Us\|Strangers Among Us]] | 3.33 ⚠ | 12 | C+ | wanted |  |
+| 13 | [[DS Epic 13 - Afterlife\|Afterlife]] | 3.23 | 79 | C | wanted |  |
+
+## Spider-Man
+
+| Epic | Book | Goodreads | Ratings | ChatGPT/Gemini tier | Status | Read |
+|---|---|---|---|---|---|---|
+| 1 | [[SM Epic 01 - Great Power\|Great Power]] | 4.32 | 724 | A+ | owned | yes |
+| 2 | [[SM Epic 02 - Great Responsibility\|Great Responsibility]] | 4.26 | 331 | S+ | owned | yes |
+| 3 | [[SM Epic 03 - Spider-Man No More!\|Spider-Man No More!]] | 4.31 | 433 | A+ | incoming |  |
+| 4 | [[SM Epic 04 - The Goblin Lives\|The Goblin Lives]] | 4.2 | 241 | B+ | owned |  |
+| 5 | [[SM Epic 05 - The Secret of the Petrified Tablet\|The Secret of the Petrified Tablet]] | 4.04 | 194 | A | covered |  |
+| 6 | [[SM Epic 06 - The Death of Captain Stacy\|The Death of Captain Stacy]] | 4.08 | 203 | A | covered |  |
+| 7 | [[SM Epic 07 - The Goblin's Last Stand\|The Goblin's Last Stand]] | 4.3 | 262 | S+ | owned |  |
+| 8 | [[SM Epic 08 - Man-Wolf at Midnight\|Man-Wolf at Midnight]] | 4.12 | 146 | C+ | wanted |  |
+| 9 | [[SM Epic 09 - Spider-Man or Spider-Clone\|Spider-Man or Spider-Clone?]] | 3.98 | 126 | C | wanted |  |
+| 10 | [[SM Epic 10 - Big Apple Battleground\|Big Apple Battleground]] | 3.87 | 83 | C | wanted |  |
+| 11 | [[SM Epic 11 - Nine Lives Has the Black Cat\|Nine Lives Has the Black Cat]] | 3.89 | 64 | A | wanted |  |
+| 12 | [[SM Epic 12 - Spider-Man Threat or Menace\|Spider-Man: Threat or Menace?]] | 3.71 | 41 | A | wanted |  |
+| 13 | [[SM Epic 13 - Nothing Can Stop the Juggernaut\|Nothing Can Stop the Juggernaut]] | 4.14 ⚠ | 29 | S+ | owned |  |
+| 15 | [[SM Epic 15 - Ghosts of the Past\|Ghosts of the Past]] | 3.81 | 198 | B+ | wanted |  |
+| 17 | [[SM Epic 17 - Kraven's Last Hunt\|Kraven's Last Hunt]] | 4.24 | 699 | S+ | owned |  |
+| 18 | [[SM Epic 18 - Venom\|Venom]] | 3.8 | 299 | S+ | owned |  |
+| 19 | [[SM Epic 19 - Assassin Nation\|Assassin Nation]] | 3.68 | 200 | A+ | wanted |  |
+| 20 | [[SM Epic 20 - Cosmic Adventures\|Cosmic Adventures]] | 3.64 | 204 | C+ | wanted |  |
+| 21 | [[SM Epic 21 - Return of the Sinister Six\|Return of the Sinister Six]] | 3.82 | 238 | B+ | wanted |  |
+| 22 | [[SM Epic 22 - Round Robin\|Round Robin]] | 3.41 | 172 | C+ | wanted |  |
+| 23 | [[SM Epic 23 - The Hero Killers\|The Hero Killers]] | 3.52 | 87 | S+ | wanted |  |
+| 24 | [[SM Epic 24 - Invasion of the Spider-Slayers\|Invasion of the Spider-Slayers]] | 3.67 | 100 | C | wanted |  |
+| 25 | [[SM Epic 25 - Maximum Carnage\|Maximum Carnage]] | 3.59 | 261 | C | wanted |  |
+| 26 | [[SM Epic 26 - Lifetheft\|Lifetheft]] | 3.6 | 124 | D+ | wanted |  |
+| 27 | [[SM Epic 27 - The Clone Saga\|The Clone Saga]] | 3.71 | 70 | D | wanted |  |
+| 28 | [[SM Epic 28 - Web of Life, Web of Death\|Web of Life, Web of Death]] | 3.54 | 41 | D | wanted |  |
+
+## Daredevil
+
+| Epic | Book | Goodreads | Ratings | ChatGPT/Gemini tier | Status | Read |
+|---|---|---|---|---|---|---|
+| 1 | [[DD Epic 01 - The Man Without Fear\|The Man Without Fear]] | 3.59 | 246 | A+ | owned | yes |
+| 2 | [[DD Epic 02 - Mike Murdock Must Die!\|Mike Murdock Must Die!]] | 3.39 | 150 | A | owned | yes |
+| 3 | [[DD Epic 03 - Brother, Take My Hand\|Brother, Take My Hand]] | 3.49 | 126 | A | incoming |  |
+| 4 | [[DD Epic 04 - A Woman Called Widow\|A Woman Called Widow]] | 3.19 | 93 | B+ | incoming |  |
+| 5 | [[DD Epic 05 - Going Out West\|Going Out West]] | 3.29 | 84 | B | wanted |  |
+| 6 | [[DD Epic 06 - Watch Out for Bullseye\|Watch Out for Bullseye]] | 3.35 | 60 | B | wanted |  |
+| 7 | [[DD Epic 07 - The Concrete Jungle\|The Concrete Jungle]] | 3.48 | 48 | B | wanted |  |
+| 8 | [[DD Epic 08 - To Dare The Devil\|To Dare The Devil]] | 4.37 | 43 | S+ | wanted |  |
+| 9 | [[DD Epic 09 - Resurrection\|Resurrection]] | 4.67 ⚠ | 3 | S+ | incoming |  |
+| 12 | [[DD Epic 12 - It Comes with the Claws\|It Comes with the Claws]] | 3.46 | 138 | A | wanted |  |
+| 13 | [[DD Epic 13 - A Touch of Typhoid\|A Touch of Typhoid]] | 3.94 | 391 | A | wanted |  |
+| 14 | [[DD Epic 14 - Heart of Darkness\|Heart of Darkness]] | 3.54 | 222 | B+ | wanted |  |
+| 15 | [[DD Epic 15 - Last Rites\|Last Rites]] | 3.84 | 207 | A+ | wanted |  |
+| 16 | [[DD Epic 16 - Dead Man's Hand\|Dead Man's Hand]] | 3.03 | 89 | C | wanted |  |
+| 17 | [[DD Epic 17 - Into the Fire\|Into the Fire]] | 3.77 | 64 | A+ | wanted |  |
+| 18 | [[DD Epic 18 - Fall from Grace\|Fall from Grace]] | 2.68 | 157 | C | wanted |  |
+| 19 | [[DD Epic 19 - Root of Evil\|Root of Evil]] | 2.63 | 90 | C | wanted |  |
+| 20 | [[DD Epic 20 - Purgatory & Paradise\|Purgatory & Paradise]] | 3.33 | 84 | C | wanted |  |
+| 21 | [[DD Epic 21 - Widow's Kiss\|Widow's Kiss]] | 3.29 | 117 | C | wanted |  |
+
+## Thor
+
+| Epic | Book | Goodreads | Ratings | ChatGPT/Gemini tier | Status | Read |
+|---|---|---|---|---|---|---|
+| 1 | [[Thor Epic 01 - The God of Thunder\|The God of Thunder]] | 3.83 | 335 | S+ | owned | yes |
+| 2 | [[Thor Epic 02 - When Titans Clash\|When Titans Clash]] | 4.05 | 123 | A+ | covered | yes |
+| 3 | [[Thor Epic 03 - The Wrath of Odin\|The Wrath of Odin]] | 3.97 | 127 | A+ | covered | yes |
+| 4 | [[Thor Epic 04 - To Wake the Mangog\|To Wake the Mangog]] | 4.11 | 133 | A+ | covered | yes |
+| 5 | [[Thor Epic 05 - The Fall of Asgard\|The Fall of Asgard]] | 3.76 | 66 | A | covered |  |
+| 6 | [[Thor Epic 06 - Into the Dark Nebula\|Into the Dark Nebula]] | 3.48 | 46 | B | wanted |  |
+| 7 | [[Thor Epic 07 - Ulik Unchained\|Ulik Unchained]] | 3.82 | 33 | B | wanted |  |
+| 8 | [[Thor Epic 08 - War of the Gods\|War of the Gods]] | 3.48 | 31 | B | wanted |  |
+| 9 | [[Thor Epic 09 - Even an Immortal Can Die\|Even an Immortal Can Die]] | 3.91 | 33 | A | wanted |  |
+| 10 | [[Thor Epic 10 - The Eternals Saga\|The Eternals Saga]] | 3.39 ⚠ | 18 | A | wanted |  |
+| 11 | [[Thor Epic 11 - A Kingdom Lost\|A Kingdom Lost]] | 3.52 | 54 | B+ | wanted |  |
+| 12 | [[Thor Epic 12 - Runequest\|Runequest]] | 3.13 | 45 | B+ | wanted |  |
+| 13 | [[Thor Epic 13 - The Surtur War\|The Surtur War]] | 4.65 ⚠ | 23 | S+ | wanted |  |
+| 16 | [[Thor Epic 16 - War of the Pantheons\|War of the Pantheons]] | 3.88 | 144 | B | wanted |  |
+| 17 | [[Thor Epic 17 - In Mortal Flesh\|In Mortal Flesh]] | 3.81 | 68 | B | wanted |  |
+| 18 | [[Thor Epic 18 - The Black Galaxy\|The Black Galaxy]] | 3.81 | 52 | C+ | wanted |  |
+| 19 | [[Thor Epic 19 - The Thor War\|The Thor War]] | 3.48 | 56 | C+ | wanted |  |
+| 20 | [[Thor Epic 20 - The Final Gauntlet\|The Final Gauntlet]] | 3.21 | 47 | C+ | wanted |  |
+| 21 | [[Thor Epic 21 - Blood and Thunder\|Blood and Thunder]] | 3.18 | 40 | C+ | wanted |  |
+| 22 | [[Thor Epic 22 - Hel On Earth\|Hel On Earth]] | 2.92 ⚠ | 24 | C | wanted |  |
+| 23 | [[Thor Epic 23 - Worldengine\|Worldengine]] | 2.83 | 53 | C | wanted |  |
+| 24 | [[Thor Epic 24 - The Lost Gods\|The Lost Gods]] | 2.95 ⚠ | 21 | C | wanted |  |
+| 25 | [[Thor Epic 25 - The Dark Gods\|The Dark Gods]] | 3.89 ⚠ | 18 | C | wanted |  |
+
+⚠ = fewer than 30 ratings.
+
+## What this suggests (read as hints, not orders)
+
+- **Iron Man Epic 16 (War Games) is the best-rated Iron Man Epic on the list at 3.86 from 100 ratings, ahead of Stark Wars (3.77).** That supports the plan to spend about 109 EUR on Armor Wars Omni + Dragon Seed TPB to cover it. Your 150 EUR landed ceiling for Epic 18 (3.61) is high for a book rated about the same as Epic 1 and 14; Epic 16 deserves that ceiling more.
+- **Iron Man Epic 22 (2.28) and 21 (2.82) are the lowest of any Epic in your five lines.** ChatGPT also ranked them last. You planned Epic 22 as the target last Epic; that is worth rethinking, or at least keeping as the very last purchase.
+- **Iron Man Epics 3-6 are weak (2.86-3.68); Epic 4-6 sit at 2.86, 3.06, 3.23.** That matches your own impressions of Epics 3-4. Epic 7 (3.55) and Epic 10-11 (3.70, 3.68) are better.
+- **Thor Epic 13 (The Surtur War) 4.65 stands out** (23 ratings), so Simonson is worth aiming at. Epics 6 (3.48) and 8 (3.48) are lukewarm, 7 (3.82) and 9 (3.91) fine, 12 Runequest (3.13) is the weakest before Simonson. Thor Omnibus 4 (#195-228) covers Epic 6 and part of 7.
+- **Daredevil's middle is its weakest stretch:** Epic 4 (3.19), 5 (3.29), 6 (3.35), 7 (3.48). Omnibus 3 (#75-119, October) covers Epic 4-6. Miller starts at Epic 8 (4.37) and Resurrection is 4.67 (only 3 ratings). Later peaks: Epic 13 A Touch of Typhoid (3.94, 391 ratings), 15 Last Rites (3.84). Your chronological rule means going through the middle to reach Miller.
+- **Spider-Man is the highest-rated line overall (mostly 4.0-4.3 up to Epic 9).** Kraven's Last Hunt (Epic 17) 4.24 with 699 ratings, Epic 7 4.30. Your runway of Epic 3, 4, 5-6, 7 is all strong. The weak zone starts around Epic 22-28 (3.4-3.7), where Epic 29 and 30 are pre-orders (not rated yet).
+- **Doctor Strange is consistent (3.7-3.96 through Epic 10).** Epic 9 Vampiric Verses is the low point (3.47), so it's a security buy of a mid book at 30 EUR. Epic 10 Infinity War (3.70) is a bit better. Epics 11-13 fall to 3.2-3.4.
+
+## Caveats
+- Goodreads ratings mix eras of printing and reader mood; a 4.00 from 7 ratings (Iron Man Epic 8) means almost nothing. Demon in a Bottle is the famous Iron Man story regardless.
+- Rating is not chronology. Your rule (read in order) stays; this is only to help decide what to buy first when money is tight.
+- ChatGPT/Gemini tiers remain in each note, labeled unverified. Compare them here.

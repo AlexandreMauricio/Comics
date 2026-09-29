@@ -1,0 +1,28 @@
+filters:
+  and:
+    - file.inFolder("Books")
+    - or:
+        - 'status == "incoming"'
+        - 'status == "planned"'
+properties:
+  file.name:
+    displayName: Book
+  price_paid:
+    displayName: Paid
+views:
+  - type: table
+    name: By budget
+    groupBy:
+      property: budget
+      direction: ASC
+    order:
+      - file.name
+      - status
+      - price_paid
+      - price_seen
+      - store
+      - release_date
+      - price_note
+    sort:
+      - property: release_date
+        direction: ASC

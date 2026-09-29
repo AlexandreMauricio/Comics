@@ -1,0 +1,7 @@
+.obsidian/workspace.json
+.obsidian/workspaces.json
+.obsidian/cache
+.trash/
+__pycache__/
+*.pyc
+~$*.xlsx

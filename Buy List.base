@@ -1,0 +1,84 @@
+filters:
+  and:
+    - file.inFolder("Books")
+    - or:
+        - 'status == "wanted"'
+        - 'status == "oop"'
+        - 'status == "planned"'
+properties:
+  file.name:
+    displayName: Book
+  price_seen:
+    displayName: Seen at
+  missing_before:
+    displayName: Missing Epics before
+views:
+  - type: table
+    name: By purpose
+    groupBy:
+      property: purpose
+      direction: ASC
+    order:
+      - file.name
+      - line
+      - status
+      - price_seen
+      - store
+      - urgency
+      - missing_before
+      - cart
+    sort:
+      - property: line
+        direction: ASC
+      - property: seq
+        direction: ASC
+  - type: table
+    name: By line (first comic order)
+    groupBy:
+      property: line
+      direction: ASC
+    order:
+      - file.name
+      - status
+      - purpose
+      - price_seen
+      - store
+      - urgency
+      - urgency_reason
+    sort:
+      - property: seq
+        direction: ASC
+  - type: table
+    name: At risk (OOP or deadline)
+    filters:
+      or:
+        - 'status == "oop"'
+        - 'urgency == "high"'
+        - 'urgency == "medium"'
+    order:
+      - file.name
+      - line
+      - status
+      - urgency
+      - urgency_reason
+      - price_seen
+      - store
+    sort:
+      - property: line
+        direction: ASC
+      - property: seq
+        direction: ASC
+  - type: table
+    name: Planned (pre-orders and next carts)
+    filters:
+      and:
+        - 'status == "planned"'
+    order:
+      - file.name
+      - budget
+      - release_date
+      - price_seen
+      - store
+    sort:
+      - property: seq
+        direction: ASC

@@ -1,0 +1,59 @@
+filters:
+  and:
+    - file.inFolder("Books")
+    - 'goodreads_rating > 0'
+properties:
+  file.name:
+    displayName: Book
+  goodreads_rating:
+    displayName: Goodreads
+  goodreads_votes:
+    displayName: Ratings
+views:
+  - type: table
+    name: Best rated first
+    order:
+      - file.name
+      - line
+      - goodreads_rating
+      - goodreads_votes
+      - tier
+      - status
+      - read
+    sort:
+      - property: goodreads_rating
+        direction: DESC
+  - type: table
+    name: Best rated I don't own yet
+    filters:
+      or:
+        - 'status == "wanted"'
+        - 'status == "oop"'
+        - 'status == "planned"'
+    order:
+      - file.name
+      - line
+      - goodreads_rating
+      - goodreads_votes
+      - status
+      - price_seen
+      - store
+    sort:
+      - property: goodreads_rating
+        direction: DESC
+  - type: table
+    name: Best rated I own and haven't read
+    filters:
+      and:
+        - 'read == false'
+        - or:
+            - 'status == "owned"'
+            - 'status == "covered"'
+    order:
+      - file.name
+      - line
+      - goodreads_rating
+      - goodreads_votes
+    sort:
+      - property: goodreads_rating
+        direction: DESC

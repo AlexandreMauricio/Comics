@@ -1,0 +1,39 @@
+filters:
+  and:
+    - file.inFolder("Books")
+    - 'type != "Omnibus"'
+    - or:
+        - 'status == "owned"'
+        - 'status == "covered"'
+    - 'read == false'
+properties:
+  file.name:
+    displayName: Book
+views:
+  - type: table
+    name: Full queue by line
+    groupBy:
+      property: line
+      direction: ASC
+    order:
+      - file.name
+      - status
+      - next_read
+      - issues
+      - covered_by
+    sort:
+      - property: seq
+        direction: ASC
+  - type: table
+    name: Next up
+    filters:
+      and:
+        - 'next_read == true'
+    order:
+      - file.name
+      - line
+      - status
+      - covered_by
+    sort:
+      - property: line
+        direction: ASC

@@ -1,0 +1,24 @@
+filters:
+  and:
+    - file.inFolder("Books")
+    - 'verified == false'
+    - 'status != "parked"'
+    - 'status != "unreleased"'
+properties:
+  file.name:
+    displayName: Book
+views:
+  - type: table
+    name: Unverified books
+    groupBy:
+      property: line
+      direction: ASC
+    order:
+      - file.name
+      - issues
+      - isbn
+      - source
+      - rating_source
+    sort:
+      - property: seq
+        direction: ASC

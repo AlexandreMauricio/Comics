@@ -1,0 +1,49 @@
+filters:
+  and:
+    - file.inFolder("Books")
+    - 'cart != ""'
+properties:
+  file.name:
+    displayName: Book
+  price_seen:
+    displayName: Price
+views:
+  - type: table
+    name: All carts
+    groupBy:
+      property: cart
+      direction: DESC
+    order:
+      - file.name
+      - line
+      - purpose
+      - price_seen
+      - store
+      - urgency
+    sort:
+      - property: line
+        direction: ASC
+      - property: seq
+        direction: ASC
+    summaries:
+      price_seen: Sum
+  - type: table
+    name: October 2026
+    filters:
+      and:
+        - 'cart == "2026-10"'
+    order:
+      - file.name
+      - line
+      - purpose
+      - price_seen
+      - store
+      - urgency
+      - urgency_reason
+    sort:
+      - property: line
+        direction: ASC
+      - property: seq
+        direction: ASC
+    summaries:
+      price_seen: Sum

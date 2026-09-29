@@ -1,0 +1,23 @@
+filters:
+  and:
+    - file.inFolder("Books")
+    - 'price_paid > 0'
+properties:
+  file.name:
+    displayName: Book
+  price_paid:
+    displayName: Paid
+views:
+  - type: table
+    name: Paid so far
+    groupBy:
+      property: store
+      direction: ASC
+    order:
+      - file.name
+      - price_paid
+      - budget
+      - status
+      - price_note
+    summaries:
+      price_paid: Sum
