@@ -14,6 +14,13 @@ release_date: "Sep 17, 2024"
 editions: ["Jun 15, 2016", "Jun 23, 2021", "Sep 17, 2024"]
 isbn: ["978-0785196006", "978-1302929749", "978-1302960438"]
 seq: 1
+price_paid: 24.99
+store: "Cheap-Comics"
+budget: "monthly"
+ordered: 2026-06-29
+order_ref: "Cheap-Comics #312781"
+edition: "2024 edition"
+budget_month: "2026-06"
 source: "Conversation with user (2026-09), cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"
 wikipedia_checked: "2026-09-29"
 verified: true
