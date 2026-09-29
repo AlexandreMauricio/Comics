@@ -52,6 +52,7 @@ Sorted by purpose, then by how short the line's runway is, then by the first com
 | modern | Fantastic Four | 0 | [[Fantastic Four Omnibus Vol 2]] | wanted |  |  |  |  |
 | modern | Fantastic Four | 0 | [[FF Omnibus 1]] | wanted |  |  |  |  |
 | modern | Doctor Strange | 1 | [[Doctor Strange by Aaron and Bachalo Omnibus]] | wanted | 84.7 | Vinted |  |  |
+| modern | Iron Man | 2 | [[Iron Man Extremis Premier Collection]] | wanted | 12.79 | Walt's |  | low - Cheap pre-order, not scarce; could ride along with the Q1 pre-order in December |
 | modern | Iron Man | 2 | [[Invincible Iron Man by Gerry Duggan Vol 3 Iron and Diamonds]] | oop |  |  |  |  |
 | modern | Iron Man | 2 | [[Invincible Iron Man (2022) 14]] | wanted |  |  |  | low - eBay, slow hunt, 1-2 per month at most |
 | modern | Iron Man | 2 | [[Invincible Iron Man (2022) 15]] | wanted |  |  |  | low - eBay, slow hunt, 1-2 per month at most |
