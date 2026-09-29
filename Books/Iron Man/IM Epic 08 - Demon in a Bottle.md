@@ -30,6 +30,7 @@ goodreads_votes: 7
 goodreads_checked: "2026-09-29"
 goodreads_sample: "low (under 30 ratings)"
 seq: 8
+store: "Walt's"
 source: "Epics.xlsx Main Page + Ranking tab, cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"
 wikipedia_checked: "2026-09-29"
 verified: true

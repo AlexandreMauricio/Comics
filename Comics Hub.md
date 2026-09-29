@@ -2,6 +2,8 @@
 
 Start here. The book database is the `Books/` folder (one note per book, with properties). The dashboards below read those notes, so you only update a book's note and everything else follows. `Epics.xlsx` is kept as a frozen backup of the old sheet.
 
+**[[Tracker]]** - one page for right now: next cart and its total, this month's spending, what's on the way, pre-orders, key dates, next reads, and anything that needs attention.
+
 ## Dashboards (Bases)
 - [[Cart Planner]] - runway per line, candidates by purpose, current cart (start here each month)
 - [[Cart.base|Cart]] - books assigned to a monthly cart, with the total
