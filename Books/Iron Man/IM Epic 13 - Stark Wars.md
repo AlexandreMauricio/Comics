@@ -28,6 +28,13 @@ goodreads_rating: 3.77
 goodreads_votes: 115
 goodreads_checked: "2026-09-29"
 seq: 13
+price_paid: 45
+store: "Walt's"
+budget: "monthly"
+ordered: 2026-08-17
+order_ref: "Walt's #121519"
+edition: "New Printing"
+order_month: "2026-08"
 source: "Epics.xlsx Main Page + Ranking tab, cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"
 wikipedia_checked: "2026-09-29"
 verified: true

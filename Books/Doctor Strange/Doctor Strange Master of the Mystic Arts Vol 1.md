@@ -11,6 +11,13 @@ release_date: "11 Mar 2025"
 editions: ["11 Mar 2025"]
 seq: 3.5
 covers_partial: ["[[DS Epic 03 - A Separate Reality]]", "[[DS Epic 04 - Alone Against Eternity]]"]
+price_paid: 78.99
+store: "Walt's"
+budget: "monthly"
+ordered: 2026-08-17
+order_ref: "Walt's #121519"
+cover_note: "Frank Brunner Doctor Strange & Clea cover"
+order_month: "2026-08"
 source: "Wikipedia Marvel Omnibus (2026-09-29) + conversation"
 wikipedia_checked: "2026-09-29"
 verified: true

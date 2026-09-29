@@ -16,4 +16,4 @@ Monthly budget ~200 EUR (flexible, no rollover). Quarterly pre-orders are outsid
 - **Q4 2026 pre-orders:** DD Epic 9, Venom War Omnibus, ASM Epic 29, 157.99 in total, Walt's order #127228 placed 2026-09-16, charged at order time. Outside the monthly budget.
 
 ## Missing dates
-Spider-Man Epic 13 (45, Walt's), Spider-Man Epic 17 (about August 2026), IM Epic 8 and Spider-Man Epic 3 (earlier Walt's order, price unknown) have no `ordered` date yet, so they sit under "no month" in Spending. Send a screenshot of the order page (Walt's, Vinted) and I'll fill in the date, price, release date and order number.
+Spider-Man Epic 17 (about August 2026), IM Epic 8 and Spider-Man Epic 3 (earlier Walt's order, price unknown) have no `ordered` date yet, so they sit under "no month" in Spending. Send a screenshot of the order page (Walt's, Vinted) and I'll fill in the date, price, release date and order number.

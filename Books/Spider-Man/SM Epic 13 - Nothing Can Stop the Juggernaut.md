@@ -15,7 +15,7 @@ release_date: "Jun 2, 2026"
 editions: ["Jun 2, 2026"]
 isbn: ["978-1302967789"]
 cover_note: "Amazing Spider-Man #230 cover"
-price_paid: 45
+price_paid: 44.99
 store: "Walt's"
 price_note: "Normal price."
 ai_stars: "⭐⭐⭐⭐⭐"
@@ -29,6 +29,10 @@ goodreads_votes: 29
 goodreads_checked: "2026-09-29"
 goodreads_sample: "low (under 30 ratings)"
 seq: 13
+budget: "monthly"
+ordered: 2026-08-17
+order_ref: "Walt's #121519"
+order_month: "2026-08"
 source: "Epics.xlsx Main Page + Ranking tab, cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"
 wikipedia_checked: "2026-09-29"
 verified: true
