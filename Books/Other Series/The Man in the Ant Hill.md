@@ -14,6 +14,12 @@ release_date: "Feb 1, 2023"
 editions: ["Jun 24, 2015", "Feb 1, 2023"]
 isbn: ["978-0785198505", "978-1302950354"]
 seq: 1
+price_paid: 39.99
+store: "Walt's"
+budget: "monthly"
+ordered: 2026-06-29
+order_ref: "Walt's #112615"
+budget_month: "2026-06"
 source: "Conversation with user (2026-09), cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"
 wikipedia_checked: "2026-09-29"
 verified: true
