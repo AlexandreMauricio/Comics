@@ -12,6 +12,13 @@ editions: ["27 Aug 2024"]
 covers: ["[[IM Epic 05 - Battle Royal]]"]
 seq: 4.5
 covers_partial: ["[[IM Epic 04 - The Fury of the Firebrand]]"]
+price_paid: 110
+store: "Walt's"
+budget: "monthly"
+ordered: 2026-07-23
+order_ref: "Walt's #116979"
+cover_note: "Gil Kane Origin cover"
+budget_month: "2026-06"
 source: "Wikipedia Marvel Omnibus (2026-09-29) + conversation"
 wikipedia_checked: "2026-09-29"
 verified: true
