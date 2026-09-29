@@ -22,5 +22,6 @@ TPB is the default; singles only to test a new run, as a cover trophy, or as a b
 - One pre-order per quarter, so key books are secured before the reading queue reaches them (Walt's pre-orders often have a discount). **Quarterly pre-orders are outside the monthly ~200 budget, every time**, and Walt's charges them at order time. So the Q4 pre-orders (157.99) don't count against October.
 - Unspent budget does **not** roll over (it only helps mentally when going a bit over).
 - The quarterly pre-order is placed in the month before the quarter (December for Q1 2027). Q2 2027 (April): the Iron Man #115-157 Omni, placed in March.
+- Walt's holds an order until every item in it is released, and won't take pre-orders in one order whose releases are more than 2 months apart. Plan the quarterly pre-order around that (and don't mix a far pre-order into a monthly cart).
 - Don't buy filler for free shipping (Walt's free shipping is about 150 EUR, otherwise about 9 EUR; Cheap-Comics is about 20 EUR shipping).
 - Don't buy mediocre singles just because they're singles.

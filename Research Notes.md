@@ -32,3 +32,5 @@ Web-checked 2026-09-29. Anything marked (unverified) came from a single search r
 | Spider-Man Epic 30 Maximum Clonage | Feb 2027 | Epic 29 pre-ordered, plenty of runway before it | Lowest urgency |
 | Daredevil Guardian Devil (modern) | Feb 2027 | Modern, you said ignore | Skip |
 The quarterly slot is outside the monthly budget, so Iron Man 12 alone is easy. If you want a batch like Q4, add DD 10 second.
+
+Update 2026-09-30: considering all four (IM 12, DD 10, Spider-Man 30, Extremis Premier Collection Jan 12, 12.79). At about 44.99 per Epic that's about 147.76, just under Walt's ~150 free shipping; maybe add a book from a followed line to cross it. Check in December: Walt's won't mix pre-orders more than 2 months apart (Extremis in January vs the March Epics), and the whole order ships when the last book is out.
