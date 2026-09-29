@@ -9,12 +9,12 @@ See also the sortable [[Ratings.base|Ratings dashboard]]. The tables below are g
 
 | Epic | Book | Goodreads | Ratings | Mine | AI tier | Status | Read |
 |---|---|---|---|---|---|---|---|
-| 1 | [[IM Epic 01 - The Golden Avenger\|The Golden Avenger]] | 3.61 | 177 |  | S+ | owned | yes |
-| 2 | [[IM Epic 02 - By Force of Arms\|By Force of Arms]] | 3.6 | 91 |  | A | covered | yes |
-| 3 | [[IM Epic 03 - The Man Who Killed Tony Stark\|The Man Who Killed Tony Stark]] | 3.68 | 68 |  | A | covered | yes |
-| 4 | [[IM Epic 04 - The Fury of the Firebrand\|The Fury of the Firebrand]] | 2.86 | 42 |  | A | covered | yes |
-| 5 | [[IM Epic 05 - Battle Royal\|Battle Royal]] | 3.06 | 36 |  | A | covered | yes |
-| 6 | [[IM Epic 06 - War of the Super Villains\|War of the Super Villains]] | 3.23 | 30 |  | A+ | owned | yes |
+| 1 | [[IM Epic 01 - The Golden Avenger\|The Golden Avenger]] | 3.61 | 177 | 9 | S+ | owned | yes |
+| 2 | [[IM Epic 02 - By Force of Arms\|By Force of Arms]] | 3.6 | 91 | 8 | A | covered | yes |
+| 3 | [[IM Epic 03 - The Man Who Killed Tony Stark\|The Man Who Killed Tony Stark]] | 3.68 | 68 | 6 | A | covered | yes |
+| 4 | [[IM Epic 04 - The Fury of the Firebrand\|The Fury of the Firebrand]] | 2.86 | 42 | 5 | A | covered | yes |
+| 5 | [[IM Epic 05 - Battle Royal\|Battle Royal]] | 3.06 | 36 | 9 | A | covered | yes |
+| 6 | [[IM Epic 06 - War of the Super Villains\|War of the Super Villains]] | 3.23 | 30 | 6 | A+ | owned | yes |
 | 7 | [[IM Epic 07 - Ten Rings to Rule the World\|Ten Rings to Rule the World]] | 3.55 ⚠ | 22 |  | A | owned |  |
 | 8 | [[IM Epic 08 - Demon in a Bottle\|Demon in a Bottle]] | 4.0 ⚠ | 7 |  | S+ | incoming |  |
 | 10 | [[IM Epic 10 - The Enemy Within\|The Enemy Within]] | 3.7 | 125 |  | B | owned |  |
@@ -34,10 +34,10 @@ See also the sortable [[Ratings.base|Ratings dashboard]]. The tables below are g
 
 | Epic | Book | Goodreads | Ratings | Mine | AI tier | Status | Read |
 |---|---|---|---|---|---|---|---|
-| 1 | [[DS Epic 01 - Master of the Mystic Arts\|Master of the Mystic Arts]] | 3.96 | 261 |  | S+ | owned | yes |
-| 2 | [[DS Epic 02 - I, Dormammu\|I, Dormammu]] | 3.85 | 59 |  | A+ | owned | yes |
-| 3 | [[DS Epic 03 - A Separate Reality\|A Separate Reality]] | 3.91 | 271 |  | A+ | owned | yes |
-| 4 | [[DS Epic 04 - Alone Against Eternity\|Alone Against Eternity]] | 3.8 | 69 |  | A | covered | yes |
+| 1 | [[DS Epic 01 - Master of the Mystic Arts\|Master of the Mystic Arts]] | 3.96 | 261 | 9 | S+ | owned | yes |
+| 2 | [[DS Epic 02 - I, Dormammu\|I, Dormammu]] | 3.85 | 59 | 6 | A+ | owned | yes |
+| 3 | [[DS Epic 03 - A Separate Reality\|A Separate Reality]] | 3.91 | 271 | 6 | A+ | owned | yes |
+| 4 | [[DS Epic 04 - Alone Against Eternity\|Alone Against Eternity]] | 3.8 | 69 | 9 | A | covered | yes |
 | 5 | [[DS Epic 05 - The Reality War\|The Reality War]] | 3.74 | 61 |  | A | owned |  |
 | 8 | [[DS Epic 08 - Triumph and Torment\|Triumph and Torment]] | 3.8 | 107 |  | S+ | owned |  |
 | 9 | [[DS Epic 09 - The Vampiric Verses\|The Vampiric Verses]] | 3.47 | 53 |  | B+ | wanted |  |
@@ -50,7 +50,7 @@ See also the sortable [[Ratings.base|Ratings dashboard]]. The tables below are g
 
 | Epic | Book | Goodreads | Ratings | Mine | AI tier | Status | Read |
 |---|---|---|---|---|---|---|---|
-| 1 | [[SM Epic 01 - Great Power\|Great Power]] | 4.32 | 724 |  | A+ | owned | yes |
+| 1 | [[SM Epic 01 - Great Power\|Great Power]] | 4.32 | 724 | 9 | A+ | owned | yes |
 | 2 | [[SM Epic 02 - Great Responsibility\|Great Responsibility]] | 4.26 | 331 |  | S+ | owned | yes |
 | 3 | [[SM Epic 03 - Spider-Man No More!\|Spider-Man No More!]] | 4.31 | 433 |  | A+ | incoming |  |
 | 4 | [[SM Epic 04 - The Goblin Lives\|The Goblin Lives]] | 4.2 | 241 |  | B+ | owned |  |
@@ -81,10 +81,10 @@ See also the sortable [[Ratings.base|Ratings dashboard]]. The tables below are g
 
 | Epic | Book | Goodreads | Ratings | Mine | AI tier | Status | Read |
 |---|---|---|---|---|---|---|---|
-| 1 | [[Thor Epic 01 - The God of Thunder\|The God of Thunder]] | 3.83 | 335 |  | S+ | owned | yes |
-| 2 | [[Thor Epic 02 - When Titans Clash\|When Titans Clash]] | 4.05 | 123 |  | A+ | covered | yes |
-| 3 | [[Thor Epic 03 - The Wrath of Odin\|The Wrath of Odin]] | 3.97 | 127 |  | A+ | covered | yes |
-| 4 | [[Thor Epic 04 - To Wake the Mangog\|To Wake the Mangog]] | 4.11 | 133 |  | A+ | covered | yes |
+| 1 | [[Thor Epic 01 - The God of Thunder\|The God of Thunder]] | 3.83 | 335 | 5 | S+ | owned | yes |
+| 2 | [[Thor Epic 02 - When Titans Clash\|When Titans Clash]] | 4.05 | 123 | 5 | A+ | covered | yes |
+| 3 | [[Thor Epic 03 - The Wrath of Odin\|The Wrath of Odin]] | 3.97 | 127 | 7 | A+ | covered | yes |
+| 4 | [[Thor Epic 04 - To Wake the Mangog\|To Wake the Mangog]] | 4.11 | 133 | 7 | A+ | covered | yes |
 | 5 | [[Thor Epic 05 - The Fall of Asgard\|The Fall of Asgard]] | 3.76 | 66 |  | A | covered |  |
 | 6 | [[Thor Epic 06 - Into the Dark Nebula\|Into the Dark Nebula]] | 3.48 | 46 |  | B | wanted |  |
 | 7 | [[Thor Epic 07 - Ulik Unchained\|Ulik Unchained]] | 3.82 | 33 |  | B | wanted |  |
@@ -109,8 +109,8 @@ See also the sortable [[Ratings.base|Ratings dashboard]]. The tables below are g
 
 | Epic | Book | Goodreads | Ratings | Mine | AI tier | Status | Read |
 |---|---|---|---|---|---|---|---|
-| 1 | [[DD Epic 01 - The Man Without Fear\|The Man Without Fear]] | 3.59 | 246 |  | A+ | owned | yes |
-| 2 | [[DD Epic 02 - Mike Murdock Must Die!\|Mike Murdock Must Die!]] | 3.39 | 150 |  | A | owned | yes |
+| 1 | [[DD Epic 01 - The Man Without Fear\|The Man Without Fear]] | 3.59 | 246 | 8 | A+ | owned | yes |
+| 2 | [[DD Epic 02 - Mike Murdock Must Die!\|Mike Murdock Must Die!]] | 3.39 | 150 | 7 | A | owned | yes |
 | 3 | [[DD Epic 03 - Brother, Take My Hand\|Brother, Take My Hand]] | 3.49 | 126 |  | A | incoming |  |
 | 4 | [[DD Epic 04 - A Woman Called Widow\|A Woman Called Widow]] | 3.19 | 93 |  | B+ | partial |  |
 | 5 | [[DD Epic 05 - Going Out West\|Going Out West]] | 3.29 | 84 |  | B | wanted |  |

@@ -31,6 +31,7 @@ order_ref: "Walt's #112651"
 edition: "New Printing"
 price_note: "49.90 minus a 10 welcome discount"
 budget_month: "2026-06"
+my_rating: 5
 source: "Epics.xlsx Thor Ranking tab only (no Main Page data for Thor), cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"
 wikipedia_checked: "2026-09-29"
 verified: true

@@ -20,6 +20,7 @@ budget: "monthly"
 ordered: 2026-06-29
 order_ref: "Walt's #112615"
 budget_month: "2026-06"
+my_rating: 3
 source: "Conversation with user (2026-09), cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"
 wikipedia_checked: "2026-09-29"
 verified: true

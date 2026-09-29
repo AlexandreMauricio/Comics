@@ -7,6 +7,7 @@ status: "owned"
 read: true
 seq: 1
 order: 1
+my_rating: 7
 source: "Conversation with user (2026-09)"
 verified: false
 tags: ["comics", "line/venom"]

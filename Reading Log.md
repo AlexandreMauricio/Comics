@@ -28,4 +28,4 @@ Short impressions per book. Add a rating (1-10) when known. Newest last.
 
 ## Others
 - Ant-Man Epic 1: didn't like. Hulk Epic 1: meh. Moon Knight Epic 1: lost in the appearances.
-- Absolute Carnage: read. Venom First Host: enjoyed.
+- Absolute Carnage: loved it. With Venom First Host (enjoyed) and the Venom War issues, it showed me a much cooler Venom than the villain from the movies and shows; that's why I pre-ordered the Venom War Omnibus.

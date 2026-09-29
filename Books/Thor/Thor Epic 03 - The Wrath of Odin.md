@@ -23,6 +23,7 @@ goodreads_rating: 3.97
 goodreads_votes: 127
 goodreads_checked: "2026-09-29"
 seq: 3
+my_rating: 7
 source: "Epics.xlsx Thor Ranking tab only (no Main Page data for Thor), cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"
 wikipedia_checked: "2026-09-29"
 verified: true

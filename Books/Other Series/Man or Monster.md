@@ -21,6 +21,7 @@ ordered: 2026-06-29
 order_ref: "Cheap-Comics #312781"
 edition: "2024 edition"
 budget_month: "2026-06"
+my_rating: 5
 source: "Conversation with user (2026-09), cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"
 wikipedia_checked: "2026-09-29"
 verified: true

@@ -31,6 +31,7 @@ ordered: 2026-06-29
 price_note: "97.79 with shipping on Vinted. Vinted only shows '3 months ago' (checked 2026-09-29), so the date is approximate."
 edition: "US edition"
 budget_month: "2026-06"
+my_rating: 9
 source: "Epics.xlsx Main Page + Ranking tab, cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"
 wikipedia_checked: "2026-09-29"
 verified: true

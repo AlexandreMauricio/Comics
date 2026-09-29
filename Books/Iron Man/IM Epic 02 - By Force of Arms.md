@@ -27,6 +27,7 @@ goodreads_rating: 3.6
 goodreads_votes: 91
 goodreads_checked: "2026-09-29"
 seq: 2
+my_rating: 8
 source: "Epics.xlsx Main Page + Ranking tab, cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"
 wikipedia_checked: "2026-09-29"
 verified: true

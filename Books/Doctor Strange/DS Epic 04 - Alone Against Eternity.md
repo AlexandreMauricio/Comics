@@ -26,6 +26,7 @@ goodreads_votes: 69
 goodreads_checked: "2026-09-29"
 seq: 4
 coverage_gaps: "Doctor Strange (vol. 2) #23-28"
+my_rating: 9
 source: "Epics.xlsx Main Page + Ranking tab, cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"
 wikipedia_checked: "2026-09-29"
 verified: true

@@ -31,6 +31,7 @@ ordered: 2026-07-16
 order_ref: "Cheap-Comics #313123"
 edition: "Original printing"
 budget_month: "2026-06"
+my_rating: 8
 source: "Epics.xlsx Main Page + Ranking tab, cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"
 wikipedia_checked: "2026-09-29"
 verified: true
