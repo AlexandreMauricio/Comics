@@ -30,6 +30,8 @@ price_paid: 115.25
 store: "Vinted"
 budget: "monthly"
 price_note: "115.25 with shipping on Vinted (offer of 105). Rare Epic. First bought from the same seller at 30 within 30 minutes of listing; they cancelled (refunded), relisted near 300, then dropped it step by step to 140 before accepting 105. The alternative was two Masterworks at about 70 each."
+ordered: 2026-08-29
+budget_month: "2026-08"
 source: "Epics.xlsx Main Page + Ranking tab, cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"
 wikipedia_checked: "2026-09-29"
 verified: true
