@@ -15,7 +15,7 @@ Cheap-Comics order pages always say "Processing", even after the books arrive, s
 | 2026-07-21 | Shipping (flat rate) + PayPal fee, order #313184 | Cheap-Comics | 19.95 + 3.00 = 22.95 |
 
 ## Month notes
-Collecting started in June 2026, so June is the big starting month (buying up the out-of-print Epics); each month since has cost less.
+Collecting started in June 2026, so June is the big starting month (buying up the out-of-print Epics); every month since has cost less than June.
 A budget month runs from the 24th to the 23rd and is named after the cart placed on that 24th.
 - **June budget (Jun 24 - Jul 23):** Cheap-Comics #312781 on Jun 29, 58.49 (IM Epic 1 2019 edition, Hulk Epic 1) + 21.20 shipping and PayPal fee, Walt's #112615 on Jun 29, 39.99 (Ant-Man/Giant-Man Epic 1), Walt's #112651 on Jun 29, 39.90 (Thor Epic 1, 49.90 with a 10 welcome discount), Walt's #114276 on Jul 7, 30.99 (Spider-Man Epic 7, 40.99 with a 10 newsletter discount), Walt's #114365 on Jul 7, 36.99 (Avengers Epic 1), Walt's #115660 on Jul 14, 168.89 (Invincible Iron Man Omnibus 1 and 2), Cheap-Comics #313123 on Jul 16, 124.99 (DD Epic 1 original printing, Spider-Man Epic 2 2017 edition), and Cheap-Comics #313184 on Jul 21, 168.99 (IM Epic 11, 17, 20) = 669.23 in books, plus 66.40 Cheap-Comics shipping and fees. Earlier June orders not logged yet.
 - **July budget (Jul 23 - Aug 23):** payday came on the 23rd. Walt's #116979 on Jul 23 (the July cart), 200.98 (Invincible Iron Man Omnibus 3, Spider-Man Epic 18, DS Epic 2), plus Walt's #121519 on Aug 17, 168.98 (DS Master of the Mystic Arts Omnibus 1, Spider-Man Epic 13, IM Epic 13) = 369.96. Nearly double the budget: the Aug 17 order was an extra mid-month order.
