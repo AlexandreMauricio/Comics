@@ -11,9 +11,9 @@ issues: "Daredevil: Battlin' Jack Murdock #1-4"
 writers: "Zeb Wells"
 artists: "Carmine Di Giandomenico"
 budget: "monthly"
-price_paid: 31
+price_paid: 30.2
 store: "Vinted"
-price_note: "All 4 issues, shipping included. Waiting to be shipped (2026-09-29)."
+price_note: "All 4 issues, 30.20 with shipping included. Paid, waiting to be shipped (2026-09-29)."
 ordered: 2026-09-29
 order: 0.5
 seq: 0.5
@@ -29,7 +29,7 @@ tags: ["comics", "line/daredevil"]
 **Creators:** Zeb Wells, Carmine Di Giandomenico (unverified)
 
 ## Status
-- **incoming**: bought on Vinted 2026-09-29 for 31 with shipping, waiting to be shipped.
+- **incoming**: bought on Vinted 2026-09-29 for 30.20 with shipping, waiting to be shipped.
 - The story of Matt's father, Jack Murdock, the boxer. A prequel to Daredevil's origin, so it sits before Epic 1 on the timeline and can be read any time as a Daredevil palate cleanser.
 
 ## Check / look up

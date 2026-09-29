@@ -14,7 +14,7 @@ Books 207 + shipping about 0 = **about 207** against about 200 (+7). Checklist a
 
 ## Spent in the September budget (Sep 24 - Oct 23)
 
-**239.4** on 8 book(s) against about 200, 39.4 over. Shipping and supplies are extra (see [[Purchase Log]]); quarterly pre-orders don't count. Details: [[Spending.base|Spending]].
+**238.6** on 8 book(s) against about 200, 38.6 over. Shipping and supplies are extra (see [[Purchase Log]]); quarterly pre-orders don't count. Details: [[Spending.base|Spending]].
 
 ## On the way
 
@@ -33,7 +33,7 @@ Ordered and already published, so it should arrive any time.
 | [[Invincible Iron Man (2022) 20]] | Walt's | 6.5 | 2026-09-24 | About 6-7 |
 | [[Invincible Iron Man by Gerry Duggan Vol 1]] | Walt's | 17 | 2026-09-24 |  |
 | [[Invincible Iron Man by Gerry Duggan Vol 2 The Wedding of Tony Stark and Emma Frost]] | Walt's | 17 | 2026-09-24 |  |
-| [[Daredevil Battlin' Jack Murdock 1-4 (2007)]] | Vinted | 31 | 2026-09-29 | All 4 issues, shipping included. Waiting to be shipped (2026-09-29). |
+| [[Daredevil Battlin' Jack Murdock 1-4 (2007)]] | Vinted | 30.2 | 2026-09-29 | All 4 issues, 30.20 with shipping included. Paid, waiting to be shipped (2026-09-29). |
 
 ## Pre-orders (not released yet)
 
