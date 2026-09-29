@@ -14,6 +14,13 @@ release_date: "May 28, 2024"
 editions: ["Nov 12, 2014", "May 28, 2024"]
 isbn: ["978-0785188643", "978-1302957988"]
 seq: 1
+price_paid: 36.99
+store: "Walt's"
+budget: "monthly"
+ordered: 2026-07-07
+order_ref: "Walt's #114365"
+edition: "New Printing"
+budget_month: "2026-06"
 source: "Conversation with user (2026-09), cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"
 wikipedia_checked: "2026-09-29"
 verified: true
