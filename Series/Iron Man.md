@@ -2,6 +2,11 @@
 
 Read Epic 1-6. Loves the engineering/tech mindset. Epic 1 devoured; 3-4 repetitive; 5 excellent; 6 ok (Mandarin dies, armor/mask upgrade, Jack Frost returns).
 
+## Why I read it
+As a developer, a kid from 2000 and a nerd who grew up with the MCU, the technology captivates me. But then there's the man behind the mask: Tony, who pretends to be the usual playboy while always worrying about his failing heart, his best friends Happy and Pepper. He tried to stop being a hero, but as soon as his replacement almost died it was "how can I ask someone to sacrifice their life just because I'm afraid to lose mine?", and he was back in the armor. And it's not only the armor going up in Marks, it's the small upgrades you only notice if you pay attention: a heat knob to warm the suit against Jack Frost, the mask's glass cracking underwater after an explosion because of the pressure, and being replaced later with something better.
+
+## Plan and status
+
 Route (Epic-numbered): 7, 8, 9 (Michelinie/Layton/Romita Jr Omni #115-157, Apr 2027), 10, 11, 12, 13, 14, 15, 16, 17, ...
 
 | Epic | Status |

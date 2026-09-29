@@ -1,6 +1,11 @@
 # Doctor Strange (Top 2)
 
-Read Epic 1-4 (Epic 4 via Omni, skipping peripheral non-COGU material). Also owns Strange Season One (2012, Matt Fraction / Terry Dodson, origin story).
+Read Epic 1-4 (Epic 4 via Omni, skipping peripheral non-COGU material). Also owns Doctor Strange: Season One (2012, Greg Pak / Emma Ríos, origin story).
+
+## Why I read it
+As a 2000 kid I grew up with Harry Potter too, but this is a different, better vibe. In Harry Potter you feel like part of the school, a student who knows the spells. Strange has a mystic vibe: reading it I feel like someone walking through the Village, thinking "I don't know what happened here, but thank god the guy with the flying cape knows what he's doing". I love the vibe and the art of his comics.
+
+## Plan and status
 
 - Next read: Epic 5 The Reality War (owned). Also owns Epic 8 Triumph and Torment.
 - Epic 6-7 are unreleased and not being chased. Strange stalls after Epic 5.
