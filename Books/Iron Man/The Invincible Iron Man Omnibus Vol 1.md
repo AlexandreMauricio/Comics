@@ -12,6 +12,13 @@ editions: ["7 May 2008", "29 Aug 2023"]
 covers: ["[[IM Epic 01 - The Golden Avenger]]"]
 seq: 1.5
 covers_partial: ["[[IM Epic 02 - By Force of Arms]]"]
+price_paid: 78.99
+store: "Walt's"
+budget: "monthly"
+ordered: 2026-07-14
+order_ref: "Walt's #115660"
+edition: "New Printing"
+budget_month: "2026-06"
 source: "Wikipedia Marvel Omnibus (2026-09-29) + conversation"
 wikipedia_checked: "2026-09-29"
 verified: true

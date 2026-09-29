@@ -12,6 +12,14 @@ editions: ["1 May 2010", "13 Aug 2024"]
 covers: ["[[IM Epic 03 - The Man Who Killed Tony Stark]]"]
 seq: 2.5
 covers_partial: ["[[IM Epic 02 - By Force of Arms]]", "[[IM Epic 04 - The Fury of the Firebrand]]"]
+price_paid: 89.9
+store: "Walt's"
+budget: "monthly"
+ordered: 2026-07-14
+order_ref: "Walt's #115660"
+edition: "New Printing"
+cover_note: "Salvador Larroca cover"
+budget_month: "2026-06"
 source: "Wikipedia Marvel Omnibus (2026-09-29) + conversation"
 wikipedia_checked: "2026-09-29"
 verified: true

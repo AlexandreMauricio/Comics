@@ -31,7 +31,8 @@ budget: "monthly"
 ordered: 2026-07-23
 order_ref: "Walt's #116979"
 edition: "New Printing"
-budget_month: "2026-06"
+budget_month: "2026-07"
+cart: "2026-07"
 source: "Epics.xlsx Main Page + Ranking tab, cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"
 wikipedia_checked: "2026-09-29"
 verified: true

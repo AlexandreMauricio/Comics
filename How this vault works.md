@@ -17,7 +17,7 @@ Every Epic, omnibus, TPB and important single is a note in `Books/<line>/`. The 
 | `price_paid` / `price_seen` / `store` / `price_note` | what I paid, what I saw, and where |
 | `ordered` | date the order was placed (e.g. `2026-09-24`). Puts the book in the right budget month on the Spending dashboard |
 | `order_ref` | store and order number, e.g. `"Walt's #127228"` |
-| `cart` | e.g. `"2026-10"`: the book is in that month's cart. The Cart dashboard totals it |
+| `cart` | e.g. `"2026-10"`: the book is in that month's cart. The Cart dashboard totals it. Once ordered, it also decides the budget month, since payday moves between the 23rd and the 26th |
 | `covers` / `covers_partial` | on an omnibus/TPB: the Epics it contains completely / only in part |
 | `covered_by` | on an Epic: every omnibus/TPB that contains any of it |
 | `coverage_gaps` | on an Epic: issues that none of the listed omnibuses contain (e.g. IM Epic 16: `#267-269, #276-277`) |

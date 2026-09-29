@@ -16,7 +16,7 @@ A book I own but can't reach (blocked) doesn't count as next-reading.
 TPB is the default; singles only to test a new run, as a cover trophy, or as a bridge before a TPB. Full policy and the current runs are in [[Modern Runs]].
 
 ## Budget
-- About 200 EUR/month, paid around the 24th. A budget month runs from the 24th to the 23rd and is named after the cart placed on that 24th (Sep 24 - Oct 23 is the September budget, the Oct 24 cart is October's). It is flexible, not a target and not a hard cap: 170 is fine, +10-20 is fine when something is worthwhile, don't drift to 220-250.
+- About 200 EUR/month, paid around the 24th. A budget month runs from the 24th to the 23rd and is named after the cart placed on that 24th (Sep 24 - Oct 23 is the September budget, the Oct 24 cart is October's). Payday moves between the 23rd and the 26th, so the monthly cart counts for its own month even when it's placed on the 23rd. It is flexible, not a target and not a hard cap: 170 is fine, +10-20 is fine when something is worthwhile, don't drift to 220-250.
 - Classics first (can take 170-190+). Modern never displaces a classic I should secure.
 - **Each month, buy at least one genuine next-reading classic** when one exists. Later/OOP classics can also be bought early.
 - One pre-order per quarter, so key books are secured before the reading queue reaches them (Walt's pre-orders often have a discount). **Quarterly pre-orders are outside the monthly ~200 budget, every time**, and Walt's charges them at order time. So the Q4 pre-orders (157.99) don't count against October.

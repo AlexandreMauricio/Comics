@@ -18,6 +18,8 @@ views:
       - line
       - purpose
       - price_seen
+      - price_paid
+      - status
       - store
       - urgency
     sort:
@@ -27,6 +29,7 @@ views:
         direction: ASC
     summaries:
       price_seen: Sum
+      price_paid: Sum
   - type: table
     name: October 2026
     filters:

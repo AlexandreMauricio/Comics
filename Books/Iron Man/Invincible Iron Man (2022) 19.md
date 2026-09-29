@@ -13,6 +13,7 @@ seq: 1019.5
 order: 1019.5
 ordered: 2026-09-24
 budget_month: "2026-09"
+cart: "2026-09"
 source: "Conversation with user (2026-09)"
 verified: false
 tags: ["comics", "line/iron-man"]

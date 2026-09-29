@@ -17,6 +17,7 @@ Derived properties (written here, don't edit by hand):
   purpose        reading | security | preorder | future | modern | event
   budget_month   "YYYY-MM" budget month of the hand-set `ordered` date. A budget month runs from the 24th (payday,
                  when that month's cart is placed) to the 23rd, so an order on Sep 24 - Oct 23 counts as "2026-09".
+                 Payday moves between the 23rd and the 26th, so a `cart` value on the book wins over the date.
 Generated notes: Cart Planner.md, and the %% generated %% blocks in Comics Hub.md and Ratings Overview.md.
 """
 import datetime
@@ -245,7 +246,7 @@ def build(notes):
             upd[n]["purpose"] = upd[n]["missing_before"] = None
             fm.pop("purpose", None), fm.pop("missing_before", None)
         d = parse_date(fm.get("ordered"))
-        upd[n]["budget_month"] = scalar(budget_month(d)) if d else None
+        upd[n]["budget_month"] = scalar(fm.get("cart") or budget_month(d)) if d else None
         upd[n]["order_month"] = None  # replaced by budget_month
     return upd, seq, pos, runway, gap, line_epics
 
@@ -493,6 +494,9 @@ def checks(notes):
                 P.append(f"{n}: read, but the omnibus you read it in has only part of it" + (f" (not in it: {gaps})" if gaps else ""))
         if fm.get("price_paid") and st in ("wanted", "planned", "oop"):
             P.append(f"{n}: has price_paid but status is {st}")
+        od = parse_date(fm.get("ordered"))
+        if od and 22 <= od.day <= 26 and not fm.get("cart") and fm.get("budget") != "quarterly":
+            I.append(f"{n}: ordered {od}, near payday; set `cart` to say which budget month it belongs to (now {budget_month(od)})")
         if fm.get("price_paid") and not fm.get("ordered"):
             I.append(f"{n}: paid but no `ordered` date, so it has no month in Spending")
         if st == "incoming" and not fm.get("price_paid") and not fm.get("covered_via"):

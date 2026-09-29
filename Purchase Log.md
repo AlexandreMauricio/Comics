@@ -13,8 +13,8 @@ Monthly budget ~200 EUR (flexible, no rollover). Quarterly pre-orders are outsid
 
 ## Month notes
 A budget month runs from the 24th to the 23rd and is named after the cart placed on that 24th.
-- **June budget (Jun 24 - Jul 23):** Walt's #116979 on Jul 23, 200.98 (Invincible Iron Man Omnibus 3, Spider-Man Epic 18, DS Epic 2).
-- **July budget (Jul 24 - Aug 23):** Walt's #121519 on Aug 17, 168.98 (DS Master of the Mystic Arts Omnibus 1, Spider-Man Epic 13, IM Epic 13). Spider-Man Epic 17 (Vinted, 34.30, about August) probably belongs here or in August once its date is known.
+- **June budget (Jun 24 - Jul 23):** Walt's #115660 on Jul 14, 168.89 (Invincible Iron Man Omnibus 1 and 2). Earlier June orders not logged yet.
+- **July budget (Jul 23 - Aug 23):** payday came on the 23rd. Walt's #116979 on Jul 23 (the July cart), 200.98 (Invincible Iron Man Omnibus 3, Spider-Man Epic 18, DS Epic 2), plus Walt's #121519 on Aug 17, 168.98 (DS Master of the Mystic Arts Omnibus 1, Spider-Man Epic 13, IM Epic 13) = 369.96. Nearly double the budget: the Aug 17 order was an extra mid-month order. Spider-Man Epic 17 (Vinted, 34.30, about August) may belong here too.
 - **August budget (Aug 24 - Sep 23):** Walt's #122655 on Aug 24, 194.88 (IM Epic 6, 7, DS Epic 5, DD Epic 2), plus IM Epic 14 on Vinted (29.05 + ~4 shipping) = about 228.
 - **September budget (Sep 24 - Oct 23):** Walt's order on Sep 24 about 208 to 211 (free shipping), plus Battlin' Jack Murdock #1-4 on Vinted on Sep 29 (31) = about 240. Over the 200, so no extras before the October cart.
 - **Q4 2026 pre-orders:** DD Epic 9, Venom War Omnibus, ASM Epic 29, 157.99 in total, Walt's order #127228 placed 2026-09-16, charged at order time. Outside the monthly budget.
