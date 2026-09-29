@@ -11,7 +11,7 @@ release_date: "22 Sep 2026"
 editions: ["22 Sep 2026"]
 price_seen: 95
 store: "Walt's"
-price_note: "Just released, discounted 95 (normal 125). Candidate for Nov/Dec so Omnibus 2-3-4 leave no gaps."
+price_note: "Gil Kane cover pre-order 94.99 (24% off 125) at Walt's; Gene Colan DM cover sold out, restock incoming (checked 2026-09-30)."
 covers: ["[[DD Epic 07 - The Concrete Jungle]]"]
 urgency: "medium"
 urgency_reason: "Just released, discounted 95 vs 125"

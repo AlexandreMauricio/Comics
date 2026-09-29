@@ -22,9 +22,9 @@ Sorted by purpose, then by how short the line's runway is, then by the first com
 |---|---|---|---|---|---|---|---|---|
 | reading | Fantastic Four | 0 | [[The Master Plan of Doctor Doom]] | wanted | 125 | Cheap-Comics | 0 |  |
 | reading | Daredevil | 1 | [[DD Epic 04 - A Woman Called Widow]] | partial |  |  | 0 |  |
-| reading | Daredevil | 1 | [[Daredevil Omnibus Vol 3]] | planned | 105 | Walt's | 0 | high - Discounted 105 vs 125, may end |
+| reading | Daredevil | 1 | [[Daredevil Omnibus Vol 3]] | planned | 105 | Walt's | 0 | high - Out of print: Walt's has its last copies at 105 (discounted from 125), no reprint expected (checked 2026-09-30) |
 | reading | Thor | 1 | [[Thor Epic 06 - Into the Dark Nebula]] | wanted | 50 | Cheap-Comics | 0 | low - Only if Omnibus 4 is gone (Cheap-Comics 50 + 20 shipping) |
-| reading | Thor | 1 | [[The Mighty Thor Omnibus Vol 4]] | planned | 85 | Walt's | 0 | high - Only 1 copy in stock at Walt's |
+| reading | Thor | 1 | [[The Mighty Thor Omnibus Vol 4]] | planned | 85 | Walt's | 0 | high - Out of print: Walt's has its last copies at 85 (the DM cover is sold out), no reprint expected (checked 2026-09-30) |
 | reading | Spider-Man | 5 | [[The Amazing Spider-Man Omnibus Vol 4]] | wanted | 115 | Walt's | 0 | medium - Only route to Epic 8, 115 at Walt's |
 | reading | Spider-Man | 5 | [[SM Epic 08 - Man-Wolf at Midnight]] | wanted | 115 | Walt's | 0 |  |
 | security | Daredevil | 1 | [[Daredevil Omnibus Vol 4]] | wanted | 95 | Walt's | 2 | medium - Just released, discounted 95 vs 125 |
@@ -42,7 +42,7 @@ Sorted by purpose, then by how short the line's runway is, then by the first com
 | future | Daredevil | 1 | [[DD Epic 06 - Watch Out for Bullseye]] | wanted |  |  | 2 |  |
 | future | Doctor Strange | 1 | [[DS Epic 10 - Infinity War]] | wanted | 39 | Walt's | 3 | low - In stock at Walt's 39, Cheap-Comics 40 |
 | future | Thor | 1 | [[Thor Epic 07 - Ulik Unchained]] | wanted | 60 | Cheap-Comics | 1 | low - Omnibus 4 and 5 cover most of it |
-| future | Thor | 1 | [[The Mighty Thor Omnibus Vol 5]] | wanted |  |  | 1 |  |
+| future | Thor | 1 | [[The Mighty Thor Omnibus Vol 5]] | wanted | 104.99 | Walt's | 1 |  |
 | future | Thor | 1 | [[Thor Epic 08 - War of the Gods]] | wanted |  |  | 2 |  |
 | future | Iron Man | 2 | [[Iron Man Dragon Seed Saga TPB]] | wanted | 30 |  | 2 |  |
 | future | Iron Man | 2 | [[IM Epic 19 - Crash & Burn]] | wanted | 40.99 | Walt's | 4 | low - Easy to find; Walt's pre-order 40.99 (2026-09-30) |
@@ -59,7 +59,7 @@ Sorted by purpose, then by how short the line's runway is, then by the first com
 | modern | Iron Man | 2 | [[Invincible Iron Man (2022) 16]] | wanted |  |  |  | low - eBay, slow hunt, 1-2 per month at most |
 | modern | Iron Man | 2 | [[Invincible Iron Man (2022) 17]] | wanted |  |  |  | low - eBay, slow hunt, 1-2 per month at most |
 | modern | Iron Man | 2 | [[Invincible Iron Man (2022) 18]] | wanted |  |  |  | low - eBay, slow hunt, 1-2 per month at most |
-| modern | Iron Man | 2 | [[Iron Man (2026) Vol 1 A New Nightmare]] | planned | 17 | Walt's |  |  |
+| modern | Iron Man | 2 | [[Iron Man (2026) Vol 1 A New Nightmare]] | planned | 16.99 | Walt's |  |  |
 | modern | Iron Man | 2 | [[Iron Man (2026) 1 liked cover]] | wanted | 15 | Walt's |  |  |
 | modern | Iron Man | 2 | [[Iron Man (2026) 1-4 connecting cartoony covers (set of four)]] | wanted | 25 | Vinted |  |  |
 | modern | Iron Man | 2 | [[Iron Man (2026) Vol 2]] | wanted |  |  |  |  |
@@ -77,7 +77,7 @@ Sorted by purpose, then by how short the line's runway is, then by the first com
 | Book | Store | Price | Purpose |
 |---|---|---|---|
 | [[Daredevil Omnibus Vol 3]] | Walt's | 105 | reading |
-| [[Iron Man (2026) Vol 1 A New Nightmare]] | Walt's | 17 | modern |
+| [[Iron Man (2026) Vol 1 A New Nightmare]] | Walt's | 16.99 | modern |
 | [[The Mighty Thor Omnibus Vol 4]] | Walt's | 85 | reading |
 
-Subtotal of listed books: **207 EUR**. Add shipping by store (Walt's about 9 below 150, free above; Cheap-Comics about 20 flat). Budget about 200, flexible, no rollover; quarterly pre-orders are outside it.
+Subtotal of listed books: **206.99 EUR**. Add shipping by store (Walt's about 9 below 150, free above; Cheap-Comics about 20 flat). Budget about 200, flexible, no rollover; quarterly pre-orders are outside it.

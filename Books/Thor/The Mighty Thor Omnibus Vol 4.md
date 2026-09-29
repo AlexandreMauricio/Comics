@@ -14,7 +14,7 @@ price_seen: 85
 store: "Walt's"
 covers: ["[[Thor Epic 06 - Into the Dark Nebula]]"]
 urgency: "high"
-urgency_reason: "Only 1 copy in stock at Walt's"
+urgency_reason: "Out of print: Walt's has its last copies at 85 (the DM cover is sold out), no reprint expected (checked 2026-09-30)"
 cart: "2026-10"
 seq: 6.5
 purpose: "reading"

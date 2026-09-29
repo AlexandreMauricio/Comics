@@ -14,7 +14,7 @@ price_seen: 105
 store: "Walt's"
 covers: ["[[DD Epic 05 - Going Out West]]"]
 urgency: "high"
-urgency_reason: "Discounted 105 vs 125, may end"
+urgency_reason: "Out of print: Walt's has its last copies at 105 (discounted from 125), no reprint expected (checked 2026-09-30)"
 cart: "2026-10"
 seq: 4.5
 purpose: "reading"

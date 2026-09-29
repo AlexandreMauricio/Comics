@@ -15,6 +15,9 @@ seq: 7.5
 purpose: "future"
 missing_before: 1
 covers_partial: ["[[Thor Epic 07 - Ulik Unchained]]", "[[Thor Epic 09 - Even an Immortal Can Die]]"]
+price_seen: 104.99
+store: "Walt's"
+price_note: "Pre-order 104.99 (16% off 125) at Walt's, both covers (checked 2026-09-30)."
 source: "Wikipedia Marvel Omnibus (2026-09-29) + conversation"
 wikipedia_checked: "2026-09-29"
 verified: true

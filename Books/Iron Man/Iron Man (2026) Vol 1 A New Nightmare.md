@@ -8,7 +8,7 @@ read: false
 budget: "monthly"
 issues: "Iron Man (2026) #1-6"
 release_date: "2026-10-27"
-price_seen: 17
+price_seen: 16.99
 store: "Walt's"
 cart: "2026-10"
 writers: "Joshua Williamson"
