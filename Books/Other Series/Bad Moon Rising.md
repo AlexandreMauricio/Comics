@@ -14,6 +14,12 @@ release_date: "Jun 16, 2021"
 editions: ["Oct 1, 2014", "Jun 16, 2021"]
 isbn: ["978-0785190967", "978-1302929855"]
 seq: 1
+price_paid: 41.3
+store: "Vinted"
+budget: "monthly"
+ordered: 2026-07-29
+price_note: "41.30 with shipping on Vinted. Vinted only shows '2 months ago' (checked 2026-09-29), so the date is approximate."
+budget_month: "2026-07"
 source: "Conversation with user (2026-09), cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"
 wikipedia_checked: "2026-09-29"
 verified: true
