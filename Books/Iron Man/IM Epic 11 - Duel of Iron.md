@@ -26,6 +26,12 @@ goodreads_rating: 3.68
 goodreads_votes: 93
 goodreads_checked: "2026-09-29"
 seq: 11
+price_paid: 49.5
+store: "Cheap-Comics"
+budget: "monthly"
+ordered: 2026-07-21
+order_ref: "Cheap-Comics #313184"
+budget_month: "2026-06"
 source: "Epics.xlsx Main Page + Ranking tab, cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"
 wikipedia_checked: "2026-09-29"
 verified: true
