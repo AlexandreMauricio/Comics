@@ -26,6 +26,12 @@ goodreads_rating: 3.91
 goodreads_votes: 271
 goodreads_checked: "2026-09-29"
 seq: 3
+price_paid: 40.7
+store: "Vinted"
+budget: "monthly"
+ordered: 2026-07-29
+price_note: "40.70 with shipping on Vinted, listed as 'Epic Doctor Strange' with no photo. Probably this Epic (Epic 2 came from Walt's, Epic 1 was an older order), not certain. Vinted only shows '2 months ago' (checked 2026-09-29)."
+budget_month: "2026-07"
 source: "Epics.xlsx Main Page + Ranking tab, cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"
 wikipedia_checked: "2026-09-29"
 verified: true
