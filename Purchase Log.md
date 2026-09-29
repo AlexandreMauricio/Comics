@@ -25,4 +25,4 @@ A budget month runs from the 24th to the 23rd and is named after the cart placed
 - **Q4 2026 pre-orders:** DD Epic 9, Venom War Omnibus, ASM Epic 29, 157.99 in total, Walt's order #127228 placed 2026-09-16, charged at order time. Outside the monthly budget.
 
 ## Approximate dates
-Vinted only shows "x weeks ago", so IM Epic 14 (about Sep 15) Spider-Man Epic 17 and DS Epic 8 (about Aug 29) have estimated dates. Everything else is dated from the order pages.
+Vinted only shows "x weeks ago", so IM Epic 14 (about Sep 15), Spider-Man Epic 17 and DS Epic 8 (about Aug 29) have estimated dates. Everything else is dated from the order pages.
