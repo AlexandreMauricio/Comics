@@ -16,9 +16,9 @@ release_date: "Dec 13, 2022"
 editions: ["Mar 13, 2019", "Dec 13, 2022"]
 isbn: ["978-1302916299", "978-1302946890"]
 cover_note: "Iron Man #244 cover"
-price_paid: 29.05
+price_paid: 33.35
 store: "Vinted"
-price_note: "Plus about 4 EUR shipping. Mondial Relay: stuck since arriving in Lisbon, no updates (2026-09-29)."
+price_note: "33.35 with shipping included (Vinted). Ordered about 2026-09-15 (Vinted only shows 2 weeks ago). Sent; Mondial Relay stuck since arriving in Lisbon, no updates (2026-09-29)."
 ai_stars: "⭐⭐⭐⭐"
 ai_tier: "B+"
 ai_acquisition: "Ordered (Vinted)"
@@ -49,7 +49,7 @@ tags: ["comics", "line/iron-man"]
 ## Status
 - **incoming**
 - Ordered (Vinted 29EUR), awaiting
-- Plus about 4 EUR shipping. Mondial Relay: stuck since arriving in Lisbon, no updates (2026-09-29).
+- 33.35 with shipping on Vinted, ordered about 2026-09-15. Mondial Relay: stuck since arriving in Lisbon, no updates (2026-09-29).
 - Sheet note: Walts has for 45€
 
 ## Ranking (ChatGPT/Gemini, unverified)
