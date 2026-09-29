@@ -23,6 +23,14 @@ goodreads_rating: 3.83
 goodreads_votes: 335
 goodreads_checked: "2026-09-29"
 seq: 1
+price_paid: 39.9
+store: "Walt's"
+budget: "monthly"
+ordered: 2026-06-29
+order_ref: "Walt's #112651"
+edition: "New Printing"
+price_note: "49.90 minus a 10 welcome discount"
+budget_month: "2026-06"
 source: "Epics.xlsx Thor Ranking tab only (no Main Page data for Thor), cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"
 wikipedia_checked: "2026-09-29"
 verified: true
