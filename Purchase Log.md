@@ -12,7 +12,7 @@ Monthly budget ~200 EUR (flexible, no rollover). Quarterly pre-orders are outsid
 | ~2026-08 | Shipping for Spider-Man Epic 17 | Vinted | ~4? |
 
 ## Month notes
-- **2026-09:** Walt's 24th order (free shipping) about 208 to 211, plus IM Epic 14 about 33 = about 242. Well over the 200 budget, which is why October is planned lean.
+- **2026-09:** Walt's 24th order (free shipping) about 208 to 211, plus IM Epic 14 about 33 = about 242. Well over the 200 budget, which is why October is planned lean. On 2026-09-29, Daredevil: Battlin' Jack Murdock #1-4 on Vinted, 31 with shipping, brings September to about 273.
 - **Q4 2026 pre-orders:** DD Epic 9, Venom War Omnibus, ASM Epic 29, 157.99 in total, charged by Walt's at order time. Outside the monthly budget.
 
 ## Missing dates

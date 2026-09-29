@@ -1,11 +1,11 @@
 filters:
   and:
     - file.inFolder("Books")
-    - 'type != "Omnibus"'
+    - type != "Omnibus"
     - or:
-        - 'status == "owned"'
-        - 'status == "covered"'
-    - 'read == false'
+        - status == "owned"
+        - status == "covered"
+    - read == false
 properties:
   file.name:
     displayName: Book
@@ -28,7 +28,7 @@ views:
     name: Next up
     filters:
       and:
-        - 'next_read == true'
+        - next_read == true
     order:
       - file.name
       - line
