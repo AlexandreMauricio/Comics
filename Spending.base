@@ -1,7 +1,7 @@
 filters:
   and:
     - file.inFolder("Books")
-    - 'price_paid > 0'
+    - price_paid > 0
 properties:
   file.name:
     displayName: Book
@@ -14,7 +14,7 @@ views:
     name: Monthly budget by month
     filters:
       and:
-        - 'budget != "quarterly"'
+        - budget != "quarterly"
     groupBy:
       property: order_month
       direction: DESC
@@ -34,7 +34,7 @@ views:
     name: Quarterly pre-orders
     filters:
       and:
-        - 'budget == "quarterly"'
+        - budget == "quarterly"
     order:
       - file.name
       - price_paid

@@ -11,6 +11,9 @@ price_paid: 78.99
 store: "Walt's"
 seq: 4
 order: 4
+ordered: 2026-09-16
+order_ref: "Walt's #127228"
+order_month: "2026-09"
 source: "Conversation with user (2026-09)"
 verified: false
 tags: ["comics", "line/venom"]

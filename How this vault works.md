@@ -16,6 +16,7 @@ Every Epic, omnibus, TPB and important single is a note in `Books/<line>/`. The 
 | `budget` | `monthly` or `quarterly` (quarterly pre-orders are outside the 200 EUR) |
 | `price_paid` / `price_seen` / `store` / `price_note` | what I paid, what I saw, and where |
 | `ordered` | date the order was placed (e.g. `2026-09-24`). Puts the book in the right month on the Spending dashboard |
+| `order_ref` | store and order number, e.g. `"Walt's #127228"` |
 | `cart` | e.g. `"2026-10"`: the book is in that month's cart. The Cart dashboard totals it |
 | `covers` / `covers_partial` | on an omnibus/TPB: the Epics it contains completely / only in part |
 | `covered_by` | on an Epic: every omnibus/TPB that contains any of it |
@@ -51,7 +52,7 @@ After orders, arrivals or finished books, ask Claude to run `Tools/refresh.py`. 
 ## Routine
 - Book arrives: tell me, or change its `status` to `owned`. Epics inside an omnibus update themselves on the next refresh.
 - Finish a book: set `read: true`, add `my_rating`, move `next_read: true` to the next book, and add a line to [[Reading Log]].
-- Place an order: set `status: incoming`, `price_paid`, `ordered`, `store`, `budget`.
+- Place an order: set `status: incoming`, `price_paid`, `ordered`, `store`, `budget`. Easiest: send Claude a screenshot of the order page.
 - Ask me (Claude) to do these for you if you'd rather just tell me.
 
 If a dashboard shows an error or looks empty, tell me: I couldn't open Obsidian to test the `.base` files, so the first look is the real test.
