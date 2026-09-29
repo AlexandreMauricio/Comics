@@ -22,8 +22,9 @@ Ordered and already published, so it should arrive any time.
 
 | Book | Store | Paid | Ordered | Note |
 |---|---|---|---|---|
-| [[IM Epic 08 - Demon in a Bottle]] | Walt's |  |  |  |
-| [[SM Epic 03 - Spider-Man No More!]] | Walt's |  |  |  |
+| [[IM Epic 08 - Demon in a Bottle]] | Walt's | 44.99 | 2026-07-07 | Pre-order. Released, but Walt's holds order #114274 until the Carnage Modern Era Epic 2 releases (delayed to Oct 6). |
+| [[SM Epic 03 - Spider-Man No More!]] | Walt's | 40.99 | 2026-07-07 | Pre-order. Released, but Walt's holds order #114274 until the Carnage Modern Era Epic 2 releases (delayed to Oct 6). |
+| [[SM Modern 15 - Spider-Island]] | Walt's | 40.99 | 2026-07-07 | Pre-order. Released Sep 8, but Walt's holds the whole order until the Carnage Modern Era Epic 2 releases (delayed to Oct 6). |
 | [[IM Epic 14 - Return of the Ghost]] | Vinted | 29.05 | 2026-09-15 | Plus about 4 EUR shipping. Mondial Relay: stuck since arriving in Lisbon, no updates (2026-09-29). |
 | [[Daredevil Omnibus Vol 2]] | Walt's | 115 | 2026-09-24 |  |
 | [[IM Epic 15 - Doom]] | Walt's | 39.9 | 2026-09-24 |  |
@@ -38,6 +39,7 @@ Ordered and already published, so it should arrive any time.
 
 | Book | Releases | Paid | Budget |
 |---|---|---|---|
+| [[Carnage Modern 02 - Prophecy of the Darkhold]] | Oct 06, 2026 | 44.99 | quarterly |
 | [[DD Epic 09 - Resurrection]] | Dec 01, 2026 | 39.5 | quarterly |
 | [[Venom War Omnibus Carlos Gomez DM]] | Dec 08, 2026 | 78.99 | quarterly |
 | [[SM Epic 29 - The Mark of Kaine]] | Dec 08, 2026 | 39.5 | quarterly |

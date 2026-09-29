@@ -5,7 +5,7 @@ number: 8
 title: "Demon in a Bottle"
 status: "incoming"
 read: false
-budget: "monthly"
+budget: "quarterly"
 years: "1978-1980"
 issues: "Iron Man #115-139"
 writers: "David Michelinie, Bob Layton"
@@ -31,6 +31,11 @@ goodreads_checked: "2026-09-29"
 goodreads_sample: "low (under 30 ratings)"
 seq: 8
 store: "Walt's"
+price_paid: 44.99
+ordered: 2026-07-07
+order_ref: "Walt's #114274"
+price_note: "Pre-order. Released, but Walt's holds order #114274 until the Carnage Modern Era Epic 2 releases (delayed to Oct 6)."
+budget_month: "2026-06"
 source: "Epics.xlsx Main Page + Ranking tab, cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"
 wikipedia_checked: "2026-09-29"
 verified: true

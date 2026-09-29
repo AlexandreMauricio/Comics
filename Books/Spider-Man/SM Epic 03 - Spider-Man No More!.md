@@ -6,7 +6,7 @@ title: "Spider-Man No More!"
 status: "incoming"
 read: false
 next_read: true
-budget: "monthly"
+budget: "quarterly"
 years: "1966-1967"
 issues: "Amazing Spider-Man #39–52, Annual #3–4; material from Not Brand Echh #2"
 writers: "Stan Lee"
@@ -28,6 +28,12 @@ goodreads_votes: 433
 goodreads_checked: "2026-09-29"
 seq: 3
 store: "Walt's"
+price_paid: 40.99
+edition: "New Printing 2"
+ordered: 2026-07-07
+order_ref: "Walt's #114274"
+price_note: "Pre-order. Released, but Walt's holds order #114274 until the Carnage Modern Era Epic 2 releases (delayed to Oct 6)."
+budget_month: "2026-06"
 source: "Epics.xlsx Main Page + Ranking tab, cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"
 wikipedia_checked: "2026-09-29"
 verified: true
