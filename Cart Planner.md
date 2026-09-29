@@ -22,9 +22,9 @@ Sorted by purpose, then by how short the line's runway is, then by the first com
 |---|---|---|---|---|---|---|---|---|
 | reading | Fantastic Four | 0 | [[The Master Plan of Doctor Doom]] | wanted | 125 | Cheap-Comics | 0 |  |
 | reading | Daredevil | 1 | [[DD Epic 04 - A Woman Called Widow]] | partial |  |  | 0 |  |
-| reading | Daredevil | 1 | [[Daredevil Omnibus Vol 3]] | planned | 105 | Walt's | 0 | high - Out of print: Walt's has its last copies at 105 (discounted from 125), no reprint expected (checked 2026-09-30) |
+| reading | Daredevil | 1 | [[Daredevil Omnibus Vol 3]] | planned | 105 | Walt's | 0 | high - Out of print, last copies at Walt's at 105 (in stock 2026-09-30, no count shown) |
 | reading | Thor | 1 | [[Thor Epic 06 - Into the Dark Nebula]] | wanted | 50 | Cheap-Comics | 0 | low - Only if Omnibus 4 is gone (Cheap-Comics 50 + 20 shipping) |
-| reading | Thor | 1 | [[The Mighty Thor Omnibus Vol 4]] | planned | 85 | Walt's | 0 | high - Out of print: Walt's has its last copies at 85 (the DM cover is sold out), no reprint expected (checked 2026-09-30) |
+| reading | Thor | 1 | [[The Mighty Thor Omnibus Vol 4]] | planned | 85 | Walt's | 0 | high - Out of print, last copies at Walt's: page warns only 1 in stock (2026-09-30). Watch it |
 | reading | Spider-Man | 5 | [[The Amazing Spider-Man Omnibus Vol 4]] | wanted | 115 | Walt's | 0 | medium - Only route to Epic 8, 115 at Walt's |
 | reading | Spider-Man | 5 | [[SM Epic 08 - Man-Wolf at Midnight]] | wanted | 115 | Walt's | 0 |  |
 | security | Daredevil | 1 | [[Daredevil Omnibus Vol 4]] | wanted | 95 | Walt's | 2 | medium - Just released, discounted 95 vs 125 |

@@ -21,6 +21,11 @@ One Walt's order, about **207**, free shipping (above 150). About 7 over, inside
 | [[Iron Man (2026) Vol 1 A New Nightmare]] | Modern palate cleanser, released Oct 27 | Walt's | 17 |
 | Shipping (order over 150) | | | 0 |
 
+**Watch until the 24th (decided 2026-09-30: wait, keep an eye on it)**
+- Both omnibuses are out of print; Walt's has its last copies. On 2026-09-30 Thor Omnibus 4 showed "1 in stock"; DD Omnibus 3 was in stock with no count.
+- The Walt's wishlist shows both as unavailable even though their own pages let you buy them. Trust the product page, not the wishlist.
+- Re-check around Oct 15 and Oct 20. If Thor 4 is still the last copy close to the date, consider placing the order early (tag it `cart: "2026-10"` so it counts for October).
+
 **Checklist on the 24th**
 1. Thor Omnibus 4 still in stock at 85. Only 1 copy, so this is the item most likely to be gone.
 2. DD Omnibus 3 still 105 (discount) and covers #75-119.
