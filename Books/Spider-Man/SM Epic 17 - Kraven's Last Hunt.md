@@ -15,9 +15,9 @@ release_date: "Jan 3, 2023"
 editions: ["Jun 14, 2017", "Jan 3, 2023"]
 isbn: ["978-1302907051", "978-1302950330"]
 cover_note: "Amazing Spider-Man #293 cover"
-price_paid: 34.3
+price_paid: 37.85
 store: "Vinted"
-price_note: "Plus Vinted shipping. Bought about August 2026 after watching about 5 months."
+price_note: "37.85 with shipping on Vinted. Watched it about 5 months first. Vinted only shows '1 month ago' (checked 2026-09-29), so the date is approximate."
 ai_stars: "⭐⭐⭐⭐⭐"
 ai_tier: "S+"
 ai_acquisition: "Already owned"
@@ -28,6 +28,9 @@ goodreads_rating: 4.24
 goodreads_votes: 699
 goodreads_checked: "2026-09-29"
 seq: 17
+budget: "monthly"
+ordered: 2026-08-29
+budget_month: "2026-08"
 source: "Epics.xlsx Main Page + Ranking tab, cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"
 wikipedia_checked: "2026-09-29"
 verified: true
@@ -42,7 +45,7 @@ tags: ["comics", "line/spider-man"]
 **Years:** 1986-1987
 
 ## Status
-- **owned**
+- 37.85 with shipping on Vinted, about Aug 29, 2026, after watching it about 5 months.
 - Plus Vinted shipping. Bought about August 2026 after watching about 5 months.
 
 ## Ranking (ChatGPT/Gemini, unverified)
