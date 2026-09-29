@@ -15,11 +15,11 @@ release_date: "Oct 4, 2017"
 editions: ["Oct 4, 2017"]
 isbn: ["978-1302907891"]
 cover_note: "Doctor Strange, Sorcerer Supreme #83 cover"
-story_rating: "⭐⭐⭐"
-tier: "C"
-acquisition: "Buy last"
-rating_reason: "Completes the classic Epic line. Mostly for completionists."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐"
+ai_tier: "C"
+ai_acquisition: "Buy last"
+ai_reason: "Completes the classic Epic line. Mostly for completionists."
+ai_source: "ChatGPT/Gemini (unverified)"
 goodreads_rating: 3.23
 goodreads_votes: 79
 goodreads_checked: "2026-09-29"

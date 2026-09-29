@@ -15,17 +15,17 @@ release_date: "Feb 8, 2022"
 editions: ["Sep 20, 2017", "Feb 8, 2022"]
 isbn: ["978-1302907914", "978-1302933777"]
 cover_note: "Daredevil #272 cover"
-story_rating: "⭐⭐⭐⭐"
-tier: "B+"
-acquisition: "Watch market"
-rating_reason: "Continues Nocenti's run."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐⭐"
+ai_tier: "B+"
+ai_acquisition: "Watch market"
+ai_reason: "Continues Nocenti's run."
+ai_source: "ChatGPT/Gemini (unverified)"
 goodreads_rating: 3.54
 goodreads_votes: 222
 goodreads_checked: "2026-09-29"
 seq: 14
 purpose: "future"
-missing_before: 8
+missing_before: 9
 source: "Epics.xlsx Main Page + Ranking tab, cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"
 wikipedia_checked: "2026-09-29"
 verified: true

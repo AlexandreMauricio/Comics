@@ -15,13 +15,13 @@ release_date: "Sep 18, 2013"
 editions: ["Sep 18, 2013"]
 isbn: ["978-0785187875"]
 cover_note: "Iron Man #164 cover"
-story_rating: "⭐⭐⭐⭐"
-tier: "B"
-acquisition: "Already owned"
-rating_reason: "OOP. Don't panic yet, but keep an eye on it."
-rating_score: "9.5/10"
-rating_highlight: "Tony relapses, 1st Obadiah Stane, Rhodey becomes Iron Man"
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐⭐"
+ai_tier: "B"
+ai_acquisition: "Already owned"
+ai_reason: "OOP. Don't panic yet, but keep an eye on it."
+ai_score: "9.5/10"
+ai_highlight: "Tony relapses, 1st Obadiah Stane, Rhodey becomes Iron Man"
+ai_source: "ChatGPT/Gemini (unverified)"
 goodreads_rating: 3.7
 goodreads_votes: 125
 goodreads_checked: "2026-09-29"

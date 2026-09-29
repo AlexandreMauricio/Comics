@@ -13,11 +13,11 @@ pages: "432"
 release_date: "Jun 13, 2018"
 editions: ["Jun 13, 2018"]
 isbn: ["978-1302911577"]
-story_rating: "⭐⭐⭐"
-tier: "C"
-acquisition: "Buy last"
-rating_reason: "Heroes Reborn transition. Mainly historical."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐"
+ai_tier: "C"
+ai_acquisition: "Buy last"
+ai_reason: "Heroes Reborn transition. Mainly historical."
+ai_source: "ChatGPT/Gemini (unverified)"
 goodreads_rating: 2.83
 goodreads_votes: 53
 goodreads_checked: "2026-09-29"

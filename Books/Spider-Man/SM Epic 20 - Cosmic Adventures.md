@@ -15,11 +15,11 @@ release_date: "Dec 4, 2019"
 editions: ["Nov 20, 2013", "Dec 4, 2019"]
 isbn: ["978-0785187899", "978-1302924294"]
 cover_note: "Spectacular Spider-Man #158 cover"
-story_rating: "⭐⭐⭐"
-tier: "C+"
-acquisition: "Buy last"
-rating_reason: "Cosmic stories, Larsen art. Good but not essential."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐"
+ai_tier: "C+"
+ai_acquisition: "Buy last"
+ai_reason: "Cosmic stories, Larsen art. Good but not essential."
+ai_source: "ChatGPT/Gemini (unverified)"
 goodreads_rating: 3.64
 goodreads_votes: 204
 goodreads_checked: "2026-09-29"

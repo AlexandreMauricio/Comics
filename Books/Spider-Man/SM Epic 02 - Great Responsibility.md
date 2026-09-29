@@ -15,11 +15,11 @@ release_date: "Nov 7, 2023"
 editions: ["Dec 21, 2016", "Nov 7, 2023"]
 isbn: ["978-0785195818", "978-1302950576"]
 cover_note: "Amazing Spider-Man #19 cover"
-story_rating: "⭐⭐⭐⭐⭐"
-tier: "S+"
-acquisition: "Already owned"
-rating_reason: "Master Planner, MJ, Harry, Peter's defining moment. Already confirmed excellent."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐⭐⭐"
+ai_tier: "S+"
+ai_acquisition: "Already owned"
+ai_reason: "Master Planner, MJ, Harry, Peter's defining moment. Already confirmed excellent."
+ai_source: "ChatGPT/Gemini (unverified)"
 goodreads_rating: 4.26
 goodreads_votes: 331
 goodreads_checked: "2026-09-29"

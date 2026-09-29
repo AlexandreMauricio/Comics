@@ -1,26 +1,19 @@
 # Purchase Log
 
-Monthly budget ~200 EUR (flexible, no rollover). Quarterly pre-orders are tracked separately and are outside the monthly budget.
+Monthly budget ~200 EUR (flexible, no rollover). Quarterly pre-orders are outside it.
 
-## Monthly
+**Book prices live in the book notes** (`price_paid`, `ordered`, `store`, `budget`). The [[Spending.base|Spending dashboard]] totals them by month, by store, and shows the quarterly pre-orders separately. This note only keeps what has no book note: shipping, supplies, and notes about each month.
+
+## Other costs (no book note)
 | Date | Item | Where | Price |
 |---|---|---|---|
-| 2026-09-24 | DD Omni 2 | Walt's | 115.00 |
-| 2026-09-24 | IM Epic 15 Doom | Walt's | 39.90 |
-| 2026-09-24 | IM2022 TPB Vol 1 | Walt's | 17.00 |
-| 2026-09-24 | IM2022 TPB Vol 2 | Walt's | 17.00 |
-| 2026-09-24 | IM2022 #13, #19 (Skottie Young), #20 | Walt's | ~19.50 (about 6-7 each) |
 | 2026-09-24 | Bags/boards | Walt's | 0.75 each |
-| ~2026-09-15 | IM Epic 14 | Vinted | 29.05 + ~4 shipping |
-| ~2026-08 | Spider-Man Epic 17 | Vinted | 34.30 + Vinted shipping (~4?) |
-| ? | Spider-Man Epic 13 | Walt's | 45.00 (normal price) |
+| ~2026-09-15 | Shipping for IM Epic 14 | Vinted | ~4 |
+| ~2026-08 | Shipping for Spider-Man Epic 17 | Vinted | ~4? |
 
-September running total: Walt's 24th order (free shipping) about 208 to 211, plus IM Epic 14 about 33 = about 242. That is well over the 200 budget, which is why October is planned lean.
+## Month notes
+- **2026-09:** Walt's 24th order (free shipping) about 208 to 211, plus IM Epic 14 about 33 = about 242. Well over the 200 budget, which is why October is planned lean.
+- **Q4 2026 pre-orders:** DD Epic 9, Venom War Omnibus, ASM Epic 29, 157.99 in total, charged by Walt's at order time. Outside the monthly budget.
 
-## Quarterly pre-orders (outside monthly budget)
-| Placed | Item | Where | Price | Release |
-|---|---|---|---|---|
-| Q4 2026 | DD Epic 9 Resurrection | Walt's | 39.50 | Dec 1 |
-| Q4 2026 | Venom War Omnibus Carlos Gomez DM | Walt's | 78.99 | Dec 8 |
-| Q4 2026 | ASM Epic 29 Mark of Kaine | Walt's | 39.50 | Dec 8 |
-| | **Total** | | **157.99** | |
+## Missing dates
+Spider-Man Epic 13 (45, Walt's), Spider-Man Epic 17 (about August 2026) and the three Q4 pre-orders have no `ordered` date yet, so they sit under "no month" in Spending. Tell me the dates if you know them.

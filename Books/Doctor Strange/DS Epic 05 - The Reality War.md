@@ -16,11 +16,11 @@ release_date: "Feb 22, 2022"
 editions: ["Feb 22, 2022"]
 isbn: ["978-1302933579"]
 cover_note: "Doctor Strange (vol. 2) #32 cover"
-story_rating: "⭐⭐⭐⭐"
-tier: "A"
-acquisition: "Already owned"
-rating_reason: "Roger Stern develops Strange into the modern Sorcerer Supreme before the Sorcerer Supreme series."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐⭐"
+ai_tier: "A"
+ai_acquisition: "Already owned"
+ai_reason: "Roger Stern develops Strange into the modern Sorcerer Supreme before the Sorcerer Supreme series."
+ai_source: "ChatGPT/Gemini (unverified)"
 goodreads_rating: 3.74
 goodreads_votes: 61
 goodreads_checked: "2026-09-29"

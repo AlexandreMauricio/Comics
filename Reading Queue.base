@@ -20,7 +20,7 @@ views:
       - status
       - next_read
       - issues
-      - covered_by
+      - covered_via
     sort:
       - property: seq
         direction: ASC
@@ -33,7 +33,7 @@ views:
       - file.name
       - line
       - status
-      - covered_by
+      - covered_via
     sort:
       - property: line
         direction: ASC

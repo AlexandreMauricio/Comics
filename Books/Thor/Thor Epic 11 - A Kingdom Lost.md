@@ -13,11 +13,11 @@ pages: "480"
 release_date: "Apr 16, 2014"
 editions: ["Apr 16, 2014"]
 isbn: ["978-0785188629"]
-story_rating: "⭐⭐⭐⭐"
-tier: "B+"
-acquisition: "Watch market"
-rating_reason: "Starts the bridge toward Simonson. Solid but mostly setup."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐⭐"
+ai_tier: "B+"
+ai_acquisition: "Watch market"
+ai_reason: "Starts the bridge toward Simonson. Solid but mostly setup."
+ai_source: "ChatGPT/Gemini (unverified)"
 goodreads_rating: 3.52
 goodreads_votes: 54
 goodreads_checked: "2026-09-29"

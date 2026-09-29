@@ -15,18 +15,18 @@ release_date: "Nov 1, 2022"
 editions: ["Nov 1, 2022"]
 isbn: ["978-1302945947"]
 cover_note: "Daredevil #238 cover"
-story_rating: "⭐⭐⭐⭐"
-tier: "A"
-acquisition: "Buy when ready"
-rating_reason: "Starts Ann Nocenti's acclaimed run."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐⭐"
+ai_tier: "A"
+ai_acquisition: "Buy when ready"
+ai_reason: "Starts Ann Nocenti's acclaimed run."
+ai_source: "ChatGPT/Gemini (unverified)"
 milestone: "yes (per ChatGPT)"
 goodreads_rating: 3.46
 goodreads_votes: 138
 goodreads_checked: "2026-09-29"
 seq: 12
 purpose: "future"
-missing_before: 6
+missing_before: 7
 source: "Epics.xlsx Main Page + Ranking tab, cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"
 wikipedia_checked: "2026-09-29"
 verified: true

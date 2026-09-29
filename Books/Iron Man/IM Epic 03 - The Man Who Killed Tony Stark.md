@@ -15,13 +15,13 @@ release_date: "Apr 17, 2019"
 editions: ["Apr 17, 2019"]
 isbn: ["978-1302916305"]
 cover_note: "Iron Man #8 cover"
-story_rating: "⭐⭐⭐⭐"
-tier: "A"
-acquisition: "Covered in Omnibus"
-rating_reason: "Archie Goodwin's excellent run. You're reading it now and loving it."
-rating_score: "7/10"
-rating_highlight: "Debut of Madame Masque, iconic LMD storyline"
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐⭐"
+ai_tier: "A"
+ai_acquisition: "Covered in Omnibus"
+ai_reason: "Archie Goodwin's excellent run. You're reading it now and loving it."
+ai_score: "7/10"
+ai_highlight: "Debut of Madame Masque, iconic LMD storyline"
+ai_source: "ChatGPT/Gemini (unverified)"
 covered_by: ["[[The Invincible Iron Man Omnibus Vol 2]]"]
 goodreads_rating: 3.68
 goodreads_votes: 68

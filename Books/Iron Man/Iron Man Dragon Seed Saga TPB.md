@@ -11,10 +11,10 @@ editions: ["2008-10-08"]
 isbn: ["9780785131311"]
 price_seen: 30
 price_note: "About 30 EUR (store not verified). With Armor Wars Omni covers 15/20 of Epic 16; missing #267-269, #276-277."
-covers: ["[[IM Epic 16 - War Games]]"]
 seq: 16.5
 purpose: "future"
 missing_before: 2
+covers_partial: ["[[IM Epic 16 - War Games]]"]
 source: "Conversation with user (2026-09)"
 verified: false
 tags: ["comics", "line/iron-man"]

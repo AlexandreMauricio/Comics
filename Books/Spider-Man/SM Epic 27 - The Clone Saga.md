@@ -15,11 +15,11 @@ release_date: "Jan 16, 2024"
 editions: ["Jan 16, 2024"]
 isbn: ["978-1302953669"]
 cover_note: "Web of Spider-Man #118 cover"
-story_rating: "⭐⭐"
-tier: "D"
-acquisition: "Buy last"
-rating_reason: "Historically famous, but not because it's great."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐"
+ai_tier: "D"
+ai_acquisition: "Buy last"
+ai_reason: "Historically famous, but not because it's great."
+ai_source: "ChatGPT/Gemini (unverified)"
 goodreads_rating: 3.71
 goodreads_votes: 70
 goodreads_checked: "2026-09-29"

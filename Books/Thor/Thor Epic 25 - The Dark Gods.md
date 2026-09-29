@@ -13,11 +13,11 @@ pages: "480"
 release_date: "Jul 29, 2025"
 editions: ["Jul 29, 2025"]
 isbn: ["978-1302964115"]
-story_rating: "⭐⭐⭐☆"
-tier: "C"
-acquisition: "Buy last"
-rating_reason: "Modern relaunch. Worth owning eventually."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐☆"
+ai_tier: "C"
+ai_acquisition: "Buy last"
+ai_reason: "Modern relaunch. Worth owning eventually."
+ai_source: "ChatGPT/Gemini (unverified)"
 goodreads_rating: 3.89
 goodreads_votes: 18
 goodreads_checked: "2026-09-29"

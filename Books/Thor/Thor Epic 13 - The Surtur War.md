@@ -13,11 +13,11 @@ pages: "496"
 release_date: "Mar 3, 2026"
 editions: ["Mar 3, 2026"]
 isbn: ["978-1302967710"]
-story_rating: "⭐⭐⭐⭐⭐"
-tier: "S+"
-acquisition: "Buy ASAP"
-rating_reason: "Walter Simonson's legendary run begins. One of Marvel's greatest runs ever. Absolute Thor masterpiece."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐⭐⭐"
+ai_tier: "S+"
+ai_acquisition: "Buy ASAP"
+ai_reason: "Walter Simonson's legendary run begins. One of Marvel's greatest runs ever. Absolute Thor masterpiece."
+ai_source: "ChatGPT/Gemini (unverified)"
 covered_by: ["[[Thor by Walter Simonson Omnibus]]"]
 goodreads_rating: 4.65
 goodreads_votes: 23
@@ -26,6 +26,7 @@ goodreads_sample: "low (under 30 ratings)"
 seq: 13
 purpose: "future"
 missing_before: 7
+coverage_gaps: "#356"
 source: "Epics.xlsx Thor Ranking tab only (no Main Page data for Thor), cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"
 wikipedia_checked: "2026-09-29"
 verified: true

@@ -18,11 +18,11 @@ cover_note: "Amazing Spider-Man #144 cover"
 price_seen: 37
 store: "Walt's"
 price_note: "Discounted, normal 45."
-story_rating: "⭐⭐⭐"
-tier: "C"
-acquisition: "Buy last"
-rating_reason: "Original Clone Saga era. Historically interesting more than amazing."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐"
+ai_tier: "C"
+ai_acquisition: "Buy last"
+ai_reason: "Original Clone Saga era. Historically interesting more than amazing."
+ai_source: "ChatGPT/Gemini (unverified)"
 covered_by: ["[[SM Omnibus 5]]"]
 goodreads_rating: 3.98
 goodreads_votes: 126

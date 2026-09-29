@@ -16,13 +16,13 @@ release_date: "Jun 3, 2025"
 editions: ["Jun 3, 2025"]
 isbn: ["978-1302960599"]
 cover_note: "Iron Man #106 cover"
-story_rating: "⭐⭐⭐⭐☆"
-tier: "A"
-acquisition: "Already owned"
-rating_reason: "Builds directly toward Demon in a Bottle while continuing Tony's classic 70s development."
-rating_score: "6/10"
-rating_highlight: "Milestone Issue #100, Jack of Hearts arc, Mandarin clash"
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐⭐☆"
+ai_tier: "A"
+ai_acquisition: "Already owned"
+ai_reason: "Builds directly toward Demon in a Bottle while continuing Tony's classic 70s development."
+ai_score: "6/10"
+ai_highlight: "Milestone Issue #100, Jack of Hearts arc, Mandarin clash"
+ai_source: "ChatGPT/Gemini (unverified)"
 goodreads_rating: 3.55
 goodreads_votes: 22
 goodreads_checked: "2026-09-29"

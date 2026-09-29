@@ -15,13 +15,13 @@ release_date: "Mar 20, 2016"
 editions: ["Mar 20, 2016"]
 isbn: ["978-0785195061"]
 cover_note: "Iron Man #192 cover"
-story_rating: "⭐⭐⭐⭐"
-tier: "B"
-acquisition: "Already owned"
-rating_reason: "Important bridge to Iron Monger."
-rating_score: "8/10"
-rating_highlight: "Rhodey's heroic solo era, Tony hits rock bottom in #182"
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐⭐"
+ai_tier: "B"
+ai_acquisition: "Already owned"
+ai_reason: "Important bridge to Iron Monger."
+ai_score: "8/10"
+ai_highlight: "Rhodey's heroic solo era, Tony hits rock bottom in #182"
+ai_source: "ChatGPT/Gemini (unverified)"
 goodreads_rating: 3.68
 goodreads_votes: 93
 goodreads_checked: "2026-09-29"

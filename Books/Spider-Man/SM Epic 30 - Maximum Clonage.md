@@ -16,11 +16,11 @@ release_date: "2027-02"
 editions: ["Feb 9, 2027"]
 isbn: ["978-1302971847"]
 cover_note: "Amazing Spider-Man #404 cover"
-story_rating: "⭐"
-tier: "E"
-acquisition: "Preorder Feb 2027"
-rating_reason: "Completionists only. Lowest priority."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐"
+ai_tier: "E"
+ai_acquisition: "Preorder Feb 2027"
+ai_reason: "Completionists only. Lowest priority."
+ai_source: "ChatGPT/Gemini (unverified)"
 seq: 30
 purpose: "preorder"
 missing_before: 18

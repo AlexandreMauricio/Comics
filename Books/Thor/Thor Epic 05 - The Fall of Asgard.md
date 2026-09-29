@@ -14,11 +14,11 @@ pages: "432"
 release_date: "Sep 26, 2018"
 editions: ["Sep 26, 2018"]
 isbn: ["978-1302912741"]
-story_rating: "⭐⭐⭐⭐"
-tier: "A"
-acquisition: "Already owned (Omni 3)"
-rating_reason: "End of the Kirby era. Important historical milestone."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐⭐"
+ai_tier: "A"
+ai_acquisition: "Already owned (Omni 3)"
+ai_reason: "End of the Kirby era. Important historical milestone."
+ai_source: "ChatGPT/Gemini (unverified)"
 covered_by: ["[[The Mighty Thor Omnibus Vol 3]]"]
 goodreads_rating: 3.76
 goodreads_votes: 66

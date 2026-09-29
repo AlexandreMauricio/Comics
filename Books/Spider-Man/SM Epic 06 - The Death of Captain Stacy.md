@@ -15,11 +15,11 @@ release_date: "Oct 19, 2021"
 editions: ["Oct 19, 2021"]
 isbn: ["978-1302929084"]
 cover_note: "Amazing Spider-Man #95 cover"
-story_rating: "⭐⭐⭐⭐"
-tier: "A"
-acquisition: "Omnibus 3"
-rating_reason: "Captain Stacy dies. Leads directly into Gwen saga."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐⭐"
+ai_tier: "A"
+ai_acquisition: "Omnibus 3"
+ai_reason: "Captain Stacy dies. Leads directly into Gwen saga."
+ai_source: "ChatGPT/Gemini (unverified)"
 covered_by: ["[[The Amazing Spider-Man Omnibus Vol 3]]"]
 goodreads_rating: 4.08
 goodreads_votes: 203

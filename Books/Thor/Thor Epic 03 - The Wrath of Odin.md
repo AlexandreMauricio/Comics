@@ -13,11 +13,11 @@ pages: "512"
 release_date: "Mar 1, 2022"
 editions: ["Sep 27, 2017", "Mar 1, 2022"]
 isbn: ["978-1302903794", "978-1302933883"]
-story_rating: "⭐⭐⭐⭐☆"
-tier: "A+"
-acquisition: "Already owned"
-rating_reason: "Peak Lee/Kirby Thor. Huge cosmic scale and some of Kirby's best Marvel work."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐⭐☆"
+ai_tier: "A+"
+ai_acquisition: "Already owned"
+ai_reason: "Peak Lee/Kirby Thor. Huge cosmic scale and some of Kirby's best Marvel work."
+ai_source: "ChatGPT/Gemini (unverified)"
 covered_by: ["[[The Mighty Thor Omnibus Vol 2]]", "[[The Mighty Thor Omnibus Vol 3]]"]
 goodreads_rating: 3.97
 goodreads_votes: 127

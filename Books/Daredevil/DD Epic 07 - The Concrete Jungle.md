@@ -15,18 +15,18 @@ release_date: "Apr 2, 2024"
 editions: ["Apr 2, 2024"]
 isbn: ["978-1302955175"]
 cover_note: "Daredevil #154 cover"
-story_rating: "⭐⭐⭐⭐"
-tier: "B"
-acquisition: "Buy last"
-rating_reason: "Final bridge before Frank Miller."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐⭐"
+ai_tier: "B"
+ai_acquisition: "Buy last"
+ai_reason: "Final bridge before Frank Miller."
+ai_source: "ChatGPT/Gemini (unverified)"
 covered_by: ["[[Daredevil Omnibus Vol 4]]"]
 goodreads_rating: 3.48
 goodreads_votes: 48
 goodreads_checked: "2026-09-29"
 seq: 7
 purpose: "future"
-missing_before: 2
+missing_before: 3
 source: "Epics.xlsx Main Page + Ranking tab, cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"
 wikipedia_checked: "2026-09-29"
 verified: true

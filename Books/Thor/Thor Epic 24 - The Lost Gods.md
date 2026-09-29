@@ -13,11 +13,11 @@ pages: "400"
 release_date: "Jun 4, 2024"
 editions: ["Jun 4, 2024"]
 isbn: ["978-1302956509"]
-story_rating: "⭐⭐⭐"
-tier: "C"
-acquisition: "Buy last"
-rating_reason: "Ends the classic Journey into Mystery era before the relaunch."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐"
+ai_tier: "C"
+ai_acquisition: "Buy last"
+ai_reason: "Ends the classic Journey into Mystery era before the relaunch."
+ai_source: "ChatGPT/Gemini (unverified)"
 goodreads_rating: 2.95
 goodreads_votes: 21
 goodreads_checked: "2026-09-29"

@@ -15,11 +15,11 @@ release_date: "Nov 11, 2025"
 editions: ["Nov 11, 2025"]
 isbn: ["978-1302965174"]
 cover_note: "Midnight Sons Unlimited #6 cover"
-story_rating: "⭐⭐⭐"
-tier: "C+"
-acquisition: "Buy last"
-rating_reason: "Late Sorcerer Supreme material. Worth having but no urgency."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐"
+ai_tier: "C+"
+ai_acquisition: "Buy last"
+ai_reason: "Late Sorcerer Supreme material. Worth having but no urgency."
+ai_source: "ChatGPT/Gemini (unverified)"
 goodreads_rating: 3.33
 goodreads_votes: 12
 goodreads_checked: "2026-09-29"

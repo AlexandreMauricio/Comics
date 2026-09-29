@@ -17,6 +17,7 @@ isbn: ["9781302969066"]
 price_note: "Pre-order about 17 (normal about 20). Singles are 6-8 each; see Modern Runs."
 seq: 2001
 purpose: "modern"
+order: 2001
 source: "Conversation with user (2026-09)"
 verified: false
 tags: ["comics", "line/iron-man"]

@@ -5,11 +5,11 @@ number: 14
 title: "Not yet released"
 status: "unreleased"
 read: false
-story_rating: "⭐⭐⭐⭐☆"
-tier: "A+"
-acquisition: "Buy when ready"
-rating_reason: "Continues Simonson's masterpiece immediately after Surtur War."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐⭐☆"
+ai_tier: "A+"
+ai_acquisition: "Buy when ready"
+ai_reason: "Continues Simonson's masterpiece immediately after Surtur War."
+ai_source: "ChatGPT/Gemini (unverified)"
 seq: 14
 source: "Epics.xlsx Thor Ranking tab only (no Main Page data for Thor)"
 verified: false

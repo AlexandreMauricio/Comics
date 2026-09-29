@@ -15,11 +15,11 @@ release_date: "Aug 4, 2021"
 editions: ["Oct 17, 2018", "Aug 4, 2021"]
 isbn: ["978-1302911386", "978-1302929688"]
 cover_note: "Doctor Strange Pinup Cover"
-story_rating: "⭐⭐⭐⭐⭐"
-tier: "S+"
-acquisition: "Already owned"
-rating_reason: "Already confirmed masterpiece. Ditko's surreal art, Dormammu, the Ancient One and the foundations of Marvel magic."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐⭐⭐"
+ai_tier: "S+"
+ai_acquisition: "Already owned"
+ai_reason: "Already confirmed masterpiece. Ditko's surreal art, Dormammu, the Ancient One and the foundations of Marvel magic."
+ai_source: "ChatGPT/Gemini (unverified)"
 milestone: "yes (per ChatGPT)"
 goodreads_rating: 3.96
 goodreads_votes: 261

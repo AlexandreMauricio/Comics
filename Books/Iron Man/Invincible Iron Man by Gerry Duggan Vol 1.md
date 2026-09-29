@@ -11,6 +11,9 @@ title: "Invincible Iron Man by Gerry Duggan Vol 1: Demon in the Armor"
 issues: "Invincible Iron Man (2022) #1-6"
 isbn: ["9781302947583"]
 seq: 1001
+order: 1001
+ordered: 2026-09-24
+order_month: "2026-09"
 source: "Conversation with user (2026-09)"
 verified: false
 tags: ["comics", "line/iron-man"]

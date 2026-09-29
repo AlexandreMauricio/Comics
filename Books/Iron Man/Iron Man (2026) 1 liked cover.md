@@ -10,6 +10,7 @@ store: "Walt's"
 price_note: "Single at Walt's, one cover liked."
 seq: 2001.5
 purpose: "modern"
+order: 2001.5
 source: "Conversation with user (2026-09)"
 verified: false
 tags: ["comics", "line/iron-man"]

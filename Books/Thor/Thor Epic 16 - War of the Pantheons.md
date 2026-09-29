@@ -13,11 +13,11 @@ pages: "472"
 release_date: "Oct 23, 2013"
 editions: ["Oct 23, 2013"]
 isbn: ["978-0785187882"]
-story_rating: "⭐⭐⭐⭐"
-tier: "B"
-acquisition: "Watch market"
-rating_reason: "Strong DeFalco era begins."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐⭐"
+ai_tier: "B"
+ai_acquisition: "Watch market"
+ai_reason: "Strong DeFalco era begins."
+ai_source: "ChatGPT/Gemini (unverified)"
 goodreads_rating: 3.88
 goodreads_votes: 144
 goodreads_checked: "2026-09-29"

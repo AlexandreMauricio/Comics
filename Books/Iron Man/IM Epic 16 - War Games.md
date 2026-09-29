@@ -16,13 +16,13 @@ editions: ["Mar 19, 2014"]
 isbn: ["978-0785185505"]
 cover_note: "Iron Man #258 cover"
 price_note: "Not found new. Plan: Armor Wars Omni + Dragon Seed Saga TPB, covers 15 of 20 issues (missing #267-269, #276-277)."
-story_rating: "⭐⭐⭐⭐"
-tier: "B"
-acquisition: "OOP. Armor Wars Omni + Dragon Seed TPB idea"
-rating_reason: "OOP, but you're still far away."
-rating_score: "8.5/10"
-rating_highlight: "Dragon Seed Saga climax, Fin Fang Foom, Ring origins"
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐⭐"
+ai_tier: "B"
+ai_acquisition: "OOP. Armor Wars Omni + Dragon Seed TPB idea"
+ai_reason: "OOP, but you're still far away."
+ai_score: "8.5/10"
+ai_highlight: "Dragon Seed Saga climax, Fin Fang Foom, Ring origins"
+ai_source: "ChatGPT/Gemini (unverified)"
 covered_by: ["[[Iron Man Armor Wars Omnibus]]", "[[Iron Man Dragon Seed Saga TPB]]"]
 goodreads_rating: 3.86
 goodreads_votes: 100
@@ -32,6 +32,7 @@ urgency_reason: "Out of print, hard to find"
 seq: 16
 purpose: "security"
 missing_before: 2
+coverage_gaps: "#267-269, #276-277"
 source: "Epics.xlsx Main Page + Ranking tab, cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"
 wikipedia_checked: "2026-09-29"
 verified: true

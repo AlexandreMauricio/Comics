@@ -15,11 +15,11 @@ release_date: "Jan 6, 2026"
 editions: ["Jan 6, 2026"]
 isbn: ["978-1302960490"]
 cover_note: "Amazing Spider-Man #217 cover"
-story_rating: "⭐⭐⭐⭐"
-tier: "A"
-acquisition: "Buy when ready"
-rating_reason: "Last bridge before Roger Stern takes over."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐⭐"
+ai_tier: "A"
+ai_acquisition: "Buy when ready"
+ai_reason: "Last bridge before Roger Stern takes over."
+ai_source: "ChatGPT/Gemini (unverified)"
 covered_by: ["[[SM Omnibus 7]]"]
 goodreads_rating: 3.71
 goodreads_votes: 41

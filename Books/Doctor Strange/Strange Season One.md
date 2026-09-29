@@ -9,6 +9,7 @@ years: "2012"
 writers: "Matt Fraction"
 artists: "Terry Dodson"
 seq: 1.5
+order: 1.5
 source: "Conversation with user (2026-09)"
 verified: false
 tags: ["comics", "line/doctor-strange"]

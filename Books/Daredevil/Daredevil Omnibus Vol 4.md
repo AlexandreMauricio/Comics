@@ -12,12 +12,13 @@ editions: ["22 Sep 2026"]
 price_seen: 95
 store: "Walt's"
 price_note: "Just released, discounted 95 (normal 125). Candidate for Nov/Dec so Omnibus 2-3-4 leave no gaps."
-covers: ["[[DD Epic 06 - Watch Out for Bullseye]]", "[[DD Epic 07 - The Concrete Jungle]]", "[[DD Epic 08 - To Dare The Devil]]"]
+covers: ["[[DD Epic 07 - The Concrete Jungle]]"]
 urgency: "medium"
 urgency_reason: "Just released, discounted 95 vs 125"
 seq: 6.5
 purpose: "security"
-missing_before: 1
+missing_before: 2
+covers_partial: ["[[DD Epic 06 - Watch Out for Bullseye]]", "[[DD Epic 08 - To Dare The Devil]]"]
 source: "Wikipedia Marvel Omnibus (2026-09-29) + conversation"
 wikipedia_checked: "2026-09-29"
 verified: true

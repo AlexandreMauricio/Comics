@@ -16,6 +16,7 @@ price_note: "Saved on Vinted. Also found some TPBs for the rest of the run. Not 
 notes: "Aaron's whole run (#1-20). Does not include #21-26 (Hopeless/Barber) or Cates (legacy #381-390). See Modern Runs."
 seq: 1001
 purpose: "modern"
+order: 1001
 source: "Wikipedia Marvel Omnibus (2026-09-29) + conversation"
 wikipedia_checked: "2026-09-29"
 verified: true

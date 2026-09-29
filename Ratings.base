@@ -1,7 +1,6 @@
 filters:
   and:
     - file.inFolder("Books")
-    - 'goodreads_rating > 0'
 properties:
   file.name:
     displayName: Book
@@ -9,27 +8,69 @@ properties:
     displayName: Goodreads
   goodreads_votes:
     displayName: Ratings
+  my_rating:
+    displayName: Mine
+  ai_tier:
+    displayName: AI tier
 views:
   - type: table
     name: Best rated first
+    filters:
+      and:
+        - 'goodreads_rating > 0'
     order:
       - file.name
       - line
       - goodreads_rating
       - goodreads_votes
-      - tier
+      - my_rating
+      - ai_tier
       - status
       - read
     sort:
       - property: goodreads_rating
         direction: DESC
   - type: table
+    name: My ratings
+    filters:
+      and:
+        - 'my_rating > 0'
+    order:
+      - file.name
+      - line
+      - my_rating
+      - goodreads_rating
+      - ai_tier
+    sort:
+      - property: my_rating
+        direction: DESC
+  - type: table
+    name: Read, not rated yet
+    filters:
+      and:
+        - 'read == true'
+        - not:
+            - 'my_rating > 0'
+    order:
+      - file.name
+      - line
+      - goodreads_rating
+      - ai_tier
+    sort:
+      - property: line
+        direction: ASC
+      - property: seq
+        direction: ASC
+  - type: table
     name: Best rated I don't own yet
     filters:
-      or:
-        - 'status == "wanted"'
-        - 'status == "oop"'
-        - 'status == "planned"'
+      and:
+        - 'goodreads_rating > 0'
+        - or:
+            - 'status == "wanted"'
+            - 'status == "oop"'
+            - 'status == "planned"'
+            - 'status == "partial"'
     order:
       - file.name
       - line
@@ -45,6 +86,7 @@ views:
     name: Best rated I own and haven't read
     filters:
       and:
+        - 'goodreads_rating > 0'
         - 'read == false'
         - or:
             - 'status == "owned"'

@@ -15,11 +15,11 @@ release_date: "Jul 9, 2024"
 editions: ["Feb 24, 2016", "Jul 9, 2024"]
 isbn: ["978-0785196914", "978-1302957889"]
 cover_note: "Amazing Spider-Man #338 cover"
-story_rating: "⭐⭐⭐⭐"
-tier: "B+"
-acquisition: "Buy last"
-rating_reason: "Sinister Six return. Michelinie/Bagley goodness."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐⭐"
+ai_tier: "B+"
+ai_acquisition: "Buy last"
+ai_reason: "Sinister Six return. Michelinie/Bagley goodness."
+ai_source: "ChatGPT/Gemini (unverified)"
 milestone: "yes (per ChatGPT)"
 goodreads_rating: 3.82
 goodreads_votes: 238

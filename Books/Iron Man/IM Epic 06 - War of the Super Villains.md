@@ -15,13 +15,13 @@ release_date: "Nov 28, 2023"
 editions: ["Nov 28, 2023"]
 isbn: ["978-1302948801"]
 cover_note: "Iron Man #69 cover"
-story_rating: "⭐⭐⭐⭐☆"
-tier: "A+"
-acquisition: "Already owned (read)"
-rating_reason: "First unread Epic after Omnibus 3. Keeps the momentum of Iron Man's classic run."
-rating_score: "5/10"
-rating_highlight: "War of Super-Villains, infamous \"Nose Armor\" era"
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐⭐☆"
+ai_tier: "A+"
+ai_acquisition: "Already owned (read)"
+ai_reason: "First unread Epic after Omnibus 3. Keeps the momentum of Iron Man's classic run."
+ai_score: "5/10"
+ai_highlight: "War of Super-Villains, infamous \"Nose Armor\" era"
+ai_source: "ChatGPT/Gemini (unverified)"
 goodreads_rating: 3.23
 goodreads_votes: 30
 goodreads_checked: "2026-09-29"

@@ -13,11 +13,11 @@ pages: "504"
 release_date: "Nov 30, 2022"
 editions: ["Nov 30, 2022"]
 isbn: ["978-1302948269"]
-story_rating: "⭐⭐⭐⭐"
-tier: "C+"
-acquisition: "Buy last"
-rating_reason: "Famous crossover and crazy Thor. Better event than ongoing run."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐⭐"
+ai_tier: "C+"
+ai_acquisition: "Buy last"
+ai_reason: "Famous crossover and crazy Thor. Better event than ongoing run."
+ai_source: "ChatGPT/Gemini (unverified)"
 goodreads_rating: 3.18
 goodreads_votes: 40
 goodreads_checked: "2026-09-29"

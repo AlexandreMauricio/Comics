@@ -8,8 +8,9 @@ issues: "Amazing Spider-Man #143-180, Annual #10-11; Nova #12"
 pages: "880"
 release_date: "1 Sep 2021"
 editions: ["1 Sep 2021"]
-covers: ["[[SM Epic 09 - Spider-Man or Spider-Clone]]", "[[SM Epic 10 - Big Apple Battleground]]"]
+covers: ["[[SM Epic 09 - Spider-Man or Spider-Clone]]"]
 seq: 9.5
+covers_partial: ["[[SM Epic 10 - Big Apple Battleground]]"]
 source: "Wikipedia Marvel Omnibus (2026-09-29)"
 wikipedia_checked: "2026-09-29"
 verified: true

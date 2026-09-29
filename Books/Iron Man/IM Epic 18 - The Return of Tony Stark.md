@@ -16,13 +16,13 @@ editions: ["Nov 1, 2022"]
 isbn: ["978-1302948191"]
 cover_note: "Iron Man #291 cover"
 price_note: "Never seen on sale. Ceiling: 150 EUR landed (top-1 character, wants to close the line)."
-story_rating: "⭐⭐⭐"
-tier: "C"
-acquisition: "Buy last"
-rating_reason: "OOP but still years away."
-rating_score: "7.5/10"
-rating_highlight: "Tony/Rhodey rift, 1st Telepresence suit, Iron Manual tech specs"
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐"
+ai_tier: "C"
+ai_acquisition: "Buy last"
+ai_reason: "OOP but still years away."
+ai_score: "7.5/10"
+ai_highlight: "Tony/Rhodey rift, 1st Telepresence suit, Iron Manual tech specs"
+ai_source: "ChatGPT/Gemini (unverified)"
 goodreads_rating: 3.61
 goodreads_votes: 36
 goodreads_checked: "2026-09-29"

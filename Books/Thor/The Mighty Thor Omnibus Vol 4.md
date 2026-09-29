@@ -12,13 +12,14 @@ release_date: "16 May 2023"
 editions: ["16 May 2023"]
 price_seen: 85
 store: "Walt's"
-covers: ["[[Thor Epic 06 - Into the Dark Nebula]]", "[[Thor Epic 07 - Ulik Unchained]]"]
+covers: ["[[Thor Epic 06 - Into the Dark Nebula]]"]
 urgency: "high"
 urgency_reason: "Only 1 copy in stock at Walt's"
 cart: "2026-10"
 seq: 6.5
 purpose: "reading"
 missing_before: 0
+covers_partial: ["[[Thor Epic 07 - Ulik Unchained]]"]
 source: "Wikipedia Marvel Omnibus (2026-09-29) + conversation"
 wikipedia_checked: "2026-09-29"
 verified: true

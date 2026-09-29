@@ -15,11 +15,11 @@ release_date: "Oct 24, 2023"
 editions: ["Feb 14, 2018", "Oct 24, 2023"]
 isbn: ["978-1302910044", "978-1302950569"]
 cover_note: "Daredevil #41 cover"
-story_rating: "⭐⭐⭐⭐"
-tier: "A"
-acquisition: "Already owned"
-rating_reason: "Excellent continuation of the Silver Age."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐⭐"
+ai_tier: "A"
+ai_acquisition: "Already owned"
+ai_reason: "Excellent continuation of the Silver Age."
+ai_source: "ChatGPT/Gemini (unverified)"
 goodreads_rating: 3.39
 goodreads_votes: 150
 goodreads_checked: "2026-09-29"

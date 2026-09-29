@@ -16,11 +16,11 @@ isbn: ["978-1302922481"]
 price_seen: 50
 store: "Cheap-Comics"
 price_note: "Plus 20 shipping. Prefer Thor Omnibus 4 (85 at Walt's, 1 in stock)."
-story_rating: "⭐⭐⭐⭐"
-tier: "B"
-acquisition: "Buy last"
-rating_reason: "Early Conway era. Worth reading but not urgent."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐⭐"
+ai_tier: "B"
+ai_acquisition: "Buy last"
+ai_reason: "Early Conway era. Worth reading but not urgent."
+ai_source: "ChatGPT/Gemini (unverified)"
 covered_by: ["[[The Mighty Thor Omnibus Vol 4]]"]
 goodreads_rating: 3.48
 goodreads_votes: 46

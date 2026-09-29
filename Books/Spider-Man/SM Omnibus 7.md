@@ -8,8 +8,9 @@ issues: "Amazing Spider-Man #206-223, Annual #14-15; Marvel Treasury Edition #25
 pages: "680"
 release_date: "23 Jun 2026"
 editions: ["23 Jun 2026"]
-covers: ["[[SM Epic 11 - Nine Lives Has the Black Cat]]", "[[SM Epic 12 - Spider-Man Threat or Menace]]"]
+covers: ["[[SM Epic 12 - Spider-Man Threat or Menace]]"]
 seq: 11.5
+covers_partial: ["[[SM Epic 11 - Nine Lives Has the Black Cat]]"]
 source: "Wikipedia Marvel Omnibus (2026-09-29)"
 wikipedia_checked: "2026-09-29"
 verified: true

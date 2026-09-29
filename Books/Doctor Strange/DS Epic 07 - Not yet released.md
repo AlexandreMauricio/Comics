@@ -5,11 +5,11 @@ number: 7
 title: "Not yet released"
 status: "unreleased"
 read: false
-story_rating: "⭐⭐⭐⭐"
-tier: "A (Predicted)"
-acquisition: "Preorder immediately"
-rating_reason: "Expected to complete the transition toward Triumph and Torment."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐⭐"
+ai_tier: "A (Predicted)"
+ai_acquisition: "Preorder immediately"
+ai_reason: "Expected to complete the transition toward Triumph and Torment."
+ai_source: "ChatGPT/Gemini (unverified)"
 seq: 7
 source: "Epics.xlsx Main Page + Ranking tab"
 verified: false

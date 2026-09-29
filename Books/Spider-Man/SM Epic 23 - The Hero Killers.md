@@ -15,11 +15,11 @@ release_date: "Jan 17, 2023"
 editions: ["Jan 17, 2023"]
 isbn: ["978-1302951047"]
 cover_note: "New Warriors Annual #2 cover"
-story_rating: "⭐⭐⭐⭐⭐"
-tier: "S+"
-acquisition: "Buy when ready"
-rating_reason: "Carnage debut. One of Spider-Man's defining modern villains."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐⭐⭐"
+ai_tier: "S+"
+ai_acquisition: "Buy when ready"
+ai_reason: "Carnage debut. One of Spider-Man's defining modern villains."
+ai_source: "ChatGPT/Gemini (unverified)"
 goodreads_rating: 3.52
 goodreads_votes: 87
 goodreads_checked: "2026-09-29"

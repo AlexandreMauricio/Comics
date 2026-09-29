@@ -15,11 +15,11 @@ release_date: "Feb 14, 2023"
 editions: ["Jul 13, 2016", "Feb 14, 2023"]
 isbn: ["978-0785195481", "978-1302950361"]
 cover_note: "Daredevil #4 cover"
-story_rating: "⭐⭐⭐⭐☆"
-tier: "A+"
-acquisition: "Already owned"
-rating_reason: "Foundation of Matt Murdock. You've already said you're loving it."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐⭐☆"
+ai_tier: "A+"
+ai_acquisition: "Already owned"
+ai_reason: "Foundation of Matt Murdock. You've already said you're loving it."
+ai_source: "ChatGPT/Gemini (unverified)"
 goodreads_rating: 3.59
 goodreads_votes: 246
 goodreads_checked: "2026-09-29"

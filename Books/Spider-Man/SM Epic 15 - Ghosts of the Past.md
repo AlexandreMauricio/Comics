@@ -15,11 +15,11 @@ release_date: "Jun 27, 2023"
 editions: ["May 21, 2014", "Jun 27, 2023"]
 isbn: ["978-0785189169", "978-1302950484"]
 cover_note: "Amazing Spider-Man #270 cover"
-story_rating: "⭐⭐⭐⭐"
-tier: "B+"
-acquisition: "Watch market"
-rating_reason: "Black Suit transition, Hobgoblin era continues."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐⭐"
+ai_tier: "B+"
+ai_acquisition: "Watch market"
+ai_reason: "Black Suit transition, Hobgoblin era continues."
+ai_source: "ChatGPT/Gemini (unverified)"
 goodreads_rating: 3.81
 goodreads_votes: 198
 goodreads_checked: "2026-09-29"

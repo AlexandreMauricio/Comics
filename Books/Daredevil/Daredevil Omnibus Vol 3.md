@@ -12,13 +12,14 @@ release_date: "9 Apr 2024"
 editions: ["9 Apr 2024"]
 price_seen: 105
 store: "Walt's"
-covers: ["[[DD Epic 04 - A Woman Called Widow]]", "[[DD Epic 05 - Going Out West]]", "[[DD Epic 06 - Watch Out for Bullseye]]"]
+covers: ["[[DD Epic 05 - Going Out West]]"]
 urgency: "high"
 urgency_reason: "Discounted 105 vs 125, may end"
 cart: "2026-10"
 seq: 4.5
 purpose: "reading"
 missing_before: 0
+covers_partial: ["[[DD Epic 04 - A Woman Called Widow]]", "[[DD Epic 06 - Watch Out for Bullseye]]"]
 source: "Wikipedia Marvel Omnibus (2026-09-29) + conversation"
 wikipedia_checked: "2026-09-29"
 verified: true

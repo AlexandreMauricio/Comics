@@ -15,11 +15,11 @@ release_date: "May 14, 2024"
 editions: ["May 15, 2019", "May 14, 2024"]
 isbn: ["978-1302918118", "978-1302957902"]
 cover_note: "Amazing Spider-Man #323 cover"
-story_rating: "⭐⭐⭐⭐☆"
-tier: "A+"
-acquisition: "Watch market"
-rating_reason: "McFarlane era continues. Excellent late-80s Spider-Man."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐⭐☆"
+ai_tier: "A+"
+ai_acquisition: "Watch market"
+ai_reason: "McFarlane era continues. Excellent late-80s Spider-Man."
+ai_source: "ChatGPT/Gemini (unverified)"
 goodreads_rating: 3.68
 goodreads_votes: 200
 goodreads_checked: "2026-09-29"

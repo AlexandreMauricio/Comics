@@ -9,8 +9,9 @@ issues: "Tales of Suspense #39-83; Tales to Astonish #82"
 pages: "720"
 release_date: "29 Aug 2023"
 editions: ["7 May 2008", "29 Aug 2023"]
-covers: ["[[IM Epic 01 - The Golden Avenger]]", "[[IM Epic 02 - By Force of Arms]]"]
+covers: ["[[IM Epic 01 - The Golden Avenger]]"]
 seq: 1.5
+covers_partial: ["[[IM Epic 02 - By Force of Arms]]"]
 source: "Wikipedia Marvel Omnibus (2026-09-29) + conversation"
 wikipedia_checked: "2026-09-29"
 verified: true

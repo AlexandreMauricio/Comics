@@ -15,17 +15,17 @@ release_date: "Dec 12, 2023"
 editions: ["Dec 1, 2020", "Dec 12, 2023"]
 isbn: ["978-1302925635", "978-1302950590"]
 cover_note: "Daredevil #300 cover"
-story_rating: "⭐⭐⭐⭐☆"
-tier: "A+"
-acquisition: "Watch market"
-rating_reason: "One of Ann Nocenti's strongest periods with Lee Weeks."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐⭐☆"
+ai_tier: "A+"
+ai_acquisition: "Watch market"
+ai_reason: "One of Ann Nocenti's strongest periods with Lee Weeks."
+ai_source: "ChatGPT/Gemini (unverified)"
 goodreads_rating: 3.84
 goodreads_votes: 207
 goodreads_checked: "2026-09-29"
 seq: 15
 purpose: "future"
-missing_before: 9
+missing_before: 10
 source: "Epics.xlsx Main Page + Ranking tab, cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"
 wikipedia_checked: "2026-09-29"
 verified: true

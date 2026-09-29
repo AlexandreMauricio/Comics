@@ -15,13 +15,13 @@ release_date: "Jan 25, 2017"
 editions: ["Jan 25, 2017"]
 isbn: ["978-1302900113"]
 cover_note: "Tales of Suspense #97 cover"
-story_rating: "⭐⭐⭐⭐"
-tier: "A"
-acquisition: "Covered in Omnibus"
-rating_reason: "Excellent Silver Age progression. Already owned."
-rating_score: "8/10"
-rating_highlight: "Official launch of Iron Man #1, Gene Colan art"
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐⭐"
+ai_tier: "A"
+ai_acquisition: "Covered in Omnibus"
+ai_reason: "Excellent Silver Age progression. Already owned."
+ai_score: "8/10"
+ai_highlight: "Official launch of Iron Man #1, Gene Colan art"
+ai_source: "ChatGPT/Gemini (unverified)"
 covered_by: ["[[The Invincible Iron Man Omnibus Vol 1]]", "[[The Invincible Iron Man Omnibus Vol 2]]"]
 goodreads_rating: 3.6
 goodreads_votes: 91

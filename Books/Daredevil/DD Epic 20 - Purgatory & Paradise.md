@@ -15,17 +15,17 @@ release_date: "Jun 5, 2019"
 editions: ["Jun 5, 2019"]
 isbn: ["978-1302918798"]
 cover_note: "Daredevil #347 cover"
-story_rating: "⭐⭐⭐"
-tier: "C"
-acquisition: "Buy last"
-rating_reason: "Completionist territory."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐"
+ai_tier: "C"
+ai_acquisition: "Buy last"
+ai_reason: "Completionist territory."
+ai_source: "ChatGPT/Gemini (unverified)"
 goodreads_rating: 3.33
 goodreads_votes: 84
 goodreads_checked: "2026-09-29"
 seq: 20
 purpose: "future"
-missing_before: 14
+missing_before: 15
 source: "Epics.xlsx Main Page + Ranking tab, cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"
 wikipedia_checked: "2026-09-29"
 verified: true

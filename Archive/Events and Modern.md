@@ -1,3 +1,5 @@
+> **Superseded.** Modern runs live in [[Modern Runs]], events in [[Research Notes]] and the book notes. Kept for history only.
+
 # Events and Modern (palate cleansers)
 
 ## Events

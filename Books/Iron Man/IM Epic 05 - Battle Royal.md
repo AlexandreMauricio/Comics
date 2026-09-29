@@ -15,13 +15,13 @@ release_date: "May 24, 2022"
 editions: ["May 24, 2022"]
 isbn: ["978-1302933616"]
 cover_note: "Iron Man #47 cover"
-story_rating: "⭐⭐⭐⭐"
-tier: "A"
-acquisition: "Covered in Omnibus"
-rating_reason: "Important bridge to the Michelinie era."
-rating_score: "9/10"
-rating_highlight: "1st Thanos, Drax, & Moondragon (#55)"
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐⭐"
+ai_tier: "A"
+ai_acquisition: "Covered in Omnibus"
+ai_reason: "Important bridge to the Michelinie era."
+ai_score: "9/10"
+ai_highlight: "1st Thanos, Drax, & Moondragon (#55)"
+ai_source: "ChatGPT/Gemini (unverified)"
 covered_by: ["[[The Invincible Iron Man Omnibus Vol 3]]"]
 goodreads_rating: 3.06
 goodreads_votes: 36

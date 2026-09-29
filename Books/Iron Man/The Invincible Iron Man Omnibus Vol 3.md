@@ -9,8 +9,9 @@ issues: "Iron Man #26-67; Daredevil #73"
 pages: "968"
 release_date: "27 Aug 2024"
 editions: ["27 Aug 2024"]
-covers: ["[[IM Epic 04 - The Fury of the Firebrand]]", "[[IM Epic 05 - Battle Royal]]"]
+covers: ["[[IM Epic 05 - Battle Royal]]"]
 seq: 4.5
+covers_partial: ["[[IM Epic 04 - The Fury of the Firebrand]]"]
 source: "Wikipedia Marvel Omnibus (2026-09-29) + conversation"
 wikipedia_checked: "2026-09-29"
 verified: true

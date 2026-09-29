@@ -17,13 +17,13 @@ isbn: ["978-1302965297"]
 cover_note: "Iron Man #300 cover"
 price_seen: 50
 store: "Walt's"
-story_rating: "⭐⭐⭐"
-tier: "C+"
-acquisition: "To buy (~50 Walts)"
-rating_reason: "Modern era, still easy to find."
-rating_score: "9/10"
-rating_highlight: "1st Hulkbuster armor (#304), #300 Modular Armor & Iron Legion"
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐"
+ai_tier: "C+"
+ai_acquisition: "To buy (~50 Walts)"
+ai_reason: "Modern era, still easy to find."
+ai_score: "9/10"
+ai_highlight: "1st Hulkbuster armor (#304), #300 Modular Armor & Iron Legion"
+ai_source: "ChatGPT/Gemini (unverified)"
 goodreads_rating: 3.46
 goodreads_votes: 13
 goodreads_checked: "2026-09-29"

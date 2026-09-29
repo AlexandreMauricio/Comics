@@ -15,11 +15,11 @@ release_date: "31 May 2022"
 editions: ["Sep 24, 2014", "Apr 8, 2020", "31 May 2022"]
 isbn: ["978-0785188346", "978-1302925642", "978-1302946852"]
 cover_note: "Amazing Spider-Man Annual #1 cover"
-story_rating: "⭐⭐⭐⭐☆"
-tier: "A+"
-acquisition: "Already owned"
-rating_reason: "Foundation of Spider-Man. Already loved and read."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐⭐☆"
+ai_tier: "A+"
+ai_acquisition: "Already owned"
+ai_reason: "Foundation of Spider-Man. Already loved and read."
+ai_source: "ChatGPT/Gemini (unverified)"
 goodreads_rating: 4.32
 goodreads_votes: 724
 goodreads_checked: "2026-09-29"

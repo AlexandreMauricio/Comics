@@ -18,11 +18,11 @@ cover_note: "Amazing Spider-Man #130 cover"
 price_seen: 115
 store: "Walt's"
 price_note: "Only via Spider-Man Omnibus 4 (covers 7 and 8, repeats 7)."
-story_rating: "⭐⭐⭐"
-tier: "C+"
-acquisition: "Buy last"
-rating_reason: "Conway aftermath. Decent bridge after Gwen."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐"
+ai_tier: "C+"
+ai_acquisition: "Buy last"
+ai_reason: "Conway aftermath. Decent bridge after Gwen."
+ai_source: "ChatGPT/Gemini (unverified)"
 covered_by: ["[[The Amazing Spider-Man Omnibus Vol 4]]"]
 goodreads_rating: 4.12
 goodreads_votes: 146

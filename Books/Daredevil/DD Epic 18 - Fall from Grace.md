@@ -15,17 +15,17 @@ release_date: "Jun 4, 2024"
 editions: ["Apr 9, 2014", "Jun 4, 2024"]
 isbn: ["978-0785185161", "978-1302957872"]
 cover_note: "Daredevil Annual #10 cover"
-story_rating: "⭐⭐⭐"
-tier: "C"
-acquisition: "Buy last"
-rating_reason: "Completionist territory."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐"
+ai_tier: "C"
+ai_acquisition: "Buy last"
+ai_reason: "Completionist territory."
+ai_source: "ChatGPT/Gemini (unverified)"
 goodreads_rating: 2.68
 goodreads_votes: 157
 goodreads_checked: "2026-09-29"
 seq: 18
 purpose: "future"
-missing_before: 12
+missing_before: 13
 source: "Epics.xlsx Main Page + Ranking tab, cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"
 wikipedia_checked: "2026-09-29"
 verified: true

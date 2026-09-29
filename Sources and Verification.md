@@ -5,7 +5,7 @@ Every book note has a `source` property. `verified: true` means the book's issue
 | Data | Source | How trustworthy |
 |---|---|---|
 | Epic numbers, subtitles, issues, writers, pages, editions, ISBNs, eras | `Epics.xlsx` Main Page (your compilation) | Good, but ISBNs are pasted with cover text; verify before buying |
-| Story rating, tier, "reason", acquisition strategy, Iron Man /10 scores | `Epics.xlsx` ranking tabs, made by ChatGPT/Gemini | **Unverified opinions**, not your taste |
+| Story rating, tier, "reason", acquisition strategy, Iron Man /10 scores (the `ai_*` properties) | `Epics.xlsx` ranking tabs, made by ChatGPT/Gemini | **Unverified opinions**, not your taste |
 | Thor Epics | `Epics.xlsx` Thor Ranking tab only | Titles only, no issue ranges |
 | Omnibus contents | Conversation + web checks (see [[Research Notes]]) | Marked in each note; Thor Omnibus 1-3 and IM/Spidey omnibus titles still to verify |
 | Goodreads rating, votes | Goodreads Epic Collection series pages, pulled 2026-09-29 | Reader averages; under 30 ratings is a low sample |

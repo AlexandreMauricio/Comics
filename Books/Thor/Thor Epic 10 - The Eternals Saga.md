@@ -13,11 +13,11 @@ pages: "496"
 release_date: "Nov 26, 2024"
 editions: ["Nov 26, 2024"]
 isbn: ["978-1302955540"]
-story_rating: "⭐⭐⭐⭐☆"
-tier: "A"
-acquisition: "Watch market"
-rating_reason: "Roy Thomas adapts Kirby's Eternals ideas into Thor. Very important cosmically."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐⭐☆"
+ai_tier: "A"
+ai_acquisition: "Watch market"
+ai_reason: "Roy Thomas adapts Kirby's Eternals ideas into Thor. Very important cosmically."
+ai_source: "ChatGPT/Gemini (unverified)"
 goodreads_rating: 3.39
 goodreads_votes: 18
 goodreads_checked: "2026-09-29"

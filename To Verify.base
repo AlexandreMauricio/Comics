@@ -18,7 +18,29 @@ views:
       - issues
       - isbn
       - source
-      - rating_source
+      - ai_source
     sort:
+      - property: seq
+        direction: ASC
+  - type: table
+    name: Before buying
+    filters:
+      or:
+        - 'status == "wanted"'
+        - 'status == "planned"'
+        - 'status == "partial"'
+        - 'status == "oop"'
+    order:
+      - file.name
+      - line
+      - status
+      - issues
+      - isbn
+      - price_seen
+      - store
+      - source
+    sort:
+      - property: line
+        direction: ASC
       - property: seq
         direction: ASC

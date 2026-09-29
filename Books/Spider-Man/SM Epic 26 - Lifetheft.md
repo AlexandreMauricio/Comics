@@ -15,11 +15,11 @@ release_date: "Nov 16, 2021"
 editions: ["Nov 16, 2021"]
 isbn: ["978-1302930691"]
 cover_note: "Amazing Spider-Man: Ashcan Edition cover"
-story_rating: "⭐⭐☆"
-tier: "D+"
-acquisition: "Buy last"
-rating_reason: "Clone Saga buildup. Mostly for completion."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐☆"
+ai_tier: "D+"
+ai_acquisition: "Buy last"
+ai_reason: "Clone Saga buildup. Mostly for completion."
+ai_source: "ChatGPT/Gemini (unverified)"
 goodreads_rating: 3.6
 goodreads_votes: 124
 goodreads_checked: "2026-09-29"

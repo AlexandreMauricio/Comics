@@ -15,17 +15,17 @@ release_date: "Aug 19, 2015"
 editions: ["Aug 19, 2015"]
 isbn: ["978-0785192978"]
 cover_note: "Daredevil #366 cover"
-story_rating: "⭐⭐⭐"
-tier: "C"
-acquisition: "Buy last"
-rating_reason: "Ends classic Daredevil."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐"
+ai_tier: "C"
+ai_acquisition: "Buy last"
+ai_reason: "Ends classic Daredevil."
+ai_source: "ChatGPT/Gemini (unverified)"
 goodreads_rating: 3.29
 goodreads_votes: 117
 goodreads_checked: "2026-09-29"
 seq: 21
 purpose: "future"
-missing_before: 15
+missing_before: 16
 source: "Epics.xlsx Main Page + Ranking tab, cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"
 wikipedia_checked: "2026-09-29"
 verified: true

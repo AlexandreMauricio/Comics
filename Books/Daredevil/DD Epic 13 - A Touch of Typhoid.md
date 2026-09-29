@@ -15,18 +15,18 @@ release_date: "Jul 11, 2023"
 editions: ["Jan 20, 2016", "Jul 11, 2023"]
 isbn: ["978-0785196884", "978-1302950491"]
 cover_note: "Daredevil #256 cover"
-story_rating: "⭐⭐⭐⭐☆"
-tier: "A"
-acquisition: "Watch market"
-rating_reason: "Typhoid Mary and peak Ann Nocenti."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐⭐☆"
+ai_tier: "A"
+ai_acquisition: "Watch market"
+ai_reason: "Typhoid Mary and peak Ann Nocenti."
+ai_source: "ChatGPT/Gemini (unverified)"
 milestone: "yes (per ChatGPT)"
 goodreads_rating: 3.94
 goodreads_votes: 391
 goodreads_checked: "2026-09-29"
 seq: 13
 purpose: "future"
-missing_before: 7
+missing_before: 8
 source: "Epics.xlsx Main Page + Ranking tab, cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"
 wikipedia_checked: "2026-09-29"
 verified: true

@@ -13,11 +13,11 @@ pages: "472"
 release_date: "Nov 15, 2022"
 editions: ["Dec 9, 2020", "Nov 15, 2022"]
 isbn: ["978-1302927066", "978-1302946913"]
-story_rating: "⭐⭐⭐☆"
-tier: "C+"
-acquisition: "Buy last"
-rating_reason: "Fun 90s Thor."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐☆"
+ai_tier: "C+"
+ai_acquisition: "Buy last"
+ai_reason: "Fun 90s Thor."
+ai_source: "ChatGPT/Gemini (unverified)"
 goodreads_rating: 3.48
 goodreads_votes: 56
 goodreads_checked: "2026-09-29"

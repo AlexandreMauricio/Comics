@@ -15,11 +15,11 @@ release_date: "Jan 31, 2023"
 editions: ["Jan 31, 2023"]
 isbn: ["978-1302951054"]
 cover_note: "Doctor Strange, Sorcerer Supreme #54 cover"
-story_rating: "⭐⭐⭐☆"
-tier: "B"
-acquisition: "Watch market"
-rating_reason: "Solid continuation of the Sorcerer Supreme series."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐☆"
+ai_tier: "B"
+ai_acquisition: "Watch market"
+ai_reason: "Solid continuation of the Sorcerer Supreme series."
+ai_source: "ChatGPT/Gemini (unverified)"
 goodreads_rating: 3.38
 goodreads_votes: 29
 goodreads_checked: "2026-09-29"

@@ -9,8 +9,8 @@ issues: "Journey into Mystery #121-125; Thor #126-152, Annual #2; material from 
 pages: "792"
 release_date: "27 Aug 2013"
 editions: ["27 Aug 2013"]
-covers: ["[[Thor Epic 02 - When Titans Clash]]", "[[Thor Epic 03 - The Wrath of Odin]]"]
 seq: 2.5
+covers_partial: ["[[Thor Epic 02 - When Titans Clash]]", "[[Thor Epic 03 - The Wrath of Odin]]"]
 source: "Wikipedia Marvel Omnibus (2026-09-29) + conversation"
 wikipedia_checked: "2026-09-29"
 verified: true

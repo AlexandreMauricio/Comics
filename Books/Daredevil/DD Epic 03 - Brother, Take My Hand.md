@@ -5,7 +5,6 @@ number: 3
 title: "Brother, Take My Hand"
 status: "incoming"
 read: false
-next_read: true
 budget: "monthly"
 years: "1968-1970"
 issues: "Daredevil #42–63"
@@ -17,16 +16,17 @@ release_date: "Feb 22, 2017"
 editions: ["Feb 22, 2017"]
 isbn: ["978-1302904258"]
 cover_note: "Daredevil #48 cover"
-story_rating: "⭐⭐⭐⭐"
-tier: "A"
-acquisition: "Ordered via Omnibus 2"
-rating_reason: "Strong Gene Colan era."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐⭐"
+ai_tier: "A"
+ai_acquisition: "Ordered via Omnibus 2"
+ai_reason: "Strong Gene Colan era."
+ai_source: "ChatGPT/Gemini (unverified)"
 covered_by: ["[[Daredevil Omnibus Vol 2]]"]
 goodreads_rating: 3.49
 goodreads_votes: 126
 goodreads_checked: "2026-09-29"
 seq: 3
+covered_via: ["[[Daredevil Omnibus Vol 2]]"]
 source: "Epics.xlsx Main Page + Ranking tab, cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"
 wikipedia_checked: "2026-09-29"
 verified: true

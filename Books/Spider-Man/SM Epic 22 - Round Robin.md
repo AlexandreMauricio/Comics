@@ -15,11 +15,11 @@ release_date: "Sep 19, 2023"
 editions: ["Mar 31, 2015", "Sep 19, 2023"]
 isbn: ["978-0785192688", "978-1302950545"]
 cover_note: "Amazing Spider-Man Annual #25 cover"
-story_rating: "⭐⭐⭐"
-tier: "C+"
-acquisition: "Buy last"
-rating_reason: "Fun Bagley era before Carnage."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐"
+ai_tier: "C+"
+ai_acquisition: "Buy last"
+ai_reason: "Fun Bagley era before Carnage."
+ai_source: "ChatGPT/Gemini (unverified)"
 milestone: "yes (per ChatGPT)"
 goodreads_rating: 3.41
 goodreads_votes: 172

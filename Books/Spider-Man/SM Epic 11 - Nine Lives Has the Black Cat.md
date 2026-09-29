@@ -15,11 +15,11 @@ release_date: "Feb 25, 2025"
 editions: ["Feb 25, 2025"]
 isbn: ["978-1302960483"]
 cover_note: "Amazing Spider-Man #200 cover"
-story_rating: "⭐⭐⭐⭐"
-tier: "A"
-acquisition: "Buy when ready"
-rating_reason: "Black Cat becomes central. Builds into Stern era."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐⭐"
+ai_tier: "A"
+ai_acquisition: "Buy when ready"
+ai_reason: "Black Cat becomes central. Builds into Stern era."
+ai_source: "ChatGPT/Gemini (unverified)"
 covered_by: ["[[SM Omnibus 6]]", "[[SM Omnibus 7]]"]
 goodreads_rating: 3.89
 goodreads_votes: 64

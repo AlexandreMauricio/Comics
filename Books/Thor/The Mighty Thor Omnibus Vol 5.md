@@ -10,10 +10,11 @@ pages: "904"
 release_date: "9 Sep 2025"
 editions: ["9 Sep 2025"]
 isbn: ["9781302962470"]
-covers: ["[[Thor Epic 07 - Ulik Unchained]]", "[[Thor Epic 08 - War of the Gods]]", "[[Thor Epic 09 - Even an Immortal Can Die]]"]
+covers: ["[[Thor Epic 08 - War of the Gods]]"]
 seq: 7.5
 purpose: "future"
 missing_before: 1
+covers_partial: ["[[Thor Epic 07 - Ulik Unchained]]", "[[Thor Epic 09 - Even an Immortal Can Die]]"]
 source: "Wikipedia Marvel Omnibus (2026-09-29) + conversation"
 wikipedia_checked: "2026-09-29"
 verified: true

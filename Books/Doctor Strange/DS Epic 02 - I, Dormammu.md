@@ -15,11 +15,11 @@ release_date: "Jan 9, 2024"
 editions: ["Jan 9, 2024"]
 isbn: ["978-1302953157"]
 cover_note: "Doctor Strange #169 cover"
-story_rating: "⭐⭐⭐⭐☆"
-tier: "A+"
-acquisition: "Already owned"
-rating_reason: "Continues the classic Ditko era and concludes many of the original Strange Tales storylines."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐⭐☆"
+ai_tier: "A+"
+ai_acquisition: "Already owned"
+ai_reason: "Continues the classic Ditko era and concludes many of the original Strange Tales storylines."
+ai_source: "ChatGPT/Gemini (unverified)"
 goodreads_rating: 3.85
 goodreads_votes: 59
 goodreads_checked: "2026-09-29"

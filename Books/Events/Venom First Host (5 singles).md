@@ -6,6 +6,7 @@ title: "Venom First Host (5 singles)"
 status: "owned"
 read: true
 seq: 1
+order: 1
 source: "Conversation with user (2026-09)"
 verified: false
 tags: ["comics", "line/venom"]

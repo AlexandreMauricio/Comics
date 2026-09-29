@@ -5,11 +5,11 @@ number: 15
 title: "Not yet released"
 status: "unreleased"
 read: false
-story_rating: "⭐⭐⭐⭐☆"
-tier: "A"
-acquisition: "Watch market"
-rating_reason: "Finishes Simonson's legendary run."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐⭐☆"
+ai_tier: "A"
+ai_acquisition: "Watch market"
+ai_reason: "Finishes Simonson's legendary run."
+ai_source: "ChatGPT/Gemini (unverified)"
 seq: 15
 source: "Epics.xlsx Thor Ranking tab only (no Main Page data for Thor)"
 verified: false

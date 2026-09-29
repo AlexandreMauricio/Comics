@@ -15,11 +15,11 @@ release_date: "Sep 2, 2025"
 editions: ["Sep 2, 2025"]
 isbn: ["978-1302960537"]
 cover_note: "Daredevil #174 cover"
-story_rating: "⭐⭐⭐⭐⭐"
-tier: "S+"
-acquisition: "Buy ASAP"
-rating_reason: "Frank Miller's rise. Daredevil becomes the character we know today."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐⭐⭐"
+ai_tier: "S+"
+ai_acquisition: "Buy ASAP"
+ai_reason: "Frank Miller's rise. Daredevil becomes the character we know today."
+ai_source: "ChatGPT/Gemini (unverified)"
 milestone: "yes (per ChatGPT)"
 covered_by: ["[[Daredevil Omnibus Vol 4]]", "[[Daredevil by Frank Miller and Klaus Janson Omnibus]]"]
 goodreads_rating: 4.37
@@ -27,7 +27,8 @@ goodreads_votes: 43
 goodreads_checked: "2026-09-29"
 seq: 8
 purpose: "future"
-missing_before: 3
+missing_before: 4
+coverage_gaps: "#162; Bizarre Adventures #28"
 source: "Epics.xlsx Main Page + Ranking tab, cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"
 wikipedia_checked: "2026-09-29"
 verified: true

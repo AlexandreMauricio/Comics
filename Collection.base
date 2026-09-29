@@ -46,7 +46,8 @@ views:
       - price_paid
       - price_seen
       - store
-      - tier
+      - my_rating
+      - ai_tier
     sort:
       - property: seq
         direction: ASC
@@ -63,7 +64,8 @@ views:
       - price_paid
       - price_seen
       - store
-      - tier
+      - my_rating
+      - ai_tier
     sort:
       - property: seq
         direction: ASC
@@ -80,7 +82,8 @@ views:
       - price_paid
       - price_seen
       - store
-      - tier
+      - my_rating
+      - ai_tier
     sort:
       - property: seq
         direction: ASC
@@ -97,7 +100,8 @@ views:
       - price_paid
       - price_seen
       - store
-      - tier
+      - my_rating
+      - ai_tier
     sort:
       - property: seq
         direction: ASC
@@ -114,7 +118,8 @@ views:
       - price_paid
       - price_seen
       - store
-      - tier
+      - my_rating
+      - ai_tier
     sort:
       - property: seq
         direction: ASC

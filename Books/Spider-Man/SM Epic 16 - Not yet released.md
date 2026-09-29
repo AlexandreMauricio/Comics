@@ -7,11 +7,11 @@ status: "unreleased"
 read: false
 issues: "Should at least cover 273-288"
 era: "Secret Wars 2 and Inferno"
-story_rating: "⭐⭐⭐⭐"
-tier: "A"
-acquisition: "Preorder immediately"
-rating_reason: "Bridges Secret Wars II to Kraven. Important connective volume."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐⭐"
+ai_tier: "A"
+ai_acquisition: "Preorder immediately"
+ai_reason: "Bridges Secret Wars II to Kraven. Important connective volume."
+ai_source: "ChatGPT/Gemini (unverified)"
 seq: 16
 source: "Epics.xlsx Main Page + Ranking tab"
 verified: false

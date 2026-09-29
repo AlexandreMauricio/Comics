@@ -15,11 +15,11 @@ release_date: "Jun 16, 2026"
 editions: ["May 3, 2017", "Jan 20, 2021", "Jun 16, 2026"]
 isbn: ["978-1302904074", "978-1302928179", "978-1302967796"]
 cover_note: "Amazing Spider-Man #122 cover"
-story_rating: "⭐⭐⭐⭐⭐"
-tier: "S+"
-acquisition: "Already owned"
-rating_reason: "Death of Gwen & Norman. One of Marvel's greatest stories."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐⭐⭐"
+ai_tier: "S+"
+ai_acquisition: "Already owned"
+ai_reason: "Death of Gwen & Norman. One of Marvel's greatest stories."
+ai_source: "ChatGPT/Gemini (unverified)"
 milestone: "yes (per ChatGPT)"
 covered_by: ["[[The Amazing Spider-Man Omnibus Vol 4]]"]
 goodreads_rating: 4.3

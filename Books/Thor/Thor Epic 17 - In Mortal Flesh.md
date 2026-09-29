@@ -13,11 +13,11 @@ pages: "488"
 release_date: "Aug 8, 2023"
 editions: ["Aug 2, 2017", "Aug 8, 2023"]
 isbn: ["978-1302906986", "978-1302950514"]
-story_rating: "⭐⭐⭐⭐"
-tier: "B"
-acquisition: "Watch market"
-rating_reason: "Continues DeFalco's run well."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐⭐"
+ai_tier: "B"
+ai_acquisition: "Watch market"
+ai_reason: "Continues DeFalco's run well."
+ai_source: "ChatGPT/Gemini (unverified)"
 goodreads_rating: 3.81
 goodreads_votes: 68
 goodreads_checked: "2026-09-29"

@@ -18,17 +18,19 @@ isbn: ["978-1302910136", "978-1302950446"]
 cover_note: "Iron Man #250 cover"
 price_paid: 39.9
 store: "Walt's"
-story_rating: "⭐⭐⭐⭐"
-tier: "B+"
-acquisition: "Already bought (Walts)"
-rating_reason: "Strong Michelinie/Layton run featuring Doctor Doom and continuing Tony's post–Armor Wars era."
-rating_score: "8/10"
-rating_highlight: "Dragon Seed Saga begins, Tony managing cybernetic paralysis"
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐⭐"
+ai_tier: "B+"
+ai_acquisition: "Already bought (Walts)"
+ai_reason: "Strong Michelinie/Layton run featuring Doctor Doom and continuing Tony's post–Armor Wars era."
+ai_score: "8/10"
+ai_highlight: "Dragon Seed Saga begins, Tony managing cybernetic paralysis"
+ai_source: "ChatGPT/Gemini (unverified)"
 goodreads_rating: 3.41
 goodreads_votes: 100
 goodreads_checked: "2026-09-29"
 seq: 15
+ordered: 2026-09-24
+order_month: "2026-09"
 source: "Epics.xlsx Main Page + Ranking tab, cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"
 wikipedia_checked: "2026-09-29"
 verified: true

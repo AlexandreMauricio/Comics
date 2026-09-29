@@ -11,6 +11,7 @@ release_date: "10 Jan 2023"
 editions: ["21 Jan 2009", "10 Jan 2023"]
 seq: 1
 purpose: "event"
+order: 1
 source: "Wikipedia Marvel Omnibus (2026-09-29) + conversation"
 wikipedia_checked: "2026-09-29"
 verified: true

@@ -6,11 +6,11 @@ title: "Not yet released"
 status: "unreleased"
 read: false
 era: "Secret Wars"
-story_rating: "⭐⭐⭐⭐"
-tier: "A (Predicted)"
-acquisition: "Preorder immediately"
-rating_reason: "Likely bridges directly into the Sorcerer Supreme era. Essential connective volume if announced."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐⭐"
+ai_tier: "A (Predicted)"
+ai_acquisition: "Preorder immediately"
+ai_reason: "Likely bridges directly into the Sorcerer Supreme era. Essential connective volume if announced."
+ai_source: "ChatGPT/Gemini (unverified)"
 seq: 6
 source: "Epics.xlsx Main Page + Ranking tab"
 verified: false

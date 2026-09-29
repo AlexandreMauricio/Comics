@@ -10,6 +10,7 @@ release_date: "2026-12-08"
 price_paid: 78.99
 store: "Walt's"
 seq: 4
+order: 4
 source: "Conversation with user (2026-09)"
 verified: false
 tags: ["comics", "line/venom"]

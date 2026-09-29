@@ -7,11 +7,11 @@ status: "unreleased"
 read: false
 issues: "Should cover #216-233"
 era: "Secret Wars 2"
-story_rating: "⭐⭐⭐⭐⭐ (predicted)"
-tier: "S+"
-acquisition: "Preorder immediately"
-rating_reason: "Almost certainly collects Born Again. One of Marvel's greatest stories ever."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐⭐⭐ (predicted)"
+ai_tier: "S+"
+ai_acquisition: "Preorder immediately"
+ai_reason: "Almost certainly collects Born Again. One of Marvel's greatest stories ever."
+ai_source: "ChatGPT/Gemini (unverified)"
 seq: 11
 source: "Epics.xlsx Main Page + Ranking tab"
 verified: false

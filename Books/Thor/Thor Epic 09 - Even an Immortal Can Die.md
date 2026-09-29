@@ -13,11 +13,11 @@ pages: "520"
 release_date: "Apr 25, 2023"
 editions: ["Apr 25, 2023"]
 isbn: ["978-1302948689"]
-story_rating: "⭐⭐⭐⭐"
-tier: "A"
-acquisition: "Buy when ready"
-rating_reason: "Excellent late Bronze Age Thor and leads directly into Eternals Saga."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐⭐"
+ai_tier: "A"
+ai_acquisition: "Buy when ready"
+ai_reason: "Excellent late Bronze Age Thor and leads directly into Eternals Saga."
+ai_source: "ChatGPT/Gemini (unverified)"
 covered_by: ["[[The Mighty Thor Omnibus Vol 5]]"]
 goodreads_rating: 3.91
 goodreads_votes: 33

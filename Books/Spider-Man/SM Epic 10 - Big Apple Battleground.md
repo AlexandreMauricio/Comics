@@ -15,11 +15,11 @@ release_date: "May 28, 2024"
 editions: ["May 28, 2024"]
 isbn: ["978-1302955267"]
 cover_note: "Amazing Spider-Man #181 cover"
-story_rating: "⭐⭐⭐"
-tier: "C"
-acquisition: "Buy last"
-rating_reason: "Transitional late-70s Spider-Man."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐"
+ai_tier: "C"
+ai_acquisition: "Buy last"
+ai_reason: "Transitional late-70s Spider-Man."
+ai_source: "ChatGPT/Gemini (unverified)"
 covered_by: ["[[SM Omnibus 5]]", "[[SM Omnibus 6]]"]
 goodreads_rating: 3.87
 goodreads_votes: 83

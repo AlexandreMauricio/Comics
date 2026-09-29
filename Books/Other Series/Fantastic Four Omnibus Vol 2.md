@@ -12,6 +12,7 @@ editions: ["13 Jun 2007", "4 Dec 2013", "14 Jul 2021"]
 covers: []
 seq: 9999
 purpose: "modern"
+order: 9999
 source: "Wikipedia Marvel Omnibus (2026-09-29) + conversation"
 wikipedia_checked: "2026-09-29"
 verified: true

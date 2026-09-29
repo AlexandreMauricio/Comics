@@ -16,13 +16,13 @@ release_date: "Sep 1, 2026"
 editions: ["Sep 1, 2026"]
 isbn: ["978-1302967444"]
 cover_note: "Iron Man #118 cover"
-story_rating: "⭐⭐⭐⭐⭐"
-tier: "S+"
-acquisition: "Pre ordered (incoming)"
-rating_reason: "Already preordered. Tony's defining character arc."
-rating_score: "10/10"
-rating_highlight: "Demon in a Bottle, 1st Rhodey, 1st Justin Hammer"
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐⭐⭐"
+ai_tier: "S+"
+ai_acquisition: "Pre ordered (incoming)"
+ai_reason: "Already preordered. Tony's defining character arc."
+ai_score: "10/10"
+ai_highlight: "Demon in a Bottle, 1st Rhodey, 1st Justin Hammer"
+ai_source: "ChatGPT/Gemini (unverified)"
 milestone: "yes (per ChatGPT)"
 covered_by: ["[[Iron Man by Michelinie Layton and Romita Jr Omnibus]]"]
 goodreads_rating: 4.0

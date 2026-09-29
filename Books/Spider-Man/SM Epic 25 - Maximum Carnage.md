@@ -15,11 +15,11 @@ release_date: "May 23, 2023"
 editions: ["Jan 28, 2020", "May 23, 2023"]
 isbn: ["978-1302921903", "978-1302950460"]
 cover_note: "Spider-Man Unlimited #1 cover"
-story_rating: "⭐⭐⭐"
-tier: "C"
-acquisition: "Buy last"
-rating_reason: "Huge event, iconic, but quality is uneven. Better because of Carnage than the story itself."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐"
+ai_tier: "C"
+ai_acquisition: "Buy last"
+ai_reason: "Huge event, iconic, but quality is uneven. Better because of Carnage than the story itself."
+ai_source: "ChatGPT/Gemini (unverified)"
 milestone: "yes (per ChatGPT)"
 goodreads_rating: 3.59
 goodreads_votes: 261

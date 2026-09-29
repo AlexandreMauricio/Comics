@@ -15,17 +15,17 @@ release_date: "Aug 8, 2023"
 editions: ["Aug 8, 2023"]
 isbn: ["978-1302953720"]
 cover_note: "Daredevil: The Man Without Fear #3 cover"
-story_rating: "⭐⭐⭐⭐☆"
-tier: "A+"
-acquisition: "Watch market"
-rating_reason: "Includes Frank Miller's The Man Without Fear. Massive value."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐⭐☆"
+ai_tier: "A+"
+ai_acquisition: "Watch market"
+ai_reason: "Includes Frank Miller's The Man Without Fear. Massive value."
+ai_source: "ChatGPT/Gemini (unverified)"
 goodreads_rating: 3.77
 goodreads_votes: 64
 goodreads_checked: "2026-09-29"
 seq: 17
 purpose: "future"
-missing_before: 11
+missing_before: 12
 source: "Epics.xlsx Main Page + Ranking tab, cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"
 wikipedia_checked: "2026-09-29"
 verified: true

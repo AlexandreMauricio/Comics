@@ -5,6 +5,7 @@ filters:
         - 'status == "wanted"'
         - 'status == "oop"'
         - 'status == "planned"'
+        - 'status == "partial"'
 properties:
   file.name:
     displayName: Book
@@ -45,6 +46,8 @@ views:
       - store
       - urgency
       - urgency_reason
+      - covered_via
+      - coverage_gaps
     sort:
       - property: seq
         direction: ASC

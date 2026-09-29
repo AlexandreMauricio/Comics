@@ -13,11 +13,11 @@ pages: "504"
 release_date: "Jun 1, 2021"
 editions: ["Jun 1, 2021"]
 isbn: ["978-1302930882"]
-story_rating: "⭐⭐⭐☆"
-tier: "C+"
-acquisition: "Buy last"
-rating_reason: "Infinity era Thor. Nice if collecting the universe."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐☆"
+ai_tier: "C+"
+ai_acquisition: "Buy last"
+ai_reason: "Infinity era Thor. Nice if collecting the universe."
+ai_source: "ChatGPT/Gemini (unverified)"
 goodreads_rating: 3.21
 goodreads_votes: 47
 goodreads_checked: "2026-09-29"

@@ -7,15 +7,52 @@ properties:
     displayName: Book
   price_paid:
     displayName: Paid
+  order_month:
+    displayName: Month
 views:
   - type: table
-    name: Paid so far
+    name: Monthly budget by month
+    filters:
+      and:
+        - 'budget != "quarterly"'
+    groupBy:
+      property: order_month
+      direction: DESC
+    order:
+      - file.name
+      - price_paid
+      - ordered
+      - store
+      - status
+      - price_note
+    sort:
+      - property: ordered
+        direction: ASC
+    summaries:
+      price_paid: Sum
+  - type: table
+    name: Quarterly pre-orders
+    filters:
+      and:
+        - 'budget == "quarterly"'
+    order:
+      - file.name
+      - price_paid
+      - ordered
+      - release_date
+      - store
+      - status
+    summaries:
+      price_paid: Sum
+  - type: table
+    name: By store
     groupBy:
       property: store
       direction: ASC
     order:
       - file.name
       - price_paid
+      - order_month
       - budget
       - status
       - price_note

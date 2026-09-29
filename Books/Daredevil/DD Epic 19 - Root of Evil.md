@@ -15,17 +15,17 @@ release_date: "Aug 13, 2024"
 editions: ["Jul 25, 2018", "Aug 13, 2024"]
 isbn: ["978-1302912581", "978-1302957919"]
 cover_note: "Daredevil #344 cover"
-story_rating: "⭐⭐⭐"
-tier: "C"
-acquisition: "Buy last"
-rating_reason: "Completionist territory."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐"
+ai_tier: "C"
+ai_acquisition: "Buy last"
+ai_reason: "Completionist territory."
+ai_source: "ChatGPT/Gemini (unverified)"
 goodreads_rating: 2.63
 goodreads_votes: 90
 goodreads_checked: "2026-09-29"
 seq: 19
 purpose: "future"
-missing_before: 13
+missing_before: 14
 source: "Epics.xlsx Main Page + Ranking tab, cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"
 wikipedia_checked: "2026-09-29"
 verified: true

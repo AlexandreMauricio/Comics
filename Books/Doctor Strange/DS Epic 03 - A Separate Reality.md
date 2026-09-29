@@ -15,11 +15,11 @@ release_date: "Dec 21, 2021"
 editions: ["Oct 19, 2016", "Dec 21, 2021"]
 isbn: ["978-0785194446", "978-1302932480"]
 cover_note: "Doctor Strange (vol. 2) #1 cover"
-story_rating: "⭐⭐⭐⭐☆"
-tier: "A+"
-acquisition: "Already owned"
-rating_reason: "Englehart and Brunner redefine Doctor Strange and greatly expand Marvel's mystical universe."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐⭐☆"
+ai_tier: "A+"
+ai_acquisition: "Already owned"
+ai_reason: "Englehart and Brunner redefine Doctor Strange and greatly expand Marvel's mystical universe."
+ai_source: "ChatGPT/Gemini (unverified)"
 milestone: "yes (per ChatGPT)"
 covered_by: ["[[Doctor Strange Master of the Mystic Arts Vol 1]]"]
 goodreads_rating: 3.91

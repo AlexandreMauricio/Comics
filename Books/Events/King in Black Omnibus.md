@@ -10,6 +10,7 @@ release_date: "18 Aug 2026"
 editions: ["18 Aug 2026"]
 seq: 3
 purpose: "event"
+order: 3
 source: "Wikipedia Marvel Omnibus (2026-09-29) + conversation"
 wikipedia_checked: "2026-09-29"
 verified: true

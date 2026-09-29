@@ -18,11 +18,11 @@ cover_note: "Amazing Spider-Man #293 cover"
 price_paid: 34.3
 store: "Vinted"
 price_note: "Plus Vinted shipping. Bought about August 2026 after watching about 5 months."
-story_rating: "⭐⭐⭐⭐⭐"
-tier: "S+"
-acquisition: "Already owned"
-rating_reason: "Kraven, Wedding Era, Spider-Man vs Wolverine. Absolute classic."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐⭐⭐"
+ai_tier: "S+"
+ai_acquisition: "Already owned"
+ai_reason: "Kraven, Wedding Era, Spider-Man vs Wolverine. Absolute classic."
+ai_source: "ChatGPT/Gemini (unverified)"
 milestone: "yes (per ChatGPT)"
 goodreads_rating: 4.24
 goodreads_votes: 699

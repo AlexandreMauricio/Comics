@@ -15,11 +15,11 @@ release_date: "Apr 8, 2025"
 editions: ["Aug 29, 2018", "Apr 8, 2025"]
 isbn: ["978-1302911423", "978-1302963903"]
 cover_note: "Amazing Spider-Man #300 cover"
-story_rating: "⭐⭐⭐⭐⭐"
-tier: "S+"
-acquisition: "Already owned"
-rating_reason: "ASM #300 alone makes this essential. First Venom. Already secured."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐⭐⭐"
+ai_tier: "S+"
+ai_acquisition: "Already owned"
+ai_reason: "ASM #300 alone makes this essential. First Venom. Already secured."
+ai_source: "ChatGPT/Gemini (unverified)"
 milestone: "yes (per ChatGPT)"
 goodreads_rating: 3.8
 goodreads_votes: 299

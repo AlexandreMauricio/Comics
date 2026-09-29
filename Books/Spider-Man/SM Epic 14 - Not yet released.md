@@ -7,11 +7,11 @@ status: "unreleased"
 read: false
 issues: "Should at least cover 242-258"
 era: "Secret Wars and Secret Wars 2"
-story_rating: "⭐⭐⭐⭐"
-tier: "A"
-acquisition: "Preorder immediately"
-rating_reason: "Bridges Stern into Secret Wars II era. Important connective volume."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐⭐"
+ai_tier: "A"
+ai_acquisition: "Preorder immediately"
+ai_reason: "Bridges Stern into Secret Wars II era. Important connective volume."
+ai_source: "ChatGPT/Gemini (unverified)"
 seq: 14
 source: "Epics.xlsx Main Page + Ranking tab"
 verified: false

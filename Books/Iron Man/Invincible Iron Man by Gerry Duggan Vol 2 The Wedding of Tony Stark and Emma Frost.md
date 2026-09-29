@@ -11,6 +11,9 @@ price_paid: 17
 store: "Walt's"
 issues: "Invincible Iron Man (2022) #7-12"
 seq: 1007
+order: 1007
+ordered: 2026-09-24
+order_month: "2026-09"
 source: "Conversation with user (2026-09)"
 verified: false
 tags: ["comics", "line/iron-man"]

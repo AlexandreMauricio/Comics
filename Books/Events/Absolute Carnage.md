@@ -7,6 +7,7 @@ status: "owned"
 read: true
 seq: 2
 notes: "Owned as a red hardcover omnibus (seen on the shelf photo 2026-09-29). Read."
+order: 2
 source: "Conversation with user (2026-09)"
 verified: false
 tags: ["comics", "line/venom"]

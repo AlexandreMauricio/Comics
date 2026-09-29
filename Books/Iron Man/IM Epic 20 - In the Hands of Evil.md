@@ -15,13 +15,13 @@ release_date: "Nov 23, 2021"
 editions: ["Nov 23, 2021"]
 isbn: ["978-1302930776"]
 cover_note: "Iron Man #314 cover"
-story_rating: "⭐⭐⭐"
-tier: "C+"
-acquisition: "Already owned"
-rating_reason: "Already owned."
-rating_score: "6.5/10"
-rating_highlight: "Hands of the Mandarin crossover, Cap body journey"
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐"
+ai_tier: "C+"
+ai_acquisition: "Already owned"
+ai_reason: "Already owned."
+ai_score: "6.5/10"
+ai_highlight: "Hands of the Mandarin crossover, Cap body journey"
+ai_source: "ChatGPT/Gemini (unverified)"
 goodreads_rating: 3.32
 goodreads_votes: 41
 goodreads_checked: "2026-09-29"

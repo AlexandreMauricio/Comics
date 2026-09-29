@@ -19,17 +19,19 @@ cover_note: "Iron Man #244 cover"
 price_paid: 29.05
 store: "Vinted"
 price_note: "Plus about 4 EUR shipping. Mondial Relay: stuck since arriving in Lisbon, no updates (2026-09-29)."
-story_rating: "⭐⭐⭐⭐"
-tier: "B+"
-acquisition: "Ordered (Vinted)"
-rating_reason: "Continues the Michelinie & Layton era immediately after Armor Wars."
-rating_score: "8.5/10"
-rating_highlight: "Tony shot/paralyzed, 1st digital comic (Crash)"
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐⭐"
+ai_tier: "B+"
+ai_acquisition: "Ordered (Vinted)"
+ai_reason: "Continues the Michelinie & Layton era immediately after Armor Wars."
+ai_score: "8.5/10"
+ai_highlight: "Tony shot/paralyzed, 1st digital comic (Crash)"
+ai_source: "ChatGPT/Gemini (unverified)"
 goodreads_rating: 3.61
 goodreads_votes: 74
 goodreads_checked: "2026-09-29"
 seq: 14
+ordered: 2026-09-15
+order_month: "2026-09"
 source: "Epics.xlsx Main Page + Ranking tab, cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"
 wikipedia_checked: "2026-09-29"
 verified: true

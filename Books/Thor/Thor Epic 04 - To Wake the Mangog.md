@@ -13,11 +13,11 @@ pages: "456"
 release_date: "Feb 1, 2022"
 editions: ["Feb 25, 2015", "Feb 1, 2022"]
 isbn: ["978-0785191735", "978-1302933753"]
-story_rating: "⭐⭐⭐⭐☆"
-tier: "A+"
-acquisition: "Already owned"
-rating_reason: "Mangog saga. One of the biggest classic Thor stories before Kirby leaves."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐⭐☆"
+ai_tier: "A+"
+ai_acquisition: "Already owned"
+ai_reason: "Mangog saga. One of the biggest classic Thor stories before Kirby leaves."
+ai_source: "ChatGPT/Gemini (unverified)"
 covered_by: ["[[The Mighty Thor Omnibus Vol 3]]"]
 goodreads_rating: 4.11
 goodreads_votes: 133

@@ -10,6 +10,7 @@ urgency: "low"
 urgency_reason: "eBay, slow hunt, 1-2 per month at most"
 seq: 1016.5
 purpose: "modern"
+order: 1016.5
 source: "Conversation with user (2026-09)"
 verified: false
 tags: ["comics", "line/iron-man"]

@@ -15,11 +15,11 @@ release_date: "Mar 21, 2023"
 editions: ["Oct 23, 2019", "Mar 21, 2023"]
 isbn: ["978-1302920562", "978-1302950408"]
 cover_note: "Doctor Strange, Sorcerer Supreme #1 cover"
-story_rating: "⭐⭐⭐⭐⭐"
-tier: "S+"
-acquisition: "Already owned"
-rating_reason: "Doctor Doom & Doctor Strange's greatest story. One of Marvel's best graphic novels ever."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐⭐⭐"
+ai_tier: "S+"
+ai_acquisition: "Already owned"
+ai_reason: "Doctor Doom & Doctor Strange's greatest story. One of Marvel's best graphic novels ever."
+ai_source: "ChatGPT/Gemini (unverified)"
 milestone: "yes (per ChatGPT)"
 goodreads_rating: 3.8
 goodreads_votes: 107

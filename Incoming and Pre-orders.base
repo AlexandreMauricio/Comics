@@ -4,6 +4,8 @@ filters:
     - or:
         - 'status == "incoming"'
         - 'status == "planned"'
+    - not:
+        - 'file.hasProperty("covered_via")'
 properties:
   file.name:
     displayName: Book

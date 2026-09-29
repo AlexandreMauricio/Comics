@@ -10,6 +10,7 @@ store: "Vinted"
 price_note: "Skottie Young 4-part connecting variant, exists for #1-4 only. About 25 + Vinted fee + shipping. Trophy, decide after reading Vol 1. See Modern Runs."
 seq: 2001.6
 purpose: "modern"
+order: 2001.6
 source: "Conversation with user (2026-09)"
 verified: false
 tags: ["comics", "line/iron-man"]

@@ -9,8 +9,9 @@ issues: "Tales of Suspense #84-99; Iron Man and the Sub-Mariner #1; Iron Man #1-
 pages: "840"
 release_date: "13 Aug 2024"
 editions: ["1 May 2010", "13 Aug 2024"]
-covers: ["[[IM Epic 02 - By Force of Arms]]", "[[IM Epic 03 - The Man Who Killed Tony Stark]]", "[[IM Epic 04 - The Fury of the Firebrand]]"]
+covers: ["[[IM Epic 03 - The Man Who Killed Tony Stark]]"]
 seq: 2.5
+covers_partial: ["[[IM Epic 02 - By Force of Arms]]", "[[IM Epic 04 - The Fury of the Firebrand]]"]
 source: "Wikipedia Marvel Omnibus (2026-09-29) + conversation"
 wikipedia_checked: "2026-09-29"
 verified: true

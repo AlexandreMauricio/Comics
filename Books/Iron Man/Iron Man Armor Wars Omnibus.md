@@ -13,12 +13,12 @@ isbn: ["9781302966065"]
 price_seen: 78.99
 store: "Walt's"
 price_note: "Sale price 78.99 at Walt's (RRP 100). Released 13 Jan 2026 per Wikipedia; the Walt's page still says pre-order, so check real stock. Covers 9 of 20 issues of Epic 16 (#258-266); repeats Epic 13."
-covers: ["[[IM Epic 13 - Stark Wars]]", "[[IM Epic 16 - War Games]]"]
 urgency: "medium"
 urgency_reason: "On sale 78.99, check real stock"
 seq: 13.5
 purpose: "security"
 missing_before: 2
+covers_partial: ["[[IM Epic 13 - Stark Wars]]", "[[IM Epic 16 - War Games]]"]
 source: "Wikipedia Marvel Omnibus (2026-09-29) + conversation"
 wikipedia_checked: "2026-09-29"
 verified: true

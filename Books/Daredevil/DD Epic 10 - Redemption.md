@@ -16,14 +16,14 @@ release_date: "2027-03"
 editions: ["Mar 9, 2027"]
 isbn: ["978-1302971168"]
 cover_note: "Daredevil #214 cover"
-story_rating: "⭐⭐⭐"
-tier: "C+"
-acquisition: "Preorder March 2027"
-rating_reason: "Transitional post-Miller period."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐"
+ai_tier: "C+"
+ai_acquisition: "Preorder March 2027"
+ai_reason: "Transitional post-Miller period."
+ai_source: "ChatGPT/Gemini (unverified)"
 seq: 10
 purpose: "preorder"
-missing_before: 4
+missing_before: 5
 source: "Epics.xlsx Main Page + Ranking tab, cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"
 wikipedia_checked: "2026-09-29"
 verified: true

@@ -15,13 +15,13 @@ release_date: "Jan 21, 2025"
 editions: ["Jan 21, 2015", "Jan 21, 2025"]
 isbn: ["978-0785192909", "978-1302960476"]
 cover_note: "Iron Man #215 cover"
-story_rating: "⭐⭐⭐⭐⭐"
-tier: "S+"
-acquisition: "Already owned"
-rating_reason: "Armor Wars. One of Marvel's greatest Iron Man stories. Available now for €45."
-rating_score: "10/10"
-rating_highlight: "Armor Wars saga, 1st Ghost, Neo-Classic Armor debut"
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐⭐⭐"
+ai_tier: "S+"
+ai_acquisition: "Already owned"
+ai_reason: "Armor Wars. One of Marvel's greatest Iron Man stories. Available now for €45."
+ai_score: "10/10"
+ai_highlight: "Armor Wars saga, 1st Ghost, Neo-Classic Armor debut"
+ai_source: "ChatGPT/Gemini (unverified)"
 milestone: "yes (per ChatGPT)"
 covered_by: ["[[Iron Man Armor Wars Omnibus]]"]
 goodreads_rating: 3.77

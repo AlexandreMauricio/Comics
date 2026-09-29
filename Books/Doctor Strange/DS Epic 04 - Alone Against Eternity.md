@@ -15,16 +15,17 @@ release_date: "Feb 9, 2021"
 editions: ["Feb 9, 2021"]
 isbn: ["978-1302921996"]
 cover_note: "Doctor Strange (vol. 2) #19 cover"
-story_rating: "⭐⭐⭐⭐"
-tier: "A"
-acquisition: "Already owned (Omni)"
-rating_reason: "Continues the strong Englehart/Wolfman era with cosmic and mystical adventures."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐⭐"
+ai_tier: "A"
+ai_acquisition: "Already owned (Omni)"
+ai_reason: "Continues the strong Englehart/Wolfman era with cosmic and mystical adventures."
+ai_source: "ChatGPT/Gemini (unverified)"
 covered_by: ["[[Doctor Strange Master of the Mystic Arts Vol 1]]"]
 goodreads_rating: 3.8
 goodreads_votes: 69
 goodreads_checked: "2026-09-29"
 seq: 4
+coverage_gaps: "Doctor Strange (vol. 2) #23-28"
 source: "Epics.xlsx Main Page + Ranking tab, cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"
 wikipedia_checked: "2026-09-29"
 verified: true

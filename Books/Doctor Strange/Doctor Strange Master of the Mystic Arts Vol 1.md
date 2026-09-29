@@ -9,8 +9,8 @@ issues: "Marvel Premiere #3-14; Doctor Strange (1974) #1-22; Annual #1; Tomb of 
 pages: "768"
 release_date: "11 Mar 2025"
 editions: ["11 Mar 2025"]
-covers: ["[[DS Epic 03 - A Separate Reality]]", "[[DS Epic 04 - Alone Against Eternity]]"]
 seq: 3.5
+covers_partial: ["[[DS Epic 03 - A Separate Reality]]", "[[DS Epic 04 - Alone Against Eternity]]"]
 source: "Wikipedia Marvel Omnibus (2026-09-29) + conversation"
 wikipedia_checked: "2026-09-29"
 verified: true

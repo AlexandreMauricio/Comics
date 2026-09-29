@@ -18,11 +18,11 @@ isbn: ["978-1302970055"]
 cover_note: "Spider-Man #58 cover"
 price_paid: 39.5
 store: "Walt's"
-story_rating: "⭐⭐"
-tier: "D"
-acquisition: "Pre ordered Dec 8"
-rating_reason: "Kaine is cool, but still Clone Saga territory. Worth having since you've already preordered it."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐"
+ai_tier: "D"
+ai_acquisition: "Pre ordered Dec 8"
+ai_reason: "Kaine is cool, but still Clone Saga territory. Worth having since you've already preordered it."
+ai_source: "ChatGPT/Gemini (unverified)"
 milestone: "yes (per ChatGPT)"
 seq: 29
 source: "Epics.xlsx Main Page + Ranking tab, cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"

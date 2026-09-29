@@ -18,11 +18,11 @@ cover_note: "Doctor Strange, Sorcerer Supreme #37 cover"
 price_seen: 39
 store: "Walt's"
 price_note: "40 at Cheap-Comics."
-story_rating: "⭐⭐⭐⭐"
-tier: "B+"
-acquisition: "Watch market"
-rating_reason: "Includes important Infinity-era material while continuing Strange's solo adventures."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐⭐"
+ai_tier: "B+"
+ai_acquisition: "Watch market"
+ai_reason: "Includes important Infinity-era material while continuing Strange's solo adventures."
+ai_source: "ChatGPT/Gemini (unverified)"
 goodreads_rating: 3.7
 goodreads_votes: 44
 goodreads_checked: "2026-09-29"

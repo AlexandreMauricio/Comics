@@ -9,10 +9,10 @@ issues: "Thor #337-355, 357-369, 371-382; Balder the Brave #1-4"
 pages: "1192"
 release_date: "12 Jun 2024"
 editions: ["16 Mar 2011", "17 Oct 2017", "12 Jun 2024"]
-covers: ["[[Thor Epic 13 - The Surtur War]]"]
 seq: 13.5
 purpose: "future"
 missing_before: 7
+covers_partial: ["[[Thor Epic 13 - The Surtur War]]"]
 source: "Wikipedia Marvel Omnibus (2026-09-29)"
 wikipedia_checked: "2026-09-29"
 verified: true

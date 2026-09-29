@@ -10,6 +10,7 @@ isbn: ["9781302957094"]
 price_note: "Not findable anywhere; bought singles instead."
 seq: 1013
 purpose: "modern"
+order: 1013
 source: "Conversation with user (2026-09)"
 verified: false
 tags: ["comics", "line/iron-man"]

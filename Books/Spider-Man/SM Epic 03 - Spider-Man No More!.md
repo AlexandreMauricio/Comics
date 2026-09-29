@@ -17,11 +17,11 @@ release_date: "Aug 18, 2026"
 editions: ["May 16, 2018", "Jan 4, 2022", "Aug 18, 2026"]
 isbn: ["978-1302910235", "978-1302932497", "978-1302967857"]
 cover_note: "Amazing Spider-Man Annual #3 cover"
-story_rating: "⭐⭐⭐⭐☆"
-tier: "A+"
-acquisition: "Pre ordered (incoming)"
-rating_reason: "Romita begins, Green Goblin revealed, classic era begins."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐⭐☆"
+ai_tier: "A+"
+ai_acquisition: "Pre ordered (incoming)"
+ai_reason: "Romita begins, Green Goblin revealed, classic era begins."
+ai_source: "ChatGPT/Gemini (unverified)"
 milestone: "yes (per ChatGPT)"
 goodreads_rating: 4.31
 goodreads_votes: 433

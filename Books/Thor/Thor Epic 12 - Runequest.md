@@ -13,11 +13,11 @@ pages: "456"
 release_date: "Aug 10, 2016"
 editions: ["Aug 10, 2016"]
 isbn: ["978-0785194453"]
-story_rating: "⭐⭐⭐⭐"
-tier: "B+"
-acquisition: "Watch market"
-rating_reason: "Final bridge before Simonson's masterpiece."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐⭐"
+ai_tier: "B+"
+ai_acquisition: "Watch market"
+ai_reason: "Final bridge before Simonson's masterpiece."
+ai_source: "ChatGPT/Gemini (unverified)"
 goodreads_rating: 3.13
 goodreads_votes: 45
 goodreads_checked: "2026-09-29"

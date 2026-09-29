@@ -13,11 +13,11 @@ pages: "488"
 release_date: "Aug 14, 2019"
 editions: ["Aug 14, 2019"]
 isbn: ["978-1302918507"]
-story_rating: "⭐⭐⭐☆"
-tier: "C+"
-acquisition: "Buy last"
-rating_reason: "Good continuation but no major landmark."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐☆"
+ai_tier: "C+"
+ai_acquisition: "Buy last"
+ai_reason: "Good continuation but no major landmark."
+ai_source: "ChatGPT/Gemini (unverified)"
 goodreads_rating: 3.81
 goodreads_votes: 52
 goodreads_checked: "2026-09-29"

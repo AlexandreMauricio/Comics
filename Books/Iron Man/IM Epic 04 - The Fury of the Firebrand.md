@@ -15,13 +15,13 @@ release_date: "Aug 26, 2020"
 editions: ["Aug 26, 2020"]
 isbn: ["978-1302922078"]
 cover_note: "Iron Man #29 cover"
-story_rating: "⭐⭐⭐⭐"
-tier: "A"
-acquisition: "Covered in Omnibus"
-rating_reason: "Already collected. Good continuation of classic Iron Man."
-rating_score: "6.5/10"
-rating_highlight: "Debut of Spymaster & Firebrand, Guardsman origins"
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐⭐"
+ai_tier: "A"
+ai_acquisition: "Covered in Omnibus"
+ai_reason: "Already collected. Good continuation of classic Iron Man."
+ai_score: "6.5/10"
+ai_highlight: "Debut of Spymaster & Firebrand, Guardsman origins"
+ai_source: "ChatGPT/Gemini (unverified)"
 covered_by: ["[[The Invincible Iron Man Omnibus Vol 2]]", "[[The Invincible Iron Man Omnibus Vol 3]]"]
 goodreads_rating: 2.86
 goodreads_votes: 42

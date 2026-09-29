@@ -9,10 +9,10 @@ issues: "Daredevil #158-161, 163-191; What If #28"
 pages: "840"
 release_date: "31 Jan 2023"
 editions: ["7 Mar 2007", "6 Nov 2013", "2 Mar 2016", "31 Jan 2023"]
-covers: ["[[DD Epic 08 - To Dare The Devil]]", "[[DD Epic 09 - Resurrection]]"]
 seq: 8.5
 purpose: "future"
-missing_before: 3
+missing_before: 4
+covers_partial: ["[[DD Epic 08 - To Dare The Devil]]", "[[DD Epic 09 - Resurrection]]"]
 source: "Wikipedia Marvel Omnibus (2026-09-29)"
 wikipedia_checked: "2026-09-29"
 verified: true

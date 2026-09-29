@@ -15,11 +15,11 @@ release_date: "Mar 7, 2023"
 editions: ["Jun 19, 2019", "Mar 7, 2023"]
 isbn: ["978-1302917807", "978-1302950392"]
 cover_note: "Amazing Spider-Man #65 cover"
-story_rating: "⭐⭐⭐⭐"
-tier: "B+"
-acquisition: "Already owned"
-rating_reason: "More classic Romita and Goblin mythology."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐⭐"
+ai_tier: "B+"
+ai_acquisition: "Already owned"
+ai_reason: "More classic Romita and Goblin mythology."
+ai_source: "ChatGPT/Gemini (unverified)"
 goodreads_rating: 4.2
 goodreads_votes: 241
 goodreads_checked: "2026-09-29"

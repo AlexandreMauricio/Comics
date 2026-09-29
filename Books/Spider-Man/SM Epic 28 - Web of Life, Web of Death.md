@@ -15,11 +15,11 @@ release_date: "Nov 5, 2024"
 editions: ["Nov 5, 2024"]
 isbn: ["978-1302960087"]
 cover_note: "Web of Spider-Man #122 cover"
-story_rating: "⭐⭐"
-tier: "D"
-acquisition: "Buy last"
-rating_reason: "Clone Saga continuation."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐"
+ai_tier: "D"
+ai_acquisition: "Buy last"
+ai_reason: "Clone Saga continuation."
+ai_source: "ChatGPT/Gemini (unverified)"
 goodreads_rating: 3.54
 goodreads_votes: 41
 goodreads_checked: "2026-09-29"

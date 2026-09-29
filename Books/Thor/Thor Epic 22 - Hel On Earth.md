@@ -13,11 +13,11 @@ pages: "512"
 release_date: "Jul 18, 2023"
 editions: ["Jul 18, 2023"]
 isbn: ["978-1302951894"]
-story_rating: "⭐⭐⭐"
-tier: "C"
-acquisition: "Buy last"
-rating_reason: "Late 90s material. Completionist territory."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐"
+ai_tier: "C"
+ai_acquisition: "Buy last"
+ai_reason: "Late 90s material. Completionist territory."
+ai_source: "ChatGPT/Gemini (unverified)"
 goodreads_rating: 2.92
 goodreads_votes: 24
 goodreads_checked: "2026-09-29"

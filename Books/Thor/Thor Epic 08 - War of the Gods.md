@@ -13,11 +13,11 @@ pages: "392"
 release_date: "Jun 5, 2022"
 editions: ["Jun 5, 2022"]
 isbn: ["978-1302933647"]
-story_rating: "⭐⭐⭐⭐"
-tier: "B"
-acquisition: "Buy last"
-rating_reason: "More classic Bronze Age Thor."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐⭐"
+ai_tier: "B"
+ai_acquisition: "Buy last"
+ai_reason: "More classic Bronze Age Thor."
+ai_source: "ChatGPT/Gemini (unverified)"
 covered_by: ["[[The Mighty Thor Omnibus Vol 5]]"]
 goodreads_rating: 3.48
 goodreads_votes: 31

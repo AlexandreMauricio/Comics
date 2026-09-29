@@ -15,17 +15,17 @@ release_date: "Nov 30, 2021"
 editions: ["Nov 30, 2021"]
 isbn: ["978-1302932381"]
 cover_note: "Daredevil #308 cover"
-story_rating: "⭐⭐⭐"
-tier: "C"
-acquisition: "Buy last"
-rating_reason: "Early 90s."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐"
+ai_tier: "C"
+ai_acquisition: "Buy last"
+ai_reason: "Early 90s."
+ai_source: "ChatGPT/Gemini (unverified)"
 goodreads_rating: 3.03
 goodreads_votes: 89
 goodreads_checked: "2026-09-29"
 seq: 16
 purpose: "future"
-missing_before: 10
+missing_before: 11
 source: "Epics.xlsx Main Page + Ranking tab, cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"
 wikipedia_checked: "2026-09-29"
 verified: true

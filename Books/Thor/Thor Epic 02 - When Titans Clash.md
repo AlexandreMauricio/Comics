@@ -13,11 +13,11 @@ pages: "504"
 release_date: "Nov 2, 2016"
 editions: ["Nov 2, 2016"]
 isbn: ["978-0785194460"]
-story_rating: "⭐⭐⭐⭐☆"
-tier: "A+"
-acquisition: "Already owned"
-rating_reason: "Kirby continues expanding Asgard, Ragnarok themes and the mythology."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐⭐☆"
+ai_tier: "A+"
+ai_acquisition: "Already owned"
+ai_reason: "Kirby continues expanding Asgard, Ragnarok themes and the mythology."
+ai_source: "ChatGPT/Gemini (unverified)"
 covered_by: ["[[The Mighty Thor Omnibus Vol 1]]", "[[The Mighty Thor Omnibus Vol 2]]"]
 goodreads_rating: 4.05
 goodreads_votes: 123

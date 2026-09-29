@@ -3,7 +3,7 @@ line: "Daredevil"
 type: "Epic Collection"
 number: 4
 title: "A Woman Called Widow"
-status: "incoming"
+status: "partial"
 read: false
 budget: "monthly"
 years: "1970-1972"
@@ -16,16 +16,19 @@ release_date: "Feb 20, 2024"
 editions: ["Nov 6, 2019", "Feb 20, 2024"]
 isbn: ["978-1302920340", "978-1302957933"]
 cover_note: "Daredevil #80 cover"
-story_rating: "⭐⭐⭐⭐"
-tier: "B+"
-acquisition: "Ordered via Omnibus 2 (partial)"
-rating_reason: "Black Widow partnership."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐⭐"
+ai_tier: "B+"
+ai_acquisition: "Ordered via Omnibus 2 (partial)"
+ai_reason: "Black Widow partnership."
+ai_source: "ChatGPT/Gemini (unverified)"
 covered_by: ["[[Daredevil Omnibus Vol 2]]", "[[Daredevil Omnibus Vol 3]]"]
 goodreads_rating: 3.19
 goodreads_votes: 93
 goodreads_checked: "2026-09-29"
 seq: 4
+covered_via: ["[[Daredevil Omnibus Vol 2]]"]
+purpose: "reading"
+missing_before: 0
 source: "Epics.xlsx Main Page + Ranking tab, cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"
 wikipedia_checked: "2026-09-29"
 verified: true

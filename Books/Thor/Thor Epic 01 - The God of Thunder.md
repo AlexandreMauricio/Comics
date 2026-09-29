@@ -13,11 +13,11 @@ pages: "480"
 release_date: "Apr 5, 2022"
 editions: ["Oct 15, 2014", "Apr 5, 2022"]
 isbn: ["978-0785188353", "978-1302933982"]
-story_rating: "⭐⭐⭐⭐⭐"
-tier: "S+"
-acquisition: "Already owned"
-rating_reason: "Foundation of Thor, Asgard, Loki, Odin and the Marvel cosmic mythos. You've already got it."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐⭐⭐"
+ai_tier: "S+"
+ai_acquisition: "Already owned"
+ai_reason: "Foundation of Thor, Asgard, Loki, Odin and the Marvel cosmic mythos. You've already got it."
+ai_source: "ChatGPT/Gemini (unverified)"
 covered_by: ["[[The Mighty Thor Omnibus Vol 1]]"]
 goodreads_rating: 3.83
 goodreads_votes: 335

@@ -9,8 +9,9 @@ issues: "Thor #153-194"
 pages: "1000"
 release_date: "3 Oct 2017"
 editions: ["3 Oct 2017"]
-covers: ["[[Thor Epic 03 - The Wrath of Odin]]", "[[Thor Epic 04 - To Wake the Mangog]]", "[[Thor Epic 05 - The Fall of Asgard]]"]
+covers: ["[[Thor Epic 04 - To Wake the Mangog]]", "[[Thor Epic 05 - The Fall of Asgard]]"]
 seq: 3.5
+covers_partial: ["[[Thor Epic 03 - The Wrath of Odin]]"]
 source: "Wikipedia Marvel Omnibus (2026-09-29) + conversation"
 wikipedia_checked: "2026-09-29"
 verified: true

@@ -18,11 +18,11 @@ cover_note: "Doctor Strange, Sorcerer Supreme #19 cover"
 price_seen: 30
 store: "Cheap-Comics"
 price_note: "Sold out at Walt's. About 20 shipping at Cheap-Comics unless bundled."
-story_rating: "⭐⭐⭐⭐"
-tier: "B+"
-acquisition: "Watch market"
-rating_reason: "Strong early Sorcerer Supreme era continuing after Triumph and Torment."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐⭐"
+ai_tier: "B+"
+ai_acquisition: "Watch market"
+ai_reason: "Strong early Sorcerer Supreme era continuing after Triumph and Torment."
+ai_source: "ChatGPT/Gemini (unverified)"
 goodreads_rating: 3.47
 goodreads_votes: 53
 goodreads_checked: "2026-09-29"

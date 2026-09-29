@@ -15,11 +15,11 @@ release_date: "Jan 3, 2023"
 editions: ["Jan 3, 2023"]
 isbn: ["978-1302948320"]
 cover_note: "Amazing Spider-Man #373 cover"
-story_rating: "⭐⭐⭐"
-tier: "C"
-acquisition: "Buy last"
-rating_reason: "Mainly for completion after Carnage."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐"
+ai_tier: "C"
+ai_acquisition: "Buy last"
+ai_reason: "Mainly for completion after Carnage."
+ai_source: "ChatGPT/Gemini (unverified)"
 goodreads_rating: 3.67
 goodreads_votes: 100
 goodreads_checked: "2026-09-29"

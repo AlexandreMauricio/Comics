@@ -15,13 +15,13 @@ release_date: "Dec 4, 2019"
 editions: ["Oct 29, 2014", "Dec 4, 2019"]
 isbn: ["978-0785188636", "978-1302924287"]
 cover_note: "Tales of Suspense #52 cover"
-story_rating: "⭐⭐⭐⭐⭐"
-tier: "S+"
-acquisition: "Already owned"
-rating_reason: "Already confirmed masterpiece. Foundation of Iron Man."
-rating_score: "10/10"
-rating_highlight: "Origin, 1st Pepper, Happy, Mandarin, & Red/Gold armor"
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐⭐⭐"
+ai_tier: "S+"
+ai_acquisition: "Already owned"
+ai_reason: "Already confirmed masterpiece. Foundation of Iron Man."
+ai_score: "10/10"
+ai_highlight: "Origin, 1st Pepper, Happy, Mandarin, & Red/Gold armor"
+ai_source: "ChatGPT/Gemini (unverified)"
 covered_by: ["[[The Invincible Iron Man Omnibus Vol 1]]"]
 goodreads_rating: 3.61
 goodreads_votes: 177

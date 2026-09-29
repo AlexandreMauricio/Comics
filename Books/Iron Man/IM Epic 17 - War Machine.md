@@ -15,13 +15,13 @@ release_date: "Apr 8, 2020"
 editions: ["Apr 8, 2020"]
 isbn: ["978-1302923518"]
 cover_note: "Iron Man #286 cover"
-story_rating: "⭐⭐⭐⭐☆"
-tier: "A"
-acquisition: "Already owned"
-rating_reason: "Birth of War Machine and one of the strongest 90s Iron Man runs."
-rating_score: "9.5/10"
-rating_highlight: "1st War Machine armor (#281), Rhodey becomes War Machine"
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐⭐☆"
+ai_tier: "A"
+ai_acquisition: "Already owned"
+ai_reason: "Birth of War Machine and one of the strongest 90s Iron Man runs."
+ai_score: "9.5/10"
+ai_highlight: "1st War Machine armor (#281), Rhodey becomes War Machine"
+ai_source: "ChatGPT/Gemini (unverified)"
 goodreads_rating: 3.69
 goodreads_votes: 55
 goodreads_checked: "2026-09-29"

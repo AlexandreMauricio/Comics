@@ -8,8 +8,8 @@ issues: "Amazing Spider-Man #181-205, Annual #12-13; Spectacular Spider-Man Annu
 pages: "792"
 release_date: "11 Feb 2025"
 editions: ["11 Feb 2025"]
-covers: ["[[SM Epic 10 - Big Apple Battleground]]", "[[SM Epic 11 - Nine Lives Has the Black Cat]]"]
 seq: 10.5
+covers_partial: ["[[SM Epic 10 - Big Apple Battleground]]", "[[SM Epic 11 - Nine Lives Has the Black Cat]]"]
 source: "Wikipedia Marvel Omnibus (2026-09-29)"
 wikipedia_checked: "2026-09-29"
 verified: true

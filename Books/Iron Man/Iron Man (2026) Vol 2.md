@@ -11,6 +11,7 @@ writers: "Joshua Williamson"
 artists: "Carmen Carnero"
 seq: 2007
 purpose: "modern"
+order: 2007
 source: "Conversation with user (2026-09)"
 verified: false
 tags: ["comics", "line/iron-man"]

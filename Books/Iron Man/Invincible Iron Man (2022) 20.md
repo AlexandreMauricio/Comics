@@ -10,6 +10,9 @@ price_paid: 6.5
 store: "Walt's"
 price_note: "About 6-7"
 seq: 1020.5
+order: 1020.5
+ordered: 2026-09-24
+order_month: "2026-09"
 source: "Conversation with user (2026-09)"
 verified: false
 tags: ["comics", "line/iron-man"]

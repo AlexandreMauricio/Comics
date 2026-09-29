@@ -18,11 +18,11 @@ cover_note: "Amazing Spider-Man #230 cover"
 price_paid: 45
 store: "Walt's"
 price_note: "Normal price."
-story_rating: "⭐⭐⭐⭐⭐"
-tier: "S+"
-acquisition: "Already owned"
-rating_reason: "Roger Stern masterpiece, Hobgoblin, Juggernaut. Peak Spider-Man."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐⭐⭐"
+ai_tier: "S+"
+ai_acquisition: "Already owned"
+ai_reason: "Roger Stern masterpiece, Hobgoblin, Juggernaut. Peak Spider-Man."
+ai_source: "ChatGPT/Gemini (unverified)"
 milestone: "yes (per ChatGPT)"
 goodreads_rating: 4.14
 goodreads_votes: 29

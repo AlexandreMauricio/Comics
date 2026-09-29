@@ -15,18 +15,18 @@ release_date: "Mar 28, 2023"
 editions: ["Mar 28, 2023"]
 isbn: ["978-1302948672"]
 cover_note: "Daredevil #115 cover"
-story_rating: "⭐⭐⭐⭐"
-tier: "B"
-acquisition: "Buy last"
-rating_reason: "Bullseye becomes important."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐⭐"
+ai_tier: "B"
+ai_acquisition: "Buy last"
+ai_reason: "Bullseye becomes important."
+ai_source: "ChatGPT/Gemini (unverified)"
 covered_by: ["[[Daredevil Omnibus Vol 3]]", "[[Daredevil Omnibus Vol 4]]"]
 goodreads_rating: 3.35
 goodreads_votes: 60
 goodreads_checked: "2026-09-29"
 seq: 6
 purpose: "future"
-missing_before: 1
+missing_before: 2
 source: "Epics.xlsx Main Page + Ranking tab, cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"
 wikipedia_checked: "2026-09-29"
 verified: true

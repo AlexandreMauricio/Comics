@@ -16,18 +16,18 @@ editions: ["Jan 18, 2022"]
 isbn: ["978-1302933555"]
 cover_note: "Daredevil #91 cover"
 price_note: "Covered by the planned DD Omnibus 3 (#75-119)."
-story_rating: "⭐⭐⭐⭐"
-tier: "B"
-acquisition: "Buy last"
-rating_reason: "Transitional era."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐⭐"
+ai_tier: "B"
+ai_acquisition: "Buy last"
+ai_reason: "Transitional era."
+ai_source: "ChatGPT/Gemini (unverified)"
 covered_by: ["[[Daredevil Omnibus Vol 3]]"]
 goodreads_rating: 3.29
 goodreads_votes: 84
 goodreads_checked: "2026-09-29"
 seq: 5
-purpose: "reading"
-missing_before: 0
+purpose: "future"
+missing_before: 1
 source: "Epics.xlsx Main Page + Ranking tab, cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"
 wikipedia_checked: "2026-09-29"
 verified: true

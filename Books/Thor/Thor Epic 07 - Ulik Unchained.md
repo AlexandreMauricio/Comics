@@ -16,11 +16,11 @@ isbn: ["978-1302929497"]
 price_seen: 60
 store: "Cheap-Comics"
 price_note: "Sold out at Walt's. Omnibus 4 covers a bit of it, Omnibus 5 (#229-266) after."
-story_rating: "⭐⭐⭐⭐"
-tier: "B"
-acquisition: "Buy last"
-rating_reason: "Good Conway era with classic Thor adventures."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐⭐"
+ai_tier: "B"
+ai_acquisition: "Buy last"
+ai_reason: "Good Conway era with classic Thor adventures."
+ai_source: "ChatGPT/Gemini (unverified)"
 covered_by: ["[[The Mighty Thor Omnibus Vol 4]]", "[[The Mighty Thor Omnibus Vol 5]]"]
 goodreads_rating: 3.82
 goodreads_votes: 33

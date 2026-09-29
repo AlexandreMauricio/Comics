@@ -15,11 +15,11 @@ release_date: "Mar 5, 2024"
 editions: ["Feb 11, 2020", "Mar 5, 2024"]
 isbn: ["978-1302921965", "978-1302957810"]
 cover_note: "Amazing Spider-Man #68 cover"
-story_rating: "⭐⭐⭐⭐"
-tier: "A"
-acquisition: "Omnibus 3"
-rating_reason: "Strong Romita era. Kingpin, classic supporting cast."
-rating_source: "ChatGPT/Gemini (unverified)"
+ai_stars: "⭐⭐⭐⭐"
+ai_tier: "A"
+ai_acquisition: "Omnibus 3"
+ai_reason: "Strong Romita era. Kingpin, classic supporting cast."
+ai_source: "ChatGPT/Gemini (unverified)"
 covered_by: ["[[The Amazing Spider-Man Omnibus Vol 3]]"]
 goodreads_rating: 4.04
 goodreads_votes: 194
