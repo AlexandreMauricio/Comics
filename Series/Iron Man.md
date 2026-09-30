@@ -20,7 +20,7 @@ Route (Epic-numbered): 7, 8, 9 (Michelinie/Layton/Romita Jr Omni #115-157, Apr 2
 | 10, 11 | Owned |
 | 12 | Iron Monger, March 2027, pre-order Q1 |
 | 13 | Owned (Stark Wars / Armor Wars) |
-| 14 | Ordered on Vinted, 29 EUR, awaiting |
+| 14 | Owned (Vinted, arrived 2026-09-30, good condition) |
 | 15 | Bought, Walt's 39.90 |
 | 16 | OOP, hard to find. Plan: Armor Wars Omni (#258-266) + Dragon Seed Saga TPB (#270-275). Missing #267-269, #276-277. See [[Research Notes]] |
 | 17 | Owned |

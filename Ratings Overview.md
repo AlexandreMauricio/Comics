@@ -20,7 +20,7 @@ See also the sortable [[Ratings.base|Ratings dashboard]]. The tables below are g
 | 10 | [[IM Epic 10 - The Enemy Within\|The Enemy Within]] | 3.7 | 125 |  | B | owned |  |
 | 11 | [[IM Epic 11 - Duel of Iron\|Duel of Iron]] | 3.68 | 93 |  | B | owned |  |
 | 13 | [[IM Epic 13 - Stark Wars\|Stark Wars]] | 3.77 | 115 |  | S+ | owned |  |
-| 14 | [[IM Epic 14 - Return of the Ghost\|Return of the Ghost]] | 3.61 | 74 |  | B+ | incoming |  |
+| 14 | [[IM Epic 14 - Return of the Ghost\|Return of the Ghost]] | 3.61 | 74 |  | B+ | owned |  |
 | 15 | [[IM Epic 15 - Doom\|Doom]] | 3.41 | 100 |  | B+ | incoming |  |
 | 16 | [[IM Epic 16 - War Games\|War Games]] | 3.86 | 100 |  | B | oop |  |
 | 17 | [[IM Epic 17 - War Machine\|War Machine]] | 3.69 | 55 |  | A | owned |  |
