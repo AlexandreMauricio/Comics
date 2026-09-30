@@ -10,7 +10,14 @@ Open [[Cart Planner]] (I refresh it with `Tools/refresh.py`), then fill three sl
 
 Then set `cart: "2026-11"` (etc.) on the chosen books so [[Cart.base|the Cart dashboard]] totals them, add shipping (Walt's about 9 under 150, free above; Cheap-Comics about 20 flat), compare with about 200, and name a fallback for each book that could sell out. Quarterly pre-orders are decided separately and don't count against the 200.
 
-## October 24, 2026: final plan
+## October 24, 2026: lean plan (updated 2026-09-30)
+
+**Decision 2026-09-30 with the new monthly budget:** October is the **Iron Man (2026) Vol 1 pre-order only**, about 17-20 + about 9 Walt's shipping = about 26-30. It gives 6 issues to read with no singles. [[The Mighty Thor Omnibus Vol 4]] and [[Daredevil Omnibus Vol 3]] are out of the cart for now (their `cart` tag is cleared). They stay on the Buy List as high urgency (last copy, ending discount), so the risk of losing them is accepted.
+- Vol 1 is pre-ordered at Walt's before it releases on Oct 27. Walt's charges at order time and holds the order until release.
+- Budget context: see [[Collecting Philosophy]] (170 / 220 / 290 depending on the month, plan with 150, quarterly pre-orders inside it).
+- Roll-over of unspent money is undecided.
+
+### Earlier, larger plan (2026-09-29), kept for reference
 
 One Walt's order, about **207**, free shipping (above 150). About 7 over, inside the usual flex. Decided 2026-09-29 after Thor Omnibus 4 turned up at Walt's.
 
