@@ -76,8 +76,6 @@ Sorted by purpose, then by how short the line's runway is, then by the first com
 
 | Book | Store | Price | Purpose |
 |---|---|---|---|
-| [[Daredevil Omnibus Vol 3]] | Walt's | 105 | reading |
 | [[Iron Man (2026) Vol 1 A New Nightmare]] | Walt's | 16.99 | modern |
-| [[The Mighty Thor Omnibus Vol 4]] | Walt's | 85 | reading |
 
-Subtotal of listed books: **206.99 EUR**. Add shipping by store (Walt's about 9 below 150, free above; Cheap-Comics about 20 flat). Budget about 200, flexible, no rollover; quarterly pre-orders are outside it.
+Subtotal of listed books: **16.99 EUR**. Add shipping by store (Walt's about 9 below 150, free above; Cheap-Comics about 20 flat). Budget about 200, flexible, no rollover; quarterly pre-orders are outside it.
