@@ -14,7 +14,7 @@ cart: "2026-10"
 writers: "Joshua Williamson"
 artists: "Carmen Carnero"
 isbn: ["9781302969066"]
-price_note: "Pre-order about 17 (normal about 20). Singles are 6-8 each; see Modern Runs."
+price_note: "Decision 2026-10-01: order at Walt's (about 17 + about 9 shipping = about 26) for careful packing, instead of Amazon at 18 with free Prime shipping. Singles are 6-8 each; see Modern Runs."
 seq: 2001
 purpose: "modern"
 order: 2001

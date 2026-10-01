@@ -13,7 +13,7 @@ Then set `cart: "2026-11"` (etc.) on the chosen books so [[Cart.base|the Cart da
 ## October 24, 2026: lean plan (updated 2026-09-30)
 
 **Decision 2026-09-30 with the new monthly budget:** October is the **Iron Man (2026) Vol 1 pre-order only**, about 17-20 + about 9 Walt's shipping = about 26-30. It gives 6 issues to read with no singles. [[The Mighty Thor Omnibus Vol 4]] and [[Daredevil Omnibus Vol 3]] are out of the cart for now (their `cart` tag is cleared). They stay on the Buy List as high urgency (last copy, ending discount), so the risk of losing them is accepted.
-- Vol 1 is pre-ordered at Walt's before it releases on Oct 27. Walt's charges at order time and holds the order until release.
+- Vol 1 is pre-ordered at Walt's before it releases on Oct 27. Decided 2026-10-01: Walt's (careful packing, about 26 with shipping) over Amazon (18, free Prime shipping, risk of a damaged copy and a slow replacement). Walt's charges at order time and holds the order until release.
 - Budget context: see [[Collecting Philosophy]] (170 / 220 / 290 depending on the month, plan with 150, quarterly pre-orders inside it).
 - Roll-over of unspent money is undecided.
 
