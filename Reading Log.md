@@ -13,6 +13,7 @@ Short impressions per book. Add a rating (1-10) when known. Newest last.
 - Epic 1: loved it.
 - Epic 2-3: They are a bit weaker, epic 3 could have been great, but the ending, like the last 5 comics were awful and ruined it, understandable why that run was cancelled
 - Epic 4 (Omni): still a favourite.
+- Epic 5 (The Reality War): 6/10. Didn't really like it; some stories felt written out of nowhere. (finished 2026-10-01)
 
 ## Spider-Man
 - Epic 1: loved it.

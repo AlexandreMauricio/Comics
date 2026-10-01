@@ -19,6 +19,7 @@ TPB is the default; singles only to test a new run, as a cover trophy, or as a b
 - **Monthly hobby budget (decided 2026-09-30).** A budget month runs from the 24th to the 23rd and is named after the cart placed on that 24th (Sep 24 - Oct 23 is the September budget, the Oct 24 cart is October's). Payday moves between the 23rd and the 26th, so the monthly cart counts for its own month even when it's placed on the 23rd.
   - The all-in hobby budget is **170 / 220 / 290 EUR** depending on how much is set aside that month (more set aside = lower budget). **Planning default: 150 EUR**, a safety margin, and lower again when the mortgage rises in 2027.
   - Comics get the hobby budget **minus other hobbies the user reports that month** (games and so on). Singles, pre-orders and every shop count.
+  - **Step-up rule:** the budget may rise to 200 EUR only after a couple of months at or under 150 AND the user confirms the personal big-items pot is on track. Until then, 150.
   - Old rule (about 200, +10-20 flex) is replaced. The old 'classics first' order still applies inside the budget.
 - Classics first. Modern never displaces a classic I should secure.
 - **Each month, buy at least one genuine next-reading classic** when one exists. Later/OOP classics can also be bought early.

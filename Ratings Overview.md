@@ -38,7 +38,7 @@ See also the sortable [[Ratings.base|Ratings dashboard]]. The tables below are g
 | 2 | [[DS Epic 02 - I, Dormammu\|I, Dormammu]] | 3.85 | 59 | 6 | A+ | owned | yes |
 | 3 | [[DS Epic 03 - A Separate Reality\|A Separate Reality]] | 3.91 | 271 | 6 | A+ | owned | yes |
 | 4 | [[DS Epic 04 - Alone Against Eternity\|Alone Against Eternity]] | 3.8 | 69 | 9 | A | covered | yes |
-| 5 | [[DS Epic 05 - The Reality War\|The Reality War]] | 3.74 | 61 |  | A | owned |  |
+| 5 | [[DS Epic 05 - The Reality War\|The Reality War]] | 3.74 | 61 | 6 | A | owned | yes |
 | 8 | [[DS Epic 08 - Triumph and Torment\|Triumph and Torment]] | 3.8 | 107 |  | S+ | owned |  |
 | 9 | [[DS Epic 09 - The Vampiric Verses\|The Vampiric Verses]] | 3.47 | 53 |  | B+ | wanted |  |
 | 10 | [[DS Epic 10 - Infinity War\|Infinity War]] | 3.7 | 44 |  | B+ | wanted |  |
