@@ -26,6 +26,7 @@ Sorted by purpose, then by how short the line's runway is, then by the first com
 | reading | Thor | 1 | [[Thor Epic 06 - Into the Dark Nebula]] | wanted | 50 | Cheap-Comics | 0 | low - Only if Omnibus 4 is gone (Cheap-Comics 50 + 20 shipping) |
 | reading | Thor | 1 | [[The Mighty Thor Omnibus Vol 4]] | planned | 85 | Walt's | 0 | high - Out of print, last copies at Walt's: page warns only 1 in stock (2026-09-30). Watch it |
 | reading | Thor | 1 | [[Thor Gorr the God Butcher Premier Collection]] | wanted | 12.79 | Walt's | 0 |  |
+| reading | Iron Man | 2 | [[Iron Man by Michelinie Layton and Romita Jr Omnibus]] | planned | 83.99 | Walt's | 0 | high - Decided 2026-10-03: buy. FOC Oct 28: 83.99 vs 125 after. Own Walt's order (release Apr 13, 2027). |
 | reading | Iron Man | 2 | [[Iron Man Extremis Premier Collection]] | wanted | 12.79 | Walt's | 0 |  |
 | reading | Spider-Man | 5 | [[The Amazing Spider-Man Omnibus Vol 4]] | wanted | 115 | Walt's | 0 | medium - Only route to Epic 8, 115 at Walt's |
 | reading | Spider-Man | 5 | [[SM Epic 08 - Man-Wolf at Midnight]] | wanted | 115 | Walt's | 0 |  |
@@ -36,7 +37,6 @@ Sorted by purpose, then by how short the line's runway is, then by the first com
 | security | Iron Man | 2 | [[IM Epic 18 - The Return of Tony Stark]] | oop |  |  | 3 | high - Out of print, ceiling 150 landed |
 | security | Spider-Man | 5 | [[SM Epic 09 - Spider-Man or Spider-Clone]] | wanted | 37 | Walt's | 1 | medium - Discounted 37 vs 45 at Walt's |
 | preorder | Daredevil | 1 | [[DD Epic 10 - Redemption]] | planned |  |  | 5 |  |
-| preorder | Iron Man | 2 | [[Iron Man by Michelinie Layton and Romita Jr Omnibus]] | planned | 83.99 | Walt's | 0 | high - FOC Oct 28 (4 days after payday): 83.99 vs 125 after. Release Apr 13, 2027. Needs its own Walt's order. |
 | preorder | Iron Man | 2 | [[IM Epic 12 - Iron Monger]] | planned |  |  | 1 | medium - Pre-order in December (Q1 2027 quarterly slot) |
 | preorder | Spider-Man | 5 | [[SM Epic 30 - Maximum Clonage]] | planned | 39.5 | Walt's | 18 | high - FOC Nov 25 (the day after payday): 39.50 vs 54.99 after. Release Feb 9, 2027. |
 | future | Doctor Strange | 0 | [[DS Epic 10 - Infinity War]] | wanted | 39 | Walt's | 3 | low - In stock at Walt's 39, Cheap-Comics 40 |
@@ -77,6 +77,7 @@ Sorted by purpose, then by how short the line's runway is, then by the first com
 
 | Book | Store | Price | Purpose |
 |---|---|---|---|
+| [[Iron Man by Michelinie Layton and Romita Jr Omnibus]] | Walt's | 83.99 | reading |
 | [[Iron Man (2026) Vol 1 A New Nightmare]] | Walt's | 16.99 | modern |
 
-Subtotal of listed books: **16.99 EUR**. Add shipping by store (Walt's about 9 below 150, free above; Cheap-Comics about 20 flat). Budget about 200, flexible, no rollover; quarterly pre-orders are outside it.
+Subtotal of listed books: **100.98 EUR**. Add shipping by store (Walt's about 9 below 150, free above; Cheap-Comics about 20 flat). Budget about 200, flexible, no rollover; quarterly pre-orders are outside it.

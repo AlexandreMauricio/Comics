@@ -12,6 +12,12 @@ Then set `cart: "2026-11"` (etc.) on the chosen books so [[Cart.base|the Cart da
 
 ## October 24, 2026: lean plan (updated 2026-09-30)
 
+**Decision 2026-10-03:** buy the Michelinie omnibus (Iron Man #115-157) at the FOC price of 83.99 (regular 125) before the **Oct 28** deadline. Reason given: so much enjoyment of Iron Man that even duplicate Epics (2-5 on top of Omnibus 1-3) would still be wanted, so repeating Epic 8 is fine. October is now two separate Walt's orders, placed on payday (Oct 24, leave margin before Oct 28):
+1. Iron Man (2026) Vol 1, about 17 + 9 shipping = about 26. Its own order (releases Oct 27).
+2. Michelinie omnibus, 83.99 + 9 shipping = about 93. Its own order (releases Apr 13, 2027; Walt's holds it until then).
+Total about **119**, inside the 150 cap. It only fits if the payday leftover is at least about 269 (150 floor + 119). If it is short, the omnibus comes first (the deadline), Vol 1 second.
+Thor Omnibus 4 and Daredevil Omnibus 3 stay out of October; Thor Omnibus 4 is the main November item (fallback Thor Epic 6 at Cheap-Comics), together with Spider-Man 30 (FOC Nov 25, 39.50). December: Iron Man 12 and Daredevil 10 if listed (FOC probably around Dec 22-23), with the Premier Collections.
+
 **Decision 2026-09-30 with the new monthly budget:** October is the **Iron Man (2026) Vol 1 pre-order only**, about 17-20 + about 9 Walt's shipping = about 26-30. It gives 6 issues to read with no singles. [[The Mighty Thor Omnibus Vol 4]] and [[Daredevil Omnibus Vol 3]] are out of the cart for now (their `cart` tag is cleared). They stay on the Buy List as high urgency (last copy, ending discount), so the risk of losing them is accepted.
 - Vol 1 is pre-ordered at Walt's before it releases on Oct 27. Decided 2026-10-01: Walt's (careful packing, about 26 with shipping) over Amazon (18, free Prime shipping, risk of a damaged copy and a slow replacement). Walt's charges at order time and holds the order until release.
 - Budget context: see [[Collecting Philosophy]] (170 / 220 / 290 depending on the month, plan with 150, quarterly pre-orders inside it).

@@ -5,22 +5,23 @@ edition: "Michelinie Layton Romita Jr"
 title: "Iron Man by Michelinie Layton and Romita Jr Omnibus"
 status: "planned"
 read: false
-budget: "quarterly"
+budget: "monthly"
 issues: "Iron Man #115-157"
 pages: "944"
 release_date: "2027-04-13"
 editions: ["19 Feb 2013 (original)", "April 2027 (reprint)"]
 covers: ["[[IM Epic 08 - Demon in a Bottle]]", "[[IM Epic 09 - Not yet released]]"]
 urgency: "high"
-urgency_reason: "FOC Oct 28 (4 days after payday): 83.99 vs 125 after. Release Apr 13, 2027. Needs its own Walt's order."
+urgency_reason: "Decided 2026-10-03: buy. FOC Oct 28: 83.99 vs 125 after. Own Walt's order (release Apr 13, 2027)."
 seq: 8.5
-purpose: "preorder"
+purpose: "reading"
 missing_before: 0
 foc: "2026-10-28"
 preorder_price: 83.99
 regular_price: 125
 price_seen: 83.99
 store: "Walt's"
+cart: "2026-10"
 source: "Wikipedia Marvel Omnibus (2026-09-29) + conversation"
 wikipedia_checked: "2026-09-29"
 verified: true
