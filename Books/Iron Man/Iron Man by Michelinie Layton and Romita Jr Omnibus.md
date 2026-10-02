@@ -8,14 +8,19 @@ read: false
 budget: "quarterly"
 issues: "Iron Man #115-157"
 pages: "944"
-release_date: "2027-04"
+release_date: "2027-04-13"
 editions: ["19 Feb 2013 (original)", "April 2027 (reprint)"]
 covers: ["[[IM Epic 08 - Demon in a Bottle]]", "[[IM Epic 09 - Not yet released]]"]
-urgency: "medium"
-urgency_reason: "April 2027 reprint, pre-order in March"
+urgency: "high"
+urgency_reason: "FOC Oct 28 (4 days after payday): 83.99 vs 125 after. Release Apr 13, 2027. Needs its own Walt's order."
 seq: 8.5
 purpose: "preorder"
 missing_before: 0
+foc: "2026-10-28"
+preorder_price: 83.99
+regular_price: 125
+price_seen: 83.99
+store: "Walt's"
 source: "Wikipedia Marvel Omnibus (2026-09-29) + conversation"
 wikipedia_checked: "2026-09-29"
 verified: true
@@ -28,7 +33,8 @@ tags: ["comics", "line/iron-man"]
 
 ## Status
 - **planned**
-- Q2 2027 quarterly pre-order, placed in March 2027. Repeats Epic 8, only way to cover Epic 9.
+- Pre-order price 83.99 (regular 125) only until the FOC deadline on **Oct 28, 2026**. Release Apr 13, 2027. Repeats Epic 8; the only way to cover Epic 9 right now.
+- Walt's holds an order until everything in it is released, so this goes in its own order (not with Iron Man 2026 Vol 1).
 - Covers: [[IM Epic 08 - Demon in a Bottle]], [[IM Epic 09 - Not yet released]]
 
 ## Check / look up

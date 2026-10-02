@@ -12,7 +12,7 @@ writers: "Todd DeZago, J.M. DeMatteis, Howard Mackie, Tom DeFalco, David Micheli
 artists: "Steven Butler, Mark Bagley, Tom Lyle, Eliot Brown, Ron Lim, Sal Buscema, Patch Zircher, Dave Hoover, Joe St. Pierre, Kyle Hotz, Darick Robertson, Steve Lightle"
 pages: "480"
 era: "Onslaught"
-release_date: "2027-02"
+release_date: "2027-02-09"
 editions: ["Feb 9, 2027"]
 isbn: ["978-1302971847"]
 cover_note: "Amazing Spider-Man #404 cover"
@@ -24,6 +24,13 @@ ai_source: "ChatGPT/Gemini (unverified)"
 seq: 30
 purpose: "preorder"
 missing_before: 18
+foc: "2026-11-25"
+preorder_price: 39.5
+regular_price: 54.99
+price_seen: 39.5
+store: "Walt's"
+urgency: "high"
+urgency_reason: "FOC Nov 25 (the day after payday): 39.50 vs 54.99 after. Release Feb 9, 2027."
 source: "Epics.xlsx Main Page + Ranking tab, cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"
 wikipedia_checked: "2026-09-29"
 verified: true
@@ -44,6 +51,8 @@ tags: ["comics", "line/spider-man"]
 ## Ranking (ChatGPT/Gemini, unverified)
 - ⭐ · tier E
 - Completionists only. Lowest priority.
+
+- Pre-order price 39.50 (regular 54.99) only until the FOC deadline on **Nov 25, 2026**. Release Feb 9, 2027.
 
 ## Check / look up
 - [Goodreads 9781302971847](https://www.goodreads.com/search?q=9781302971847) · [Google 9781302971847](https://www.google.com/search?q=9781302971847)

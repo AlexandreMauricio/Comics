@@ -8,6 +8,7 @@ Start here. The book database is the `Books/` folder (one note per book, with pr
 - [[Cart Planner]] - runway per line, candidates by purpose, current cart (start here each month)
 - [[Cart.base|Cart]] - books assigned to a monthly cart, with the total
 - [[Reading Queue.base|Reading Queue]] - owned/covered and unread, plus "Next up"
+- [[Pre-order Deadlines.base|Pre-order Deadlines]] - FOC date, pre-order price and release, earliest first
 - [[Buy List.base|Buy List]] - wanted, partial, hard to find, planned
 - [[Incoming and Pre-orders.base|Incoming and Pre-orders]] - by budget (monthly vs quarterly)
 - [[Collection.base|Collection]] - everything, with a view per line

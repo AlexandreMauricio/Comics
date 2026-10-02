@@ -51,6 +51,30 @@ One Walt's order, about **207**, free shipping (above 150). About 7 over, inside
 - IM 2026 #1-4 cover set (trophy, decide after reading Vol 1); IM2022 #14-18, 1-2 at a time.
 - December: place the Q1 2027 quarterly pre-order (IM Epic 12, see [[Research Notes]]).
 
+## Pre-order calendar (from Walt's, 2026-10-03)
+FOC = final order cutoff. Before it you get the pre-order price; after it the regular price. Walt's charges at order time and holds an order until everything in it is released (and won't mix releases more than about 2 months apart).
+
+| Book | FOC deadline | Pre-order | Regular | Saves | Release |
+|---|---|---|---|---|---|
+| [[Iron Man by Michelinie Layton and Romita Jr Omnibus]] | **Oct 28, 2026** | 83.99 | 125 | 41.01 (33%) | Apr 13, 2027 |
+| [[SM Epic 30 - Maximum Clonage]] | **Nov 25, 2026** | 39.50 | 54.99 | 15.49 (28%) | Feb 9, 2027 |
+| [[Iron Man Extremis Premier Collection]] | Jul 29 (passed) | 12.79 (discount, not FOC) | 14.99 | 2.20 | Jan 12, 2027 |
+| [[Thor Gorr the God Butcher Premier Collection]] | Sep 23 (passed) | 12.79 (discount, not FOC) | 14.99 | 2.20 | Mar 9, 2027 |
+| Iron Man Epic 12 *Iron Monger* | not listed yet | | | | Mar 9, 2027 |
+| Daredevil Epic 10 *Redemption* | not listed yet | | | | Mar 9, 2027 |
+
+**Pattern from these dates (inference, check it when the books appear):** Epics have an FOC about 76 days before release (Spider-Man 30: Nov 25 to Feb 9). Omnibuses and Premier Collections have it about 167 days before. If that holds, Iron Man 12 and Daredevil 10 (release Mar 9) would close around **Dec 22-23**, which is just before the December payday. If they appear on Walt's, order a day or two ahead, or in the November cart.
+
+**Which orders can be combined (Walt's holds an order until every item is released):**
+- Iron Man 2026 Vol 1 (releases Oct 27) must be its own order, or it would be held until the latest release in it.
+- The Michelinie omnibus (Apr 13) is its own order unless combined with items releasing from mid-Feb onward. A separate order costs about 9 shipping under 150.
+- Spider-Man 30 (Feb 9), Extremis (Jan 12) and Thor Gorr (Mar 9) all fit in one order, since they are within about 2 months of each other. That order is 12.79 + 39.50 + 12.79 = 65.08, plus about 9 shipping.
+
+**The decisions waiting:**
+1. **By Oct 28:** the Michelinie omnibus at 83.99 (saves 41), or skip it and risk paying 125 later or waiting for an Epic 9 that isn't announced. It fits October's 150 allowance only if Vol 1 (26) plus the omnibus (about 93 with shipping) fits what's left after payday; it competes with Thor Omnibus 4 (94 with shipping) for that room.
+2. **By Nov 25:** Spider-Man 30 at 39.50 (saves 15.49). It fits the November cart.
+3. **No rush:** the two Premier Collections, since their prices aren't tied to a deadline.
+
 ## History
 
 ### Carts placed

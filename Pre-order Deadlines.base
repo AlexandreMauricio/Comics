@@ -1,0 +1,27 @@
+filters:
+  and:
+    - file.inFolder("Books")
+    - 'foc != ""'
+properties:
+  file.name:
+    displayName: Book
+  foc:
+    displayName: FOC deadline
+  preorder_price:
+    displayName: Pre-order price
+  regular_price:
+    displayName: Regular price
+views:
+  - type: table
+    name: By deadline
+    order:
+      - file.name
+      - foc
+      - preorder_price
+      - regular_price
+      - release_date
+      - status
+      - urgency_reason
+    sort:
+      - property: foc
+        direction: ASC
