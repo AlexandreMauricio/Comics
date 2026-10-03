@@ -53,7 +53,7 @@ Ordered and already published, so it should arrive any time.
 
 | Line | Next read | Status |
 |---|---|---|
-| Iron Man | [[IM Epic 07 - Ten Rings to Rule the World\|Epic 7]] | owned |
+| Iron Man | [[IM Epic 08 - Demon in a Bottle\|Epic 8]] | incoming (not here yet) |
 | Spider-Man | [[SM Epic 03 - Spider-Man No More!\|Epic 3]] | incoming (not here yet) |
 | Thor | [[Thor Epic 05 - The Fall of Asgard\|Epic 5]] | covered |
 | Daredevil | [[Daredevil Omnibus Vol 2]] | incoming (not here yet) |

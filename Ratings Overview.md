@@ -15,7 +15,7 @@ See also the sortable [[Ratings.base|Ratings dashboard]]. The tables below are g
 | 4 | [[IM Epic 04 - The Fury of the Firebrand\|The Fury of the Firebrand]] | 2.86 | 42 | 5 | A | covered | yes |
 | 5 | [[IM Epic 05 - Battle Royal\|Battle Royal]] | 3.06 | 36 | 9 | A | covered | yes |
 | 6 | [[IM Epic 06 - War of the Super Villains\|War of the Super Villains]] | 3.23 | 30 | 6 | A+ | owned | yes |
-| 7 | [[IM Epic 07 - Ten Rings to Rule the World\|Ten Rings to Rule the World]] | 3.55 ⚠ | 22 |  | A | owned |  |
+| 7 | [[IM Epic 07 - Ten Rings to Rule the World\|Ten Rings to Rule the World]] | 3.55 ⚠ | 22 |  | A | owned | yes |
 | 8 | [[IM Epic 08 - Demon in a Bottle\|Demon in a Bottle]] | 4.0 ⚠ | 7 |  | S+ | incoming |  |
 | 10 | [[IM Epic 10 - The Enemy Within\|The Enemy Within]] | 3.7 | 125 |  | B | owned |  |
 | 11 | [[IM Epic 11 - Duel of Iron\|Duel of Iron]] | 3.68 | 93 |  | B | owned |  |

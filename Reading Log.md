@@ -8,6 +8,7 @@ Short impressions per book. Add a rating (1-10) when known. Newest last.
 - Epic 3-4: somewhat repetitive/meh, especially the villain encounters.
 - Epic 5: excellent. Tech/invention/upgrades, Happy/Pepper, relationships and progression reignited the enthusiasm.
 - Epic 6: not bad, not amazing. Mandarin dies, Tony improves the armor/mask for explosions, Jack Frost returns under another name.
+- Epic 7 (Ten Rings to Rule the World): loved it, devoured in 2 days (2026-10-03). Amazing stories and art; Madame Masque and Sitwell appear, characters I didn't know I missed.
 
 ## Doctor Strange
 - Epic 1: loved it.

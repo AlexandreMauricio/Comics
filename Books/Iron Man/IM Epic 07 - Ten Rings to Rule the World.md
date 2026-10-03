@@ -4,8 +4,7 @@ type: "Epic Collection"
 number: 7
 title: "Ten Rings to Rule the World"
 status: "owned"
-read: false
-next_read: true
+read: true
 years: "1976-1978"
 issues: "Iron Man #92-114, Annual #4; Marvel Premiere #44"
 writers: "Bill Mantlo"
@@ -66,4 +65,4 @@ tags: ["comics", "line/iron-man"]
 - [Goodreads 9781302960599](https://www.goodreads.com/search?q=9781302960599) · [Google 9781302960599](https://www.google.com/search?q=9781302960599)
 
 ## My impressions
-(see [[Reading Log]]; add notes here)
+Loved it; read in 2 days (2026-10-03). The stories and the art were amazing, and it brought back Madame Masque and Sitwell, characters I didn't know I missed. Goodreads readers average 3.55, so this is well above the crowd. (see [[Reading Log]])
