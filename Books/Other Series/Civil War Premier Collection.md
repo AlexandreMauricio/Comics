@@ -6,7 +6,7 @@ status: "incoming"
 read: false
 budget: "monthly"
 ordered: "2026-10-05"
-issues: "Civil War (2006) #1-7 (Mark Millar and Steve McNiven; contents to verify)"
+issues: "Civil War (2006) #1-7; Daily Bugle: Civil War Special Edition; material from Civil War #1 Director's Cut"
 pages: "264"
 writers: "Mark Millar"
 artists: "Steve McNiven"
@@ -25,7 +25,7 @@ tags: ["comics", "line/avengers"]
 
 # Civil War Premier Collection
 
-**Collects:** Civil War #1-7 (to verify). 264 pages, with a foreword by Nate Moore and an introduction by Steve McNiven.
+**Collects:** Civil War (2006) #1-7, Daily Bugle: Civil War Special Edition, and material from the Civil War #1 Director's Cut. 264 pages, with a foreword by Nate Moore and an introduction by Steve McNiven.
 
 ## Status
 - **incoming** (Amazon, 14.03, free shipping)
