@@ -15,25 +15,25 @@ As a 2000 kid I grew up with Harry Potter too, but this is a different, better v
 %% begin generated: books %%
 ### Classic
 
-| Book | Status | Price | Where | Note |
-|---|---|---|---|---|
-| [[DS Epic 01 - Master of the Mystic Arts\|Epic 1: Master of the Mystic Arts]] | owned | 55.94 paid | Vinted | read, 9/10; 55.94 with shipping on Vinted. |
-| [[DS Epic 02 - I, Dormammu\|Epic 2: I, Dormammu]] | owned | 49.99 paid | Walt's | read, 6/10 |
-| [[DS Epic 03 - A Separate Reality\|Epic 3: A Separate Reality]] | owned | 40.7 paid | Vinted | read, 6/10; 40.70 with shipping on Vinted, listed as 'Epic Doctor Strange' with no photo. |
-| [[Doctor Strange Master of the Mystic Arts Vol 1\|Doctor Strange Master of the Mystic Arts Vol 1]] | owned | 78.99 paid | Walt's | - |
-| [[DS Epic 04 - Alone Against Eternity\|Epic 4: Alone Against Eternity]] | covered | - | - | read, 9/10; in Doctor Strange Master of the Mystic Arts Vol 1 |
-| [[DS Epic 05 - The Reality War\|Epic 5: The Reality War]] | owned | 54.9 paid | Walt's | read, 6/10 |
-| [[Doctor Strange Masterworks Vol 9\|Marvel Masterworks: Doctor Strange Vol. 9]] | parked | - | - | - |
-| [[DS Epic 06 - Not yet released\|Epic 6: Not yet released]] | unreleased | - | - | - |
-| [[Doctor Strange Masterworks Vol 10\|Marvel Masterworks: Doctor Strange Vol. 10]] | wanted | 75 seen | Walt's | Out of print / limited supply at Walt's (75). |
-| [[DS Epic 07 - Not yet released\|Epic 7: Not yet released]] | unreleased | - | - | - |
-| [[Doctor Strange Masterworks Vol 11\|Marvel Masterworks: Doctor Strange Vol. 11]] | wanted | 67.5 (reg 75) seen | Walt's | Only 2 copies left at Walt's, discounted from 75 to 67.50. |
-| [[DS Epic 08 - Triumph and Torment\|Epic 8: Triumph and Torment]] | owned | 51.8 paid | Vinted | 51.80 with shipping on Vinted. |
-| [[DS Epic 09 - The Vampiric Verses\|Epic 9: The Vampiric Verses]] | wanted | 30 seen | Cheap-Comics | Sold out at Walt's; 30 at Cheap-Comics |
-| [[DS Epic 10 - Infinity War\|Epic 10: Infinity War]] | wanted | 39 seen | Walt's | In stock at Walt's 39, Cheap-Comics 40 |
-| [[DS Epic 11 - Nightmare on Bleecker Street\|Epic 11: Nightmare on Bleecker Street]] | wanted | - | - | - |
-| [[DS Epic 12 - Strangers Among Us\|Epic 12: Strangers Among Us]] | wanted | - | - | - |
-| [[DS Epic 13 - Afterlife\|Epic 13: Afterlife]] | wanted | - | - | - |
+| Book                                                                                               | Status     | Price                     | Where        | Note                                                                                      |
+| -------------------------------------------------------------------------------------------------- | ---------- | ------------------------- | ------------ | ----------------------------------------------------------------------------------------- |
+| [[DS Epic 01 - Master of the Mystic Arts\|Epic 1: Master of the Mystic Arts]]                      | owned      | 55.94 paid                | Vinted       | read, 9/10; 55.94 with shipping on Vinted.                                                |
+| [[DS Epic 02 - I, Dormammu\|Epic 2: I, Dormammu]]                                                  | owned      | 49.99 paid                | Walt's       | read, 6/10                                                                                |
+| [[DS Epic 03 - A Separate Reality\|Epic 3: A Separate Reality]]                                    | owned      | 40.7 paid                 | Vinted       | read, 6/10; 40.70 with shipping on Vinted, listed as 'Epic Doctor Strange' with no photo. |
+| [[Doctor Strange Master of the Mystic Arts Vol 1\|Doctor Strange Master of the Mystic Arts Vol 1]] | owned      | 78.99 paid                | Walt's       | -                                                                                         |
+| [[DS Epic 04 - Alone Against Eternity\|Epic 4: Alone Against Eternity]]                            | covered    | -                         | -            | read, 9/10; in Doctor Strange Master of the Mystic Arts Vol 1                             |
+| [[DS Epic 05 - The Reality War\|Epic 5: The Reality War]]                                          | owned      | 54.9 paid                 | Walt's       | read, 6/10                                                                                |
+| [[Doctor Strange Masterworks Vol 9\|Marvel Masterworks: Doctor Strange Vol. 9]]                    | parked     | -                         | -            | -                                                                                         |
+| [[DS Epic 06 - Not yet released\|Epic 6: Not yet released]]                                        | unreleased | -                         | -            | -                                                                                         |
+| [[Doctor Strange Masterworks Vol 10\|Marvel Masterworks: Doctor Strange Vol. 10]]                  | wanted     | 75 seen                   | Walt's       | Out of print / limited supply at Walt's (75).                                             |
+| [[DS Epic 07 - Not yet released\|Epic 7: Not yet released]]                                        | unreleased | -                         | -            | -                                                                                         |
+| [[Doctor Strange Masterworks Vol 11\|Marvel Masterworks: Doctor Strange Vol. 11]]                  | wanted     | 67.5 (reg 75) seen        | Walt's       | Only 2 copies left at Walt's, discounted from 75 to 67.50.                                |
+| [[DS Epic 08 - Triumph and Torment\|Epic 8: Triumph and Torment]]                                  | owned      | 51.8 paid                 | Vinted       | 51.80 with shipping on Vinted.                                                            |
+| [[DS Epic 09 - The Vampiric Verses\|Epic 9: The Vampiric Verses]]                                  | wanted     | 30 seen                   | Cheap-Comics | Sold out at Walt's; 30 at Cheap-Comics                                                    |
+| [[DS Epic 10 - Infinity War\|Epic 10: Infinity War]]                                               | wanted     | 39 seen                   | Walt's       | In stock at Walt's 39, Cheap-Comics 40                                                    |
+| [[DS Epic 11 - Nightmare on Bleecker Street\|Epic 11: Nightmare on Bleecker Street]]               | wanted     | 44.99 seen                | Walt's       | OOP / Limtied supply, cheap comics has it a 24.90<br>(reg 44.99)                          |
+| [[DS Epic 12 - Strangers Among Us\|Epic 12: Strangers Among Us]]                                   | wanted     | 44.90<br>(reg 54.99) seen | Walt's       | -                                                                                         |
+| [[DS Epic 13 - Afterlife\|Epic 13: Afterlife]]                                                     | wanted     | 49.50 seen                | Cheap-Comics | -                                                                                         |
 
 ### Modern and events
 
