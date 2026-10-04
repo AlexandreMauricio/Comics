@@ -7,10 +7,57 @@ Spidey is Spidey: I grew up with lots of Spider-Man movies, cartoons and games. 
 
 ## Plan and status
 
-Runway: Epic 3 (incoming), Epic 4, Omnibus 3 (Epic 5-6 material), Epic 7.
+- Runway: Epic 3 (incoming), Epic 4, Omnibus 3 (Epics 5-6), Epic 7. Epic 8 only comes in Omnibus 4 (115).
+- Own 13, 17 and 18 as well, behind the gap. Epic 29 is ordered (Dec 8); Epic 30 has a Nov 25 pre-order deadline (39.50).
+- Modern: *Spider-Island* is incoming.
 
-- Own: 4, 7, 13 (44.99 at Walt's), 17 (Vinted, 37.85 with shipping after watching ~5 months), 18, Omnibus 3.
-- Pre-ordered: Epic 29 Mark of Kaine (39.50, Dec 8). Possible: Epic 30 (Q1 2027). Epic 8/9 are low urgency.
+## Books
+%% begin generated: books %%
+### Classic
 
-## Books (live view)
-![[Collection.base#Spider-Man]]
+| Book | Status | Price | Where | Note |
+|---|---|---|---|---|
+| [[SM Epic 01 - Great Power\|Epic 1: Great Power]] | owned | 97.79 paid | Vinted | read, 9/10; 97.79 with shipping on Vinted. |
+| [[SM Epic 02 - Great Responsibility\|Epic 2: Great Responsibility]] | owned | 49.99 paid | Cheap-Comics | read |
+| [[SM Epic 03 - Spider-Man No More!\|Epic 3: Spider-Man No More!]] | incoming | 40.99 paid | Walt's | Pre-order. |
+| [[SM Epic 04 - The Goblin Lives\|Epic 4: The Goblin Lives]] | owned | 67.9 paid | Vinted | 67.90 with shipping on Vinted. |
+| [[SM Epic 05 - The Secret of the Petrified Tablet\|Epic 5: The Secret of the Petrified Tablet]] | covered | - | - | in The Amazing Spider-Man Omnibus Vol 3 |
+| [[The Amazing Spider-Man Omnibus Vol 3\|The Amazing Spider-Man Omnibus Vol 3]] | owned | 108.5 paid | Vinted | 108.50 with shipping on Vinted. |
+| [[SM Epic 06 - The Death of Captain Stacy\|Epic 6: The Death of Captain Stacy]] | covered | - | - | in The Amazing Spider-Man Omnibus Vol 3 |
+| [[SM Epic 07 - The Goblin's Last Stand\|Epic 7: The Goblin's Last Stand]] | owned | 30.99 paid | Walt's | 40.99 minus a 10 newsletter discount |
+| [[The Amazing Spider-Man Omnibus Vol 4\|The Amazing Spider-Man Omnibus Vol 4]] | wanted | 115 seen | Walt's | Only route to Epic 8, 115 at Walt's |
+| [[SM Epic 08 - Man-Wolf at Midnight\|Epic 8: Man-Wolf at Midnight]] | wanted | 115 seen | Walt's | Only via Spider-Man Omnibus 4 (covers 7 and 8, repeats 7). |
+| [[SM Epic 09 - Spider-Man or Spider-Clone\|Epic 9: Spider-Man or Spider-Clone?]] | wanted | 37 seen | Walt's | Discounted 37 vs 45 at Walt's |
+| [[SM Omnibus 5\|SM Omnibus 5]] | parked | - | - | - |
+| [[SM Epic 10 - Big Apple Battleground\|Epic 10: Big Apple Battleground]] | wanted | - | - | - |
+| [[SM Omnibus 6\|SM Omnibus 6]] | parked | - | - | - |
+| [[SM Epic 11 - Nine Lives Has the Black Cat\|Epic 11: Nine Lives Has the Black Cat]] | wanted | - | - | - |
+| [[SM Omnibus 7\|SM Omnibus 7]] | parked | - | - | - |
+| [[SM Epic 12 - Spider-Man Threat or Menace\|Epic 12: Spider-Man: Threat or Menace?]] | wanted | - | - | - |
+| [[SM Epic 13 - Nothing Can Stop the Juggernaut\|Epic 13: Nothing Can Stop the Juggernaut]] | owned | 44.99 paid | Walt's | Normal price. |
+| [[SM Epic 14 - Not yet released\|Epic 14: Not yet released]] | unreleased | - | - | - |
+| [[SM Epic 15 - Ghosts of the Past\|Epic 15: Ghosts of the Past]] | wanted | - | - | - |
+| [[SM Epic 16 - Not yet released\|Epic 16: Not yet released]] | unreleased | - | - | - |
+| [[SM Epic 17 - Kraven's Last Hunt\|Epic 17: Kraven's Last Hunt]] | owned | 37.85 paid | Vinted | 37.85 with shipping on Vinted. |
+| [[SM Epic 18 - Venom\|Epic 18: Venom]] | owned | 40.99 paid | Walt's | - |
+| [[SM Epic 19 - Assassin Nation\|Epic 19: Assassin Nation]] | wanted | - | - | - |
+| [[SM Epic 20 - Cosmic Adventures\|Epic 20: Cosmic Adventures]] | wanted | - | - | - |
+| [[SM Epic 21 - Return of the Sinister Six\|Epic 21: Return of the Sinister Six]] | wanted | - | - | - |
+| [[SM Epic 22 - Round Robin\|Epic 22: Round Robin]] | wanted | - | - | - |
+| [[SM Epic 23 - The Hero Killers\|Epic 23: The Hero Killers]] | wanted | - | - | - |
+| [[SM Epic 24 - Invasion of the Spider-Slayers\|Epic 24: Invasion of the Spider-Slayers]] | wanted | - | - | - |
+| [[SM Epic 25 - Maximum Carnage\|Epic 25: Maximum Carnage]] | wanted | - | - | - |
+| [[SM Epic 26 - Lifetheft\|Epic 26: Lifetheft]] | wanted | - | - | - |
+| [[SM Epic 27 - The Clone Saga\|Epic 27: The Clone Saga]] | wanted | - | - | - |
+| [[SM Epic 28 - Web of Life, Web of Death\|Epic 28: Web of Life, Web of Death]] | wanted | - | - | - |
+| [[SM Epic 29 - The Mark of Kaine\|Epic 29: The Mark of Kaine]] | incoming | 39.5 paid | Walt's | releases Dec 8, 2026 |
+| [[SM Epic 30 - Maximum Clonage\|Epic 30: Maximum Clonage]] | planned | 39.5 (reg 54.99) seen | Walt's | releases Feb 9, 2027; FOC Nov 25; FOC Nov 25 (the day after payday): 39.50 vs 54.99 after. |
+
+### Modern and events
+
+| Book | Status | Price | Where | Note |
+|---|---|---|---|---|
+| [[SM Modern 15 - Spider-Island\|Epic 15: Spider-Island]] | incoming | 40.99 paid | Walt's | Pre-order. |
+
+Price: *paid* is what you paid (shipping not included), *seen* is the last price noticed. Generated by `Tools/refresh.py`; don't edit this block.
+%% end generated: books %%

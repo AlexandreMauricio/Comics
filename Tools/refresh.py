@@ -18,7 +18,7 @@ Derived properties (written here, don't edit by hand):
   budget_month   "YYYY-MM" budget month of the hand-set `ordered` date. A budget month runs from the 24th (payday,
                  when that month's cart is placed) to the 23rd, so an order on Sep 24 - Oct 23 counts as "2026-09".
                  Payday moves between the 23rd and the 26th, so a `cart` value on the book wins over the date.
-Generated notes: Cart Planner.md, and the %% generated %% blocks in Comics Hub.md and Ratings Overview.md.
+Generated notes: Cart Planner.md, the book tables in Series/*.md, and the %% generated %% blocks in Comics Hub.md and Ratings Overview.md.
 """
 import datetime
 import glob
@@ -327,8 +327,105 @@ def make_hub_lines(notes, pos, runway, gap, line_epics):
             gtxt = f"Epic {g[0]} ({st})" + (": blocked" if st == "unreleased" else "")
         name = f"[[{line}]]" + (f" (#{PRIORITY[line]})" if line in PRIORITY else "")
         L.append(f"| {name} | {'Epic ' + str(max(done)) if done else '-'} | {', '.join(nxt) or '-'} | {max(runway.get(line, 0) - 1, 0)} | {gtxt} |")
+    L.append("| [[Venom]] | events and singles | | | |")
+    L.append("| [[Avengers]] | Epic 1 read | | | |")
     L.append("| [[Other Series]] | tried, mostly dropped | | | |")
     replace_block(VAULT + "Comics Hub.md", "lines", "\n".join(L))
+
+
+# ---------- line pages ----------
+
+LINE_PAGES = {
+    "Iron Man": ["Iron Man"], "Doctor Strange": ["Doctor Strange"], "Spider-Man": ["Spider-Man"], "Thor": ["Thor"],
+    "Daredevil": ["Daredevil"], "Venom": ["Venom", "Carnage"], "Avengers": ["Avengers"],
+    "Other Series": ["Fantastic Four", "Ant-Man", "Hulk", "Moon Knight", "Secret Wars"],
+}
+MODERN_TYPES = ("TPB", "Single", "Premier Collection", "Graphic Novel")
+
+
+def first_sentence(s, limit=100):
+    s = " ".join(str(s).split())
+    cut = re.split(r"(?<=[.!?])\s", s, maxsplit=1)[0]
+    if len(cut) > limit:
+        cut = cut[:limit].rsplit(" ", 1)[0] + "..."
+    return cut
+
+
+def money(v):
+    return f"{v:g}"
+
+
+def price_cell(fm):
+    paid, seen, reg = fm.get("price_paid"), fm.get("price_seen"), fm.get("regular_price")
+    if paid:
+        return f"{money(paid)} paid"
+    if seen:
+        txt = money(seen)
+        if reg and reg != seen:
+            txt += f" (reg {money(reg)})"
+        return txt + " seen"
+    return "-"
+
+
+def is_modern(fm):
+    s = fm.get("seq")
+    return bool(fm.get("modern")) or fm.get("type") in MODERN_TYPES or (isinstance(s, (int, float)) and s >= 100)
+
+
+def note_cell(fm):
+    bits = []
+    if fm.get("read"):
+        bits.append("read" + (f", {fm['my_rating']}/10" if fm.get("my_rating") else ""))
+    via = links(fm, "covered_via") or links(fm, "covered_by")
+    if fm.get("status") in ("covered", "partial") and via:
+        bits.append("in " + ", ".join(v for v in via[:2]))
+    rd = parse_date(fm.get("release_date")) if fm.get("release_date") else None
+    if rd and rd > datetime.date.today() and fm.get("status") in ("planned", "wanted", "incoming", "unreleased"):
+        bits.append(f"releases {rd.strftime('%b %d, %Y').replace(' 0', ' ')}" if "-" in str(fm.get("release_date")) and len(str(fm.get("release_date"))) > 7 else f"releases {rd.strftime('%b %Y')}")
+    if fm.get("foc"):
+        foc = parse_date(fm["foc"])
+        if foc and foc >= datetime.date.today():
+            bits.append(f"FOC {foc.strftime('%b %d').replace(' 0', ' ')}")
+    for key in ("urgency_reason", "price_note", "status_note"):
+        v = fm.get(key)
+        if v and str(v).strip().lower() != "have":
+            bits.append(first_sentence(v))
+            break
+    return "; ".join(bits)[:220] or "-"
+
+
+def book_label(n, fm):
+    if is_epic(fm):
+        title = fm.get("title") or n
+        return f"[[{n}\\|Epic {fm['number']}: {title}]]"
+    return f"[[{n}\\|{fm.get('title') or n}]]"
+
+
+def make_line_pages(notes):
+    for page, lines in LINE_PAGES.items():
+        path = VAULT + f"Series/{page}.md"
+        if not os.path.exists(path):
+            continue
+        text = open(path, encoding="utf-8").read()
+        if "%% begin generated: books %%" not in text:
+            continue
+        mine = [(n, fm) for n, (f, fm) in notes.items() if fm.get("line") in lines]
+        mine.sort(key=lambda x: (x[1].get("seq") if isinstance(x[1].get("seq"), (int, float)) else 9999, x[0]))
+        out = []
+        sections = (("Classic", lambda fm: not is_modern(fm)), ("Modern and events", is_modern))
+        if page in ("Venom",):  # all modern-era events and runs: one table
+            sections = (("Events and modern runs", lambda fm: True),)
+        for heading, test in sections:
+            rows = [(n, fm) for n, fm in mine if test(fm)]
+            out += [f"### {heading}", "", "| Book | Status | Price | Where | Note |", "|---|---|---|---|---|"]
+            for n, fm in rows:
+                st = fm.get("status", "")
+                out.append(f"| {book_label(n, fm)} | {st} | {price_cell(fm)} | {fm.get('store') or '-'} | {note_cell(fm)} |")
+            if not rows:
+                out.append("| (none yet) | | | | |")
+            out.append("")
+        out.append("Price: *paid* is what you paid (shipping not included), *seen* is the last price noticed. Generated by `Tools/refresh.py`; don't edit this block.")
+        replace_block(path, "books", "\n".join(out))
 
 
 def make_ratings(notes):
@@ -536,6 +633,7 @@ def main(cart_month):
     notes = load_notes()
     make_planner(notes, seq, pos, runway, gap, cart_month)
     make_hub_lines(notes, pos, runway, gap, line_epics)
+    make_line_pages(notes)
     make_ratings(notes)
     make_tracker(notes, cart_month)
     print(f"refreshed {len(notes)} notes, cart {cart_month}")
