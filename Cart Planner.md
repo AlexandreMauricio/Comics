@@ -113,6 +113,6 @@ Sorted by purpose, then by how short the line's runway is, then by the first com
 |---|---|---|---|
 | [[Doctor Strange Masterworks Vol 10]] | Walt's | 75 | reading |
 | [[Iron Man by Michelinie Layton and Romita Jr Omnibus]] | Walt's | 83.99 | reading |
-| [[Iron Man (2026) Vol 1 A New Nightmare]] | Walt's | 16.99 | modern |
+| [[Venom (2026) 1]] | Walt's | 0 | modern |
 
-Subtotal of listed books: **175.98 EUR**. Add shipping by store (Walt's about 9 below 150, free above; Cheap-Comics about 20 flat). Budget about 200, flexible, no rollover; quarterly pre-orders are outside it.
+Subtotal of listed books: **158.99 EUR**. Add shipping by store (Walt's about 9 below 150, free above; Cheap-Comics about 20 flat). Budget about 200, flexible, no rollover; quarterly pre-orders are outside it.

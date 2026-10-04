@@ -1,24 +1,24 @@
 # Year Plan, October 2026 to September 2027
 
-**Draft v2.2, 2026-10-05 (Vol 10 before Vol 11; Journey moved to January to save a cart).** Every payday is split into its **separate carts** (one cart = one order). Costs include shipping: Walt's about 9 per order under 150 (free at 150 or more), Cheap-Comics a flat 20 per order, Amazon.es free with Prime. *est* = a guess. Walt's holds a pre-order's whole order until the latest release in it, so in-stock books and far pre-orders never share a cart. Cap about 150 a month (October is about 7 over the 170 tier, November is under it).
+**Draft v2.3, 2026-10-05 (Venom #1 in October) (Vol 10 before Vol 11; Journey moved to January to save a cart).** Every payday is split into its **separate carts** (one cart = one order). Costs include shipping: Walt's about 9 per order under 150 (free at 150 or more), Cheap-Comics a flat 20 per order, Amazon.es free with Prime. *est* = a guess. Walt's holds a pre-order's whole order until the latest release in it, so in-stock books and far pre-orders never share a cart. Cap about 150 a month (October is about 7 over the 170 tier, November is under it).
 
 Strategy: lock the deadlines first, keep every line with at least two books ready, and put cheap out-of-print Epics into Cheap-Comics bundles of three or more books.
 
-## October 24 (about 177)
+## October 24 (about 184)
 **Cart 1: Walt's, pre-order (ships Apr 13), ~92.99**
 - Michelinie omnibus, 83.99 (FOC Oct 28; regular 125)
 - Shipping, 9
 
-**Cart 2: Walt's, in stock (ships now), ~84**
+**Cart 2: Walt's, in stock (ships now), ~91**
 - Strange Masterworks Vol 10, 75 (out of print, it has to be read first)
+- Venom #1, ~7 (released Oct 14)
 - Shipping, 9
 
-## November 24-25 (about 156)
-**Cart 1: Walt's, in stock (ships now), ~107.50**
+## November 24-25 (about 149)
+**Cart 1: Walt's, in stock (ships now), ~100.50**
 - Strange Masterworks Vol 11, 67.50 (the discount may end, then 75)
 - Iron Man (2026) Vol 1, 17
-- Venom #1, ~7
-- Avengers #1, ~7
+- Avengers #1, ~7 (released Nov 4)
 - Shipping, 9
 
 **Cart 2: Walt's, pre-order (ships Feb 9), ~48.50**
@@ -99,7 +99,7 @@ Strategy: lock the deadlines first, keep every line with at least two books read
 - Shipping, 9
 
 ## Totals
-About **1,600 to 1,640** for the twelve paydays (about 135 a month), which leaves roughly 160-200 as slack across the year. No event omnibus fits yet (Blood Hunt, One World Under Doom, King in Black, Secret Wars); they go into a month with room once their prices are known.
+About **1,600 to 1,635** for the twelve paydays (about 135 a month), which leaves roughly 165-200 as slack across the year. October is about 14 over the 170 tier.
 
 ## Shipping: what is grouped and what cannot be
 - **Grouped:** Iron Man 12, Daredevil 10 and Thor Gorr share one Mar 9 pre-order cart; Journey, Extremis, Daredevil Omnibus 3 and a few issues share one January cart; the Cheap-Comics books ship in bundles of three.

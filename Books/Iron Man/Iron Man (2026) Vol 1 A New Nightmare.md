@@ -10,7 +10,7 @@ issues: "Iron Man (2026) #1-6"
 release_date: "2026-10-27"
 price_seen: 16.99
 store: "Walt's"
-cart: "2026-10"
+cart: "2026-11"
 writers: "Joshua Williamson"
 artists: "Carmen Carnero"
 isbn: ["9781302969066"]
