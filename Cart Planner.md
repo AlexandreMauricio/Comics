@@ -54,6 +54,7 @@ Sorted by purpose, then by how short the line's runway is, then by the first com
 | future | Thor | 1 | [[Thor Epic 08 - War of the Gods]] | wanted |  |  | 2 |  |
 | future | Spider-Man | 5 | [[SM Epic 10 - Big Apple Battleground]] | wanted |  |  | 2 |  |
 | modern | Doctor Strange | 0 | [[Doctor Strange by Aaron and Bachalo Omnibus]] | wanted | 84.7 | Vinted |  |  |
+| modern | Doctor Strange | 0 | [[Doctor Strange Vol 1 Journey Into Mystery]] | wanted | 24.99 | Walt's |  |  |
 | modern | Fantastic Four | 0 | [[Fantastic Four Omnibus Vol 2]] | wanted |  |  |  |  |
 | modern | Fantastic Four | 0 | [[FF Omnibus 1]] | wanted |  |  |  |  |
 | modern | Iron Man | 1 | [[Invincible Iron Man by Gerry Duggan Vol 3 Iron and Diamonds]] | oop |  |  |  |  |

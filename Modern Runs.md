@@ -50,3 +50,12 @@ Research from 2026-09-29 (Marvel, retailer and Wikipedia pages found by web sear
 - The omnibus at 84.70 on Vinted is a fair price and buys the best part of the run in one book.
 - Not this month; keep it as the modern Strange palate cleanser for when you finish Epic 5 and are blocked.
 - If you want to continue afterwards, Cates (legacy #381-390) is the next step, then Waid.
+
+## Doctor Strange now (2024-2026): why the status quo looks confusing
+From web sources (2026-10-04); I have not read these books, so treat details as a map and not a review.
+1. **Doom becomes Sorcerer Supreme:** in *Blood Hunt* #5 (2024), Doctor Doom takes the title from Strange to cast a spell against the vampire armies. Strange saw it as temporary; Doom kept it.
+2. ***One World Under Doom* (2025, Ryan North):** Doom, as Sorcerer Supreme, takes over the world.
+3. ***Doctor Strange* (2025, Derek Landy and Ivan Fiorelli, from Dec 3, 2025):** per the publisher summary of the TPB, Strange is stranded in Asgard after Loki murdered Thor and cut Midgard off from the other realms. This is why he is "in Asgard" and not Sorcerer Supreme of Earth.
+4. **Doom dies, and Wanda takes the mantle:** *Sorcerer Supreme* #1 (2026, Steve Orlando and Bernard Chang) has Wanda Maximoff become Sorcerer Supreme after Doom's death, with Strange in exile in Asgard.
+- **Doctor Strange Vol 1: Journey Into Mystery** (Dec 8, 2026) collects #1-10 plus the #450 prelude. It looks like the whole run.
+- To read it from the start without the whole backstory, the useful context is *Blood Hunt* #5 and *One World Under Doom*. The *Jed MacKay* run (2021-24) is the earlier modern Strange. None of these are needed to follow the TPB.
