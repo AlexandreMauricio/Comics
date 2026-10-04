@@ -7,6 +7,7 @@ Start here. The book database is the `Books/` folder (one note per book, with pr
 ## Dashboards (Bases)
 - [[Collection Review]] - every line, what's known (prices, stock) and what's missing
 - [[Reading Rotation]] - the order of reading across lines, with stalls
+- [[Year Plan]] - month by month to September 2027
 - [[Buying Plan]] - month-by-month plan to January, two options (draft)
 - [[Cart Planner]] - runway per line, candidates by purpose, current cart (start here each month)
 - [[Cart.base|Cart]] - books assigned to a monthly cart, with the total
