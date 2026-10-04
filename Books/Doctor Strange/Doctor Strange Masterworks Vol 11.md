@@ -17,7 +17,7 @@ urgency_reason: "Only 2 copies left at Walt's, discounted from 75 to 67.50. Brid
 seq: 7.5
 purpose: "security"
 missing_before: 1
-cart: "2026-11"
+cart: "2026-12"
 source: "Conversation with user and web search (2026-10-04)"
 verified: false
 tags: ["comics", "line/doctor-strange"]

@@ -15,7 +15,7 @@ store: "Walt's"
 covers: ["[[Thor Epic 06 - Into the Dark Nebula]]"]
 urgency: "high"
 urgency_reason: "Out of print, last copies at Walt's: page warns only 1 in stock (2026-09-30). Watch it"
-cart: ""
+cart: "2026-11"
 seq: 6.5
 purpose: "reading"
 missing_before: 0
