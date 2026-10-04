@@ -1,26 +1,108 @@
 # Year Plan, October 2026 to September 2027
 
-**Draft v1, 2026-10-05.** One row per payday. Cap about 150 per month (up to 170 in the months that need it, when the payday leftover allows). Costs include shipping: Walt's about 9 per order under 150 (free at 150 or more), Cheap-Comics a flat 20 per order, Amazon.es free with Prime. Prices marked *est* are guesses. Orders follow Walt's rules: a pre-order holds everything in its order until the latest release, and releases more than about 2 months apart can't share an order.
+**Draft v2, 2026-10-05.** Every payday is split into its **separate carts** (one cart = one order). Costs include shipping: Walt's about 9 per order under 150 (free at 150 or more), Cheap-Comics a flat 20 per order, Amazon.es free with Prime. *est* = a guess. Walt's holds a pre-order's whole order until the latest release in it, so in-stock books and far pre-orders never share a cart. Cap about 150 a month (up to 170 in October and November, when the payday leftover allows).
 
-Strategy in one line: lock the deadlines first, keep every line with at least two books ready, and put cheap out-of-print Epics into **Cheap-Comics bundles** so the flat 20 shipping is spread over three or more books.
+Strategy: lock the deadlines first, keep every line with at least two books ready, and put cheap out-of-print Epics into Cheap-Comics bundles of three or more books.
 
-## Month by month
-| Month (payday) | Orders | Cost | Why |
-|---|---|---|---|
-| **Oct 24** | A: Michelinie omnibus 83.99 + 9 (own order, ships Apr 13, FOC Oct 28). B: Strange Masterworks Vol 11 67.50 + 9 | ~169.50 | Locks the Epic 9 gap filler and the scarcest Strange book |
-| **Nov 24-25** | C: Strange Masterworks Vol 10 75, Iron Man (2026) Vol 1 17, Venom #1 ~7, Avengers #1 ~7, +9 (all in stock). D: Spider-Man 30, 39.50 + 9 (FOC Nov 25, ships Feb 9) | ~163.50 | Strange unblocked; modern samples; a 15 EUR saving on Spider-Man 30 |
-| **Dec 22-24** | E: Iron Man 12 + Daredevil 10 (*est* 40 each, FOC probably around Dec 22-23) + Thor Gorr 12.79 + 9 (all ship Mar 9). F: *Journey Into Mystery* 24.99 + 9 | ~136 *est* | Q1 pre-orders at the FOC price |
-| **Jan 24** | G: Daredevil Omnibus 3 (105 if the discount lasts) + Extremis 12.79 + a couple of Venom or Avengers issues ~14, +9 | ~141 | Daredevil is dry after Omnibus 2; Extremis fills Iron Man's wait |
-| **Feb 24** | H: Thor Omnibus 4 85 + 9 if still there. If not: Cheap-Comics Epic 6 (50) + Epic 7 (60) + 20 | ~94-130 | Thor is dry after Epic 5. Cheap-Comics covers the fallback |
-| **Mar 24** | I: Cheap-Comics Strange bundle: Epic 9 (30) + Epic 10 (40) + Epic 11 (24.90) + 20. Plus modern issues ~14 | ~129 | Strange runs out after Epic 8; three cheap books share one shipping |
-| **Apr 24** | J: Armor Wars Omnibus 78.99 + 9, Dragon Seed TPB 24.90 on Amazon.es | ~113 | Covers 15 of 20 issues of Epic 16 (missing #267-269, #276-277). The Michelinie omnibus arrives Apr 13 |
-| **May 24** | K: Spider-Man Omnibus 4 (Epic 8) 115 + Iron Man (2026) Vol 2 ~17 (released May 4), +9 | ~141 | Closes Spider-Man's Epic 8 gap |
-| **Jun 24** | L: Thor Omnibus 5 104.99 + Spider-Man Epic 9 37, +9 | ~151 | Rest of Epic 7, all of Epic 8, start of 9 in one book |
-| **Jul 24** | M: Cheap-Comics bundle: Thor Epic 10 (34.99) + Thor Epic 12 (39.99) + Strange Epic 13 (49.50) + 20 | ~144.50 | OOP Epics at their cheapest, shipping shared |
-| **Aug 24** | N: Daredevil Omnibus 4 95 + Strange Epic 12 (Walt's 44.90), +9 | ~149 | Keeps Daredevil moving after Omnibus 3 |
-| **Sep 24** | O: Iron Man Epic 19 (40.99) + Spider-Man Epic 10-12 (prices not yet known) | ~100 *est* | Spider-Man mid-70s Epics |
+## October 24 (about 169.50)
+**Cart 1: Walt's, pre-order (ships Apr 13), ~92.99**
+- Michelinie omnibus, 83.99 (FOC Oct 28; regular 125)
+- Shipping, 9
 
-Total about **1,700**, an average under 142 a month, which leaves roughly 100 as slack. No event omnibus fits yet (Blood Hunt, One World Under Doom, King in Black, Secret Wars); they go in a month with room once their prices are known.
+**Cart 2: Walt's, in stock (ships now), ~76.50**
+- Strange Masterworks Vol 11, 67.50 (2 left)
+- Shipping, 9
+
+## November 24-25 (about 163.50)
+**Cart 1: Walt's, in stock (ships now), ~115**
+- Strange Masterworks Vol 10, 75
+- Iron Man (2026) Vol 1, 17
+- Venom #1, ~7
+- Avengers #1, ~7
+- Shipping, 9
+
+**Cart 2: Walt's, pre-order (ships Feb 9), ~48.50**
+- Spider-Man Epic 30, 39.50 (FOC Nov 25; regular 54.99)
+- Shipping, 9
+
+## December 22-24 (about 135.80)
+**Cart 1: Walt's, pre-order (ships Mar 9), ~101.79 *est***
+- Iron Man Epic 12, ~40 *est* (FOC probably around Dec 22-23)
+- Daredevil Epic 10, ~40 *est*
+- Thor Gorr Premier, 12.79
+- Shipping, 9
+
+**Cart 2: Walt's, in stock (ships now), ~33.99**
+- *Journey Into Mystery*, 24.99
+- Shipping, 9
+
+## January 24 (about 140.80)
+**Cart 1: Walt's, in stock (ships now), ~140.80**
+- Daredevil Omnibus 3, 105 (if the discount lasts)
+- Iron Man Extremis Premier, 12.79
+- A couple of Venom or Avengers issues, ~14
+- Shipping, 9
+
+## February 24 (about 94, or 130 with the fallback)
+**Cart 1: Walt's, in stock (ships now), ~94**
+- Thor Omnibus 4, 85 (if still there)
+- Shipping, 9
+
+**Fallback cart if Thor Omnibus 4 is gone: Cheap-Comics, ~130** (the only time the three-book rule is bent)
+- Thor Epic 6, 50
+- Thor Epic 7, 60
+- Shipping, 20
+
+## March 24 (about 114.90)
+**Cart 1: Cheap-Comics, in stock, ~114.90**
+- Strange Epic 9, 30
+- Strange Epic 10, 40
+- Strange Epic 11, 24.90 (out of print; Walt's has it at 44.99)
+- Shipping, 20
+
+## April 24 (about 112.89)
+**Cart 1: Walt's, in stock, ~87.99**
+- Armor Wars Omnibus, 78.99 (check stock)
+- Shipping, 9
+
+**Cart 2: Amazon.es, ~24.90**
+- Iron Man Dragon Seed Saga TPB, 24.90
+
+(The Michelinie omnibus arrives around Apr 13. The two books together cover 15 of the 20 issues of Epic 16; missing #267-269 and #276-277.)
+
+## May 24 (about 141)
+**Cart 1: Walt's, in stock, ~141**
+- Spider-Man Omnibus 4 (Epic 8, repeats 7), 115
+- Iron Man (2026) Vol 2, ~17 (released May 4)
+- Shipping, 9
+
+## June 24 (about 151)
+**Cart 1: Walt's, in stock, ~150.99**
+- Thor Omnibus 5, 104.99
+- Spider-Man Epic 9, 37
+- Shipping, 9
+
+## July 24 (about 144.48)
+**Cart 1: Cheap-Comics, in stock, ~144.48**
+- Thor Epic 10, 34.99
+- Thor Epic 12, 39.99 (out of print)
+- Strange Epic 13, 49.50
+- Shipping, 20
+
+## August 24 (about 148.90)
+**Cart 1: Walt's, in stock, ~148.90**
+- Daredevil Omnibus 4, 95
+- Strange Epic 12, 44.90
+- Shipping, 9
+
+## September 24 (about 100 *est*)
+**Cart 1: Walt's, in stock, ~100 *est***
+- Iron Man Epic 19, 40.99
+- Spider-Man Epic 10 or 11, price not known yet
+- Shipping, 9
+
+## Totals
+About **1,620 to 1,655** for the twelve paydays (about 137 a month), which leaves roughly 150-180 as slack across the year. No event omnibus fits yet (Blood Hunt, One World Under Doom, King in Black, Secret Wars); they go into a month with room once their prices are known.
 
 ## Cheap-Comics prices you found (flat 20 shipping)
 Thor: Epic 6 (50), 7 (60), 8 (75), 9 (75), 10 (34.99), 11 (75, OOP), 12 (39.99, OOP), 13 (149.50, OOP), 16 (59.50), 17 (49.50 or 75), 18 (85), 19 (35.99 or 59.50), 20 (99.50), 21 (49.50), 22 (29.99), 23 (85), 24 (39.99), 25 (29.99). Simonson omnibus 99.50 (Walt's 125).
@@ -34,4 +116,4 @@ Rule: never order fewer than three books from Cheap-Comics.
 - **Prices I don't have:** Iron Man Epic 12 and Daredevil 10 (not listed), Spider-Man Epics 10-12 and 15-28, the event omnibuses.
 - **Walt's FOC dates for 2027 releases:** check the pre-order page each payday; new ones appear all the time.
 
-See [[Buying Plan]] for the next four months in detail, [[Reading Rotation]] for the order of reading, and [[Collection Review]].
+See [[Buying Plan]] for the next four months, [[Reading Rotation]] for the order of reading, and [[Collection Review]].
