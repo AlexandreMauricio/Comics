@@ -27,6 +27,7 @@ goodreads_checked: "2026-09-29"
 seq: 6
 purpose: "future"
 missing_before: 2
+line_note: "Covered by the planned DD Omnibus 3 and 4"
 source: "Epics.xlsx Main Page + Ranking tab, cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"
 wikipedia_checked: "2026-09-29"
 verified: true

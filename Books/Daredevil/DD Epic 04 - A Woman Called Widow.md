@@ -29,6 +29,7 @@ seq: 4
 covered_via: ["[[Daredevil Omnibus Vol 2]]"]
 purpose: "reading"
 missing_before: 0
+line_note: "Partilally covered in Daredevil Omnibus Vol 2, needs Omni Vol 3 to cover the rest"
 source: "Epics.xlsx Main Page + Ranking tab, cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"
 wikipedia_checked: "2026-09-29"
 verified: true

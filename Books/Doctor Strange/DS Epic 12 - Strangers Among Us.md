@@ -27,6 +27,9 @@ goodreads_sample: "low (under 30 ratings)"
 seq: 12
 purpose: "future"
 missing_before: 5
+price_seen: 44.9
+regular_price: 54.99
+store: "Walt's"
 source: "Epics.xlsx Main Page + Ranking tab, cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"
 wikipedia_checked: "2026-09-29"
 verified: true

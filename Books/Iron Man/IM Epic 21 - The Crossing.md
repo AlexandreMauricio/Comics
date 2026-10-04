@@ -33,6 +33,7 @@ urgency_reason: "Low rated, may skip"
 seq: 21
 purpose: "future"
 missing_before: 5
+line_note: ""
 source: "Epics.xlsx Main Page + Ranking tab, cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"
 wikipedia_checked: "2026-09-29"
 verified: true

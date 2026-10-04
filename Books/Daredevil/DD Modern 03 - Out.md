@@ -17,6 +17,8 @@ editions: ["Oct 15, 2024"]
 isbn: ["978-1302956370"]
 cover_note: "Daredevil (vol. 2) #36 cover"
 seq: 103
+covered_by: ["[[Daredevil by Brian Michael Bendis & Alex Maleev Vol. 1]]"]
+line_note: "Sold Out"
 source: "Epics.xlsx Main Page"
 verified: false
 tags: ["comics", "line/daredevil"]

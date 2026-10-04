@@ -25,6 +25,9 @@ goodreads_checked: "2026-09-29"
 seq: 9
 purpose: "future"
 missing_before: 3
+price_seen: 49.99
+store: "Walt's"
+line_note: "1 in stock at walt's, 75€ seen at cheap-comics"
 source: "Epics.xlsx Thor Ranking tab only (no Main Page data for Thor), cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"
 wikipedia_checked: "2026-09-29"
 verified: true

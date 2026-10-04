@@ -24,6 +24,8 @@ goodreads_checked: "2026-09-29"
 seq: 21
 purpose: "future"
 missing_before: 15
+price_seen: 49.5
+store: "Cheap-Comics"
 source: "Epics.xlsx Thor Ranking tab only (no Main Page data for Thor), cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"
 wikipedia_checked: "2026-09-29"
 verified: true

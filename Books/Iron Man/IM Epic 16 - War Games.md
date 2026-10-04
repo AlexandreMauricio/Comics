@@ -33,6 +33,7 @@ seq: 16
 purpose: "security"
 missing_before: 2
 coverage_gaps: "#267-269, #276-277"
+line_note: "Covered by the Armor Wars Omnibus"
 source: "Epics.xlsx Main Page + Ranking tab, cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"
 wikipedia_checked: "2026-09-29"
 verified: true

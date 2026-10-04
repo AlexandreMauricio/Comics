@@ -42,16 +42,42 @@ Sorted by purpose, then by how short the line's runway is, then by the first com
 | preorder | Iron Man | 1 | [[IM Epic 12 - Iron Monger]] | planned |  |  | 1 | medium - Pre-order in December (Q1 2027 quarterly slot) |
 | preorder | Spider-Man | 5 | [[SM Epic 30 - Maximum Clonage]] | planned | 39.5 | Walt's | 18 | high - FOC Nov 25 (the day after payday): 39.50 vs 54.99 after. Release Feb 9, 2027. |
 | future | Doctor Strange | 0 | [[DS Epic 10 - Infinity War]] | wanted | 39 | Walt's | 3 | low - In stock at Walt's 39, Cheap-Comics 40 |
+| future | Doctor Strange | 0 | [[DS Epic 11 - Nightmare on Bleecker Street]] | wanted | 44.99 | Walt's | 4 |  |
+| future | Doctor Strange | 0 | [[DS Epic 12 - Strangers Among Us]] | wanted | 44.9 | Walt's | 5 |  |
+| future | Doctor Strange | 0 | [[DS Epic 13 - Afterlife]] | wanted | 49.5 | Cheap-Comics | 6 |  |
 | future | Fantastic Four | 0 | [[The Coming of Galactus]] | wanted |  |  | 1 |  |
 | future | Daredevil | 1 | [[DD Epic 05 - Going Out West]] | wanted |  |  | 1 |  |
 | future | Daredevil | 1 | [[DD Epic 06 - Watch Out for Bullseye]] | wanted |  |  | 2 |  |
-| future | Iron Man | 1 | [[Iron Man Dragon Seed Saga TPB]] | wanted | 30 |  | 2 |  |
+| future | Daredevil | 1 | [[DD Epic 13 - A Touch of Typhoid]] | wanted | 49.5 | Cheap-Comics | 8 |  |
+| future | Daredevil | 1 | [[DD Epic 15 - Last Rites]] | wanted | 44.9 | Walt's | 10 |  |
+| future | Daredevil | 1 | [[DD Epic 16 - Dead Man's Hand]] | wanted | 125.0 | Cheap-Comics | 11 |  |
+| future | Daredevil | 1 | [[DD Epic 17 - Into the Fire]] | wanted | 44.9 | Walt's | 12 |  |
+| future | Daredevil | 1 | [[DD Epic 18 - Fall from Grace]] | wanted | 44.9 | Walt's | 13 |  |
+| future | Daredevil | 1 | [[DD Epic 19 - Root of Evil]] | wanted | 36.99 | Walt's | 14 |  |
+| future | Daredevil | 1 | [[DD Epic 21 - Widow's Kiss]] | wanted | 99.5 | Cheap-Comics | 16 |  |
+| future | Iron Man | 1 | [[Iron Man Dragon Seed Saga TPB]] | wanted | 24.9 | Amazon.es | 2 |  |
 | future | Iron Man | 1 | [[IM Epic 19 - Crash & Burn]] | wanted | 40.99 | Walt's | 4 | low - Easy to find; Walt's pre-order 40.99 (2026-09-30) |
 | future | Iron Man | 1 | [[IM Epic 21 - The Crossing]] | wanted | 50 | Walt's | 5 | low - Low rated, may skip |
 | future | Iron Man | 1 | [[IM Epic 22 - Age of Innocence]] | wanted | 50 | Walt's | 6 | low - Low rated, last purchase |
 | future | Thor | 1 | [[Thor Epic 07 - Ulik Unchained]] | wanted | 60 | Cheap-Comics | 1 | low - Omnibus 4 and 5 cover most of it |
 | future | Thor | 1 | [[The Mighty Thor Omnibus Vol 5]] | wanted | 104.99 | Walt's | 1 |  |
-| future | Thor | 1 | [[Thor Epic 08 - War of the Gods]] | wanted |  |  | 2 |  |
+| future | Thor | 1 | [[Thor Epic 08 - War of the Gods]] | wanted | 75.0 | Cheap-Comics | 2 |  |
+| future | Thor | 1 | [[Thor Epic 09 - Even an Immortal Can Die]] | wanted | 49.99 | Walt's | 3 |  |
+| future | Thor | 1 | [[Thor Epic 10 - The Eternals Saga]] | wanted | 44.99 | Walt's | 4 |  |
+| future | Thor | 1 | [[Thor Epic 11 - A Kingdom Lost]] | wanted | 75.0 | Cheap-Comics | 5 |  |
+| future | Thor | 1 | [[Thor Epic 12 - Runequest]] | wanted | 39.99 | Cheap-Comics | 6 |  |
+| future | Thor | 1 | [[Thor Epic 13 - The Surtur War]] | wanted | 149.5 | Cheap-Comics | 7 |  |
+| future | Thor | 1 | [[Thor by Walter Simonson Omnibus]] | wanted | 125.0 | Walt's | 7 |  |
+| future | Thor | 1 | [[Thor Epic 16 - War of the Pantheons]] | wanted | 59.5 | Cheap-Comics | 10 |  |
+| future | Thor | 1 | [[Thor Epic 17 - In Mortal Flesh]] | wanted | 44.99 | Walt's | 11 |  |
+| future | Thor | 1 | [[Thor Epic 18 - The Black Galaxy]] | wanted | 85.0 | Cheap-Comics | 12 |  |
+| future | Thor | 1 | [[Thor Epic 19 - The Thor War]] | wanted | 44.99 | Walt's | 13 |  |
+| future | Thor | 1 | [[Thor Epic 20 - The Final Gauntlet]] | wanted | 99.5 | Cheap-Comics | 14 |  |
+| future | Thor | 1 | [[Thor Epic 21 - Blood and Thunder]] | wanted | 49.5 | Cheap-Comics | 15 |  |
+| future | Thor | 1 | [[Thor Epic 22 - Hel On Earth]] | wanted | 49.99 | Walt's | 16 |  |
+| future | Thor | 1 | [[Thor Epic 23 - Worldengine]] | wanted | 85.0 | Cheap-Comics | 17 |  |
+| future | Thor | 1 | [[Thor Epic 24 - The Lost Gods]] | wanted | 44.99 | Walt's | 18 |  |
+| future | Thor | 1 | [[Thor Epic 25 - The Dark Gods]] | wanted | 44.99 | Walt's | 19 |  |
 | future | Spider-Man | 5 | [[SM Epic 10 - Big Apple Battleground]] | wanted |  |  | 2 |  |
 | modern | Doctor Strange | 0 | [[Doctor Strange by Aaron and Bachalo Omnibus]] | wanted | 84.7 | Vinted |  |  |
 | modern | Doctor Strange | 0 | [[Doctor Strange Vol 1 Journey Into Mystery]] | wanted | 24.99 | Walt's |  |  |

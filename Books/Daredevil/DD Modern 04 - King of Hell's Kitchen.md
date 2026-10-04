@@ -17,6 +17,7 @@ editions: ["Feb 11, 2025"]
 isbn: ["978-1302956424"]
 cover_note: "Daredevil (vol. 2) #65 cover"
 seq: 104
+covered_by: ["[[Daredevil by Brian Michael Bendis & Alex Maleev Vol. 1]]"]
 source: "Epics.xlsx Main Page"
 verified: false
 tags: ["comics", "line/daredevil"]

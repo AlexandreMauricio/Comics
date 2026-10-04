@@ -15,6 +15,7 @@ release_date: "Feb 2027"
 editions: ["Feb 2027"]
 cover_note: "Daredevil (vol. 2) #1 cover"
 seq: 101
+line_note: "Releases Feb 23"
 source: "Epics.xlsx Main Page"
 verified: false
 tags: ["comics", "line/daredevil"]

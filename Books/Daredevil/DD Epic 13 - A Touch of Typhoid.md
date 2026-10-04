@@ -27,6 +27,10 @@ goodreads_checked: "2026-09-29"
 seq: 13
 purpose: "future"
 missing_before: 8
+covered_by: ["[[Daredevil by Nocenti & Romita JR. Vol. 1]]", "[[Daredevil by Nocenti & Romita JR. Vol. 2]]"]
+price_seen: 49.5
+store: "Cheap-Comics"
+line_note: "Covered by the Nocenti & Romita omnis as alternative options"
 source: "Epics.xlsx Main Page + Ranking tab, cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"
 wikipedia_checked: "2026-09-29"
 verified: true

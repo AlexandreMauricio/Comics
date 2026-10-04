@@ -8,6 +8,8 @@ read: true
 seq: 1
 order: 1
 my_rating: 7
+store: "Comic Con"
+price_paid: 70
 source: "Conversation with user (2026-09)"
 verified: false
 tags: ["comics", "line/venom"]

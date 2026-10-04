@@ -25,6 +25,10 @@ goodreads_sample: "low (under 30 ratings)"
 seq: 25
 purpose: "future"
 missing_before: 19
+price_seen: 44.99
+regular_price: 54.99
+store: "Walt's"
+line_note: "ALso seen at cheap-comics 29.99 (reg 54.99)"
 source: "Epics.xlsx Thor Ranking tab only (no Main Page data for Thor), cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"
 wikipedia_checked: "2026-09-29"
 verified: true

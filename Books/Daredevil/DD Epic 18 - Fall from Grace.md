@@ -26,6 +26,10 @@ goodreads_checked: "2026-09-29"
 seq: 18
 purpose: "future"
 missing_before: 13
+price_seen: 44.9
+regular_price: 49.99
+store: "Walt's"
+line_note: "OOP / Limited Supply<br>24.99<br>(reg 49.99) on cheap comics"
 source: "Epics.xlsx Main Page + Ranking tab, cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"
 wikipedia_checked: "2026-09-29"
 verified: true

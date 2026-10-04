@@ -17,6 +17,11 @@ editions: ["Feb 27, 2024"]
 isbn: ["978-1302956332"]
 cover_note: "Daredevil (vol. 2) #26 cover"
 seq: 102
+covered_by: ["[[Daredevil by Brian Michael Bendis & Alex Maleev Vol. 1]]"]
+price_seen: 39.99
+regular_price: 44.99
+store: "Walt's"
+line_note: "OOP / Limited Supply"
 source: "Epics.xlsx Main Page"
 verified: false
 tags: ["comics", "line/daredevil"]
