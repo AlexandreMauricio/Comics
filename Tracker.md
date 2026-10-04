@@ -14,7 +14,7 @@ Books 158.99 + shipping about 0 = **about 158.99** against about 200 (-41.01). C
 
 ## Spent in the September budget (Sep 24 - Oct 23)
 
-**238.6** on 8 book(s) against about 200, 38.6 over. Shipping and supplies are extra (see [[Purchase Log]]); quarterly pre-orders don't count. Details: [[Spending.base|Spending]].
+**252.63** on 9 book(s) against about 200, 52.63 over. Shipping and supplies are extra (see [[Purchase Log]]); quarterly pre-orders don't count. Details: [[Spending.base|Spending]].
 
 ## On the way
 
@@ -33,6 +33,7 @@ Ordered and already published, so it should arrive any time.
 | [[Invincible Iron Man by Gerry Duggan Vol 1]] | Walt's | 17 | 2026-09-24 |  |
 | [[Invincible Iron Man by Gerry Duggan Vol 2 The Wedding of Tony Stark and Emma Frost]] | Walt's | 17 | 2026-09-24 |  |
 | [[Daredevil Battlin' Jack Murdock 1-4 (2007)]] | Vinted | 30.2 | 2026-09-29 | All 4 issues, 30.20 with shipping included. Paid, waiting to be shipped (2026-09-29). |
+| [[Civil War Premier Collection]] | Amazon | 14.03 | 2026-10-05 | Amazon, free shipping (Prime). Ordered Oct 5, so it counts in the September budget (Sep 24 - Oct 23). |
 
 ## Pre-orders (not released yet)
 
