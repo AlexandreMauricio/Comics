@@ -16,11 +16,11 @@ Decision 2026-10-04: the Michelinie omnibus is not negotiable. It is the gap fil
 | Payday | Order | Items (release) | Ships | Cost |
 |---|---|---|---|---|
 | **Oct 24** | A | Michelinie omnibus (83.99, FOC Oct 28, Apr 13) + 9 shipping | Apr 13 | ~93 |
-| | B | Strange Masterworks Vol 11 (67.50, 2 copies left) + 9 shipping. Swap with Vol 10 if Vol 10 is the scarcer one | now | ~76.50 |
-| | | **Month total** | | **~169.50** (the 170 tier) |
-| **Nov 24** | C | Strange Masterworks Vol 10 (75) + Iron Man 2026 Vol 1 (~17) + Venom #1 (~7) + Avengers #1 (~7), all in stock | now | ~115 |
+| | B | Strange Masterworks **Vol 10** (75, out of print, read first) + 9 shipping | now | ~84 |
+| | | **Month total** | | **~177** (about 7 over the 170 tier) |
+| **Nov 24** | C | Strange Masterworks Vol 11 (67.50, discount may end) + Iron Man 2026 Vol 1 (~17) + Venom #1 (~7) + Avengers #1 (~7), all in stock | now | ~107.50 |
 | **Nov 24-25** | D | Spider-Man Epic 30 (39.50, **FOC Nov 25**, Feb 9) | Feb 9 | ~48.50 |
-| | | **Month total** | | **~163.50** |
+| | | **Month total** | | **~156** |
 | **Dec 22-24** | E | Iron Man Epic 12 + Daredevil Epic 10 (*est* 40 each, FOC probably around Dec 22-23) + Thor Gorr Premier (12.79), all Mar 9 | Mar 9 | ~102 *est* |
 | | F | *Journey Into Mystery* (24.99, released Dec 8, in stock) | now | ~34 |
 | | | **Month total** | | **~136** |

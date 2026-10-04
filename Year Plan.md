@@ -1,21 +1,21 @@
 # Year Plan, October 2026 to September 2027
 
-**Draft v2, 2026-10-05.** Every payday is split into its **separate carts** (one cart = one order). Costs include shipping: Walt's about 9 per order under 150 (free at 150 or more), Cheap-Comics a flat 20 per order, Amazon.es free with Prime. *est* = a guess. Walt's holds a pre-order's whole order until the latest release in it, so in-stock books and far pre-orders never share a cart. Cap about 150 a month (up to 170 in October and November, when the payday leftover allows).
+**Draft v2.1, 2026-10-05 (Vol 10 now comes before Vol 11).** Every payday is split into its **separate carts** (one cart = one order). Costs include shipping: Walt's about 9 per order under 150 (free at 150 or more), Cheap-Comics a flat 20 per order, Amazon.es free with Prime. *est* = a guess. Walt's holds a pre-order's whole order until the latest release in it, so in-stock books and far pre-orders never share a cart. Cap about 150 a month (October is about 7 over the 170 tier, November is under it).
 
 Strategy: lock the deadlines first, keep every line with at least two books ready, and put cheap out-of-print Epics into Cheap-Comics bundles of three or more books.
 
-## October 24 (about 169.50)
+## October 24 (about 177)
 **Cart 1: Walt's, pre-order (ships Apr 13), ~92.99**
 - Michelinie omnibus, 83.99 (FOC Oct 28; regular 125)
 - Shipping, 9
 
-**Cart 2: Walt's, in stock (ships now), ~76.50**
-- Strange Masterworks Vol 11, 67.50 (2 left)
+**Cart 2: Walt's, in stock (ships now), ~84**
+- Strange Masterworks Vol 10, 75 (out of print, it has to be read first)
 - Shipping, 9
 
-## November 24-25 (about 163.50)
-**Cart 1: Walt's, in stock (ships now), ~115**
-- Strange Masterworks Vol 10, 75
+## November 24-25 (about 156)
+**Cart 1: Walt's, in stock (ships now), ~107.50**
+- Strange Masterworks Vol 11, 67.50 (the discount may end, then 75)
 - Iron Man (2026) Vol 1, 17
 - Venom #1, ~7
 - Avengers #1, ~7
