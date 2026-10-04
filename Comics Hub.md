@@ -5,6 +5,7 @@ Start here. The book database is the `Books/` folder (one note per book, with pr
 **[[Tracker]]** - one page for right now: next cart and its total, this month's spending, what's on the way, pre-orders, key dates, next reads, and anything that needs attention.
 
 ## Dashboards (Bases)
+- [[Buying Plan]] - month-by-month plan to January, two options (draft)
 - [[Cart Planner]] - runway per line, candidates by purpose, current cart (start here each month)
 - [[Cart.base|Cart]] - books assigned to a monthly cart, with the total
 - [[Reading Queue.base|Reading Queue]] - owned/covered and unread, plus "Next up"
