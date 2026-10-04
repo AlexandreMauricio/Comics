@@ -1,6 +1,6 @@
 # Year Plan, October 2026 to September 2027
 
-**Draft v2.1, 2026-10-05 (Vol 10 now comes before Vol 11).** Every payday is split into its **separate carts** (one cart = one order). Costs include shipping: Walt's about 9 per order under 150 (free at 150 or more), Cheap-Comics a flat 20 per order, Amazon.es free with Prime. *est* = a guess. Walt's holds a pre-order's whole order until the latest release in it, so in-stock books and far pre-orders never share a cart. Cap about 150 a month (October is about 7 over the 170 tier, November is under it).
+**Draft v2.2, 2026-10-05 (Vol 10 before Vol 11; Journey moved to January to save a cart).** Every payday is split into its **separate carts** (one cart = one order). Costs include shipping: Walt's about 9 per order under 150 (free at 150 or more), Cheap-Comics a flat 20 per order, Amazon.es free with Prime. *est* = a guess. Walt's holds a pre-order's whole order until the latest release in it, so in-stock books and far pre-orders never share a cart. Cap about 150 a month (October is about 7 over the 170 tier, November is under it).
 
 Strategy: lock the deadlines first, keep every line with at least two books ready, and put cheap out-of-print Epics into Cheap-Comics bundles of three or more books.
 
@@ -25,23 +25,20 @@ Strategy: lock the deadlines first, keep every line with at least two books read
 - Spider-Man Epic 30, 39.50 (FOC Nov 25; regular 54.99)
 - Shipping, 9
 
-## December 22-24 (about 135.80)
+## December 22-24 (about 101.79)
 **Cart 1: Walt's, pre-order (ships Mar 9), ~101.79 *est***
 - Iron Man Epic 12, ~40 *est* (FOC probably around Dec 22-23)
 - Daredevil Epic 10, ~40 *est*
-- Thor Gorr Premier, 12.79
+- Thor Gorr Premier, 12.79 (same Mar 9 release, so it shares the shipping)
 - Shipping, 9
 
-**Cart 2: Walt's, in stock (ships now), ~33.99**
-- *Journey Into Mystery*, 24.99
-- Shipping, 9
-
-## January 24 (about 140.80)
-**Cart 1: Walt's, in stock (ships now), ~140.80**
+## January 24 (about 156.78, free shipping)
+**Cart 1: Walt's, in stock (ships now), ~156.78. Items are over 150, so shipping is free.**
 - Daredevil Omnibus 3, 105 (if the discount lasts)
+- *Journey Into Mystery*, 24.99 (moved here from December: Strange has Masterworks 10, 11 and Epic 8 to read until then, and it removes a whole cart)
 - Iron Man Extremis Premier, 12.79
 - A couple of Venom or Avengers issues, ~14
-- Shipping, 9
+- Shipping, 0
 
 ## February 24 (about 94, or 130 with the fallback)
 **Cart 1: Walt's, in stock (ships now), ~94**
@@ -102,7 +99,13 @@ Strategy: lock the deadlines first, keep every line with at least two books read
 - Shipping, 9
 
 ## Totals
-About **1,620 to 1,655** for the twelve paydays (about 137 a month), which leaves roughly 150-180 as slack across the year. No event omnibus fits yet (Blood Hunt, One World Under Doom, King in Black, Secret Wars); they go into a month with room once their prices are known.
+About **1,600 to 1,640** for the twelve paydays (about 135 a month), which leaves roughly 160-200 as slack across the year. No event omnibus fits yet (Blood Hunt, One World Under Doom, King in Black, Secret Wars); they go into a month with room once their prices are known.
+
+## Shipping: what is grouped and what cannot be
+- **Grouped:** Iron Man 12, Daredevil 10 and Thor Gorr share one Mar 9 pre-order cart; Journey, Extremis, Daredevil Omnibus 3 and a few issues share one January cart; the Cheap-Comics books ship in bundles of three.
+- **Cannot be grouped:** the three deadline pre-orders (Michelinie omnibus, FOC Oct 28; Spider-Man 30, FOC Nov 25; Iron Man 12 and Daredevil 10, FOC about Dec 22) have to be ordered on different days, and Walt's holds an order until its latest release, so an in-stock book never shares a cart with a pre-order that is more than a few days out.
+- **Free-shipping top-ups (optional):** when a cart's books come to just under 150, adding books you already want costs about the same as the 9 shipping. May (books ~132, add ~18), June (books ~142, add ~8) and August (books ~140, add ~10) are the candidates; use issues of runs you follow, never filler.
+- Shipping over the year is about 150 now, down from about 170.
 
 ## Cheap-Comics prices you found (flat 20 shipping)
 Thor: Epic 6 (50), 7 (60), 8 (75), 9 (75), 10 (34.99), 11 (75, OOP), 12 (39.99, OOP), 13 (149.50, OOP), 16 (59.50), 17 (49.50 or 75), 18 (85), 19 (35.99 or 59.50), 20 (99.50), 21 (49.50), 22 (29.99), 23 (85), 24 (39.99), 25 (29.99). Simonson omnibus 99.50 (Walt's 125).
