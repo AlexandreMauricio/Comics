@@ -60,9 +60,6 @@ Ordered and already published, so it should arrive any time.
 
 ## Needs attention
 
-- DS Epic 06 - Not yet released: `covered_by` should include [[Doctor Strange Masterworks Vol 10]]
-- DS Epic 07 - Not yet released: `covered_by` should include [[Doctor Strange Masterworks Vol 11]]
-- Doctor Strange Masterworks Vol 9: no `order` property, so it sorts last
 - DS Epic 04 - Alone Against Eternity: read, but the omnibus you read it in has only part of it (not in it: Doctor Strange (vol. 2) #23-28)
 - Doctor Strange: no book has next_read
 - [[Daredevil Omnibus Vol 3]]: Out of print, last copies at Walt's at 105 (in stock 2026-09-30, no count shown), not in the next cart

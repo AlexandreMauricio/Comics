@@ -11,6 +11,7 @@ ai_acquisition: "Preorder immediately"
 ai_reason: "Expected to complete the transition toward Triumph and Torment."
 ai_source: "ChatGPT/Gemini (unverified)"
 seq: 7
+covered_by: ["[[Doctor Strange Masterworks Vol 11]]"]
 source: "Epics.xlsx Main Page + Ranking tab"
 verified: false
 tags: ["comics", "line/doctor-strange"]

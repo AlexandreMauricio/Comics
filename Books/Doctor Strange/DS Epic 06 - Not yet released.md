@@ -12,6 +12,7 @@ ai_acquisition: "Preorder immediately"
 ai_reason: "Likely bridges directly into the Sorcerer Supreme era. Essential connective volume if announced."
 ai_source: "ChatGPT/Gemini (unverified)"
 seq: 6
+covered_by: ["[[Doctor Strange Masterworks Vol 10]]"]
 source: "Epics.xlsx Main Page + Ranking tab"
 verified: false
 tags: ["comics", "line/doctor-strange"]
