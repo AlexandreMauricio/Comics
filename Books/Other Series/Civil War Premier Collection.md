@@ -2,7 +2,7 @@
 line: "Avengers"
 type: "Premier Collection"
 title: "Civil War Premier Collection"
-status: "incoming"
+status: "owned"
 read: false
 budget: "monthly"
 ordered: "2026-10-05"
@@ -28,8 +28,9 @@ tags: ["comics", "line/avengers"]
 **Collects:** Civil War (2006) #1-7, Daily Bugle: Civil War Special Edition, and material from the Civil War #1 Director's Cut. 264 pages, with a foreword by Nate Moore and an introduction by Steve McNiven.
 
 ## Status
-- **incoming** (Amazon, 14.03, free shipping)
+- **owned** (Amazon, 14.03, free shipping)
 - Event palate cleanser. Tony Stark and Captain America are on opposite sides, so it also matters for the Iron Man line.
 
 ## My impressions
+Arrived 2026-10-07. Reading it: 5 of 7 issues done, 'not an amazing event, but good'.
 (see [[Reading Log]]; add notes here)

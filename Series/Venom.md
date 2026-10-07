@@ -21,7 +21,7 @@ Absolute Carnage: loved it. With Venom First Host (enjoyed) and the Venom War is
 | [[Absolute Carnage\|Absolute Carnage]] | owned | 90 paid | Vinted | read, 9/10; Part of a Vinted bundle: Thor Omnibus 1-3 + Absolute Carnage for 345.70 with shipping, about... |
 | [[King in Black Omnibus\|King in Black Omnibus]] | wanted | - | - | - |
 | [[Venom War Omnibus Carlos Gomez DM\|Venom War Omnibus Carlos Gomez DM]] | incoming | 78.99 paid | Walt's | releases Dec 8, 2026 |
-| [[Carnage Modern 02 - Prophecy of the Darkhold\|Epic 2: Prophecy of the Darkhold]] | incoming | 44.99 paid | Walt's | releases Oct 6, 2026; Pre-order. |
+| [[Carnage Modern 02 - Prophecy of the Darkhold\|Epic 2: Prophecy of the Darkhold]] | incoming | 44.99 paid | Walt's | Pre-order. |
 | [[Venom (2026) 1\|Venom (2026) #1]] | wanted | - | Walt's | releases Oct 14, 2026; Eddie Brock and the symbiote reunited; Charles Soule and Tommaso Bianchi. |
 | [[Friendly Neighborhood Mary Jane 1\|Friendly Neighborhood Mary Jane #1]] | wanted | - | Walt's | releases Nov 4, 2026; Ashley Allen and Phil Noto; Mary Jane uses a top-secret gift from Venom. |
 
