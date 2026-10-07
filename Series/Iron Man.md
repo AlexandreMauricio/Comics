@@ -36,7 +36,7 @@ As a developer, a kid from 2000 and a nerd who grew up with the MCU, the technol
 | [[IM Epic 13 - Stark Wars\|Epic 13: Stark Wars]] | owned | 45 paid | Walt's | - |
 | [[Iron Man Armor Wars Omnibus\|Iron Man Armor Wars Omnibus]] | wanted | 78.99 seen | Walt's | On sale 78.99, check real stock |
 | [[IM Epic 14 - Return of the Ghost\|Epic 14: Return of the Ghost]] | owned | 33.35 paid | Vinted | 33.35 with shipping included (Vinted). |
-| [[IM Epic 15 - Doom\|Epic 15: Doom]] | incoming | 39.9 paid | Walt's | - |
+| [[IM Epic 15 - Doom\|Epic 15: Doom]] | incoming | 39.9 paid | Walt's | Shipped; expected Fri Oct 9 (Mon Oct 12 if delayed). |
 | [[IM Epic 16 - War Games\|Epic 16: War Games]] | oop | - | - | Covered by the Armor Wars Omnibus |
 | [[IM Epic 17 - War Machine\|Epic 17: War Machine]] | owned | 59.99 paid | Cheap-Comics | - |
 | [[IM Epic 18 - The Return of Tony Stark\|Epic 18: The Return of Tony Stark]] | oop | - | - | Out of print, ceiling 150 landed |
@@ -51,17 +51,17 @@ As a developer, a kid from 2000 and a nerd who grew up with the MCU, the technol
 |---|---|---|---|---|
 | [[Iron Man Dragon Seed Saga TPB\|Iron Man Dragon Seed Saga TPB]] | wanted | 24.9 seen | Amazon.es | To help cover Epic 16 where the omni doesn't cover |
 | [[Iron Man Extremis Premier Collection\|Iron Man: Extremis Premier Collection]] | wanted | 12.79 (reg 14.99) seen | Walt's | releases Jan 12, 2027; Walt's discounted price 12.79 (regular 14.99), not an FOC price. |
-| [[Invincible Iron Man by Gerry Duggan Vol 1\|Invincible Iron Man by Gerry Duggan Vol 1: Demon in the Armor]] | incoming | 17 paid | Walt's | - |
-| [[Invincible Iron Man by Gerry Duggan Vol 2 The Wedding of Tony Stark and Emma Frost\|Invincible Iron Man by Gerry Duggan Vol 2 The Wedding of Tony Stark and Emma Frost]] | incoming | 17 paid | Walt's | - |
+| [[Invincible Iron Man by Gerry Duggan Vol 1\|Invincible Iron Man by Gerry Duggan Vol 1: Demon in the Armor]] | incoming | 17 paid | Walt's | Shipped; expected Fri Oct 9 (Mon Oct 12 if delayed). |
+| [[Invincible Iron Man by Gerry Duggan Vol 2 The Wedding of Tony Stark and Emma Frost\|Invincible Iron Man by Gerry Duggan Vol 2 The Wedding of Tony Stark and Emma Frost]] | incoming | 17 paid | Walt's | Shipped; expected Fri Oct 9 (Mon Oct 12 if delayed). |
 | [[Invincible Iron Man by Gerry Duggan Vol 3 Iron and Diamonds\|Invincible Iron Man by Gerry Duggan Vol 3 Iron and Diamonds]] | oop | - | - | Not findable anywhere; bought singles instead. |
-| [[Invincible Iron Man (2022) 13\|Invincible Iron Man (2022) #13]] | incoming | 6.5 paid | Walt's | About 6-7 |
+| [[Invincible Iron Man (2022) 13\|Invincible Iron Man (2022) #13]] | incoming | 6.5 paid | Walt's | About 6-7 Shipped; expected Fri Oct 9 (Mon Oct 12 if delayed). |
 | [[Invincible Iron Man (2022) 14\|Invincible Iron Man (2022) #14]] | wanted | - | - | eBay, slow hunt, 1-2 per month at most |
 | [[Invincible Iron Man (2022) 15\|Invincible Iron Man (2022) #15]] | wanted | - | - | eBay, slow hunt, 1-2 per month at most |
 | [[Invincible Iron Man (2022) 16\|Invincible Iron Man (2022) #16]] | wanted | - | - | eBay, slow hunt, 1-2 per month at most |
 | [[Invincible Iron Man (2022) 17\|Invincible Iron Man (2022) #17]] | wanted | - | - | eBay, slow hunt, 1-2 per month at most |
 | [[Invincible Iron Man (2022) 18\|Invincible Iron Man (2022) #18]] | wanted | - | - | eBay, slow hunt, 1-2 per month at most |
-| [[Invincible Iron Man (2022) 19\|Invincible Iron Man (2022) #19]] | incoming | 6.5 paid | Walt's | Skottie Young variant, about 6-7 |
-| [[Invincible Iron Man (2022) 20\|Invincible Iron Man (2022) #20]] | incoming | 6.5 paid | Walt's | About 6-7 |
+| [[Invincible Iron Man (2022) 19\|Invincible Iron Man (2022) #19]] | incoming | 6.5 paid | Walt's | Skottie Young variant, about 6-7 Shipped; expected Fri Oct 9 (Mon Oct 12 if delayed). |
+| [[Invincible Iron Man (2022) 20\|Invincible Iron Man (2022) #20]] | incoming | 6.5 paid | Walt's | About 6-7 Shipped; expected Fri Oct 9 (Mon Oct 12 if delayed). |
 | [[Iron Man (2026) Vol 1 A New Nightmare\|Iron Man (2026) Vol 1 A New Nightmare]] | planned | 16.99 seen | Walt's | releases Oct 27, 2026; Decision 2026-10-01: order at Walt's (about 17 + about 9 shipping = about 26) for careful packing,... |
 | [[Iron Man (2026) 1 liked cover\|Iron Man (2026) #1 liked cover]] | wanted | 15 seen | Walt's | Single at Walt's, one cover liked. |
 | [[Iron Man (2026) 1-4 connecting cartoony covers (set of four)\|Iron Man (2026) #1-4 connecting cartoony covers (set of four)]] | wanted | 25 seen | Vinted | Skottie Young 4-part connecting variant, exists for #1-4 only. |

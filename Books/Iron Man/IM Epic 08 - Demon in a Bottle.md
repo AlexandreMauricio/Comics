@@ -34,7 +34,7 @@ store: "Walt's"
 price_paid: 44.99
 ordered: 2026-07-07
 order_ref: "Walt's #114274"
-price_note: "Pre-order. Shipped 2026-10-07 (Walt's order #114274), expected about Oct 14-16 (5-7 working days)."
+price_note: "Pre-order. Shipped 2026-10-07 (Walt's order #114274), expected Mon Oct 12 if no delays."
 budget_month: "2026-06"
 next_read: true
 source: "Epics.xlsx Main Page + Ranking tab, cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"

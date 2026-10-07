@@ -20,7 +20,7 @@ He isn't that special to me, but I've always liked lawyer shows, and a normal la
 | [[DD Epic 01 - The Man Without Fear\|Epic 1: The Man Without Fear]] | owned | 75 paid | Cheap-Comics | read, 8/10 |
 | [[DD Epic 02 - Mike Murdock Must Die!\|Epic 2: Mike Murdock Must Die!]] | owned | 49.99 paid | Walt's | read, 7/10 |
 | [[DD Epic 03 - Brother, Take My Hand\|Epic 3: Brother, Take My Hand]] | incoming | - | - | in Daredevil Omnibus Vol 2 |
-| [[Daredevil Omnibus Vol 2\|Daredevil Omnibus Vol 2]] | incoming | 115 paid | Walt's | - |
+| [[Daredevil Omnibus Vol 2\|Daredevil Omnibus Vol 2]] | incoming | 115 paid | Walt's | Shipped; expected Fri Oct 9 (Mon Oct 12 if delayed). |
 | [[DD Epic 04 - A Woman Called Widow\|Epic 4: A Woman Called Widow]] | partial | - | - | Partilally covered in Daredevil Omnibus Vol 2, needs Omni Vol 3 to cover the rest |
 | [[Daredevil Omnibus Vol 3\|Daredevil Omnibus Vol 3]] | planned | 105 seen | Walt's | Out of print, last copies at Walt's at 105 (in stock 2026-09-30, no count shown) |
 | [[DD Epic 05 - Going Out West\|Epic 5: Going Out West]] | wanted | - | - | Covered by the planned DD Omnibus 3 (#75-119). |

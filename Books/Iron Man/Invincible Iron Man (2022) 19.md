@@ -8,7 +8,7 @@ read: false
 budget: "monthly"
 price_paid: 6.5
 store: "Walt's"
-price_note: "Skottie Young variant, about 6-7"
+price_note: "Skottie Young variant, about 6-7 Shipped; expected Fri Oct 9 (Mon Oct 12 if delayed)."
 seq: 1019.5
 order: 1019.5
 ordered: 2026-09-24

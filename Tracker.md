@@ -22,17 +22,17 @@ Ordered and already published, so it should arrive any time.
 
 | Book | Store | Paid | Ordered | Note |
 |---|---|---|---|---|
-| [[Carnage Modern 02 - Prophecy of the Darkhold]] | Walt's | 44.99 | 2026-07-07 | Pre-order. Shipped 2026-10-07 (Walt's order #114274), expected about Oct 14-16 (5-7 working days). |
-| [[IM Epic 08 - Demon in a Bottle]] | Walt's | 44.99 | 2026-07-07 | Pre-order. Shipped 2026-10-07 (Walt's order #114274), expected about Oct 14-16 (5-7 working days). |
-| [[SM Epic 03 - Spider-Man No More!]] | Walt's | 40.99 | 2026-07-07 | Pre-order. Shipped 2026-10-07 (Walt's order #114274), expected about Oct 14-16 (5-7 working days). |
-| [[SM Modern 15 - Spider-Island]] | Walt's | 40.99 | 2026-07-07 | Pre-order. Shipped 2026-10-07 (Walt's order #114274), expected about Oct 14-16 (5-7 working days). |
-| [[Daredevil Omnibus Vol 2]] | Walt's | 115 | 2026-09-24 |  |
-| [[IM Epic 15 - Doom]] | Walt's | 39.9 | 2026-09-24 |  |
-| [[Invincible Iron Man (2022) 13]] | Walt's | 6.5 | 2026-09-24 | About 6-7 |
-| [[Invincible Iron Man (2022) 19]] | Walt's | 6.5 | 2026-09-24 | Skottie Young variant, about 6-7 |
-| [[Invincible Iron Man (2022) 20]] | Walt's | 6.5 | 2026-09-24 | About 6-7 |
-| [[Invincible Iron Man by Gerry Duggan Vol 1]] | Walt's | 17 | 2026-09-24 |  |
-| [[Invincible Iron Man by Gerry Duggan Vol 2 The Wedding of Tony Stark and Emma Frost]] | Walt's | 17 | 2026-09-24 |  |
+| [[Carnage Modern 02 - Prophecy of the Darkhold]] | Walt's | 44.99 | 2026-07-07 | Pre-order. Shipped 2026-10-07 (Walt's order #114274), expected Mon Oct 12 if no delays. |
+| [[IM Epic 08 - Demon in a Bottle]] | Walt's | 44.99 | 2026-07-07 | Pre-order. Shipped 2026-10-07 (Walt's order #114274), expected Mon Oct 12 if no delays. |
+| [[SM Epic 03 - Spider-Man No More!]] | Walt's | 40.99 | 2026-07-07 | Pre-order. Shipped 2026-10-07 (Walt's order #114274), expected Mon Oct 12 if no delays. |
+| [[SM Modern 15 - Spider-Island]] | Walt's | 40.99 | 2026-07-07 | Pre-order. Shipped 2026-10-07 (Walt's order #114274), expected Mon Oct 12 if no delays. |
+| [[Daredevil Omnibus Vol 2]] | Walt's | 115 | 2026-09-24 | Shipped; expected Fri Oct 9 (Mon Oct 12 if delayed). |
+| [[IM Epic 15 - Doom]] | Walt's | 39.9 | 2026-09-24 | Shipped; expected Fri Oct 9 (Mon Oct 12 if delayed). |
+| [[Invincible Iron Man (2022) 13]] | Walt's | 6.5 | 2026-09-24 | About 6-7 Shipped; expected Fri Oct 9 (Mon Oct 12 if delayed). |
+| [[Invincible Iron Man (2022) 19]] | Walt's | 6.5 | 2026-09-24 | Skottie Young variant, about 6-7 Shipped; expected Fri Oct 9 (Mon Oct 12 if delayed). |
+| [[Invincible Iron Man (2022) 20]] | Walt's | 6.5 | 2026-09-24 | About 6-7 Shipped; expected Fri Oct 9 (Mon Oct 12 if delayed). |
+| [[Invincible Iron Man by Gerry Duggan Vol 1]] | Walt's | 17 | 2026-09-24 | Shipped; expected Fri Oct 9 (Mon Oct 12 if delayed). |
+| [[Invincible Iron Man by Gerry Duggan Vol 2 The Wedding of Tony Stark and Emma Frost]] | Walt's | 17 | 2026-09-24 | Shipped; expected Fri Oct 9 (Mon Oct 12 if delayed). |
 
 ## Pre-orders (not released yet)
 
