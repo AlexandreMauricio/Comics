@@ -5,7 +5,7 @@
 ## Already ordered and waiting
 | Order | Items | Status |
 |---|---|---|
-| Walt's #114274 (Jul 7, 171.96) | Iron Man Epic 8, Spider-Man Epic 3, Spider-Man Modern Era Epic 15 *Spider-Island*, Carnage Modern Era Epic 2 | Held until the Carnage Epic releases (Oct 6). Then it ships |
+| Walt's #114274 (Jul 7, 171.96) | Iron Man Epic 8, Spider-Man Epic 3, Spider-Man Modern Era Epic 15 *Spider-Island*, Carnage Modern Era Epic 2 | **Shipped Oct 7**; expected about Oct 14-16 |
 | Walt's #127228 (Sep 16, 157.99) | Daredevil Epic 9 (Dec 1), Venom War Omnibus (Dec 8), Spider-Man Epic 29 (Dec 8) | Pre-order, ships after Dec 8 |
 | Walt's (Sep 24) | Daredevil Omnibus 2 (115), Iron Man Epic 15 (39.90), Iron Man 2022 TPB 1 and 2 (17 each), #13, #19, #20 (6.50 each) | On the way |
 | Vinted (Sep 29) | Daredevil *Battlin' Jack Murdock* #1-4 (30.20) | Paid, waiting to be shipped |

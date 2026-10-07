@@ -17,6 +17,7 @@ ordered: 2026-07-07
 order_ref: "Walt's #114274"
 seq: 102
 budget_month: "2026-06"
+status_note: "Shipped 2026-10-07 (Walt's order #114274). Expected about Oct 14-16, 5-7 working days."
 source: "Walt's order #114274 (screenshot, 2026-09-29) + user (delay)"
 verified: false
 tags: ["comics", "line/carnage"]
