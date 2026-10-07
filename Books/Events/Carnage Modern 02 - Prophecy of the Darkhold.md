@@ -12,12 +12,11 @@ editions: ["2026-10-06"]
 budget: "quarterly"
 price_paid: 44.99
 store: "Walt's"
-price_note: "Pre-order. Release delayed from Sep 15 to Oct 6, 2026; Walt's holds order #114274 until it's out."
+price_note: "Pre-order. Shipped 2026-10-07 (Walt's order #114274), expected about Oct 14-16 (5-7 working days)."
 ordered: 2026-07-07
 order_ref: "Walt's #114274"
 seq: 102
 budget_month: "2026-06"
-status_note: "Shipped 2026-10-07 (Walt's order #114274). Expected about Oct 14-16, 5-7 working days."
 source: "Walt's order #114274 (screenshot, 2026-09-29) + user (delay)"
 verified: false
 tags: ["comics", "line/carnage"]

@@ -32,9 +32,8 @@ price_paid: 40.99
 edition: "New Printing 2"
 ordered: 2026-07-07
 order_ref: "Walt's #114274"
-price_note: "Pre-order. Released, but Walt's holds order #114274 until the Carnage Modern Era Epic 2 releases (delayed to Oct 6)."
+price_note: "Pre-order. Shipped 2026-10-07 (Walt's order #114274), expected about Oct 14-16 (5-7 working days)."
 budget_month: "2026-06"
-status_note: "Shipped 2026-10-07 (Walt's order #114274). Expected about Oct 14-16, 5-7 working days."
 source: "Epics.xlsx Main Page + Ranking tab, cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"
 wikipedia_checked: "2026-09-29"
 verified: true

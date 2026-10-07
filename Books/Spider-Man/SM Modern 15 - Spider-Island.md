@@ -11,12 +11,11 @@ release_date: "2026-09-08"
 budget: "quarterly"
 price_paid: 40.99
 store: "Walt's"
-price_note: "Pre-order. Released Sep 8, but Walt's holds the whole order until the Carnage Modern Era Epic 2 releases (delayed to Oct 6)."
+price_note: "Pre-order. Shipped 2026-10-07 (Walt's order #114274), expected about Oct 14-16 (5-7 working days)."
 ordered: 2026-07-07
 order_ref: "Walt's #114274"
 seq: 115
 budget_month: "2026-06"
-status_note: "Shipped 2026-10-07 (Walt's order #114274). Expected about Oct 14-16, 5-7 working days."
 source: "Walt's order #114274 (screenshot, 2026-09-29)"
 verified: false
 tags: ["comics", "line/spider-man"]
