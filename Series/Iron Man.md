@@ -51,7 +51,7 @@ As a developer, a kid from 2000 and a nerd who grew up with the MCU, the technol
 |---|---|---|---|---|
 | [[Iron Man Dragon Seed Saga TPB\|Iron Man Dragon Seed Saga TPB]] | wanted | 24.9 seen | Amazon.es | To help cover Epic 16 where the omni doesn't cover |
 | [[Iron Man Extremis Premier Collection\|Iron Man: Extremis Premier Collection]] | wanted | 12.79 (reg 14.99) seen | Walt's | releases Jan 12, 2027; Walt's discounted price 12.79 (regular 14.99), not an FOC price. |
-| [[Invincible Iron Man by Gerry Duggan Vol 1\|Invincible Iron Man by Gerry Duggan Vol 1: Demon in the Armor]] | owned | 17 paid | Walt's | Arrived 2026-10-09. |
+| [[Invincible Iron Man by Gerry Duggan Vol 1\|Invincible Iron Man by Gerry Duggan Vol 1: Demon in the Armor]] | owned | 17 paid | Walt's | read, 8/10; Arrived 2026-10-09. |
 | [[Invincible Iron Man by Gerry Duggan Vol 2 The Wedding of Tony Stark and Emma Frost\|Invincible Iron Man by Gerry Duggan Vol 2 The Wedding of Tony Stark and Emma Frost]] | owned | 17 paid | Walt's | Arrived 2026-10-09. |
 | [[Invincible Iron Man by Gerry Duggan Vol 3 Iron and Diamonds\|Invincible Iron Man by Gerry Duggan Vol 3 Iron and Diamonds]] | oop | - | - | Not findable anywhere; bought singles instead. |
 | [[Invincible Iron Man (2022) 13\|Invincible Iron Man (2022) #13]] | owned | 6.5 paid | Walt's | About 6-7 Arrived 2026-10-09. |

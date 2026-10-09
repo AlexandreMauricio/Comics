@@ -8,6 +8,7 @@ Short impressions per book. Add a rating (1-10) when known. Newest last.
 - Epic 3-4: somewhat repetitive/meh, especially the villain encounters.
 - Epic 5: excellent. Tech/invention/upgrades, Happy/Pepper, relationships and progression reignited the enthusiasm.
 - Epic 6: not bad, not amazing. Mandarin dies, Tony improves the armor/mask for explosions, Jack Frost returns under another name.
+- Invincible Iron Man (2022) Vol 1, Demon in the Armor: 8/10 (finished 2026-10). A poor Tony living in a warehouse was a surprise. The new villain (Feilong, from Duggan's X-Men) and how he took over Stark Unlimited intrigued me, and the Iron Man Sentinels look dreadful in a good way.
 - Epic 7 (Ten Rings to Rule the World): loved it, devoured in 2 days (2026-10-03). Amazing stories and art; Madame Masque and Sitwell appear, characters I didn't know I missed.
 
 ## Doctor Strange

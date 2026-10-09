@@ -3,7 +3,7 @@ line: "Iron Man"
 type: "TPB"
 edition: "IM2022 Vol 1"
 status: "owned"
-read: false
+read: true
 budget: "monthly"
 price_paid: 17
 store: "Walt's"
@@ -16,6 +16,7 @@ ordered: 2026-09-24
 budget_month: "2026-09"
 cart: "2026-09"
 price_note: "Arrived 2026-10-09."
+my_rating: 8
 source: "Conversation with user (2026-09)"
 verified: false
 tags: ["comics", "line/iron-man"]
@@ -32,4 +33,4 @@ tags: ["comics", "line/iron-man"]
 - [Google](https://www.google.com/search?q=Iron+Man+Invincible+Iron+Man+by+Gerry+Duggan+Vol+1+TPB) · [League of Comic Geeks](https://leagueofcomicgeeks.com/search?keyword=Iron+Man+Invincible+Iron+Man+by+Gerry+Duggan+Vol+1+TPB)
 
 ## My impressions
-(see [[Reading Log]]; add notes here)
+8/10. Devoured it in a couple of days. Surprised to see a poor Tony living in a warehouse. The new-to-me villain (Feilong, who bought out Stark Unlimited, from Duggan's X-Men) is interesting, and the Iron Man Sentinels look dreadful in a good way. Goodreads readers average 3.75. (see [[Reading Log]])
