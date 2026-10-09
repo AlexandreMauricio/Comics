@@ -3,7 +3,7 @@ line: "Iron Man"
 type: "TPB"
 edition: "IM2022 Vol 2"
 title: "Invincible Iron Man by Gerry Duggan Vol 2 The Wedding of Tony Stark and Emma Frost"
-status: "incoming"
+status: "owned"
 read: false
 budget: "monthly"
 isbn: ["9781302947590"]
@@ -15,7 +15,7 @@ order: 1007
 ordered: 2026-09-24
 budget_month: "2026-09"
 cart: "2026-09"
-price_note: "Shipped; expected Fri Oct 9 (Mon Oct 12 if delayed)."
+price_note: "Arrived 2026-10-09."
 source: "Conversation with user (2026-09)"
 verified: false
 tags: ["comics", "line/iron-man"]
@@ -26,7 +26,7 @@ tags: ["comics", "line/iron-man"]
 **Collects:** #7-12 (verify split)
 
 ## Status
-- **incoming**
+- **owned**
 
 ## Check / look up
 - [Goodreads 9781302947590](https://www.goodreads.com/search?q=9781302947590) · [Google 9781302947590](https://www.google.com/search?q=9781302947590)

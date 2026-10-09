@@ -21,7 +21,7 @@ See also the sortable [[Ratings.base|Ratings dashboard]]. The tables below are g
 | 11 | [[IM Epic 11 - Duel of Iron\|Duel of Iron]] | 3.68 | 93 |  | B | owned |  |
 | 13 | [[IM Epic 13 - Stark Wars\|Stark Wars]] | 3.77 | 115 |  | S+ | owned |  |
 | 14 | [[IM Epic 14 - Return of the Ghost\|Return of the Ghost]] | 3.61 | 74 |  | B+ | owned |  |
-| 15 | [[IM Epic 15 - Doom\|Doom]] | 3.41 | 100 |  | B+ | incoming |  |
+| 15 | [[IM Epic 15 - Doom\|Doom]] | 3.41 | 100 |  | B+ | owned |  |
 | 16 | [[IM Epic 16 - War Games\|War Games]] | 3.86 | 100 |  | B | oop |  |
 | 17 | [[IM Epic 17 - War Machine\|War Machine]] | 3.69 | 55 |  | A | owned |  |
 | 18 | [[IM Epic 18 - The Return of Tony Stark\|The Return of Tony Stark]] | 3.61 | 36 |  | C | oop |  |
@@ -111,7 +111,7 @@ See also the sortable [[Ratings.base|Ratings dashboard]]. The tables below are g
 |---|---|---|---|---|---|---|---|
 | 1 | [[DD Epic 01 - The Man Without Fear\|The Man Without Fear]] | 3.59 | 246 | 8 | A+ | owned | yes |
 | 2 | [[DD Epic 02 - Mike Murdock Must Die!\|Mike Murdock Must Die!]] | 3.39 | 150 | 7 | A | owned | yes |
-| 3 | [[DD Epic 03 - Brother, Take My Hand\|Brother, Take My Hand]] | 3.49 | 126 |  | A | incoming |  |
+| 3 | [[DD Epic 03 - Brother, Take My Hand\|Brother, Take My Hand]] | 3.49 | 126 |  | A | covered |  |
 | 4 | [[DD Epic 04 - A Woman Called Widow\|A Woman Called Widow]] | 3.19 | 93 |  | B+ | partial |  |
 | 5 | [[DD Epic 05 - Going Out West\|Going Out West]] | 3.29 | 84 |  | B | wanted |  |
 | 6 | [[DD Epic 06 - Watch Out for Bullseye\|Watch Out for Bullseye]] | 3.35 | 60 |  | B | wanted |  |

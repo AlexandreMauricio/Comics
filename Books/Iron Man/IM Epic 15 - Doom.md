@@ -3,7 +3,7 @@ line: "Iron Man"
 type: "Epic Collection"
 number: 15
 title: "Doom"
-status: "incoming"
+status: "owned"
 read: false
 budget: "monthly"
 years: "1989-1990"
@@ -32,7 +32,7 @@ seq: 15
 ordered: 2026-09-24
 budget_month: "2026-09"
 cart: "2026-09"
-price_note: "Shipped; expected Fri Oct 9 (Mon Oct 12 if delayed)."
+price_note: "Arrived 2026-10-09."
 source: "Epics.xlsx Main Page + Ranking tab, cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"
 wikipedia_checked: "2026-09-29"
 verified: true
@@ -48,7 +48,7 @@ tags: ["comics", "line/iron-man"]
 **Years:** 1989-1990
 
 ## Status
-- **incoming**
+- **owned**
 - Ordered (Walts 39.90EUR)
 - Sheet note: Walts has for 45€
 

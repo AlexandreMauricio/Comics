@@ -3,7 +3,7 @@ line: "Daredevil"
 type: "Epic Collection"
 number: 3
 title: "Brother, Take My Hand"
-status: "incoming"
+status: "covered"
 read: false
 budget: "monthly"
 years: "1968-1970"

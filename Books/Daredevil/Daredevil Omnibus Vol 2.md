@@ -3,7 +3,7 @@ line: "Daredevil"
 type: "Omnibus"
 number: 2
 title: "Daredevil Omnibus Vol 2"
-status: "incoming"
+status: "owned"
 read: false
 next_read: true
 budget: "monthly"
@@ -19,7 +19,7 @@ covers_partial: ["[[DD Epic 04 - A Woman Called Widow]]"]
 ordered: 2026-09-24
 budget_month: "2026-09"
 cart: "2026-09"
-price_note: "Shipped; expected Fri Oct 9 (Mon Oct 12 if delayed)."
+price_note: "Arrived 2026-10-09."
 source: "Wikipedia Marvel Omnibus (2026-09-29) + conversation"
 wikipedia_checked: "2026-09-29"
 verified: true
@@ -31,7 +31,7 @@ tags: ["comics", "line/daredevil"]
 **Collects:** Daredevil #42-74; Iron Man #35, material from #36
 
 ## Status
-- **incoming**
+- **owned**
 - Covers: [[DD Epic 03 - Brother, Take My Hand]], [[DD Epic 04 - A Woman Called Widow]]
 
 ## Check / look up

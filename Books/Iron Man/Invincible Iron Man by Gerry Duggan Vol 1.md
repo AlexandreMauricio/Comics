@@ -2,7 +2,7 @@
 line: "Iron Man"
 type: "TPB"
 edition: "IM2022 Vol 1"
-status: "incoming"
+status: "owned"
 read: false
 budget: "monthly"
 price_paid: 17
@@ -15,7 +15,7 @@ order: 1001
 ordered: 2026-09-24
 budget_month: "2026-09"
 cart: "2026-09"
-price_note: "Shipped; expected Fri Oct 9 (Mon Oct 12 if delayed)."
+price_note: "Arrived 2026-10-09."
 source: "Conversation with user (2026-09)"
 verified: false
 tags: ["comics", "line/iron-man"]
@@ -26,7 +26,7 @@ tags: ["comics", "line/iron-man"]
 **Collects:** Invincible Iron Man (2022) #1-6 (verify split)
 
 ## Status
-- **incoming**
+- **owned**
 
 ## Check / look up
 - [Google](https://www.google.com/search?q=Iron+Man+Invincible+Iron+Man+by+Gerry+Duggan+Vol+1+TPB) · [League of Comic Geeks](https://leagueofcomicgeeks.com/search?keyword=Iron+Man+Invincible+Iron+Man+by+Gerry+Duggan+Vol+1+TPB)

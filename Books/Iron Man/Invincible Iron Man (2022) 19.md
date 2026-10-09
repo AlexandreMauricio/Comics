@@ -3,12 +3,12 @@ line: "Iron Man"
 type: "Single"
 edition: "IM2022 #19"
 title: "Invincible Iron Man (2022) #19"
-status: "incoming"
+status: "owned"
 read: false
 budget: "monthly"
 price_paid: 6.5
 store: "Walt's"
-price_note: "Skottie Young variant, about 6-7 Shipped; expected Fri Oct 9 (Mon Oct 12 if delayed)."
+price_note: "Skottie Young variant, about 6-7 Arrived 2026-10-09. Pretty cover; some copies mention a digital item inside."
 seq: 1019.5
 order: 1019.5
 ordered: 2026-09-24
@@ -23,7 +23,7 @@ tags: ["comics", "line/iron-man"]
 
 
 ## Status
-- **incoming**
+- **owned**
 - Skottie Young variant, about 6-7
 
 ## Check / look up
