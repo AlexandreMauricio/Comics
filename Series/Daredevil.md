@@ -49,7 +49,7 @@ He isn't that special to me, but I've always liked lawyer shows, and a normal la
 
 | Book | Status | Price | Where | Note |
 |---|---|---|---|---|
-| [[Daredevil Battlin' Jack Murdock 1-4 (2007)\|Daredevil: Battlin' Jack Murdock #1-4 (2007)]] | owned | 30.2 paid | Vinted | All 4 issues, 30.20 with shipping included. |
+| [[Daredevil Battlin' Jack Murdock 1-4 (2007)\|Daredevil: Battlin' Jack Murdock #1-4 (2007)]] | owned | 30.2 paid | Vinted | read; All 4 issues, 30.20 with shipping included. |
 | [[DD Modern 01 - Guardian Devil\|Epic 1: Guardian Devil]] | parked | - | - | Releases Feb 23 |
 | [[DD Modern 02 - Underboss\|Epic 2: Underboss]] | parked | 39.99 (reg 44.99) seen | Walt's | OOP / Limited Supply |
 | [[Daredevil by Brian Michael Bendis & Alex Maleev Vol. 1\|Daredevil by Brian Michael Bendis & Alex Maleev Vol. 1]] | parked | - | - | Sold Out, covered Modern epic 3 |

@@ -79,6 +79,7 @@ Sorted by purpose, then by how short the line's runway is, then by the first com
 | future | Iron Man | 1 | [[IM Epic 21 - The Crossing]] | wanted | 50 | Walt's | 5 | low - Low rated, may skip |
 | future | Iron Man | 1 | [[IM Epic 22 - Age of Innocence]] | wanted | 50 | Walt's | 6 | low - Low rated, last purchase |
 | future | Spider-Man | 5 | [[SM Epic 10 - Big Apple Battleground]] | wanted |  |  | 2 |  |
+| future | Spider-Man | 5 | [[SM Epic 22 - Round Robin]] | wanted | 32.2 | Vinted | 11 |  |
 | modern | Doctor Strange | 0 | [[Doctor Strange by Aaron and Bachalo Omnibus]] | wanted | 84.7 | Vinted |  |  |
 | modern | Doctor Strange | 0 | [[Doctor Strange Vol 1 Journey Into Mystery]] | wanted | 24.99 | Walt's |  |  |
 | modern | Doctor Strange | 0 | [[Blood Hunt Omnibus]] | wanted |  |  |  |  |

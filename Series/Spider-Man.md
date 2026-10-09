@@ -43,7 +43,7 @@ Spidey is Spidey: I grew up with lots of Spider-Man movies, cartoons and games. 
 | [[SM Epic 19 - Assassin Nation\|Epic 19: Assassin Nation]] | wanted | - | - | - |
 | [[SM Epic 20 - Cosmic Adventures\|Epic 20: Cosmic Adventures]] | wanted | - | - | - |
 | [[SM Epic 21 - Return of the Sinister Six\|Epic 21: Return of the Sinister Six]] | wanted | - | - | - |
-| [[SM Epic 22 - Round Robin\|Epic 22: Round Robin]] | wanted | - | - | - |
+| [[SM Epic 22 - Round Robin\|Epic 22: Round Robin]] | wanted | 32.2 seen | Vinted | Vinted listing seen 2026-10-09, 32.20 plus shipping, not bought (Walt's 50, Cheap-Comics 75). |
 | [[SM Epic 23 - The Hero Killers\|Epic 23: The Hero Killers]] | wanted | - | - | - |
 | [[SM Epic 24 - Invasion of the Spider-Slayers\|Epic 24: Invasion of the Spider-Slayers]] | wanted | - | - | - |
 | [[SM Epic 25 - Maximum Carnage\|Epic 25: Maximum Carnage]] | wanted | - | - | - |

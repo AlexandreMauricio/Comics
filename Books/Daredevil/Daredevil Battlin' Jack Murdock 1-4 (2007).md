@@ -4,7 +4,7 @@ type: "Single"
 edition: "Battlin' Jack Murdock #1-4"
 title: "Daredevil: Battlin' Jack Murdock #1-4 (2007)"
 status: "owned"
-read: false
+read: true
 modern: true
 years: "2007"
 issues: "Daredevil: Battlin' Jack Murdock #1-4"
@@ -36,5 +36,5 @@ tags: ["comics", "line/daredevil"]
 - [Google](https://www.google.com/search?q=Daredevil+Battlin%27+Jack+Murdock+2007) · [League of Comic Geeks](https://leagueofcomicgeeks.com/search?keyword=Battlin%27+Jack+Murdock)
 
 ## My impressions
-Arrived 2026-10-07.
+Arrived 2026-10-07. Read 2026-10-09, about half an hour for the four issues. Liked it; a bit different from how it went on the show.
 (see [[Reading Log]]; add notes here)

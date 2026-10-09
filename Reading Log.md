@@ -29,6 +29,7 @@ Short impressions per book. Add a rating (1-10) when known. Newest last.
 ## Daredevil
 - Epic 1: loving it.
 - Epic 2: enjoyed. Skimmed some combat and dense dialogue.
+- Battlin' Jack Murdock #1-4 (2007): liked it (read 2026-10-09). Four short issues, about half an hour. A bit different from how Jack's story went on the show.
 
 ## Others
 - Civil War Premier Collection: 7/10 (finished 2026-10-07). Good, not amazing. I understand Tony's side (tired of teenagers destroying buildings and killing people by accident), but the fake Thor and the robots were too weird and too much.
