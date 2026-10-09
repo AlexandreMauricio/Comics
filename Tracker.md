@@ -22,10 +22,10 @@ Ordered and already published, so it should arrive any time.
 
 | Book | Store | Paid | Ordered | Note |
 |---|---|---|---|---|
-| [[Carnage Modern 02 - Prophecy of the Darkhold]] | Walt's | 44.99 | 2026-07-07 | Pre-order. Shipped 2026-10-07 (Walt's order #114274), expected Mon Oct 12 if no delays. |
-| [[IM Epic 08 - Demon in a Bottle]] | Walt's | 44.99 | 2026-07-07 | Pre-order. Shipped 2026-10-07 (Walt's order #114274), expected Mon Oct 12 if no delays. |
-| [[SM Epic 03 - Spider-Man No More!]] | Walt's | 40.99 | 2026-07-07 | Pre-order. Shipped 2026-10-07 (Walt's order #114274), expected Mon Oct 12 if no delays. |
-| [[SM Modern 15 - Spider-Island]] | Walt's | 40.99 | 2026-07-07 | Pre-order. Shipped 2026-10-07 (Walt's order #114274), expected Mon Oct 12 if no delays. |
+| [[Carnage Modern 02 - Prophecy of the Darkhold]] | Walt's | 44.99 | 2026-07-07 | Pre-order. Shipped 2026-10-07 (Walt's order #114274); delivery slipped from Mon Oct 12 to Wed Oct 14. |
+| [[IM Epic 08 - Demon in a Bottle]] | Walt's | 44.99 | 2026-07-07 | Pre-order. Shipped 2026-10-07 (Walt's order #114274); delivery slipped from Mon Oct 12 to Wed Oct 14. |
+| [[SM Epic 03 - Spider-Man No More!]] | Walt's | 40.99 | 2026-07-07 | Pre-order. Shipped 2026-10-07 (Walt's order #114274); delivery slipped from Mon Oct 12 to Wed Oct 14. |
+| [[SM Modern 15 - Spider-Island]] | Walt's | 40.99 | 2026-07-07 | Pre-order. Shipped 2026-10-07 (Walt's order #114274); delivery slipped from Mon Oct 12 to Wed Oct 14. |
 
 ## Pre-orders (not released yet)
 

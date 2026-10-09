@@ -12,7 +12,7 @@ editions: ["2026-10-06"]
 budget: "quarterly"
 price_paid: 44.99
 store: "Walt's"
-price_note: "Pre-order. Shipped 2026-10-07 (Walt's order #114274), expected Mon Oct 12 if no delays."
+price_note: "Pre-order. Shipped 2026-10-07 (Walt's order #114274); delivery slipped from Mon Oct 12 to Wed Oct 14."
 ordered: 2026-07-07
 order_ref: "Walt's #114274"
 seq: 102

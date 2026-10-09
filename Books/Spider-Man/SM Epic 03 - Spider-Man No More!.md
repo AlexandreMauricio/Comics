@@ -32,7 +32,7 @@ price_paid: 40.99
 edition: "New Printing 2"
 ordered: 2026-07-07
 order_ref: "Walt's #114274"
-price_note: "Pre-order. Shipped 2026-10-07 (Walt's order #114274), expected Mon Oct 12 if no delays."
+price_note: "Pre-order. Shipped 2026-10-07 (Walt's order #114274); delivery slipped from Mon Oct 12 to Wed Oct 14."
 budget_month: "2026-06"
 source: "Epics.xlsx Main Page + Ranking tab, cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"
 wikipedia_checked: "2026-09-29"
