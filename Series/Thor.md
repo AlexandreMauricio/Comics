@@ -24,7 +24,7 @@ I love mythologies. I didn't like him always asking his father for help, and I s
 | [[Thor Epic 03 - The Wrath of Odin\|Epic 3: The Wrath of Odin]] | covered | - | - | read, 7/10; in The Mighty Thor Omnibus Vol 2, The Mighty Thor Omnibus Vol 3 |
 | [[The Mighty Thor Omnibus Vol 3\|The Mighty Thor Omnibus Vol 3]] | owned | 85.23 paid | Vinted | Part of a Vinted bundle: Thor Omnibus 1-3 + Absolute Carnage for 345.70 with shipping, about... |
 | [[Thor Epic 04 - To Wake the Mangog\|Epic 4: To Wake the Mangog]] | covered | - | - | read, 7/10; in The Mighty Thor Omnibus Vol 3 |
-| [[Thor Epic 05 - The Fall of Asgard\|Epic 5: The Fall of Asgard]] | covered | - | - | in The Mighty Thor Omnibus Vol 3 |
+| [[Thor Epic 05 - The Fall of Asgard\|Epic 5: The Fall of Asgard]] | covered | - | - | read, 6/10; in The Mighty Thor Omnibus Vol 3 |
 | [[Thor Epic 06 - Into the Dark Nebula\|Epic 6: Into the Dark Nebula]] | wanted | 50 seen | Cheap-Comics | Only if Omnibus 4 is gone (Cheap-Comics 50 + 20 shipping) |
 | [[The Mighty Thor Omnibus Vol 4\|The Mighty Thor Omnibus Vol 4]] | planned | 85 seen | Walt's | Out of print, last copies at Walt's: page warns only 1 in stock (2026-09-30). |
 | [[Thor Epic 07 - Ulik Unchained\|Epic 7: Ulik Unchained]] | wanted | 60 seen | Cheap-Comics | Omnibus 4 and 5 cover most of it |

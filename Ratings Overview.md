@@ -85,7 +85,7 @@ See also the sortable [[Ratings.base|Ratings dashboard]]. The tables below are g
 | 2 | [[Thor Epic 02 - When Titans Clash\|When Titans Clash]] | 4.05 | 123 | 5 | A+ | covered | yes |
 | 3 | [[Thor Epic 03 - The Wrath of Odin\|The Wrath of Odin]] | 3.97 | 127 | 7 | A+ | covered | yes |
 | 4 | [[Thor Epic 04 - To Wake the Mangog\|To Wake the Mangog]] | 4.11 | 133 | 7 | A+ | covered | yes |
-| 5 | [[Thor Epic 05 - The Fall of Asgard\|The Fall of Asgard]] | 3.76 | 66 |  | A | covered |  |
+| 5 | [[Thor Epic 05 - The Fall of Asgard\|The Fall of Asgard]] | 3.76 | 66 | 6 | A | covered | yes |
 | 6 | [[Thor Epic 06 - Into the Dark Nebula\|Into the Dark Nebula]] | 3.48 | 46 |  | B | wanted |  |
 | 7 | [[Thor Epic 07 - Ulik Unchained\|Ulik Unchained]] | 3.82 | 33 |  | B | wanted |  |
 | 8 | [[Thor Epic 08 - War of the Gods\|War of the Gods]] | 3.48 | 31 |  | B | wanted |  |

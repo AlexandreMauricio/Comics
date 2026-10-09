@@ -48,13 +48,13 @@ Ordered and already published, so it should arrive any time.
 |---|---|---|
 | Iron Man | [[IM Epic 08 - Demon in a Bottle\|Epic 8]] | incoming (not here yet) |
 | Spider-Man | [[SM Epic 03 - Spider-Man No More!\|Epic 3]] | incoming (not here yet) |
-| Thor | [[Thor Epic 05 - The Fall of Asgard\|Epic 5]] | covered |
 | Daredevil | [[Daredevil Omnibus Vol 2]] | owned |
 
 ## Needs attention
 
 - DS Epic 04 - Alone Against Eternity: read, but the omnibus you read it in has only part of it (not in it: Doctor Strange (vol. 2) #23-28)
 - Doctor Strange: no book has next_read
+- Thor: no book has next_read
 - [[Daredevil Omnibus Vol 3]]: Out of print, last copies at Walt's at 105 (in stock 2026-09-30, no count shown), not in the next cart
 - [[Doctor Strange Masterworks Vol 11]]: Only 2 copies left at Walt's, discounted from 75 to 67.50. Bridge to Epic 8., not in the next cart
 - [[IM Epic 16 - War Games]]: Out of print, hard to find, not in the next cart

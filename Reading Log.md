@@ -23,6 +23,7 @@ Short impressions per book. Add a rating (1-10) when known. Newest last.
 ## Thor
 - Epic 1-2: rough start ("Father help", 60-second rule).
 - Epic 3-4: better, liked more. Epic 4 devoured in a day; Mangog a standout, story overall not very memorable.
+- Epic 5 (The Fall of Asgard): 6/10 (finished 2026-10). The first half was strong; the rest didn't catch me as fast.
 
 ## Daredevil
 - Epic 1: loving it.

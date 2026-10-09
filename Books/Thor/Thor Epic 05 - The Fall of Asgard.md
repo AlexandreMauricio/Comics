@@ -4,8 +4,7 @@ type: "Epic Collection"
 number: 5
 title: "The Fall of Asgard"
 status: "covered"
-read: false
-next_read: true
+read: true
 years: "1970-1971"
 issues: "Thor #175–194"
 writers: "Stan Lee"
@@ -24,6 +23,7 @@ goodreads_rating: 3.76
 goodreads_votes: 66
 goodreads_checked: "2026-09-29"
 seq: 5
+my_rating: 6
 source: "Epics.xlsx Thor Ranking tab only (no Main Page data for Thor), cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"
 wikipedia_checked: "2026-09-29"
 verified: true
@@ -54,4 +54,4 @@ tags: ["comics", "line/thor"]
 - [Goodreads 9781302912741](https://www.goodreads.com/search?q=9781302912741) · [Google 9781302912741](https://www.google.com/search?q=9781302912741)
 
 ## My impressions
-(see [[Reading Log]]; add notes here)
+6/10. Finished 2026-10. The first half was strong, the rest didn't catch me as fast. Goodreads readers average 3.76. (see [[Reading Log]])
