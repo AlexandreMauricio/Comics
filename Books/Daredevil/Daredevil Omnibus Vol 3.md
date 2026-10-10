@@ -15,7 +15,7 @@ store: "Walt's"
 covers: ["[[DD Epic 05 - Going Out West]]"]
 urgency: "high"
 urgency_reason: "Out of print, last copies at Walt's at 105 (in stock 2026-09-30, no count shown)"
-cart: ""
+cart: "2027-01"
 seq: 4.5
 purpose: "reading"
 missing_before: 0

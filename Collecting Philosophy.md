@@ -20,6 +20,8 @@ TPB is the default; singles only to test a new run, as a cover trophy, or as a b
   - The all-in hobby budget is **170 / 220 / 290 EUR** depending on how much is set aside that month (more set aside = lower budget). **Planning default: 150 EUR**, a safety margin, and lower again when the mortgage rises in 2027.
   - Comics get the hobby budget **minus other hobbies the user reports that month** (games and so on). Singles, pre-orders and every shop count.
   - **Step-up rule:** the budget may rise to 200 EUR only after a couple of months at or under 150 AND the user confirms the personal big-items pot is on track. Until then, 150.
+  - **Overshoot rule (confirmed 2026-10-10):** the allowance is 150 all-in, other hobbies included. Whatever a month spends over 150 is **taken off the next month's allowance** (it can push that month to 0 and carry on). That is why the cart for a month is set by the allowance left, not by the plan.
+  - **Reading supply rule:** always at least 1 book to read every month, preferably 2 (he reads fast). Checked against the unread stock at home before cutting a purchase; see [[Year Plan]].
   - Old rule (about 200, +10-20 flex) is replaced. The old 'classics first' order still applies inside the budget.
 - Classics first. Modern never displaces a classic I should secure.
 - **Each month, buy at least one genuine next-reading classic** when one exists. Later/OOP classics can also be bought early.

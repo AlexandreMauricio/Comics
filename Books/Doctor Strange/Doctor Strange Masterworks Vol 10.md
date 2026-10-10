@@ -18,7 +18,7 @@ urgency_reason: "Out of print / limited supply at Walt's (75). Bridge from Epic 
 seq: 6.5
 purpose: "reading"
 missing_before: 0
-cart: "2026-10"
+cart: "2026-12"
 source: "Conversation with user and web search (2026-10-04)"
 verified: false
 tags: ["comics", "line/doctor-strange"]

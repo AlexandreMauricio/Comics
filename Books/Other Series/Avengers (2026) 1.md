@@ -12,7 +12,7 @@ order: 1110
 seq: 1110
 purpose: "modern"
 line_note: "Releases Nov 4. Chip Zdarsky and Marco Checchetto. The redacted team member is Marvelman (alternate cover: Kimota!)."
-cart: "2026-11"
+cart: "2027-02"
 source: "Conversation with user and web search (2026-10-04)"
 verified: false
 tags: ["comics", "line/avengers"]
