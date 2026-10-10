@@ -300,7 +300,7 @@ def make_planner(notes, seq, pos, runway, gap, cart_month):
         L.append(f"| {fm.get('purpose', '')} | {line} | {runway.get(line, '')} | [[{n}]] | {fm['status']} | {fm.get('price_seen', '')} | {fm.get('store', '')} | {'' if mb is None else mb} | {fm.get('urgency', '')}{(' - ' + fm['urgency_reason']) if fm.get('urgency_reason') else ''} |")
     L += ["", "- **reading**: nothing unowned sits between your reading position and this book. This is the 'next Epic' slot.",
           "- **security**: out of print, or a deadline (discount, last copy). Ahead of a gap, so it doesn't advance reading yet.",
-          "- **preorder**: quarterly pre-order, outside the 200 EUR.", "- **future**: not urgent, far from your position.",
+          "- **preorder**: quarterly pre-order, counted inside the monthly budget (charged at order time).", "- **future**: not urgent, far from your position.",
           "- **modern / event**: palate cleansers.", ""]
     cart = sorted(((fm["line"], seq[n], n, fm) for n, fm in data.items() if fm.get("cart") == cart_month), key=lambda x: (x[0], x[1]))
     total = 0
@@ -311,7 +311,7 @@ def make_planner(notes, seq, pos, runway, gap, cart_month):
         L.append(f"| [[{n}]] | {fm.get('store', '')} | {p} | {fm.get('purpose', '')} |")
     if not cart:
         L.append("| (nothing has `cart: \"" + cart_month + "\"` yet) | | | |")
-    L += ["", f"Subtotal of listed books: **{round(total, 2)} EUR**. Add shipping by store (Walt's about 9 below 150, free above; Cheap-Comics about 20 flat). Budget about 200, flexible, no rollover; quarterly pre-orders are outside it.", ""]
+    L += ["", f"Subtotal of listed books: **{round(total, 2)} EUR**. Add shipping by store (Walt's about 9 below 150, free above; Cheap-Comics about 20 flat). Planning default 150 (tiers 170/220/290), no advances; quarterly pre-orders count inside it.", ""]
     save(VAULT + "Cart Planner.md", "\n".join(L))
 
 
@@ -416,6 +416,12 @@ def make_line_pages(notes):
             continue
         text = open(path, encoding="utf-8").read()
         if "%% begin generated: books %%" not in text:
+            continue
+        a, b = text.find("%% begin generated: books %%"), text.find("%% end generated: books %%")
+        typed = [r for r in text[a:b].split("\n") if r.startswith("|") and not re.match(r"\|\s*-{2,}", r)
+                 and not re.match(r"\|\s*Book\s*\|", r) and "[[" not in r.split("|")[1] and "(none yet)" not in r]
+        if typed:  # rows typed by hand have no book note; regenerating would delete them
+            print(f"  ! {page}: block has {len(typed)} hand-typed rows, left as is (not regenerated)")
             continue
         mine = [(n, fm) for n, (f, fm) in notes.items() if fm.get("line") in lines]
         mine.sort(key=lambda x: (x[1].get("seq") if isinstance(x[1].get("seq"), (int, float)) else 9999, x[0]))
@@ -531,7 +537,7 @@ def make_ratings(notes):
 
 
 SHIPPING = {"Walt's": (150, 9), "Cheap-Comics": (None, 20)}  # store -> (free above, else cost)
-BUDGET = 200
+BUDGET = 150  # planning default; tiers 170/220/290 depend on the month (Collecting Philosophy)
 
 
 def parse_date(v):
@@ -587,7 +593,7 @@ def make_tracker(notes, cart_month, today=None):
     s = sum(fm["price_paid"] for n, fm in spent)
     L += [f"## Spent in the {start:%B} budget ({start:%b %d} - {end:%b %d})", "",
           f"**{money(s)}** on {len(spent)} book(s) against about {BUDGET}" + (f", {money(s - BUDGET)} over" if s > BUDGET else f", {money(BUDGET - s)} left")
-          + ". Shipping and supplies are extra (see [[Purchase Log]]); quarterly pre-orders don't count. Details: [[Spending.base|Spending]].", ""]
+          + ". Shipping and supplies are extra (see [[Purchase Log]]); quarterly pre-orders (charged at order time) are not in this sum and other hobbies count against the month. Details: [[Spending.base|Spending]].", ""]
 
     # on the way
     incoming = [n for n, fm in data.items() if fm.get("status") == "incoming" and not fm.get("covered_via")]

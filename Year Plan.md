@@ -4,6 +4,14 @@
 
 How it was built: a book has to arrive **before its line's turn** in the rotation (one book per line about every 7 weeks), so the purchases are spread so no line is left without its next book. The deadline pre-orders (Michelinie omnibus, Spider-Man 30, Iron Man 12) are placed on their deadlines.
 
+## Review 2026-10-10 (notes toward v4, nothing below changed yet)
+- **Totals still fit:** v3 is 1,685; adding Avengers Epics 2 and 3 (35 + 35 at Cheap-Comics) makes 1,755 against 12 x 150 = 1,800. The problem is timing: October 184 and November 166.50 are 50 over the 150 default, while December (125.50), February (114) and March (115) have about 95 of room.
+- **September ran over:** 252.63 on books in the Sep 24 - Oct 23 budget month (Tracker), already above the 150 default. Under the no-advances rule, the October allowance has to be net of that, so the October cart is set by the real allowance on Oct 24, not by the plan.
+- **Cut order for October:** Michelinie omnibus (92.99, FOC Oct 28) never moves. Venom #1 goes first, then Strange Masterworks Vol 10 slides to November (stock at home is deep, so a late Vol 10 costs little reading time; the risk is only stock).
+- **Biggest lever:** Thor Epics 9-12 (49.99 + 44.99 + 75 + 39.99, plus 20 shipping, reader scores 3.1-3.9) are bought in April, June and July. Turning them into a checkpoint (decide in April, after Omnibus 5) frees up to about 230.
+- **Avengers as Iron Man's support line:** Epics 2 and 3 on the March Cheap-Comics order (that order becomes about 185). West Coast Avengers is not planned (6 of 8 Epics are OOP or limited; 45 each at Walt's).
+- Open: October allowance on Oct 24; Thor checkpoint yes/no; Avengers 2 + 3 in March yes/no.
+
 ## October 24 (about 184)
 **Cart 1: Walt's, pre-order (ships Apr 13), ~92.99**
 - Michelinie omnibus, 83.99 (FOC Oct 28; regular 125)
