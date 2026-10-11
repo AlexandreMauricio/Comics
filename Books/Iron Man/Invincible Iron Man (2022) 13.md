@@ -5,6 +5,7 @@ edition: "IM2022 #13"
 title: "Invincible Iron Man (2022) #13"
 status: "owned"
 read: true
+my_rating: 8
 budget: "monthly"
 price_paid: 6.5
 store: "Walt's"

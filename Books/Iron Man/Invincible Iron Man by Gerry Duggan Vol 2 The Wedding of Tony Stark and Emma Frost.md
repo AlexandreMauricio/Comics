@@ -5,6 +5,7 @@ edition: "IM2022 Vol 2"
 title: "Invincible Iron Man by Gerry Duggan Vol 2 The Wedding of Tony Stark and Emma Frost"
 status: "owned"
 read: true
+my_rating: 8
 budget: "monthly"
 isbn: ["9781302947590"]
 price_paid: 17
