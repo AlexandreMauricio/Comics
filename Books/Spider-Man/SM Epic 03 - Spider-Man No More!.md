@@ -3,7 +3,7 @@ line: "Spider-Man"
 type: "Epic Collection"
 number: 3
 title: "Spider-Man No More!"
-status: "incoming"
+status: "owned"
 read: false
 next_read: true
 budget: "quarterly"
@@ -32,7 +32,7 @@ price_paid: 40.99
 edition: "New Printing 2"
 ordered: 2026-07-07
 order_ref: "Walt's #114274"
-price_note: "Pre-order. Shipped 2026-10-07 (Walt's order #114274); delivery slipped from Mon Oct 12 to Wed Oct 14."
+price_note: "Pre-order. Arrived 2026-10-13 (Walt's order #114274), everything fine."
 budget_month: "2026-06"
 source: "Epics.xlsx Main Page + Ranking tab, cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"
 wikipedia_checked: "2026-09-29"
@@ -49,7 +49,7 @@ tags: ["comics", "line/spider-man"]
 
 ## Status
 - **incoming**
-- Pre-ordered at Walt's, not shipped yet (delayed with Iron Man 8).
+- Arrived 2026-10-13; pre-ordered at Walt's, not shipped yet (delayed with Iron Man 8).
 
 ## Ranking (ChatGPT/Gemini, unverified)
 - ⭐⭐⭐⭐☆ · tier A+

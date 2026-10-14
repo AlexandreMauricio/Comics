@@ -5,14 +5,14 @@ number: 2
 title: "Prophecy of the Darkhold"
 modern: true
 edition: "Carnage Modern Era Epic Collection Vol. 2"
-status: "incoming"
+status: "owned"
 read: false
 release_date: "2026-10-06"
 editions: ["2026-10-06"]
 budget: "quarterly"
 price_paid: 44.99
 store: "Walt's"
-price_note: "Pre-order. Shipped 2026-10-07 (Walt's order #114274); delivery slipped from Mon Oct 12 to Wed Oct 14."
+price_note: "Pre-order. Arrived 2026-10-13 (Walt's order #114274), everything fine."
 ordered: 2026-07-07
 order_ref: "Walt's #114274"
 seq: 102

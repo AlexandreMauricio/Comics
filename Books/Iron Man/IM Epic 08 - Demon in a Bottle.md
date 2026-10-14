@@ -3,7 +3,7 @@ line: "Iron Man"
 type: "Epic Collection"
 number: 8
 title: "Demon in a Bottle"
-status: "incoming"
+status: "owned"
 read: false
 budget: "quarterly"
 years: "1978-1980"
@@ -34,7 +34,7 @@ store: "Walt's"
 price_paid: 44.99
 ordered: 2026-07-07
 order_ref: "Walt's #114274"
-price_note: "Pre-order. Shipped 2026-10-07 (Walt's order #114274); delivery slipped from Mon Oct 12 to Wed Oct 14."
+price_note: "Pre-order. Arrived 2026-10-13 (Walt's order #114274), everything fine."
 budget_month: "2026-06"
 next_read: true
 source: "Epics.xlsx Main Page + Ranking tab, cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"
@@ -53,7 +53,7 @@ tags: ["comics", "line/iron-man"]
 
 ## Status
 - **incoming**
-- Pre-ordered at Walt's, not shipped yet (order delayed waiting for a modern epic pre-order, about a week). Arrives with Spider-Man 3.
+- Arrived 2026-10-13; pre-ordered at Walt's, not shipped yet (order delayed waiting for a modern epic pre-order, about a week). Arrives with Spider-Man 3.
 - Covered by: [[Iron Man by Michelinie Layton and Romita Jr Omnibus]]
 
 ## Ranking (ChatGPT/Gemini, unverified)
