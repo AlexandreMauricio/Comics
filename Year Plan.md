@@ -39,6 +39,8 @@ Spider-Man Epic 30 (FOC Nov 25, 39.50 vs 54.99 later) is **dropped**: the readin
 
 About 16 left. Iron Man Epic 12's pre-order (FOC ~Dec 22) is **not** placed: it is read around June, so it is bought at the regular price in April.
 
+**Birthday and Christmas (December):** a gift cart for both days is expected, size to be given in December (not yet known, and not assumed to be on top of the 150). If it is extra, the first books to pull forward are the ones that can disappear: Thor Omnibus 4 (last copy, now February), Strange Masterworks Vol 11 (67.50, two copies), Daredevil Omnibus 3 (105, if the checkpoint passes).
+
 ## January 24 (allowance 150; plan 138.99)
 **Cart 1: Walt's, in stock, 138.99**
 - Daredevil Omnibus 3, 105 (**checkpoint**, see below; the discount may end)
