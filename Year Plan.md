@@ -6,6 +6,7 @@
 - **September budget month (Sep 24 - Oct 23):** 252.63 on books (Tracker) plus other hobbies the user reported that month, so well over 150. The overshoot is taken off the next month.
 - **October allowance is 0, and it starts 22.52 in the red** (150 minus a 172.52 overshoot, books and other hobbies only; shipping and bags not counted).
 - **Michelinie omnibus stays** (decided 2026-10-04, FOC Oct 28). It is the single reason November is small: 92.99 on top of the 22.52 leaves **34.49 for November**.
+- **From July (to confirm) the allowance is expected to be about 123, not 150**, so July to September are planned under 123. January to June stay at 150.
 - Allowance Oct-Sep after the overshoot: **1,627.50**. This plan spends about **1,412**, which leaves about 215 of room.
 
 ## Reading supply (the main need: at least 1 book a month, preferably 2)
@@ -88,10 +89,10 @@ About 48 left: room for Daredevil Omnibus 4 (95) only if the Daredevil checkpoin
 
 About 46 left. This is where the Iron Man Epic 16 route (Armor Wars omnibus 78.99, or Dragon Seed 24.90 on Amazon.es) can fit.
 
-## July 24 (placeholder, about 120)
+## July 24 (placeholder, about 120; allowance about 123 *est*)
 **Thor checkpoint month.** Either the Simonson omnibus (99.50 at Cheap-Comics, plus 20 shipping) or the next Thor Epics. Decide after Omnibus 5 (see below).
 
-## August 24 (about 150 *est*)
+## August 24 (allowance about 123 *est*; plan about 123 *est*)
 - Daredevil Omnibus 4, 95, if not bought in April, or the Frank Miller and Klaus Janson omnibus (price not known yet)
 - Spider-Man Epic 10, price not known yet
 
