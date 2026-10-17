@@ -111,7 +111,7 @@ See also the sortable [[Ratings.base|Ratings dashboard]]. The tables below are g
 |---|---|---|---|---|---|---|---|
 | 1 | [[DD Epic 01 - The Man Without Fear\|The Man Without Fear]] | 3.59 | 246 | 8 | A+ | owned | yes |
 | 2 | [[DD Epic 02 - Mike Murdock Must Die!\|Mike Murdock Must Die!]] | 3.39 | 150 | 7 | A | owned | yes |
-| 3 | [[DD Epic 03 - Brother, Take My Hand\|Brother, Take My Hand]] | 3.49 | 126 |  | A | covered |  |
+| 3 | [[DD Epic 03 - Brother, Take My Hand\|Brother, Take My Hand]] | 3.49 | 126 | 6 | A | covered | yes |
 | 4 | [[DD Epic 04 - A Woman Called Widow\|A Woman Called Widow]] | 3.19 | 93 |  | B+ | partial |  |
 | 5 | [[DD Epic 05 - Going Out West\|Going Out West]] | 3.29 | 84 |  | B | wanted |  |
 | 6 | [[DD Epic 06 - Watch Out for Bullseye\|Watch Out for Bullseye]] | 3.35 | 60 |  | B | wanted |  |

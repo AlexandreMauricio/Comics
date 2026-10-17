@@ -5,7 +5,7 @@ number: 2
 title: "Daredevil Omnibus Vol 2"
 status: "owned"
 read: false
-next_read: true
+next_read: false
 budget: "monthly"
 issues: "Daredevil #42-74; Iron Man #35, material from #36"
 pages: "800"

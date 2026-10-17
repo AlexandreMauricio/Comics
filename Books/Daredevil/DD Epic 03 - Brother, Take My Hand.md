@@ -4,7 +4,8 @@ type: "Epic Collection"
 number: 3
 title: "Brother, Take My Hand"
 status: "covered"
-read: false
+read: true
+my_rating: 6
 budget: "monthly"
 years: "1968-1970"
 issues: "Daredevil #42–63"
@@ -26,7 +27,6 @@ goodreads_rating: 3.49
 goodreads_votes: 126
 goodreads_checked: "2026-09-29"
 seq: 3
-covered_via: ["[[Daredevil Omnibus Vol 2]]"]
 line_note: "in Daredevil Omnibus Vol 2"
 source: "Epics.xlsx Main Page + Ranking tab, cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"
 wikipedia_checked: "2026-09-29"

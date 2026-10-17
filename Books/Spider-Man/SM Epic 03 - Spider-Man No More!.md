@@ -6,6 +6,7 @@ title: "Spider-Man No More!"
 status: "owned"
 read: false
 next_read: true
+reading_started: 2026-10-17
 budget: "quarterly"
 years: "1966-1967"
 issues: "Amazing Spider-Man #39–52, Annual #3–4; material from Not Brand Echh #2"
