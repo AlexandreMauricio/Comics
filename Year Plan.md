@@ -20,11 +20,12 @@ Unread at home or arriving, readable in order with no purchase: Iron Man Epic 8,
 
 *Leaves November at 34.49.*
 
-## November 24 (allowance 34.49; plan 33)
-**Cart 1: Walt's, in stock, 33**
+## November 24 (allowance 34.49; plan 26)
+**Cart 1: Walt's, in stock, 26**
 - Iron Man (2026) Vol 1, 17 (released Oct 27)
-- Venom #1, ~7
 - Shipping, 9
+
+Venom #1 is **out**: it was never listed at Walt's, and the new rule is that #1/#2 trials are bought on the FOC or not at all (see [[Modern Runs]]). Wait for the first Venom TPB.
 
 Spider-Man Epic 30 (FOC Nov 25, 39.50 vs 54.99 later) is **dropped**: the reading is years away and it does not fit. If you want it, it goes in at the regular price when the rotation reaches it.
 
@@ -45,11 +46,10 @@ About 17 left.
 - *Journey Into Mystery*, 24.99
 - Shipping, 9
 
-## February 24 (allowance 150; plan about 113.79)
-**Cart 1: Walt's, in stock, ~113.79**
+## February 24 (allowance 150; plan about 106.79)
+**Cart 1: Walt's, in stock, ~106.79**
 - Thor Omnibus 4, 85 (last copy: the fallback is Thor Epic 6 at Cheap-Comics, 50 + 20)
 - Iron Man Extremis Premier, 12.79 (released Jan 12)
-- Avengers #1, ~7
 - Shipping, 9
 
 About 36 left.
@@ -108,7 +108,7 @@ About **1,425** for Oct-Sep against **1,627.50** allowed. The room is the Thor c
 - **Strange Vol 11 left out:** only two copies at 67.50 and nothing to cover it. If it is still at 67.50 when a month has room, it is the first thing to add.
 - **Thor Epics 9-12 (about 230) turned into a checkpoint.**
 - **Avengers Epics 2 and 3 added** to the March Cheap-Comics order.
-- **Iron Man 2026 Vol 1 and Venom #1 stay in November**; Avengers #1 moved to February.
+- **Iron Man 2026 Vol 1 stays in November**; Venom #1 and Avengers #1 are out under the FOC-or-wait rule (2026-10-17).
 
 ## The Thor checkpoint
 After Omnibus 5 you will have Thor up to about the end of Epic 7-8. Epics 9-12 are rated 3.1-3.9 by readers on Goodreads; the Simonson omnibus is 4.65. So instead of buying 9-12 in advance, read Omnibus 4 and 5 first and then choose: keep going through 9-12, or jump to Simonson (Epics 13-15). That choice moves about 230 in April-July.

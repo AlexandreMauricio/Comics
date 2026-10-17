@@ -5,7 +5,7 @@ Research from 2026-09-29 (Marvel, retailer and Wikipedia pages found by web sear
 ## Policy for modern material
 1. **Default format is the TPB**, pre-ordered at Walt's when it's listed. It is 2 to 2.5 times cheaper per issue than singles (about 17-20 EUR for 6 issues vs 6-8 EUR per issue, so 36-48 EUR).
 2. **Singles are for three things only:**
-   - **Testing a new run** before any TPB exists: buy #1 (maybe #2), then the TPB when it appears.
+   - **Testing a new run** before any TPB exists: buy #1 (and maybe #2) **only on the FOC pre-order**, before release. If the FOC was missed, **skip the singles and wait for the first TPB** (rule set 2026-10-17: Venom 2026 #1 was nowhere to be found at Walt's after release, and chasing a #1 costs more than it is worth).
    - **Trophies:** a cover you really want (like the Skottie Young connecting covers).
    - **Bridge:** a TPB is 5-6 months away, you're hooked, and you'd rather read now. You pay about 15-20 EUR extra per TPB to read 5-6 months earlier.
 3. **Don't buy singles and the TPB that contains them in the same cart** unless the singles are a deliberate trophy.
