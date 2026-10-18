@@ -3,6 +3,7 @@ line: "Doctor Strange"
 type: "TPB"
 edition: "Journey Into Mystery"
 title: "Doctor Strange Vol 1 Journey Into Mystery"
+cart: "2026-12"
 status: "wanted"
 read: false
 budget: "monthly"

@@ -11,7 +11,7 @@
 
 ## Reading supply (the main need: at least 1 book a month, preferably 2)
 Unread at home or arriving, readable in order with no purchase: Iron Man Epic 8, Spider-Man Epic 3, Epic 4, Omnibus 3 (Epics 5-6), Epic 7, Daredevil Omnibus 2 (about 33 issues), Iron Man 2022 Vol 2, Spider-Island, Carnage Modern Epic 2, Venom War Omnibus (Dec 8). That is **10 books, five months at 2 a month**, before any purchase below.
-- Strange reopens in December (Masterworks 10), Daredevil in January (Omnibus 3), Thor in February (Omnibus 4), Iron Man's long run in April (Michelinie, then Epics 10, 11, 12, 13, 14, 15 in a row).
+- Strange and Thor reopen in December (the gift cart: Masterworks 10, Thor Omnibus 4), Daredevil in January (Omnibus 3), Iron Man's long run in April (Michelinie, then Epics 10, 11, 12, 13, 14, 15 in a row).
 - A month only goes thin if you read much faster than 2 a month. Then the order to buy sooner is Strange Vol 10, then Thor Omnibus 4.
 
 ## October 24 (allowance 0; plan 92.99)
@@ -30,33 +30,30 @@ Venom #1 is **out**: it was never listed at Walt's, and the new rule is that #1/
 
 Spider-Man Epic 30 (FOC Nov 25, 39.50 vs 54.99 later) is **dropped**: the reading is years away and it does not fit. If you want it, it goes in at the regular price when the rotation reaches it.
 
-## December 24 (allowance 150; plan about 134)
-**Cart 1: Walt's, in stock, 84**
-- Strange Masterworks Vol 10, 75 (out of print, no fallback, read first)
-- Shipping, 9
+## December: birthday and Christmas gift cart (up to 300, outside the 150)
+Ordered around the birthday, in one Walt's in-stock order. Over 150, so no shipping. The books are the ones that can disappear, all pulled forward from later months.
+- Thor Omnibus 4, 85 (last copy; was February)
+- Strange Masterworks Vol 10, 75 (out of print, no fallback; was December)
+- Strange Masterworks Vol 11, 67.50 (two copies left)
+- *Journey Into Mystery*, 24.99 (was January)
+- Dragon Ball triple 8 from Devir, 23, no shipping (**only if you want it there**; separate order)
 
-**Cart 2: eBay UK, Invincible Iron Man (2022) #14-18, first lot, ~50 *est***
-- The seller with the earliest issues (#14 onward), shipping and import included. The lot sizes and prices are the ones you found; I have not seen the listings, so ~50 is a guess (two lots of about 50, a third later if you still want it).
+**About 252.49 on Walt's, 275.49 with Dragon Ball.** About 25 free under the 300.
 
-About 16 left. Iron Man Epic 12's pre-order (FOC ~Dec 22) is **not** placed: it is read around June, so it is bought at the regular price in April.
+## December 24 (allowance 150; plan about 100)
+**Cart 1: eBay UK, Invincible Iron Man (2022) #14-18, both lots, ~100 *est***
+- The two lots of about 50 you found (lot sizes and prices not seen by me). About 50 left over.
 
-**Birthday and Christmas (December):** a gift cart for both days is expected, size to be given in December (not yet known, and not assumed to be on top of the 150). If it is extra, the first books to pull forward are the ones that can disappear: Thor Omnibus 4 (last copy, now February), Strange Masterworks Vol 11 (67.50, two copies), Daredevil Omnibus 3 (105, if the checkpoint passes).
+Iron Man Epic 12's pre-order (FOC ~Dec 22) is **not** placed: it is read around June, so it is bought at the regular price in March.
 
-## January 24 (allowance 150; plan 138.99)
-**Cart 1: Walt's, in stock, 138.99**
+## January 24 (allowance 150; plan 126.79)
+**Cart 1: Walt's, in stock, 126.79**
 - Daredevil Omnibus 3, 105 (**checkpoint**, see below; the discount may end)
-- *Journey Into Mystery*, 24.99
+- Iron Man Extremis Premier, 12.79 (released Jan 12)
 - Shipping, 9
 
-## February 24 (allowance 150; plan about 144)
-**Cart 1: Walt's, in stock, 94**
-- Thor Omnibus 4, 85 (last copy: the fallback is Thor Epic 6 at Cheap-Comics, 50 + 20)
-- Shipping, 9
-
-**Cart 2: eBay UK, #14-18, second lot, ~50 *est***
-
-## March 24 (allowance 150; plan 184.90, 34.90 over)
-**Cart 1: Cheap-Comics, in stock, 184.90**
+## February 24 (allowance 150; plan 184.90, 34.90 over)
+**Cart 1: Cheap-Comics, in stock, 184.90** (moved up from March so the Avengers sale price is less likely to be gone)
 - Strange Epic 9, 30
 - Strange Epic 10, 40
 - Strange Epic 11, 24.90 (out of print; Walt's has it at 44.99)
@@ -64,30 +61,32 @@ About 16 left. Iron Man Epic 12's pre-order (FOC ~Dec 22) is **not** placed: it 
 - **Avengers Epic 3, 35** (reg 75)
 - Shipping, 20
 
-*April starts 34.90 lower.* If the Avengers sale price is gone by March, drop them and the cart is 114.90.
+*March starts 34.90 lower.* If the Avengers sale price is gone, drop them and the cart is 114.90.
 
-## April 24 (allowance 115.10; plan about 67)
+## March 24 (allowance 115.10; plan about 67)
 **Cart 1: Walt's, in stock, ~66.79**
 - Iron Man Epic 12, ~45 (released Mar 9, regular price)
 - Thor Gorr Premier, 12.79 (released Mar 9)
 - Shipping, 9
 
-About 48 left: room for Daredevil Omnibus 4 (95) only if the Daredevil checkpoint passes, otherwise it moves to August.
+## April 24 (allowance 150; plan 104)
+**Cart 1: Walt's, in stock, 104**
+- Daredevil Omnibus 4, 95 (only if the Daredevil checkpoint passes; otherwise this month is free for Iron Man Epic 16 or Strange Vol 11-type finds)
+- Shipping, 9
 
-## May 24 (allowance about 150; plan 141)
+## May 24 (allowance 150; plan 141)
 **Cart 1: Walt's, in stock, 141**
 - Spider-Man Omnibus 4 (Epic 8, repeats 7), 115
 - Iron Man (2026) Vol 2, ~17 (released May 4)
 - Shipping, 9
 
-## June 24 (allowance 150; plan about 104)
-**Cart 1: Walt's, in stock, ~103.69**
+## June 24 (allowance 150; plan about 91)
+**Cart 1: Walt's, in stock, ~90.90**
 - Spider-Man Epic 9, 37
 - Strange Epic 12, 44.90
-- Iron Man Extremis Premier, 12.79
 - Shipping, 9
 
-About 46 left. This is where the Iron Man Epic 16 route (Armor Wars omnibus 78.99, or Dragon Seed 24.90 on Amazon.es) can fit.
+About 59 left. This is where the Iron Man Epic 16 route (Armor Wars omnibus 78.99, or Dragon Seed 24.90 on Amazon.es) can fit.
 
 ## July 24 (placeholder, about 120; allowance about 123 *est*)
 **Thor checkpoint month.** Either the Simonson omnibus (99.50 at Cheap-Comics, plus 20 shipping) or the next Thor Epics. Decide after Omnibus 5 (see below).
@@ -101,14 +100,13 @@ About 46 left. This is where the Iron Man Epic 16 route (Armor Wars omnibus 78.9
 - Spider-Man Epic 11 or 12, price not known yet
 
 ## Totals
-About **1,412** for Oct-Sep against **1,627.50** allowed, so about 215 of room, most of it in December, April and June. The first Thor checkpoint money is not counted in that.
+About **1,287** for Oct-Sep against about **1,547** allowed (1,627.50 minus the three lower months from July), so about 260 of room, most of it in December, April and June. The December gift cart (about 252-275) is outside this and outside the 150.
 
-## What changed from v4 (2026-10-17)
-- **Venom #1 and Avengers #1 out** (FOC-or-wait rule; see [[Modern Runs]]).
-- **Iron Man 2022 #14-18 added:** two lots in December and February (you rated Vol 2 and #13 at 8/10).
-- **Iron Man Epic 12 pre-order dropped** (about 5 saved by pre-ordering, but it frees about 49 in December for the first lot). Bought in April at the regular price, in time for the Michelinie run.
-- **Extremis moved to June** to make room in February.
-- **Daredevil Omnibus 3 is now a checkpoint** (Epic 3 scored 6/10 after 8 and 7).
+## What changed from v4.1 (2026-10-18)
+- **Gift cart up to 300 in December,** outside the 150, filled with the books at risk: Thor Omnibus 4 (was February), Strange Vol 10 (was December), Strange Vol 11 (was left out), *Journey Into Mystery* (was January), optionally Dragon Ball triple 8.
+- **Both Duggan #14-18 lots in December** (the regular December money is free now).
+- **Cheap-Comics order moved from March to February**; Iron Man Epic 12 and Thor Gorr move to March; Extremis goes back to January.
+- **July to September planned under about 123** (allowance expected to drop from July).
 
 ## Daredevil checkpoint
 Epic 1 was 8, Epic 2 was 7, Epic 3 was 6. Read the rest of Omnibus 2 (the Epic 4 part) before January. If it is also 6 or lower, hold Omnibus 3 (105) and Omnibus 4 (95) and use that room elsewhere (more Iron Man #14-18 lots, Strange Vol 11, Armor Wars). If it picks up, buy as planned.
