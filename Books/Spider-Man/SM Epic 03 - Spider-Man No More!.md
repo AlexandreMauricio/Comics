@@ -4,8 +4,9 @@ type: "Epic Collection"
 number: 3
 title: "Spider-Man No More!"
 status: "owned"
-read: false
-next_read: true
+read: true
+my_rating: 7
+next_read: false
 reading_started: 2026-10-17
 budget: "quarterly"
 years: "1966-1967"

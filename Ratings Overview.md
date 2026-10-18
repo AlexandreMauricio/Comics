@@ -52,7 +52,7 @@ See also the sortable [[Ratings.base|Ratings dashboard]]. The tables below are g
 |---|---|---|---|---|---|---|---|
 | 1 | [[SM Epic 01 - Great Power\|Great Power]] | 4.32 | 724 | 9 | A+ | owned | yes |
 | 2 | [[SM Epic 02 - Great Responsibility\|Great Responsibility]] | 4.26 | 331 |  | S+ | owned | yes |
-| 3 | [[SM Epic 03 - Spider-Man No More!\|Spider-Man No More!]] | 4.31 | 433 |  | A+ | owned |  |
+| 3 | [[SM Epic 03 - Spider-Man No More!\|Spider-Man No More!]] | 4.31 | 433 | 7 | A+ | owned | yes |
 | 4 | [[SM Epic 04 - The Goblin Lives\|The Goblin Lives]] | 4.2 | 241 |  | B+ | owned |  |
 | 5 | [[SM Epic 05 - The Secret of the Petrified Tablet\|The Secret of the Petrified Tablet]] | 4.04 | 194 |  | A | covered |  |
 | 6 | [[SM Epic 06 - The Death of Captain Stacy\|The Death of Captain Stacy]] | 4.08 | 203 |  | A | covered |  |

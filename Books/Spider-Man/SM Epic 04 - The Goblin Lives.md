@@ -5,6 +5,7 @@ number: 4
 title: "The Goblin Lives"
 status: "owned"
 read: false
+next_read: true
 years: "1967-1968"
 issues: "Amazing Spider-Man #53–67, Spectacular Spider-Man magazine #1–2, Marvel Super-Heroes #14; material from Not Brand Echh #6 & #11"
 writers: "Stan Lee"
