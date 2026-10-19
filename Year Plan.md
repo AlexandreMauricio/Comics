@@ -40,11 +40,13 @@ Ordered around the birthday, in one Walt's in-stock order. Over 150, so no shipp
 
 **About 252.49 on Walt's, 275.49 with Dragon Ball.** About 25 free under the 300.
 
-## December 24 (allowance 150; plan about 100)
-**Cart 1: eBay UK, Invincible Iron Man (2022) #14-18, both lots, ~100 *est***
-- The two lots of about 50 you found (lot sizes and prices not seen by me). About 50 left over.
+## December 24 (allowance 150; plan about 30, or November if you want it sooner)
+**Cart 1: Comicroom_hamburg on eBay Germany, Invincible Iron Man (2022) #14, #15, #17, #18, 30.31**
+- #14 Hildebrandt 1:100 variant 4.80, #15 Phil Noto Marvel '97 variant 3.91, #17 Giuseppe Camuncoli Vampire variant 4.80, #18 Pete Woods Black Costume variant 4.80, plus 12 shipping (ask the seller to confirm it is one shipping for all four).
+- **Cheaper, plain covers:** Comiexpress_de, the Skan ROM variant #14, Noto #15, normal #17 and Woods #18 for 17.40 + 7 shipping = 24.40.
+- **#16 is still missing** (no listing found). That one needs a seller before the run is whole.
 
-Iron Man Epic 12's pre-order (FOC ~Dec 22) is **not** placed: it is read around June, so it is bought at the regular price in March.
+About 120 of the December allowance is then free. Iron Man Epic 12's pre-order (FOC ~Dec 22) is **not** placed: it is read around June, so it is bought at the regular price in March.
 
 ## January 24 (allowance 150; plan 126.79)
 **Cart 1: Walt's, in stock, 126.79**
@@ -104,7 +106,7 @@ About **1,287** for Oct-Sep against about **1,547** allowed (1,627.50 minus the 
 
 ## What changed from v4.1 (2026-10-18)
 - **Gift cart up to 300 in December,** outside the 150, filled with the books at risk: Thor Omnibus 4 (was February), Strange Vol 10 (was December), Strange Vol 11 (was left out), *Journey Into Mystery* (was January), optionally Dragon Ball triple 8.
-- **Both Duggan #14-18 lots in December** (the regular December money is free now).
+- **Duggan #14, 15, 17 and 18 for about 30 from a German seller** (the real eBay prices came in at a quarter of the 100 estimate); #16 still has to be found.
 - **Cheap-Comics order moved from March to February**; Iron Man Epic 12 and Thor Gorr move to March; Extremis goes back to January.
 - **July to September planned under about 123** (allowance expected to drop from July).
 

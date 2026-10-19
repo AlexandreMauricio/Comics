@@ -3,9 +3,9 @@ line: "Iron Man"
 type: "Single"
 edition: "IM2022 #16"
 title: "Invincible Iron Man (2022) #16"
+price_note: "eBay Germany, seen 2026-10-19: no listing found yet (2026-10-19)"
 status: "wanted"
 read: false
-price_note: "eBay, 3 sellers, about 100 EUR landed for all five. Rule: 1-2 per month at most, bundle per seller."
 urgency: "low"
 urgency_reason: "eBay, slow hunt, 1-2 per month at most"
 seq: 1016.5

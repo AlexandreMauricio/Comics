@@ -3,9 +3,10 @@ line: "Iron Man"
 type: "Single"
 edition: "IM2022 #17"
 title: "Invincible Iron Man (2022) #17"
+price_seen: 4.8
+price_note: "eBay Germany, seen 2026-10-19: Camuncoli Vampire variant 4.80 or normal 3.92 at Comicroom_hamburg (+12); Vinted variant 16.45"
 status: "wanted"
 read: false
-price_note: "eBay, 3 sellers, about 100 EUR landed for all five. Rule: 1-2 per month at most, bundle per seller."
 urgency: "low"
 urgency_reason: "eBay, slow hunt, 1-2 per month at most"
 seq: 1017.5

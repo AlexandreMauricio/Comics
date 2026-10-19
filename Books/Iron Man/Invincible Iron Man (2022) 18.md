@@ -3,9 +3,10 @@ line: "Iron Man"
 type: "Single"
 edition: "IM2022 #18"
 title: "Invincible Iron Man (2022) #18"
+price_seen: 4.8
+price_note: "eBay Germany, seen 2026-10-19: Pete Woods Black Costume variant 4.80 at Comicroom_hamburg (+12); 4.40 at Comiexpress_de (+7)"
 status: "wanted"
 read: false
-price_note: "eBay, 3 sellers, about 100 EUR landed for all five. Rule: 1-2 per month at most, bundle per seller."
 urgency: "low"
 urgency_reason: "eBay, slow hunt, 1-2 per month at most"
 seq: 1018.5

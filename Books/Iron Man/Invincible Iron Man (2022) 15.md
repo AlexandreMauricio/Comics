@@ -3,9 +3,10 @@ line: "Iron Man"
 type: "Single"
 edition: "IM2022 #15"
 title: "Invincible Iron Man (2022) #15"
+price_seen: 3.91
+price_note: "eBay Germany, seen 2026-10-19: Phil Noto Marvel '97 variant 3.91 at Comicroom_hamburg (+12); 4.40 at Comiexpress_de (+7)"
 status: "wanted"
 read: false
-price_note: "eBay, 3 sellers, about 100 EUR landed for all five. Rule: 1-2 per month at most, bundle per seller."
 urgency: "low"
 urgency_reason: "eBay, slow hunt, 1-2 per month at most"
 seq: 1015.5

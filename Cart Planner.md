@@ -87,11 +87,11 @@ Sorted by purpose, then by how short the line's runway is, then by the first com
 | modern | Fantastic Four | 0 | [[Fantastic Four Omnibus Vol 2]] | wanted |  |  |  |  |
 | modern | Fantastic Four | 0 | [[FF Omnibus 1]] | wanted |  |  |  |  |
 | modern | Iron Man | 0 | [[Invincible Iron Man by Gerry Duggan Vol 3 Iron and Diamonds]] | oop |  |  |  |  |
-| modern | Iron Man | 0 | [[Invincible Iron Man (2022) 14]] | wanted |  |  |  | low - eBay, slow hunt, 1-2 per month at most |
-| modern | Iron Man | 0 | [[Invincible Iron Man (2022) 15]] | wanted |  |  |  | low - eBay, slow hunt, 1-2 per month at most |
+| modern | Iron Man | 0 | [[Invincible Iron Man (2022) 14]] | wanted | 4.8 |  |  | low - eBay, slow hunt, 1-2 per month at most |
+| modern | Iron Man | 0 | [[Invincible Iron Man (2022) 15]] | wanted | 3.91 |  |  | low - eBay, slow hunt, 1-2 per month at most |
 | modern | Iron Man | 0 | [[Invincible Iron Man (2022) 16]] | wanted |  |  |  | low - eBay, slow hunt, 1-2 per month at most |
-| modern | Iron Man | 0 | [[Invincible Iron Man (2022) 17]] | wanted |  |  |  | low - eBay, slow hunt, 1-2 per month at most |
-| modern | Iron Man | 0 | [[Invincible Iron Man (2022) 18]] | wanted |  |  |  | low - eBay, slow hunt, 1-2 per month at most |
+| modern | Iron Man | 0 | [[Invincible Iron Man (2022) 17]] | wanted | 4.8 |  |  | low - eBay, slow hunt, 1-2 per month at most |
+| modern | Iron Man | 0 | [[Invincible Iron Man (2022) 18]] | wanted | 4.8 |  |  | low - eBay, slow hunt, 1-2 per month at most |
 | modern | Iron Man | 0 | [[Iron Man (2026) Vol 1 A New Nightmare]] | planned | 16.99 | Walt's |  |  |
 | modern | Iron Man | 0 | [[Iron Man (2026) 1 liked cover]] | wanted | 15 | Walt's |  |  |
 | modern | Iron Man | 0 | [[Iron Man (2026) 1-4 connecting cartoony covers (set of four)]] | wanted | 25 | Vinted |  |  |
