@@ -3,7 +3,7 @@ line: "Iron Man"
 type: "Single"
 edition: "IM2022 #16"
 title: "Invincible Iron Man (2022) #16"
-price_note: "eBay Germany, seen 2026-10-19: no listing found yet (2026-10-19)"
+price_note: "eBay Germany and Vinted checked 2026-10-19, no listing. Released Mar 20, 2024 (US cover $3.99, Duggan and Frigeri). Fallback: Vol 3 TPB (#13-20), about 21 EUR plus US shipping and VAT."
 status: "wanted"
 read: false
 urgency: "low"
