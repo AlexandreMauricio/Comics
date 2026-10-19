@@ -10,6 +10,7 @@ Short impressions per book. Add a rating (1-10) when known. Newest last.
 - Epic 6: not bad, not amazing. Mandarin dies, Tony improves the armor/mask for explosions, Jack Frost returns under another name.
 - Invincible Iron Man (2022) Vol 1, Demon in the Armor: 8/10 (finished 2026-10). A poor Tony living in a warehouse was a surprise. The new villain (Feilong, from Duggan's X-Men) and how he took over Stark Unlimited intrigued me, and the Iron Man Sentinels look dreadful in a good way.
 - Epic 7 (Ten Rings to Rule the World): loved it, devoured in 2 days (2026-10-03). Amazing stories and art; Madame Masque and Sitwell appear, characters I didn't know I missed.
+- Epic 8 (Demon in a Bottle): finished 2026-10-19, "so good"; wants Epic 9 right away. No score yet.
 - Invincible Iron Man (2022) Vol 2, The Wedding of Tony Stark and Emma Frost (#7-12) and #13: read 2026-10-11, "loving it". 8/10 for both Vol 2 and #13.
 
 ## Doctor Strange

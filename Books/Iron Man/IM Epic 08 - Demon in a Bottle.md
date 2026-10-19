@@ -4,7 +4,7 @@ type: "Epic Collection"
 number: 8
 title: "Demon in a Bottle"
 status: "owned"
-read: false
+read: true
 budget: "quarterly"
 years: "1978-1980"
 issues: "Iron Man #115-139"
@@ -36,7 +36,7 @@ ordered: 2026-07-07
 order_ref: "Walt's #114274"
 price_note: "Pre-order. Arrived 2026-10-13 (Walt's order #114274), everything fine."
 budget_month: "2026-06"
-next_read: true
+next_read: false
 reading_started: 2026-10-18
 source: "Epics.xlsx Main Page + Ranking tab, cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"
 wikipedia_checked: "2026-09-29"
