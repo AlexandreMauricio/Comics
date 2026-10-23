@@ -1,34 +1,26 @@
 # Year Plan, October 2026 to September 2027
 
-**Draft v4.1, 2026-10-17** (v4 of 2026-10-10 plus the changes listed near the end). Replaces v3 (still in git history). Built on two facts: the monthly allowance is **150, all-in**, and anything spent over 150 is **deducted from the next month**. Costs include shipping: Walt's about 9 per order under 150 (free at 150 or more), Cheap-Comics a flat 20 per order, Amazon.es free with Prime. *est* = a guess. Walt's holds a pre-order's whole order until the latest release in it, so in-stock books and far pre-orders never share a cart.
+**Draft v4.3, 2026-10-23** (earlier versions are in git). Replaces v3 (still in git history). Built on two facts: the monthly allowance is **150, all-in**, and anything spent over 150 is **deducted from the next month**. Costs include shipping: Walt's **12 per order** under 150 since Oct 2026 (it was 9; free at 150 or more, to confirm), Cheap-Comics a flat 20 per order, Amazon.es free with Prime. *est* = a guess. Walt's holds a pre-order's whole order until the latest release in it, so in-stock books and far pre-orders never share a cart.
 
 ## Where the budget stands
-- **September budget month (Sep 24 - Oct 23):** 252.63 on books (Tracker) plus other hobbies the user reported that month, so well over 150. The overshoot is taken off the next month.
-- **October allowance is 0, and it starts 22.52 in the red** (150 minus a 172.52 overshoot, books and other hobbies only; shipping and bags not counted).
-- **Michelinie omnibus stays** (decided 2026-10-04, FOC Oct 28). It is the single reason November is small: 92.99 on top of the 22.52 leaves **34.49 for November**.
+- **September budget month (Sep 24 - Oct 23):** checked against the bank data on 2026-10-23. Hobby spending was **445.88**: Walt's 233.31, Jack Murdock 30.20, Civil War 14.03, a PS5 game 69.89, FC 27 70.89, a PS5 DLC 1.99, a game on Vinted 10.59, Disney+ 8.99 and Spotify (his half) 5.99. Not hobbies: condominium, a gift, work software, house items.
+- **Overshoot: 295.88 over 150.** It is taken off the next months: October's allowance is **-145.88**.
+- **Michelinie omnibus stays** (FOC Oct 28): 83.99 + 12 shipping = 95.99. After it the debt is 241.87, so **November has no allowance** (91.87 still owed after its 150) and **December has 58.13**. January is back to a full 150.
 - **From July (to confirm) the allowance is expected to be about 123, not 150**, so July to September are planned under 123. January to June stay at 150.
-- Allowance Oct-Sep after the overshoot: **1,627.50**. This plan spends about **1,412**, which leaves about 215 of room.
+- Allowance Oct-Sep after the overshoot and the lower July-September months: about **1,423**. This plan spends about **1,209**, which leaves about 214 of room.
 
 ## Reading supply (the main need: at least 1 book a month, preferably 2)
 Unread at home or arriving, readable in order with no purchase: Iron Man Epic 8, Spider-Man Epic 3, Epic 4, Omnibus 3 (Epics 5-6), Epic 7, Daredevil Omnibus 2 (about 33 issues), Iron Man 2022 Vol 2, Spider-Island, Carnage Modern Epic 2, Venom War Omnibus (Dec 8). That is **10 books, five months at 2 a month**, before any purchase below.
 - Strange and Thor reopen in December (the gift cart: Masterworks 10, Thor Omnibus 4), Daredevil in January (Omnibus 3), Iron Man's long run in April (Michelinie, then Epics 10, 11, 12, 13, 14, 15 in a row).
 - A month only goes thin if you read much faster than 2 a month. Then the order to buy sooner is Strange Vol 10, then Thor Omnibus 4.
 
-## October 24 (allowance 0; plan 92.99)
-**Cart 1: Walt's, pre-order (ships Apr 13), 92.99**
+## October 24 (allowance -145.88; plan 95.99)
+**Cart 1: Walt's, pre-order (ships Apr 13), 95.99**
 - Michelinie omnibus, 83.99 (FOC Oct 28; regular 125)
-- Shipping, 9
+- Shipping, 12
 
-*Leaves November at 34.49.*
-
-## November 24 (allowance 34.49; plan 26)
-**Cart 1: Walt's, in stock, 26**
-- Iron Man (2026) Vol 1, 17 (released Oct 27)
-- Shipping, 9
-
-Venom #1 is **out**: it was never listed at Walt's, and the new rule is that #1/#2 trials are bought on the FOC or not at all (see [[Modern Runs]]). Wait for the first Venom TPB.
-
-Spider-Man Epic 30 (FOC Nov 25, 39.50 vs 54.99 later) is **dropped**: the reading is years away and it does not fit. If you want it, it goes in at the regular price when the rotation reaches it.
+## November 24 (allowance 0: 91.87 still owed; plan 0)
+No order this month. *Iron Man (2026)* Vol 1 moves to the December gift cart. Venom #1 and Avengers #1 stay out (FOC-or-wait rule, see [[Modern Runs]]); Spider-Man Epic 30 (FOC Nov 25) is dropped.
 
 ## December: birthday and Christmas gift cart (up to 300, outside the 150)
 Ordered around the birthday, in one Walt's in-stock order. Over 150, so no shipping. The books are the ones that can disappear, all pulled forward from later months.
@@ -36,23 +28,24 @@ Ordered around the birthday, in one Walt's in-stock order. Over 150, so no shipp
 - Strange Masterworks Vol 10, 75 (out of print, no fallback; was December)
 - Strange Masterworks Vol 11, 67.50 (two copies left)
 - *Journey Into Mystery*, 24.99 (was January)
+- *Iron Man (2026)* Vol 1, 17 (was November; in the gift cart so it does not pay 12 shipping)
 - Dragon Ball triple 8 from Devir, 23, no shipping (**only if you want it there**; separate order)
 
-**About 252.49 on Walt's, 275.49 with Dragon Ball.** About 25 free under the 300.
+**About 269.49 on Walt's, 292.49 with Dragon Ball.** At most about 30 free under the 300.
 
-## December 24 (allowance 150; plan about 30, or November if you want it sooner)
+## December 24 (allowance 58.13; plan about 30.31)
 **Cart 1: Comicroom_hamburg on eBay Germany, Invincible Iron Man (2022) #14, #15, #17, #18, 30.31**
 - #14 Hildebrandt 1:100 variant 4.80, #15 Phil Noto Marvel '97 variant 3.91, #17 Giuseppe Camuncoli Vampire variant 4.80, #18 Pete Woods Black Costume variant 4.80, plus 12 shipping (ask the seller to confirm it is one shipping for all four).
 - **Cheaper, plain covers:** Comiexpress_de, the Skan ROM variant #14, Noto #15, normal #17 and Woods #18 for 17.40 + 7 shipping = 24.40.
 - **#16 is still missing** (no listing found). That one needs a seller before the run is whole.
 
-About 120 of the December allowance is then free. Iron Man Epic 12's pre-order (FOC ~Dec 22) is **not** placed: it is read around June, so it is bought at the regular price in March.
+About 28 of the allowance is left. Iron Man Epic 12's pre-order (FOC ~Dec 22) is **not** placed: it is read around June, so it is bought at the regular price in March.
 
-## January 24 (allowance 150; plan 126.79)
-**Cart 1: Walt's, in stock, 126.79**
+## January 24 (allowance 150; plan 129.79)
+**Cart 1: Walt's, in stock, 129.79**
 - Daredevil Omnibus 3, 105 (**checkpoint**, see below; the discount may end)
 - Iron Man Extremis Premier, 12.79 (released Jan 12)
-- Shipping, 9
+- Shipping, 12
 
 ## February 24 (allowance 150; plan 184.90, 34.90 over)
 **Cart 1: Cheap-Comics, in stock, 184.90** (moved up from March so the Avengers sale price is less likely to be gone)
@@ -65,30 +58,30 @@ About 120 of the December allowance is then free. Iron Man Epic 12's pre-order (
 
 *March starts 34.90 lower.* If the Avengers sale price is gone, drop them and the cart is 114.90.
 
-## March 24 (allowance 115.10; plan about 67)
-**Cart 1: Walt's, in stock, ~66.79**
+## March 24 (allowance 115.10; plan about 70)
+**Cart 1: Walt's, in stock, ~69.79**
 - Iron Man Epic 12, ~45 (released Mar 9, regular price)
 - Thor Gorr Premier, 12.79 (released Mar 9)
-- Shipping, 9
+- Shipping, 12
 
-## April 24 (allowance 150; plan 104)
-**Cart 1: Walt's, in stock, 104**
+## April 24 (allowance 150; plan 107)
+**Cart 1: Walt's, in stock, 107**
 - Daredevil Omnibus 4, 95 (only if the Daredevil checkpoint passes; otherwise this month is free for Iron Man Epic 16 or Strange Vol 11-type finds)
-- Shipping, 9
+- Shipping, 12
 
-## May 24 (allowance 150; plan 141)
-**Cart 1: Walt's, in stock, 141**
+## May 24 (allowance 150; plan 144)
+**Cart 1: Walt's, in stock, 144**
 - Spider-Man Omnibus 4 (Epic 8, repeats 7), 115
 - Iron Man (2026) Vol 2, ~17 (released May 4)
-- Shipping, 9
+- Shipping, 12
 
-## June 24 (allowance 150; plan about 91)
-**Cart 1: Walt's, in stock, ~90.90**
+## June 24 (allowance 150; plan about 94)
+**Cart 1: Walt's, in stock, ~93.90**
 - Spider-Man Epic 9, 37
 - Strange Epic 12, 44.90
-- Shipping, 9
+- Shipping, 12
 
-About 59 left. This is where the Iron Man Epic 16 route (Armor Wars omnibus 78.99, or Dragon Seed 24.90 on Amazon.es) can fit.
+About 56 left. This is where the Iron Man Epic 16 route (Armor Wars omnibus 78.99, or Dragon Seed 24.90 on Amazon.es) can fit.
 
 ## July 24 (placeholder, about 120; allowance about 123 *est*)
 **Thor checkpoint month.** Either the Simonson omnibus (99.50 at Cheap-Comics, plus 20 shipping) or the next Thor Epics. Decide after Omnibus 5 (see below).
@@ -102,13 +95,13 @@ About 59 left. This is where the Iron Man Epic 16 route (Armor Wars omnibus 78.9
 - Spider-Man Epic 11 or 12, price not known yet
 
 ## Totals
-About **1,287** for Oct-Sep against about **1,547** allowed (1,627.50 minus the three lower months from July), so about 260 of room, most of it in December, April and June. The December gift cart (about 252-275) is outside this and outside the 150.
+About **1,209** for Oct-Sep against about **1,423** allowed, so about 214 of room, most of it in February-June. The December gift cart (about 269-292) is outside this and outside the 150.
 
-## What changed from v4.1 (2026-10-18)
-- **Gift cart up to 300 in December,** outside the 150, filled with the books at risk: Thor Omnibus 4 (was February), Strange Vol 10 (was December), Strange Vol 11 (was left out), *Journey Into Mystery* (was January), optionally Dragon Ball triple 8.
-- **Duggan #14, 15, 17 and 18 for about 30 from a German seller** (the real eBay prices came in at a quarter of the 100 estimate); #16 still has to be found.
-- **Cheap-Comics order moved from March to February**; Iron Man Epic 12 and Thor Gorr move to March; Extremis goes back to January.
-- **July to September planned under about 123** (allowance expected to drop from July).
+## What changed from v4.2 (2026-10-23)
+- **Bank data checked:** September-month hobby spending was 445.88, not 322.52. October's allowance is -145.88, November has none, December has 58.13.
+- **Walt's shipping is 12 now, not 9.** Every Walt's cart under 150 went up by 3; the Michelinie omnibus cart is 95.99.
+- ***Iron Man (2026)* Vol 1 moved into the December gift cart** (no shipping there); November is an empty month.
+- **Duggan #14, 15, 17, 18 (30.31) stay in December.**
 
 ## Daredevil checkpoint
 Epic 1 was 8, Epic 2 was 7, Epic 3 was 6. Read the rest of Omnibus 2 (the Epic 4 part) before January. If it is also 6 or lower, hold Omnibus 3 (105) and Omnibus 4 (95) and use that room elsewhere (more Iron Man #14-18 lots, Strange Vol 11, Armor Wars). If it picks up, buy as planned.
