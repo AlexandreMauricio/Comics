@@ -29,9 +29,12 @@ Ordered around the birthday, in one Walt's in-stock order. Over 150, so no shipp
 - Strange Masterworks Vol 11, 67.50 (two copies left)
 - *Journey Into Mystery*, 24.99 (was January)
 - *Iron Man (2026)* Vol 1, 17 (was November; in the gift cart so it does not pay 12 shipping)
+- *Venom* (2026) #1, ~7 (back on Walt's; a trial single, put in the gift cart on purpose, where it ships free)
 - Dragon Ball triple 8 from Devir, 23, no shipping (**only if you want it there**; separate order)
 
-**About 269.49 on Walt's, 292.49 with Dragon Ball.** At most about 30 free under the 300.
+**Comics on Walt's: about 276.49. With Dragon Ball: about 299.49**, which is right at the 300.
+
+**Option: 007 First Light (PS5), 60 + 2.90 shipping = 62.90 from mega-mania.** It does not fit on top of the comics. To keep the whole thing at 300 or under, swap it for Strange Vol 11 (67.50): that gives about 271.89 (294.89 with Dragon Ball). Or leave out whichever you want least.
 
 ## December 24 (allowance 38.61; plan about 30.31)
 **Cart 1: Comicroom_hamburg on eBay Germany, Invincible Iron Man (2022) #14, #15, #17, #18, 30.31**
