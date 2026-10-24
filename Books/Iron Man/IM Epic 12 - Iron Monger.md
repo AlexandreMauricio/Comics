@@ -29,7 +29,7 @@ urgency: "medium"
 urgency_reason: "Pre-order in December (Q1 2027 quarterly slot)"
 seq: 12
 purpose: "preorder"
-missing_before: 1
+missing_before: 0
 source: "Epics.xlsx Main Page + Ranking tab, cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"
 wikipedia_checked: "2026-09-29"
 verified: true

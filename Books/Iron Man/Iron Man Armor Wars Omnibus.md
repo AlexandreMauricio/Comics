@@ -17,7 +17,7 @@ urgency: "medium"
 urgency_reason: "On sale 78.99, check real stock"
 seq: 13.5
 purpose: "security"
-missing_before: 2
+missing_before: 1
 covers_partial: ["[[IM Epic 13 - Stark Wars]]", "[[IM Epic 16 - War Games]]"]
 source: "Wikipedia Marvel Omnibus (2026-09-29) + conversation"
 wikipedia_checked: "2026-09-29"

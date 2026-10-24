@@ -32,7 +32,7 @@ urgency: "low"
 urgency_reason: "Easy to find; Walt's pre-order 40.99 (2026-09-30)"
 seq: 19
 purpose: "future"
-missing_before: 4
+missing_before: 3
 price_note: "Walt's lists it as a pre-order at 40.99, down from 49.99 (checked 2026-09-30)."
 source: "Epics.xlsx Main Page + Ranking tab, cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"
 wikipedia_checked: "2026-09-29"

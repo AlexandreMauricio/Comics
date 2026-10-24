@@ -3,7 +3,7 @@ line: "Iron Man"
 type: "Epic Collection"
 number: 9
 title: "Not yet released"
-status: "unreleased"
+status: "incoming"
 read: false
 issues: "Should at least cover 140-157"
 era: "Secret Wars"
@@ -17,6 +17,7 @@ ai_highlight: "Doomquest vs. Dr. Doom, 1st Stealth & Space Armors"
 ai_source: "ChatGPT/Gemini (unverified)"
 covered_by: ["[[Iron Man by Michelinie Layton and Romita Jr Omnibus]]"]
 seq: 9
+covered_via: ["[[Iron Man by Michelinie Layton and Romita Jr Omnibus]]"]
 source: "Epics.xlsx Main Page + Ranking tab"
 verified: false
 tags: ["comics", "line/iron-man"]

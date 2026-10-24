@@ -3,7 +3,7 @@ line: "Iron Man"
 type: "Omnibus"
 edition: "Michelinie Layton Romita Jr"
 title: "Iron Man by Michelinie Layton and Romita Jr Omnibus"
-status: "planned"
+status: "incoming"
 read: false
 budget: "monthly"
 issues: "Iron Man #115-157"
@@ -14,12 +14,13 @@ covers: ["[[IM Epic 08 - Demon in a Bottle]]", "[[IM Epic 09 - Not yet released]
 urgency: "high"
 urgency_reason: "Decided 2026-10-03: buy. FOC Oct 28: 83.99 vs 125 after. Own Walt's order (release Apr 13, 2027)."
 seq: 8.5
-purpose: "reading"
-missing_before: 0
 foc: "2026-10-28"
 preorder_price: 83.99
 regular_price: 125
 price_seen: 83.99
+price_paid: 83.99
+ordered: 2026-10-24
+budget_month: "2026-10"
 store: "Walt's"
 cart: "2026-10"
 source: "Wikipedia Marvel Omnibus (2026-09-29) + conversation"

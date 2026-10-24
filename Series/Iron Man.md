@@ -28,8 +28,8 @@ As a developer, a kid from 2000 and a nerd who grew up with the MCU, the technol
 | [[IM Epic 06 - War of the Super Villains\|Epic 6: War of the Super Villains]] | owned | 44.99 paid | Walt's | read, 6/10 |
 | [[IM Epic 07 - Ten Rings to Rule the World\|Epic 7: Ten Rings to Rule the World]] | owned | 45 paid | Walt's | read |
 | [[IM Epic 08 - Demon in a Bottle\|Epic 8: Demon in a Bottle]] | owned | 44.99 paid | Walt's | read; Pre-order. |
-| [[Iron Man by Michelinie Layton and Romita Jr Omnibus\|Iron Man by Michelinie Layton and Romita Jr Omnibus]] | planned | 83.99 (reg 125) seen | Walt's | releases Apr 13, 2027; FOC Oct 28; Decided 2026-10-03: buy. |
-| [[IM Epic 09 - Not yet released\|Epic 9: Not yet released]] | unreleased | - | - | Covered by the Michelinie/Layton/Romita Jr Omnibus (#115-157), April 2027. |
+| [[Iron Man by Michelinie Layton and Romita Jr Omnibus\|Iron Man by Michelinie Layton and Romita Jr Omnibus]] | incoming | 83.99 paid | Walt's | releases Apr 13, 2027; FOC Oct 28; Decided 2026-10-03: buy. |
+| [[IM Epic 09 - Not yet released\|Epic 9: Not yet released]] | incoming | - | - | Covered by the Michelinie/Layton/Romita Jr Omnibus (#115-157), April 2027. |
 | [[IM Epic 10 - The Enemy Within\|Epic 10: The Enemy Within]] | owned | 115.25 paid | Vinted | 115.25 with shipping on Vinted (offer of 105). |
 | [[IM Epic 11 - Duel of Iron\|Epic 11: Duel of Iron]] | owned | 49.5 paid | Cheap-Comics | - |
 | [[IM Epic 12 - Iron Monger\|Epic 12: Iron Monger]] | planned | - | - | releases Mar 2027; Pre-order in December (Q1 2027 quarterly slot) |

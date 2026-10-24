@@ -30,7 +30,7 @@ urgency: "high"
 urgency_reason: "Out of print, ceiling 150 landed"
 seq: 18
 purpose: "security"
-missing_before: 3
+missing_before: 2
 source: "Epics.xlsx Main Page + Ranking tab, cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"
 wikipedia_checked: "2026-09-29"
 verified: true
