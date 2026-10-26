@@ -5,6 +5,7 @@ number: 5
 title: "The Secret of the Petrified Tablet"
 status: "covered"
 read: false
+next_read: true
 years: "1968-1970"
 issues: "Amazing Spider-Man #68–85, Annual #5"
 writers: "Stan Lee"

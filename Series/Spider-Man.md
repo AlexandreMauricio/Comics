@@ -20,7 +20,7 @@ Spidey is Spidey: I grew up with lots of Spider-Man movies, cartoons and games. 
 | [[SM Epic 01 - Great Power\|Epic 1: Great Power]] | owned | 97.79 paid | Vinted | read, 9/10; 97.79 with shipping on Vinted. |
 | [[SM Epic 02 - Great Responsibility\|Epic 2: Great Responsibility]] | owned | 49.99 paid | Cheap-Comics | read |
 | [[SM Epic 03 - Spider-Man No More!\|Epic 3: Spider-Man No More!]] | owned | 40.99 paid | Walt's | read, 7/10; Pre-order. |
-| [[SM Epic 04 - The Goblin Lives\|Epic 4: The Goblin Lives]] | owned | 67.9 paid | Vinted | 67.90 with shipping on Vinted. |
+| [[SM Epic 04 - The Goblin Lives\|Epic 4: The Goblin Lives]] | owned | 67.9 paid | Vinted | read, 6/10; 67.90 with shipping on Vinted. |
 | [[SM Epic 05 - The Secret of the Petrified Tablet\|Epic 5: The Secret of the Petrified Tablet]] | covered | - | - | in The Amazing Spider-Man Omnibus Vol 3 |
 | [[The Amazing Spider-Man Omnibus Vol 3\|The Amazing Spider-Man Omnibus Vol 3]] | owned | 108.5 paid | Vinted | 108.50 with shipping on Vinted. |
 | [[SM Epic 06 - The Death of Captain Stacy\|Epic 6: The Death of Captain Stacy]] | covered | - | - | in The Amazing Spider-Man Omnibus Vol 3 |
