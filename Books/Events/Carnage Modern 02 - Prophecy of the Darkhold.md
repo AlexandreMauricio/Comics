@@ -6,7 +6,7 @@ title: "Prophecy of the Darkhold"
 modern: true
 edition: "Carnage Modern Era Epic Collection Vol. 2"
 status: "owned"
-read: false
+read: true
 release_date: "2026-10-06"
 editions: ["2026-10-06"]
 budget: "quarterly"

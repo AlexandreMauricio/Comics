@@ -39,3 +39,4 @@ Short impressions per book. Add a rating (1-10) when known. Newest last.
 - Civil War Premier Collection: 7/10 (finished 2026-10-07). Good, not amazing. I understand Tony's side (tired of teenagers destroying buildings and killing people by accident), but the fake Thor and the robots were too weird and too much.
 - Ant-Man Epic 1: didn't like. Hulk Epic 1: meh. Moon Knight Epic 1: lost in the appearances.
 - Absolute Carnage: loved it. With Venom First Host (enjoyed) and the Venom War issues, it showed me a much cooler Venom than the villain from the movies and shows; that's why I pre-ordered the Venom War Omnibus.
+- Carnage Modern Era Epic 2 (Prophecy of the Darkhold): finished 2026-10-28, no score yet. Enjoyed the first half a lot: Carnage and Deadpool front and centre. The second half felt like normal people hunting Carnage (Man-Wolf is there, so there are powers), which was weird.

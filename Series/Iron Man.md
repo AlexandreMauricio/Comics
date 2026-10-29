@@ -28,7 +28,7 @@ As a developer, a kid from 2000 and a nerd who grew up with the MCU, the technol
 | [[IM Epic 06 - War of the Super Villains\|Epic 6: War of the Super Villains]] | owned | 44.99 paid | Walt's | read, 6/10 |
 | [[IM Epic 07 - Ten Rings to Rule the World\|Epic 7: Ten Rings to Rule the World]] | owned | 45 paid | Walt's | read |
 | [[IM Epic 08 - Demon in a Bottle\|Epic 8: Demon in a Bottle]] | owned | 44.99 paid | Walt's | read; Pre-order. |
-| [[Iron Man by Michelinie Layton and Romita Jr Omnibus\|Iron Man by Michelinie Layton and Romita Jr Omnibus]] | incoming | 83.99 paid | Walt's | releases Apr 13, 2027; FOC Oct 28; Decided 2026-10-03: buy. |
+| [[Iron Man by Michelinie Layton and Romita Jr Omnibus\|Iron Man by Michelinie Layton and Romita Jr Omnibus]] | incoming | 83.99 paid | Walt's | releases Apr 13, 2027; Decided 2026-10-03: buy. |
 | [[IM Epic 09 - Not yet released\|Epic 9: Not yet released]] | incoming | - | - | Covered by the Michelinie/Layton/Romita Jr Omnibus (#115-157), April 2027. |
 | [[IM Epic 10 - The Enemy Within\|Epic 10: The Enemy Within]] | owned | 115.25 paid | Vinted | 115.25 with shipping on Vinted (offer of 105). |
 | [[IM Epic 11 - Duel of Iron\|Epic 11: Duel of Iron]] | owned | 49.5 paid | Cheap-Comics | - |
@@ -62,7 +62,7 @@ As a developer, a kid from 2000 and a nerd who grew up with the MCU, the technol
 | [[Invincible Iron Man (2022) 18\|Invincible Iron Man (2022) #18]] | wanted | 4.8 seen | - | eBay, slow hunt, 1-2 per month at most |
 | [[Invincible Iron Man (2022) 19\|Invincible Iron Man (2022) #19]] | owned | 6.5 paid | Walt's | Skottie Young variant, about 6-7 Arrived 2026-10-09. |
 | [[Invincible Iron Man (2022) 20\|Invincible Iron Man (2022) #20]] | owned | 6.5 paid | Walt's | About 6-7 Arrived 2026-10-09. |
-| [[Iron Man (2026) Vol 1 A New Nightmare\|Iron Man (2026) Vol 1 A New Nightmare]] | planned | 16.99 seen | Walt's | releases Oct 27, 2026; Decision 2026-10-01: order at Walt's (about 17 + about 9 shipping = about 26) for careful packing,... |
+| [[Iron Man (2026) Vol 1 A New Nightmare\|Iron Man (2026) Vol 1 A New Nightmare]] | planned | 16.99 seen | Walt's | Decision 2026-10-01: order at Walt's (about 17 + about 9 shipping = about 26) for careful packing,... |
 | [[Iron Man (2026) 1 liked cover\|Iron Man (2026) #1 liked cover]] | wanted | 15 seen | Walt's | Single at Walt's, one cover liked. |
 | [[Iron Man (2026) 1-4 connecting cartoony covers (set of four)\|Iron Man (2026) #1-4 connecting cartoony covers (set of four)]] | wanted | 25 seen | Vinted | Skottie Young 4-part connecting variant, exists for #1-4 only. |
 | [[Iron Man (2026) Vol 2\|Iron Man (2026) Vol 2]] | wanted | - | - | releases May 4, 2027 |
