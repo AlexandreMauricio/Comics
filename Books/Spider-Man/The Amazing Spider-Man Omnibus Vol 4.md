@@ -3,6 +3,7 @@ line: "Spider-Man"
 type: "Omnibus"
 number: 4
 title: "The Amazing Spider-Man Omnibus Vol 4"
+cart: "2027-01"
 status: "wanted"
 read: false
 issues: "Amazing Spider-Man #105-142; Annual #9 (cover only); Giant-Size Super-Heroes #1; Marvel Super-Heroes #14"

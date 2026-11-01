@@ -2,6 +2,7 @@
 line: "Thor"
 type: "Premier Collection"
 title: "Thor: Gorr the God Butcher Premier Collection"
+cart: ""
 status: "wanted"
 read: false
 budget: "monthly"
