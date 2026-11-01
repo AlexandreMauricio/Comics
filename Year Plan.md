@@ -2,7 +2,7 @@
 
 **Draft v5.1, 2026-11-02. Books bought in reading order.** Replaces v5 (which wrongly bought Spider-Man Epic 9 before Epic 8). Four rules drive it:
 1. **Reading order first.** Every line keeps **1 or 2 next reads and 1 or 2 ahead**, in order. A book is never bought before the books that come before it.
-2. **Iron Man is line #1.** Its classic books are already in place from Epic 10 on, so the money goes to what keeps it fed (the Michelinie omnibus, Epic 12, the Epic 16 route) and to its modern fillers during the gap.
+2. **Iron Man is line #1.** It already owns Epics 10, 11, 13, 14, 15, 17 and 20, so the money goes to the two missing pieces (Epic 12, the Epic 16 route) and to its modern fillers during the gap.
 3. **Orders are grouped to cross 150 and ship free.** Walt's charges **12** under 150 and ships free at 150 or more (to confirm); Cheap-Comics is a flat 20; Amazon.es is free with Prime. Pre-orders releasing no more than about two months apart go in one order, because Walt's holds the order until the last item is out.
 4. **The allowance is 150 a month, all-in, and any overspend is taken off the next month** (about 123 from July, to confirm). The December birthday cart (up to 300) is outside it.
 
@@ -11,14 +11,18 @@
 - **Michelinie omnibus ordered** (83.99 + 12 = 95.99, ships Apr 13). The debt is then 304.39.
 - Nothing is ordered in November or December except the small items below. **January has 145.61** before them.
 
-## Each line: next reads and what is ahead
-| Line | Next reads (owned) | Ahead (owned) | The first book missing, in order |
+## Each line: what you can read in order, what you own behind a gap, and what is missing
+Read from each line's files on 2026-11-02. "Next reads" are books you own that follow each other with no gap. "Behind a gap" are books you own that you cannot reach until the missing book is bought.
+
+| Line | Next reads, in order | Owned but behind a gap | First missing book, then the next gaps |
 |---|---|---|---|
-| **Iron Man (#1)** | Epic 9 in the Michelinie omnibus (ordered, Apr 13) | Epics 10 and 11 | Epic 12 (March release), then Epic 16 (Armor Wars omnibus + Dragon Seed). 13, 14, 15, 17 and 20 are owned. |
-| **Strange (#2)** | **none, waiting** | Epic 8 | Masterworks 10 and 11 first, then Epics 9, 10, 11 |
-| **Spider-Man** | Omnibus 3 (Epics 5-6), Epic 7 | none | Omnibus 4 (Epic 8), then Epic 9 |
-| **Thor** | **none, waiting** | none | Omnibus 4, then Omnibus 5 |
-| **Daredevil** | the rest of Omnibus 2 (Epic 4 part) | none | Omnibus 3, then Omnibus 4 |
+| **Iron Man (#1)** | Epic 9 (in the Michelinie omnibus, ordered, Apr 13), Epic 10, Epic 11 | Epics 13, 14 and 15 (behind Epic 12); Epics 17 and 20 (behind Epics 16 and 18) | Epic 12 (March release). Then Epic 16 (Armor Wars omnibus + Dragon Seed) and Epic 18 (out of print). Once Epic 12 is in, the run is **Epics 9 to 15, seven books in a row.** |
+| **Strange (#2)** | none | Epic 8 (behind Epics 6 and 7, which are not released) | Masterworks 10 and 11 bridge to Epic 8; then Epics 9 to 13 |
+| **Spider-Man** | Omnibus 3 (Epics 5-6), Epic 7 | Epics 13, 17, 18, and 29 (arrives Dec 8) | Omnibus 4 (Epic 8), then Epics 9 to 12 in order; Epic 14 is not released yet |
+| **Thor** | none | none | Omnibus 4 (Epic 6 and half of 7), then Omnibus 5 |
+| **Daredevil** | the rest of Omnibus 2 (Epic 4 part) | Epic 9 (arrives Dec 1) | Omnibus 3 (the rest of Epic 4, and Epics 5-6), Omnibus 4, Epic 8 and the Miller omnibus |
+
+What this means: Iron Man already has everything it needs except Epic 12 and, later, the Epic 16 route. Spider-Man's real shortage is Epics 8 to 12 (five books), because 13, 17, 18 and 29 are already waiting behind them. Strange and Thor have nothing to read now.
 
 ## December: birthday and Christmas gift cart (up to 300, outside the 150)
 One Walt's in-stock order, over 150, so no shipping. These are the books that feed the two lines that have nothing to read, and they are the ones that can disappear:
@@ -27,8 +31,7 @@ One Walt's in-stock order, over 150, so no shipping. These are the books that fe
 - Strange Masterworks Vol 11, 67.50 (two copies left)
 - *Iron Man (2026)* Vol 1, 17 (Iron Man's modern filler for the gap) and *Venom* #1, about 7
 
-**About 251.50.** About 48 is free under the 300.
-- **Option: 007 First Light (PS5), 60 + 2.90 = 62.90.** It fits if you drop the two modern items: 227.50 + 62.90 = **290.40**.
+**About 251.50.** About 48 is free under the 300; it can take one more line book if you want (for example Spider-Man Epic 9, only after Omnibus 4 is bought).
 
 ## December 24 (allowance: nothing left; 4.39 still owed)
 **Cart 1: Comiexpress_de on eBay Germany, 24.40**
