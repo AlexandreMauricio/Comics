@@ -30,7 +30,7 @@ Ordered around the birthday, in one Walt's in-stock order. Over 150, so no shipp
 - *Journey Into Mystery*, 24.99 (was January)
 - *Iron Man (2026)* Vol 1, 17 (was November; in the gift cart so it does not pay 12 shipping)
 - *Venom* (2026) #1, ~7 (back on Walt's; a trial single, put in the gift cart on purpose, where it ships free)
-- Dragon Ball triple 8 from Devir, 23, no shipping (**only if you want it there**; separate order)
+- Dragon Ball triple 8 from Devir, 23, no shipping: **already bought on about Nov 1**, counted inside the 300 as part of the birthday money (to confirm; if it counts against the 150 instead, December and January shrink, see the chat of 2026-11-01)
 
 **Comics on Walt's: about 276.49. With Dragon Ball: about 299.49**, which is right at the 300.
 
