@@ -3,7 +3,7 @@ line: "Daredevil"
 type: "Epic Collection"
 number: 10
 title: "Redemption"
-cart: "2027-02"
+cart: ""
 status: "planned"
 read: false
 budget: "quarterly"

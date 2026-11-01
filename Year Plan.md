@@ -1,85 +1,92 @@
 # Year Plan, October 2026 to September 2027
 
-**Draft v5, 2026-11-01. Line books first.** Replaces v4.6 (still in git). Three rules drive it:
-1. **Line books come first, and as far ahead as the money allows**, starting with the ones that can disappear (last copies, out of print, discounts that may end). Modern books are palate cleansers and only ride along when they cost nothing extra.
-2. **Orders are grouped to save shipping.** Walt's charges **12** per order under 150 and ships free at 150 or more (to confirm); Cheap-Comics is a flat 20; Amazon.es is free with Prime. Pre-orders that release **no more than about two months apart** go in one order, because Walt's holds the order until the last item is out.
-3. **The allowance is 150 a month, all-in, and any overspend is taken off the next month** (about 123 from July, to confirm). The December birthday cart (up to 300) is outside it.
+**Draft v5.1, 2026-11-02. Books bought in reading order.** Replaces v5 (which wrongly bought Spider-Man Epic 9 before Epic 8). Four rules drive it:
+1. **Reading order first.** Every line keeps **1 or 2 next reads and 1 or 2 ahead**, in order. A book is never bought before the books that come before it.
+2. **Iron Man is line #1.** Its classic books are already in place from Epic 10 on, so the money goes to what keeps it fed (the Michelinie omnibus, Epic 12, the Epic 16 route) and to its modern fillers during the gap.
+3. **Orders are grouped to cross 150 and ship free.** Walt's charges **12** under 150 and ships free at 150 or more (to confirm); Cheap-Comics is a flat 20; Amazon.es is free with Prime. Pre-orders releasing no more than about two months apart go in one order, because Walt's holds the order until the last item is out.
+4. **The allowance is 150 a month, all-in, and any overspend is taken off the next month** (about 123 from July, to confirm). The December birthday cart (up to 300) is outside it.
 
-## Where the budget stands (checked against the bank data on 2026-10-23, updated 2026-11-01)
-- **Sep 24 - Oct 23 hobby spending was 445.88**, plus 62.52 since: Just Dance, Cuphead and a manga volume. October's allowance is **-208.40**.
+## Where the budget stands (bank data checked 2026-10-23, updated 2026-11-01)
+- **Sep 24 - Oct 23 hobby spending was 445.88**, plus 62.52 since (Just Dance, Cuphead, a manga volume). October's allowance is **-208.40**.
 - **Michelinie omnibus ordered** (83.99 + 12 = 95.99, ships Apr 13). The debt is then 304.39.
-- Nothing is ordered in November or December (the debt takes both 150s, with 4.39 still owed). **January has 145.61.**
-- Running balance (what has been allowed, minus what has been spent, at each cart date, if nothing else is bought): January 145.61, February 295.61, March 445.61, April 595.61, May 745.61, June 895.61. From July the monthly figure is about 123 instead of 150.
+- Nothing is ordered in November or December except the small items below. **January has 145.61** before them.
 
-## Reading supply (at least 1 book a month, preferably 2)
-At home now, readable in order with no purchase: Spider-Man Omnibus 3 (Epics 5-6), Epic 7, the rest of Daredevil Omnibus 2 (the Epic 4 part), Spider-Island, Venom War (Dec 8). That is about **5 books to the end of December**, so the gift cart in December and the January order are what keep every line fed.
-- **Dec (gift cart):** Strange reopens (Masterworks 10, 11), Thor reopens (Omnibus 4), Spider-Man gets Epic 9.
-- **Feb:** Daredevil reopens (Omnibus 3) and Spider-Man passes its Epic 8 gap (Omnibus 4).
-- **Mar-Apr:** Iron Man's long run (Michelinie omnibus, then Epics 10, 11, 12, 13, 14, 15 in a row).
+## Each line: next reads and what is ahead
+| Line | Next reads (owned) | Ahead (owned) | The first book missing, in order |
+|---|---|---|---|
+| **Iron Man (#1)** | Epic 9 in the Michelinie omnibus (ordered, Apr 13) | Epics 10 and 11 | Epic 12 (March release), then Epic 16 (Armor Wars omnibus + Dragon Seed). 13, 14, 15, 17 and 20 are owned. |
+| **Strange (#2)** | **none, waiting** | Epic 8 | Masterworks 10 and 11 first, then Epics 9, 10, 11 |
+| **Spider-Man** | Omnibus 3 (Epics 5-6), Epic 7 | none | Omnibus 4 (Epic 8), then Epic 9 |
+| **Thor** | **none, waiting** | none | Omnibus 4, then Omnibus 5 |
+| **Daredevil** | the rest of Omnibus 2 (Epic 4 part) | none | Omnibus 3, then Omnibus 4 |
 
 ## December: birthday and Christmas gift cart (up to 300, outside the 150)
-One Walt's in-stock order, over 150, so no shipping. All line books, the ones most likely to disappear.
+One Walt's in-stock order, over 150, so no shipping. These are the books that feed the two lines that have nothing to read, and they are the ones that can disappear:
 - Thor Omnibus 4, 85 (last copy)
 - Strange Masterworks Vol 10, 75 (out of print, no fallback)
 - Strange Masterworks Vol 11, 67.50 (two copies left)
-- Spider-Man Epic 9, 37 (discounted from 45)
+- *Iron Man (2026)* Vol 1, 17 (Iron Man's modern filler for the gap) and *Venom* #1, about 7
 
-**264.50.** About 35 is free under the 300, for one of:
-- **Modern extras, 24:** *Iron Man (2026)* Vol 1 (17) and *Venom* #1 (about 7). Total about 288.50.
-- **Option: 007 First Light (PS5), 60 + 2.90 = 62.90.** It fits if you drop Spider-Man Epic 9 and the modern extras: 227.50 on Walt's + 62.90 = **290.40**.
+**About 251.50.** About 48 is free under the 300.
+- **Option: 007 First Light (PS5), 60 + 2.90 = 62.90.** It fits if you drop the two modern items: 227.50 + 62.90 = **290.40**.
 
-## January 24 (running balance 145.61; plan 220, so 74.39 over)
+## December 24 (allowance: nothing left; 4.39 still owed)
+**Cart 1: Comiexpress_de on eBay Germany, 24.40**
+- Duggan #14, 15, 17, 18 (Skan ROM variant, Phil Noto, normal, Pete Woods) 17.40 + 7 shipping. #14 and #15 are readable at once; #17 and #18 wait for #16, which is still missing.
+- It is the only Iron Man you can read before the omnibus, so it is the one thing bought on the debt.
+
+## January 24 (balance 121.21 after the Duggan lot; plan 220, so 98.79 over)
 **Cart 1: Walt's, in stock, 220, free shipping**
+- Spider-Man Omnibus 4 (Epic 8, repeats 7), 115 (Spider-Man's next missing book; it would stall right after Epic 7 otherwise)
 - Daredevil Omnibus 3, 105 (**checkpoint**: read the rest of Omnibus 2 first; the discount may end)
-- Spider-Man Omnibus 4 (Epic 8, repeats 7), 115 (the only route to Epic 8; Spider-Man would otherwise stall in February)
 
-Putting these two in one order saves 12 shipping against buying them in separate months. February then starts 74.39 lower (75.61).
 If the Daredevil checkpoint fails, this order is Spider-Man Omnibus 4 alone (127 with shipping).
 
-## February 24 (running balance 75.61; plan about 92, so 16 over)
-**Cart 1: Walt's, pre-order (ships after the March releases), about 92 *est***
-- Iron Man Epic 12, ~40 *est*, and Daredevil Epic 10, ~40 *est*, both releasing in March 2027 (the same month, so one order)
-- Shipping, 12
+## February 24 (balance 51.21; plan 154.78, so 103.57 over)
+**Cart 1: Walt's, in stock, 154.78, free shipping**
+- Thor Omnibus 5, 104.99 (Thor's next book after Omnibus 4)
+- Spider-Man Epic 9, 37 (right after Epic 8, which comes in Omnibus 4)
+- Iron Man Extremis Premier, 12.79 (modern; it also takes the order over 150)
 
-The FOC dates are not known, so I do not know which month this falls in. **Check on Walt's whether both are listed and at what price.** If they are listed now, they can go into the January order without extra shipping, and the order stays free of shipping only if it reaches 150.
-
-## March 24 (running balance 133.60; plan 184.90, so 51.30 over)
-**Cart 1: Cheap-Comics, in stock, 184.90**
+## March 24 (balance 46.43; plan 114.90, so 68.47 over)
+**Cart 1: Cheap-Comics, in stock, 114.90**
 - Strange Epic 9, 30; Epic 10, 40; Epic 11, 24.90 (out of print)
-- Avengers Epic 2, 35 and Epic 3, 35 (sale prices from 75; the sale may be gone by March)
 - Shipping, 20
 
-Strange Epics 9-11 are the line's next books after Masterworks 10 and 11, so this order is what keeps Strange reading through the spring.
+*Optional, first to drop:* Avengers Epic 2 and 3 (35 each at the sale price) would make the order 184.90 and push the debt another 70.
 
-## April 24 (running balance 98.70; plan 116.99, so 18.30 over)
-**Cart 1: Walt's, in stock, 116.99**
-- Thor Omnibus 5, 104.99 (the Thor line's next book after Omnibus 4)
-- Shipping, 12
+## April 24 (balance 81.53; plan about 152.79, so 71.26 over)
+**Cart 1: Walt's, in stock, 152.79, free shipping**
+- Iron Man Epic 12, ~45 (released Mar 9; Iron Man needs it right after the Michelinie omnibus)
+- Daredevil Omnibus 4, 95 (**only if** the Daredevil checkpoint passes)
+- Thor Gorr Premier, 12.79 (modern; keeps the order over 150)
 
-## May 24 (running balance 131.70; plan 135.89, so 4.20 over)
-**Cart 1: Walt's, in stock, ~135.89**
-- Iron Man Armor Wars omnibus, 78.99 (Iron Man Epic 16 route; "on sale, check real stock")
+## May 24 (balance 78.74; plan about 135.90, so 57.16 over)
+**Cart 1: Walt's, in stock, ~135.90**
+- Iron Man Armor Wars omnibus, 78.99 (the Epic 16 route; "on sale, check real stock")
 - Strange Epic 12, 44.90
 - Shipping, 12
 
-## June 24 (running balance about 145.80)
-**Cart 1: Amazon.es + Walt's, ~65 *est***
+## June 24 (balance about 92.8)
 - Iron Man Dragon Seed TPB, 24.90 (Amazon.es, free with Prime), completes the Epic 16 route
 - Spider-Man Epic 10, price not known yet
+- The debt is paid off here.
 
 ## July to September (about 123 a month; placeholders)
-- **July:** the Thor checkpoint month (Simonson omnibus 99.50 at Cheap-Comics, or the next Thor Epics).
-- **August:** Daredevil Omnibus 4 (95) if the checkpoint passes, or the Frank Miller and Klaus Janson omnibus (price not known yet).
+- **July:** the Thor checkpoint (Simonson omnibus 99.50 at Cheap-Comics, or the next Thor Epics).
+- **August:** the Frank Miller and Klaus Janson omnibus or Daredevil Epic 8 (prices not known yet).
 - **September:** Strange Epic 13 (49.50) and Spider-Man Epic 11 or 12.
 
-## Modern and optional (only if they ride along free)
-These are not planned into any cart. They go in only when an order already ships free (at 150 or more), or when a month has spare room:
-- *Iron Man (2026)* Vol 1 (17) and *Venom* #1 (about 7): the December gift cart, if it has room.
-- Duggan #14, 15, 17 and 18 (about 30 from Comicroom_hamburg on eBay Germany, plus 12 shipping): March or May if there is room. #16 is still missing; keep the alerts running.
-- Extremis (12.79, released Jan 12), Thor Gorr (12.79, released Mar 9), *Journey Into Mystery* (24.99), *Iron Man (2026)* Vol 2 (~17, released May 4): the January order if you want one, since it ships free.
+## Pre-orders worth grouping
+- **Iron Man Epic 12** (March 9) is the only pre-order that matters to a line in this window, and it is needed in April or May, so it is planned as an in-stock book in April. If you prefer the pre-order price (about 40 instead of about 45 to 50), the pairing is **Iron Man 12 + Daredevil Epic 10 + Thor Gorr** (all March, one order, about 93 + 12 shipping). The cost is buying Daredevil Epic 10 about a year before it is read.
+- **Spider-Man Epic 30** (FOC Nov 25) is dropped: it is 20 Epics away from the reading.
+- Nothing else is a pre-order with a FOC in the window. I will tell you the FOC dates as soon as Walt's lists them.
 
-## Dropped or not planned
-Spider-Man Epic 30 (FOC Nov 25; the reading is years away), Avengers #1 and Venom #1 as separate orders (FOC-or-wait rule), Daredevil Epic 10 as its own order (it travels with Iron Man 12), Iron Man Epics 18-22 (Epic 18 is out of print: keep an alert), event omnibuses (no prices yet), West Coast Avengers (6 of 8 Epics are OOP or limited).
+## Modern and optional
+- Duggan #16 (alerts on), *Journey Into Mystery* (24.99), *Iron Man (2026)* Vol 2 (~17, released May 4): only when an order already ships free or a month has room.
+
+## Not planned
+Avengers #1 as a separate order, Daredevil Epic 10 as its own order, Iron Man Epics 18-22 (Epic 18 is out of print: keep an alert), event omnibuses (no prices yet), West Coast Avengers (6 of 8 Epics are OOP or limited).
 
 ## Daredevil checkpoint
 Epic 1 was 8, Epic 2 was 7, Epic 3 was 6. Read the rest of Omnibus 2 (the Epic 4 part) before January. If it is also 6 or lower, hold Omnibus 3 (105) and Omnibus 4 (95) and use that room elsewhere. If it picks up, buy as planned.
