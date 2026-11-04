@@ -8,7 +8,7 @@ Nothing has `cart: "2026-11"` yet. Plan it with [[Cart Planner]].
 
 ## Spent in the October budget (Oct 24 - Nov 23)
 
-**114.92** on 3 book(s) against about 150, 35.08 left. Shipping and supplies are extra (see [[Purchase Log]]); quarterly pre-orders (charged at order time) are not in this sum and other hobbies count against the month. Details: [[Spending.base|Spending]].
+**114.16** on 3 book(s) against about 150, 35.84 left. Shipping and supplies are extra (see [[Purchase Log]]); quarterly pre-orders (charged at order time) are not in this sum and other hobbies count against the month. Details: [[Spending.base|Spending]].
 
 ## On the way
 
@@ -17,7 +17,7 @@ Ordered and already published, so it should arrive any time.
 | Book | Store | Paid | Ordered | Note |
 |---|---|---|---|---|
 | [[Venom (2026) 1]] | Kingpin Books | 11.89 | 2026-11-04 | Eddie Brock and the symbiote reunited; Charles Soule and Tommaso Bianchi. Singles run about 6-8; exact Walt's price not checked. |
-| [[Iron Man (2026) Vol 1 A New Nightmare]] | Amazon | 19.04 | 2026-11-04 | Decision 2026-10-01: order at Walt's (about 17 + about 9 shipping = about 26) for careful packing, instead of Amazon at 18 with free Prime shipping. Singles are 6-8 each; see Modern Runs. |
+| [[Iron Man (2026) Vol 1 A New Nightmare]] | Amazon | 18.28 | 2026-11-04 | Decision 2026-10-01: order at Walt's (about 17 + about 9 shipping = about 26) for careful packing, instead of Amazon at 18 with free Prime shipping. Singles are 6-8 each; see Modern Runs. |
 
 ## Pre-orders (not released yet)
 

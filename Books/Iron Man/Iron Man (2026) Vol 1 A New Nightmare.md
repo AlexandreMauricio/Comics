@@ -3,7 +3,7 @@ line: "Iron Man"
 type: "TPB"
 edition: "IM2026 Vol 1"
 title: "Iron Man (2026) Vol 1 A New Nightmare"
-price_paid: 19.04
+price_paid: 18.28
 ordered: 2026-11-04
 budget_month: "2026-10"
 status: "incoming"
