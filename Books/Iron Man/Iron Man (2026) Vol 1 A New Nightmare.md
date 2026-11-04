@@ -3,20 +3,22 @@ line: "Iron Man"
 type: "TPB"
 edition: "IM2026 Vol 1"
 title: "Iron Man (2026) Vol 1 A New Nightmare"
-status: "planned"
+price_paid: 19.04
+ordered: 2026-11-04
+budget_month: "2026-10"
+status: "incoming"
 read: false
 budget: "monthly"
 issues: "Iron Man (2026) #1-6"
 release_date: "2026-10-27"
 price_seen: 16.99
-store: "Walt's"
-cart: "2026-12"
+store: "Amazon"
+cart: ""
 writers: "Joshua Williamson"
 artists: "Carmen Carnero"
 isbn: ["9781302969066"]
 price_note: "Decision 2026-10-01: order at Walt's (about 17 + about 9 shipping = about 26) for careful packing, instead of Amazon at 18 with free Prime shipping. Singles are 6-8 each; see Modern Runs."
 seq: 2001
-purpose: "modern"
 order: 2001
 source: "Conversation with user (2026-09)"
 verified: false

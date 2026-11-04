@@ -8,8 +8,8 @@
 
 ## Where the budget stands (bank data checked 2026-10-23, updated 2026-11-01)
 - **Sep 24 - Oct 23 hobby spending was 445.88**, plus 62.52 since (Just Dance, Cuphead, a manga volume). October's allowance is **-208.40**.
-- **Michelinie omnibus ordered** (83.99 + 12 = 95.99, ships Apr 13). The debt is then 304.39.
-- Nothing is ordered in November or December except the small items below. **January has 145.61** before them.
+- **Michelinie omnibus ordered** (83.99 + 12 = 95.99, ships Apr 13), and on Nov 4 *Iron Man (2026)* Vol 1 (19.04, Amazon) and *Venom* #1 (11.89, Kingpin Books) were ordered outside the plan. The debt is then **335.32**.
+- Nothing else is ordered in November or December except the small items below. **January has 114.68** before them.
 
 ## Each line: what you can read in order, what you own behind a gap, and what is missing
 Read from each line's files on 2026-11-02. "Next reads" are books you own that follow each other with no gap. "Behind a gap" are books you own that you cannot reach until the missing book is bought.
@@ -29,9 +29,8 @@ One Walt's in-stock order, over 150, so no shipping. These are the books that fe
 - Thor Omnibus 4, 85 (last copy)
 - Strange Masterworks Vol 10, 75 (out of print, no fallback)
 - Strange Masterworks Vol 11, 67.50 (two copies left)
-- *Iron Man (2026)* Vol 1, 17 (Iron Man's modern filler for the gap) and *Venom* #1, about 7
 
-**About 251.50.** About 48 is free under the 300; it can take one more line book if you want (for example Spider-Man Epic 9, only after Omnibus 4 is bought).
+**227.50.** About 72 is free under the 300 (*Iron Man (2026)* Vol 1 and Venom #1 were ordered separately on Nov 4); it can take one more line book if you want (for example Spider-Man Epic 9, only after Omnibus 4 is bought).
 
 ## December 24 (allowance: nothing left; 4.39 still owed)
 **Cart 1: Comiexpress_de on eBay Germany, 24.40**

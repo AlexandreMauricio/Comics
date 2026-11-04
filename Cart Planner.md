@@ -91,12 +91,10 @@ Sorted by purpose, then by how short the line's runway is, then by the first com
 | modern | Iron Man | 3 | [[Invincible Iron Man (2022) 16]] | wanted |  |  |  | low - eBay, slow hunt, 1-2 per month at most |
 | modern | Iron Man | 3 | [[Invincible Iron Man (2022) 17]] | wanted | 4.8 |  |  | low - eBay, slow hunt, 1-2 per month at most |
 | modern | Iron Man | 3 | [[Invincible Iron Man (2022) 18]] | wanted | 4.8 |  |  | low - eBay, slow hunt, 1-2 per month at most |
-| modern | Iron Man | 3 | [[Iron Man (2026) Vol 1 A New Nightmare]] | planned | 16.99 | Walt's |  |  |
 | modern | Iron Man | 3 | [[Iron Man (2026) 1 liked cover]] | wanted | 15 | Walt's |  |  |
 | modern | Iron Man | 3 | [[Iron Man (2026) 1-4 connecting cartoony covers (set of four)]] | wanted | 25 | Vinted |  |  |
 | modern | Iron Man | 3 | [[Iron Man (2026) Vol 2]] | wanted |  |  |  |  |
 | modern | Avengers |  | [[Avengers (2026) 1]] | wanted |  | Walt's |  |  |
-| modern | Venom |  | [[Venom (2026) 1]] | wanted |  | Walt's |  |  |
 | modern | Venom |  | [[Friendly Neighborhood Mary Jane 1]] | wanted |  | Walt's |  |  |
 | event | Secret Wars |  | [[Marvel Super Heroes Secret Wars Omnibus]] | wanted |  |  |  |  |
 | event | Venom |  | [[King in Black Omnibus]] | wanted |  |  |  |  |
