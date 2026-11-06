@@ -10,6 +10,23 @@ Absolute Carnage: loved it. With Venom First Host (enjoyed) and the Venom War is
 - Read: Absolute Carnage (9/10), Venom First Host, Carnage Modern Era Epic 2.
 - Ordered: Venom War Omnibus (Dec 8), *Venom* (2026) #1 (Kingpin Books, ordered Nov 4).
 - Wanted: King in Black Omnibus (no price).
+## Venom as a line (decided 2026-11-09)
+Venom is a line of its own. His classic Epic Collections become "available" in the reading order when Spider-Man reaches the matching Epics, and only if they add anything. Checked against the Epics in the Spider-Man notes (Wikipedia issue lists; overlap is by title and issue number, so treat it as a guide):
+
+| Venom / Carnage Epic | Issues also in your Spider-Man Epics | What it means |
+|---|---|---|
+| Venom Epic 1, *Symbiosis* | 9 of 13 (Spider-Man Epics 18-21) | Mostly Spidey comics. Skip unless you want the other 4 issues. |
+| Venom Epic 2, *Lethal Protector* | 7 of 21 (Epics 23, 24) | Mostly its own miniseries; worth it when you reach Epic 23. |
+| Venom Epic 4, *The Madness* | 0 of 20 | All its own series. |
+| Venom Epic 5, *Carnage Unleashed* | 4 of 19 (Epic 27) | Mostly its own minis. |
+| Venom Epics 6 and 7, *Planet of the Symbiotes*, *The Hunger* | 0 | All its own series. |
+| Carnage Epic 1, *Born in Blood* | 12 of 14 (Epics 23, 25) | Almost entirely in Spider-Man (Maximum Carnage is Epic 25). Skip. |
+| Carnage Epic 2, *Web of Carnage* | 5 of 10 | About half is in Spider-Man. |
+| Venom Modern Era Epics 1 and 2 (*Shiver*, *Sting of the Scorpion*) | 0 | Their own series. |
+
+So the Venom Epics that are worth buying are the ones that are not Spidey comics: *Lethal Protector* onward in the classic line, and the Modern Era Epics. *Symbiosis* and Carnage Epic 1 can wait or be skipped.
+**The 2026 Venom run (follow-up rule):** *Venom* #1 is ordered. If you like it, buy #2 as a single; if you like that, buy Vol 1 when it is announced. This is an exception to the "trial singles only on the FOC" rule, because it follows a book you already enjoyed.
+
 
 - Reading-order check (2026-11-06): the site treats the Cates run (First Host, Absolute Carnage) as the core. See [[Reading Orders Check]].
 

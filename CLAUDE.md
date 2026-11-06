@@ -28,6 +28,7 @@ This is the user's Obsidian vault for planning and tracking their **physical Mar
 - **Do not give personal financial or investment advice.** Do arithmetic and structure; say it is not advice when the user asks "should I".
 - Walt's: shipping 12 under 150, free from 150 (confirmed Nov 2026), charges at order time, holds an order until every item is released, don't mix pre-orders more than about two months apart. Cheap-Comics: flat 20 shipping, never fewer than three books. FOC dates matter for pre-order prices.
 - Priorities: line books first in reading order, 1-2 next reads and 1-2 ahead per line, Iron Man first. Securing a scarce book matters more than when the money leaves. Modern books ride along only when free. New modern runs: trial singles only on FOC, else wait for the TPB. Never buy a book before the books before it in its line.
+- **Aim for about 150 a month.** A month a bit over is fine, over 200 is not; never add a book only to save a 12 shipping. Keep about 20 a month free for singles and follow-ups (Iron Man 2026 Vol 2, Venom #2 and Vol 1, Duggan #16).
 - Open and undecided: roll-over of unspent allowance (ask first).
 
 ## Working with the tools

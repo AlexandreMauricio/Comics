@@ -21,7 +21,7 @@ TPB is the default; singles only to test a new run, as a cover trophy, or as a b
 - **Nothing is dropped.** The plan may run over the allowance and be paid back later (decided 2026-11-07); only timing moves.
 - **Securing a book matters more than when the money leaves.** Paying early for a last copy, an out-of-print book or a pre-order price is fine.
 - **Group orders to save shipping.** Walt's charges 12 under 150 (it was 9 until Oct 2026) and ships free from 150, Cheap-Comics is a flat 20 and needs three books, Amazon.es is free with Prime. Pre-orders that release within about two months of each other go in one order.
-- **New modern runs:** trial singles (#1, #2) only on the FOC pre-order, otherwise wait for the first TPB.
+- **New modern runs:** trial singles (#1, #2) only on the FOC pre-order, otherwise wait for the first TPB. **Exception (2026-11-09):** if you liked a book, its follow-up (#2, then the TPB) can be bought as it comes. About 20 a month of the 150 is kept free for these follow-ups.
 
 ## Budget
 - **Monthly hobby allowance: 150, all-in** (comics, games, subscriptions, every other hobby). A budget month runs from the 24th to the 23rd and is named after the cart placed on that 24th (Sep 24 - Oct 23 is the September budget). Payday moves between the 23rd and the 26th.

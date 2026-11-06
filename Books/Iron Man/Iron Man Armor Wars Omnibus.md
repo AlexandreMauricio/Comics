@@ -3,7 +3,7 @@ line: "Iron Man"
 type: "Omnibus"
 edition: "Armor Wars"
 title: "Iron Man Armor Wars Omnibus"
-cart: "2027-05"
+cart: "2027-06"
 status: "wanted"
 read: false
 issues: "Iron Man #219-232, #258-266; Iron Man & the Armor Wars #1-4; Iron Man #258.1-258.4"
