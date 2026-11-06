@@ -3,7 +3,8 @@ line: "Thor"
 type: "Epic Collection"
 number: 8
 title: "War of the Gods"
-status: "wanted"
+cart: "2027-03"
+status: "planned"
 read: false
 years: "1975-1977"
 issues: "Thor #242-259, Annual #5; Marvel Spotlight #30"

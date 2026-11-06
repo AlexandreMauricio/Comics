@@ -7,8 +7,8 @@ I love mythologies. I didn't like him always asking his father for help, and I s
 
 ## Plan and status
 
-- Read up to Epic 5 (6/10). Nothing to read now; *Thor: Son of Asgard* (about 13) goes before Omnibus 4 if you buy it.
-- Next: Omnibus 4 (85, last copy; December birthday cart; fallback Epic 6 at Cheap-Comics), Omnibus 5 (104.99, February).
+- Read up to Epic 5 (6/10). Nothing to read now; *Thor: Son of Asgard* (about 13) goes before Epic 6 if you buy it.
+- **Omnibus 4 is gone from Walt's (2026-11-11).** The route is now Epic 6 and Epic 7 (Cheap-Comics, 50 and 60, December order), Epic 8 (75, March), Epic 9 (49.99 at Walt's, May). Omnibus 5 (104.99) would only add #260-266 after those, so it is not planned.
 - Checkpoint in July: Epics 9-12 or the Simonson omnibus (Epic 13). The site comparison says Omnibus 4 and 5 are the books it skips ([[Reading Orders Check]]).
 - Context: Thor was killed in *Immortal Thor* #24 (2025). Modern: Thor Gorr Premier (Mar 9, optional).
 
@@ -28,11 +28,11 @@ I love mythologies. I didn't like him always asking his father for help, and I s
 | [[The Mighty Thor Omnibus Vol 3\|The Mighty Thor Omnibus Vol 3]] | owned | 85.23 paid | Vinted | Part of a Vinted bundle: Thor Omnibus 1-3 + Absolute Carnage for 345.70 with shipping, about... |
 | [[Thor Epic 04 - To Wake the Mangog\|Epic 4: To Wake the Mangog]] | covered | - | - | read, 7/10; in The Mighty Thor Omnibus Vol 3 |
 | [[Thor Epic 05 - The Fall of Asgard\|Epic 5: The Fall of Asgard]] | covered | - | - | read, 6/10; in The Mighty Thor Omnibus Vol 3 |
-| [[Thor Epic 06 - Into the Dark Nebula\|Epic 6: Into the Dark Nebula]] | wanted | 50 seen | Cheap-Comics | Only if Omnibus 4 is gone (Cheap-Comics 50 + 20 shipping) |
-| [[The Mighty Thor Omnibus Vol 4\|The Mighty Thor Omnibus Vol 4]] | planned | 85 seen | Walt's | Out of print, last copies at Walt's: page warns only 1 in stock (2026-09-30). |
-| [[Thor Epic 07 - Ulik Unchained\|Epic 7: Ulik Unchained]] | wanted | 60 seen | Cheap-Comics | Omnibus 4 and 5 cover most of it |
+| [[Thor Epic 06 - Into the Dark Nebula\|Epic 6: Into the Dark Nebula]] | planned | 50 seen | Cheap-Comics | Omnibus 4 is gone from Walt's; Cheap-Comics 50 (plus 20 shipping, three-book order) |
+| [[The Mighty Thor Omnibus Vol 4\|The Mighty Thor Omnibus Vol 4]] | oop | 85 seen | Walt's | Gone from Walt's (checked 2026-11-11). |
+| [[Thor Epic 07 - Ulik Unchained\|Epic 7: Ulik Unchained]] | planned | 60 seen | Cheap-Comics | Sold out at Walt's; Cheap-Comics 60. |
 | [[The Mighty Thor Omnibus Vol 5\|The Mighty Thor Omnibus Vol 5]] | wanted | 104.99 seen | Walt's | Pre-order 104.99 (16% off 125) at Walt's, both covers (checked 2026-09-30). |
-| [[Thor Epic 08 - War of the Gods\|Epic 8: War of the Gods]] | wanted | 75 seen | Cheap-Comics | - |
+| [[Thor Epic 08 - War of the Gods\|Epic 8: War of the Gods]] | planned | 75 seen | Cheap-Comics | - |
 | [[Thor Epic 09 - Even an Immortal Can Die\|Epic 9: Even an Immortal Can Die]] | wanted | 49.99 seen | Walt's | 1 in stock at walt's, 75€ seen at cheap-comics |
 | [[Thor Epic 10 - The Eternals Saga\|Epic 10: The Eternals Saga]] | wanted | 44.99 seen | Walt's | 34.99€ at cheap comics |
 | [[Thor Epic 11 - A Kingdom Lost\|Epic 11: A Kingdom Lost]] | wanted | 75 seen | Cheap-Comics | OOP |

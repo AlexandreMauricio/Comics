@@ -86,9 +86,9 @@ See also the sortable [[Ratings.base|Ratings dashboard]]. The tables below are g
 | 3 | [[Thor Epic 03 - The Wrath of Odin\|The Wrath of Odin]] | 3.97 | 127 | 7 | A+ | covered | yes |
 | 4 | [[Thor Epic 04 - To Wake the Mangog\|To Wake the Mangog]] | 4.11 | 133 | 7 | A+ | covered | yes |
 | 5 | [[Thor Epic 05 - The Fall of Asgard\|The Fall of Asgard]] | 3.76 | 66 | 6 | A | covered | yes |
-| 6 | [[Thor Epic 06 - Into the Dark Nebula\|Into the Dark Nebula]] | 3.48 | 46 |  | B | wanted |  |
-| 7 | [[Thor Epic 07 - Ulik Unchained\|Ulik Unchained]] | 3.82 | 33 |  | B | wanted |  |
-| 8 | [[Thor Epic 08 - War of the Gods\|War of the Gods]] | 3.48 | 31 |  | B | wanted |  |
+| 6 | [[Thor Epic 06 - Into the Dark Nebula\|Into the Dark Nebula]] | 3.48 | 46 |  | B | planned |  |
+| 7 | [[Thor Epic 07 - Ulik Unchained\|Ulik Unchained]] | 3.82 | 33 |  | B | planned |  |
+| 8 | [[Thor Epic 08 - War of the Gods\|War of the Gods]] | 3.48 | 31 |  | B | planned |  |
 | 9 | [[Thor Epic 09 - Even an Immortal Can Die\|Even an Immortal Can Die]] | 3.91 | 33 |  | A | wanted |  |
 | 10 | [[Thor Epic 10 - The Eternals Saga\|The Eternals Saga]] | 3.39 ⚠ | 18 |  | A | wanted |  |
 | 11 | [[Thor Epic 11 - A Kingdom Lost\|A Kingdom Lost]] | 3.52 | 54 |  | B+ | wanted |  |

@@ -3,7 +3,8 @@ line: "Thor"
 type: "Epic Collection"
 number: 7
 title: "Ulik Unchained"
-status: "wanted"
+cart: "2026-12"
+status: "planned"
 read: false
 years: "1973-1975"
 issues: "Thor #217-241; Marvel Premiere #26"
@@ -25,10 +26,10 @@ covered_by: ["[[The Mighty Thor Omnibus Vol 4]]", "[[The Mighty Thor Omnibus Vol
 goodreads_rating: 3.82
 goodreads_votes: 33
 goodreads_checked: "2026-09-29"
-urgency: "low"
-urgency_reason: "Omnibus 4 and 5 cover most of it"
+urgency: "high"
+urgency_reason: "Sold out at Walt's; Cheap-Comics 60. Now the only route to #217-241 since Omnibus 4 is gone"
 seq: 7
-purpose: "future"
+purpose: "security"
 missing_before: 1
 source: "Epics.xlsx Thor Ranking tab only (no Main Page data for Thor), cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"
 wikipedia_checked: "2026-09-29"

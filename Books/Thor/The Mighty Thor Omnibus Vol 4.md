@@ -3,7 +3,7 @@ line: "Thor"
 type: "Omnibus"
 number: 4
 title: "The Mighty Thor Omnibus Vol 4"
-status: "planned"
+status: "oop"
 read: false
 budget: "monthly"
 issues: "Thor #195-228; Marvel Treasury Edition #3"
@@ -14,8 +14,8 @@ price_seen: 85
 store: "Walt's"
 covers: ["[[Thor Epic 06 - Into the Dark Nebula]]"]
 urgency: "high"
-urgency_reason: "Out of print, last copies at Walt's: page warns only 1 in stock (2026-09-30). Watch it"
-cart: "2026-12"
+urgency_reason: "Gone from Walt's (checked 2026-11-11). Route without it: Thor Epics 6 and 7 (Cheap-Comics 50 and 60)."
+cart: ""
 seq: 6.5
 purpose: "reading"
 missing_before: 0
