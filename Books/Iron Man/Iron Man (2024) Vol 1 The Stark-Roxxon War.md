@@ -13,7 +13,7 @@ writers: "Spencer Ackerman"
 artists: "Julius Ohta, Javier Pina, Rod Reis"
 store: "Walt's"
 price_seen: 16.19
-price_note: "Walt's 16.19, only 1 in stock (seen 2026-11-09)"
+price_note: "Walt's 16.19, only 1 in stock (seen 2026-11-09). Fallback: Amazon 23 (seen 2026-11-10), free with Prime."
 seq: 1501
 purpose: "modern"
 order: 1501
