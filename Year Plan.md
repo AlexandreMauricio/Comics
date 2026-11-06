@@ -9,7 +9,8 @@
 ## Where the budget stands (bank data checked 2026-10-23, updated 2026-11-01)
 - **Sep 24 - Oct 23 hobby spending was 445.88**, plus 62.52 since (Just Dance, Cuphead, a manga volume). October's allowance is **-208.40**.
 - **Michelinie omnibus ordered** (83.99 + 12 = 95.99, ships Apr 13), and on Nov 4 *Iron Man (2026)* Vol 1 (18.28, Amazon) and *Venom* #1 (11.89, Kingpin Books) were ordered outside the plan. The debt is then **334.56**.
-- Nothing else is ordered in November or December except the small items below. **January has 115.44** before them.
+- **Nov 24: Dragon Ball triple 9** from Devir (released that day, about 23, no shipping; confirm the price). It counts against the 150, so **January has 92.44** before the Duggan lot (68.04 with it).
+- Nothing else is ordered in November or December except the small items below.
 
 ## Each line: what you can read in order, what you own behind a gap, and what is missing
 Read from each line's files on 2026-11-02. "Next reads" are books you own that follow each other with no gap. "Behind a gap" are books you own that you cannot reach until the missing book is bought.

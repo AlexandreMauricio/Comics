@@ -25,7 +25,7 @@ Start here. The book database is the `Books/` folder (one note per book, with pr
 - [[Sources and Verification]] - where each piece of data came from and where to check it
 - [[Collecting Philosophy]] - rules, budget, formats
 - [[Monthly Carts]] - cart planning (next: Oct 24, 2026; Q1 2027 pre-order: place in December)
-- [[Purchase Log]] · [[Reading Log]] · [[Research Notes]] · [[Wikipedia Cross-check]] · [[Modern Runs]] · [[Shelf]]
+- [[Purchase Log]] · [[Reading Log]] · [[Research Notes]] · [[Wikipedia Cross-check]] · [[Modern Runs]] · [[Side Reads]] · [[Shelf]]
 - `Archive/` - old text notes replaced by the dashboards, kept for history
 
 ## Lines
