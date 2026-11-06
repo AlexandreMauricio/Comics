@@ -9,12 +9,9 @@
 ## Where the budget stands (bank data checked 2026-10-23, updated 2026-11-01)
 - **Sep 24 - Oct 23 hobby spending was 445.88**, plus 62.52 since (Just Dance, Cuphead, a manga volume). October's allowance is **-208.40**.
 - **Michelinie omnibus ordered** (83.99 + 12 = 95.99, ships Apr 13), and on Nov 4 *Iron Man (2026)* Vol 1 (18.28, Amazon) and *Venom* #1 (11.89, Kingpin Books) were ordered outside the plan. The debt is then **334.56**.
-- **Nov 24: Dragon Ball triple 9** from Devir (released that day, 23, no shipping, price confirmed). It counts against the 150, so **January has 92.44** before the Duggan lot (68.04 with it).
-- Nothing else is ordered in November or December except the small items below.
-
 - **Nov 24:** Dragon Ball triple 9 from Devir, 23, no shipping (counts against the 150).
 - **By Nov 25:** the Q1 pre-order group below, about 131.50, because Spider-Man Epic 30's pre-order price ends on Nov 25.
-- **Running debt (what is owed after each month's 150 is applied, if everything in this plan is bought):** end of November about 339, December 213, January 283, February 288, March 328, April 285, May 271, June 186, July 183, August 183, September 170. **The plan runs about 170 over the allowance by September.** That is the cost of collecting every book on these lines on a 150 a month allowance; the books to move past September are listed at the end of the budget notes in [[Reading Orders Check]] (Thor Omnibus 4 and 5, Daredevil Omnibus 3 and 4, Avengers 18-28 first).
+- **Running debt (what is owed after each month's 150 is applied, if everything in this plan is bought):** end of November about 339, December 213, January 283, February 288, March 328, April 285, May 271, June 186, July 183, August 183, September 170. **The plan runs about 170 over the allowance by September.** That is the cost of collecting every book on these lines on a 150 a month allowance; the first books to move past September, if you choose to, are the ones the site's route skips ([[Reading Orders Check]]): Thor Omnibus 5, Daredevil Omnibus 4, then Omnibus 3.
 
 ## Each line: what you can read in order, what you own behind a gap, and what is missing
 Read from each line's files on 2026-11-02. "Next reads" are books you own that follow each other with no gap. "Behind a gap" are books you own that you cannot reach until the missing book is bought.
