@@ -3,13 +3,13 @@
 **Draft v5.1, 2026-11-02. Books bought in reading order.** Replaces v5 (which wrongly bought Spider-Man Epic 9 before Epic 8). Four rules drive it:
 1. **Reading order first.** Every line keeps **1 or 2 next reads and 1 or 2 ahead**, in order. A book is never bought before the books that come before it.
 2. **Iron Man is line #1.** It already owns Epics 10, 11, 13, 14, 15, 17 and 20, so the money goes to the two missing pieces (Epic 12, the Epic 16 route) and to its modern fillers during the gap.
-3. **Orders are grouped to cross 150 and ship free.** Walt's charges **12** under 150 and ships free at 150 or more (to confirm); Cheap-Comics is a flat 20; Amazon.es is free with Prime. Pre-orders releasing no more than about two months apart go in one order, because Walt's holds the order until the last item is out.
+3. **Orders are grouped to cross 150 and ship free.** Walt's charges **12** under 150 and ships free at 150 or more (confirmed Nov 2026); Cheap-Comics is a flat 20; Amazon.es is free with Prime. Pre-orders releasing no more than about two months apart go in one order, because Walt's holds the order until the last item is out.
 4. **The allowance is 150 a month, all-in, and any overspend is taken off the next month** (about 123 from July, to confirm). The December birthday cart (up to 300) is outside it.
 
 ## Where the budget stands (bank data checked 2026-10-23, updated 2026-11-01)
 - **Sep 24 - Oct 23 hobby spending was 445.88**, plus 62.52 since (Just Dance, Cuphead, a manga volume). October's allowance is **-208.40**.
 - **Michelinie omnibus ordered** (83.99 + 12 = 95.99, ships Apr 13), and on Nov 4 *Iron Man (2026)* Vol 1 (18.28, Amazon) and *Venom* #1 (11.89, Kingpin Books) were ordered outside the plan. The debt is then **334.56**.
-- **Nov 24: Dragon Ball triple 9** from Devir (released that day, about 23, no shipping; confirm the price). It counts against the 150, so **January has 92.44** before the Duggan lot (68.04 with it).
+- **Nov 24: Dragon Ball triple 9** from Devir (released that day, 23, no shipping, price confirmed). It counts against the 150, so **January has 92.44** before the Duggan lot (68.04 with it).
 - Nothing else is ordered in November or December except the small items below.
 
 ## Each line: what you can read in order, what you own behind a gap, and what is missing

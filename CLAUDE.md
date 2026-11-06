@@ -25,9 +25,9 @@ This is the user's Obsidian vault for planning and tracking their **physical Mar
 - Allowance **150 a month, all-in** (other hobbies, games, subscriptions count). A budget month runs 24th to 23rd, named after the 24th's cart. **Overspend is taken off the next month.** Expected about 123 from July 2027. The birthday and Christmas cart (up to 300, December) is outside it.
 - **Do not store personal finances in the vault** (income, bills, savings, mortgage, wallet exports, the budget spreadsheet). Only the resulting comics allowance and the ledger go into `Year Plan.md`. Other hobbies are mentioned only as an amount counted against the allowance. The personal workbook is `C:\Users\guita\Desktop\Monthly Budget.xlsx`, outside the vault.
 - **Do not give personal financial or investment advice.** Do arithmetic and structure; say it is not advice when the user asks "should I".
-- Walt's: shipping 12 under 150, free from 150 (confirm), charges at order time, holds an order until every item is released, don't mix pre-orders more than about two months apart. Cheap-Comics: flat 20 shipping, never fewer than three books. FOC dates matter for pre-order prices.
+- Walt's: shipping 12 under 150, free from 150 (confirmed Nov 2026), charges at order time, holds an order until every item is released, don't mix pre-orders more than about two months apart. Cheap-Comics: flat 20 shipping, never fewer than three books. FOC dates matter for pre-order prices.
 - Priorities: line books first in reading order, 1-2 next reads and 1-2 ahead per line, Iron Man first. Securing a scarce book matters more than when the money leaves. Modern books ride along only when free. New modern runs: trial singles only on FOC, else wait for the TPB. Never buy a book before the books before it in its line.
-- Open and undecided: roll-over of unspent allowance (ask first); whether Walt's free shipping still starts at 150.
+- Open and undecided: roll-over of unspent allowance (ask first).
 
 ## Working with the tools
 - Notes use CRLF in places. When editing with Python, read and write with `newline=""` and match the file's line ending. Prefer the Edit tool for small changes.

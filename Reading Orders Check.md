@@ -184,17 +184,77 @@ The site's route opens with the Amazing Spider-Man issues around the black costu
 4. **Iron Man:** the plan is confirmed (omnibus, Epic 12, Armor Wars, Dragon Seed). Epics 18-22 are the cheapest to give up.
 5. **Spider-Man:** Omnibus 4, then Epic 9, then Epics 10-12, then 13: unchanged.
 
-## Events on the character pages
-Each character page has event rows that link to a separate reading-order page for that event (about 60 in all, 2 for Iron Man, 15 for Spider-Man, 3 for Thor, 27 for Avengers, 2 for Daredevil, 3 for Strange, 10 for Venom). Issue counts are the site's.
+## Events on the character pages, mapped (read from the event pages, 2026-11-07)
+Each character page has event rows that link to a reading-order page for that event. I read all of those pages (about 50 events). The issue counts are the issue lists on the event pages, which list the core issues (the page's own "issues" number can be larger because it counts tie-ins). "After" is where the site puts the event in that character's route. "In your books" comes from matching the event's issues to the `issues` field of your book notes, plus the omnibuses and Premier Collections already in the vault.
 
-| Line | Events, with the site's issue count | In your books |
-|---|---|---|
-| Iron Man | Civil War (132), Civil War II (152) | Civil War: you have the Premier Collection (read, 7/10) |
-| Spider-Man | **Kraven's Last Hunt (7)**, **Maximum Carnage (14)**, Second Clone Saga (161), Identity Crisis (8), The Other (12), Civil War (132), One More Day (4), **Spider-Island (32)**, Goblin Nation (11), Spider-Verse (32), Dead No More / Clone Conspiracy (24), Venom Inc. (6), Spider-Geddon (26), **Absolute Carnage (30)**, Gang War (31) | Kraven's Last Hunt = Epic 17 (owned). Maximum Carnage = Epic 25 (wanted). Spider-Island = your Modern Epic 15 (owned). Absolute Carnage = owned and read (9/10). The Clone Saga events sit in Epics 27-30. |
-| Thor | Blood and Thunder (13), Siege (44), War of the Realms (63) | Blood and Thunder = Epic 21 (wanted) |
-| Avengers | **Avengers/Defenders War (8)**, Avengers Disassembled (34), Civil War (132), The Initiative (80), Secret Invasion (126), Dark Reign (290), Siege (44), Heroic Age (116), Fear Itself (121), Shattered Heroes (74), Avengers vs X-Men (71), Age of Ultron (18), Infinity (54), Inhumanity (21), Original Sin (67), AXIS (56), Secret Wars 2015 (229), Standoff (18), Civil War II (152), Secret Empire (77), War of the Realms (63), Empyre (38), King in Black (65), A.X.E. Judgment Day (35), Blood Hunt (54), **One World Under Doom (72)** and others | Avengers/Defenders War = Avengers Epic 7. Blood Hunt, One World Under Doom and King in Black have omnibuses in your vault (wanted, no prices). |
-| Daredevil | Shadowland (31), Devil's Reign (25) | modern, not in your books |
-| Strange | Avengers/Defenders War (8), Damnation (15), Death of Doctor Strange (12) | none |
-| Venom | Maximum Carnage (14), Spider-Island (32), Minimum Carnage (6), Black Vortex (13), Venomverse (13), Venom Inc. (6), **Absolute Carnage (30)**, King in Black (65), Dark Web (21), **Venom War (37)** | Absolute Carnage: owned and read. Venom War: the omnibus is ordered (Dec 8). |
+| Line | Event | Event issues | Where it sits in the route | In your books |
+|---|---|---|---|---|
+| Iron Man | Civil War | 68 | after Invincible Iron Man #12 | Civil War Premier Collection (owned, read 7/10) |
+| Iron Man | Civil War II | 111 | after International Iron Man #7 | none of your books |
+| Spider-Man | Kraven's Last Hunt | 6 | after Amazing Spider-Man Annual #21 | Spider-Man Epic 17, *Kraven's Last Hunt* (owned; the issues are in Amazing, Web and Spectacular, so only 2 matched by title) |
+| Spider-Man | Maximum Carnage | 14 | after Spectacular Spider-Man #200 | Maximum Carnage (wanted, 12 of 14 issues) |
+| Spider-Man | The Second Clone Saga | 124 | after Spider-Man Unlimited #3 | The Mark of Kaine (incoming, 13 of 124 issues); Web of Life, Web of Death (wanted, 10 of 124 issues); The Clone Saga (wanted, 9 of 124 issues) |
+| Spider-Man | Spider-Man: Identity Crisis | 8 | after Spider-Man Unlimited #3 | none of your books |
+| Spider-Man | Spider-Man: The Other | 12 | after Amazing Spider-Man Vol. 2 #524 | none of your books |
+| Spider-Man | Civil War | 68 | after Spider-Man Loves Mary Jane #20 | Civil War Premier Collection (owned, read 7/10) |
+| Spider-Man | One More Day | 4 | after Amazing Spider-Man Vol. 2 #543 | none of your books |
+| Spider-Man | Spider-Island | 15 | after Amazing Spider-Man Vol. 2 #665 | Spider-Man Modern Era Epic 15, *Spider-Island* (owned, unread) |
+| Spider-Man | Goblin Nation | 11 | after Superior Spider-Man Team-Up #8 | none of your books |
+| Spider-Man | Spider-Verse | 19 | after Amazing Spider-Man Vol. 3 #8 | none of your books |
+| Spider-Man | Dead No More / Clone Conspiracy | 18 | after Amazing Spider-Man Vol. 4 Annual #1 | none of your books |
+| Spider-Man | Venom Inc. | 4 | after Spider-Man/Deadpool #26 | none of your books |
+| Spider-Man | Spider-Geddon | 7 | after Amazing Spider-Man Vol. 5 #10 | none of your books |
+| Spider-Man | Absolute Carnage | 6 | after Amazing Spider-Man Vol. 5 #29 | Absolute Carnage omnibus (owned, read 9/10) |
+| Spider-Man | Gang War | 18 | after Amazing Spider-Man Vol. 6 #36 | none of your books |
+| Thor | Blood and Thunder | 10 | after Thor #382 | Blood and Thunder (wanted, 7 of 10 issues) |
+| Thor | Siege | 26 | after Thor #606 | none of your books |
+| Thor | War of the Realms | 29 | after Thor Vol. 5 #11 | none of your books |
+| Avengers | Avengers/Defenders War | 8 | after Avengers #114 | Avengers Epic 7, *The Avengers/Defenders War* (wanted; it is in the Avengers table, not a book note) |
+| Avengers | Avengers Disassembled | 33 | after Avengers Vol. 3 #71 | none of your books |
+| Avengers | Civil War | 68 | after New Avengers Annual #1 | Civil War Premier Collection (owned, read 7/10) |
+| Avengers | The Initiative | 59 | after New Avengers #26 | Invincible Iron Man by Gerry Duggan Vol 3 Iron and Diamonds (oop, 4 of 59 issues) |
+| Avengers | Secret Invasion | 80 | after Avengers: The Initiative #13 | none of your books |
+| Avengers | Dark Reign | 199 | after Avengers: The Initiative #13 | none of your books |
+| Avengers | Siege | 26 | after Avengers: The Initiative #13 | none of your books |
+| Avengers | Heroic Age | 66 | after Avengers: The Initiative #13 | none of your books |
+| Avengers | Fear Itself | 68 | after Avengers Vol. 4 Annual #1 | none of your books |
+| Avengers | Shattered Heroes | 54 | after Avengers Vol. 4 Annual #1 | none of your books |
+| Avengers | Avengers vs. X-Men | 46 | after Secret Avengers #25 | none of your books |
+| Avengers | Age of Ultron | 7 | after Uncanny Avengers #6 | none of your books |
+| Avengers | Infinity | 38 | after Avengers A.I. #8.NOW | none of your books |
+| Avengers | Inhumanity | 16 | after Avengers A.I. #8.NOW | none of your books |
+| Avengers | Original Sin | 37 | after New Avengers Vol. 3 #16.NOW | none of your books |
+| Avengers | Avengers & X-Men: AXIS | 37 | after Uncanny Avengers #23 | none of your books |
+| Avengers | Secret Wars (2015) | 21 | after Avengers Vol. 5 #44 | none of your books |
+| Avengers | Avengers Standoff | 15 | after New Avengers Vol. 4 #7 | none of your books |
+| Avengers | Civil War II | 111 | after All-New, All-Different Avengers Annual # | none of your books |
+| Avengers | Secret Empire | 56 | after Ultimates 2 Vol. 2 #6 | none of your books |
+| Avengers | War of the Realms | 29 | after Avengers Vol. 8 #17 | none of your books |
+| Avengers | Empyre | 12 | after Savage Avengers #0 | none of your books |
+| Avengers | King in Black | 24 | after Avengers Vol. 8 #44 | King in Black Omnibus (wanted, no price yet) |
+| Avengers | A.X.E.: Judgment Day | 20 | after Avengers Forever Vol. 2 #4 | none of your books |
+| Avengers | Avengers Assemble | 8 | after Avengers Forever Vol. 2 #11 | none of your books |
+| Avengers | Blood Hunt | 16 | after Avengers Vol. 9 #13 | Blood Hunt Omnibus (wanted, no price yet) |
+| Avengers | One World Under Doom | 72 | after West Coast Avengers Vol. 4 #10 | One World Under Doom Omnibus (wanted, no price yet; the site's event page for it is locked behind its Patreon) |
+| Daredevil | Shadowland | 7 | after Daredevil #500 | none of your books |
+| Daredevil | Devil's Reign | 3 | after Daredevil Vol. 6 #36 | none of your books |
+| Strange | Avengers/Defenders War | 8 | after Marvel Premiere #14 | Avengers Epic 7, *The Avengers/Defenders War* (wanted; it is in the Avengers table, not a book note) |
+| Strange | Damnation | 10 | after Doctor Strange #385 | none of your books |
+| Strange | Death of Doctor Strange | 12 | after Captain Marvel Vol. 11 #30 | none of your books |
+| Venom | Maximum Carnage | 14 | after Amazing Spider-Man #375 | Maximum Carnage (wanted, 12 of 14 issues) |
+| Venom | Spider-Island | 15 | after Venom Vol. 2 #4 | Spider-Man Modern Era Epic 15, *Spider-Island* (owned, unread) |
+| Venom | Minimum Carnage | 4 | after Venom Vol. 2 #25 | none of your books |
+| Venom | Black Vortex | 11 | after Guardians of the Galaxy Vol. 3 #23 | none of your books |
+| Venom | Venomverse | 2 | after Venom #154 | none of your books |
+| Venom | Venom Inc. | 4 | after Venom #158 | none of your books |
+| Venom | Absolute Carnage | 6 | after Venom Vol. 4 #16 | Absolute Carnage omnibus (owned, read 9/10) |
+| Venom | King in Black | 24 | after Venom Vol. 4 #30 | King in Black Omnibus (wanted, no price yet) |
+| Venom | Dark Web | 7 | after Venom Vol. 5 #13 | none of your books |
+| Venom | Venom War | 6 | after Venom Vol. 5 #34 | Venom War Omnibus (ordered, Dec 8) |
 
-This answers your note that events sit "in the middle of almost everything": the site treats Kraven's Last Hunt, Maximum Carnage, Spider-Island, Absolute Carnage and Venom War as stand-alone events to read inside the character's route. I have **not** read the event pages themselves yet, so the table does not say which collected book holds each event beyond the matches above.
+### What the mapping shows
+- **Inside Epics you already plan (nothing extra to buy):** Kraven's Last Hunt (Spider-Man Epic 17, owned), Maximum Carnage (Epic 25, 12 of its 14 issues), the Second Clone Saga (Epics 26-29; Epic 29 is on its way, Epic 30 is dropped) and Blood and Thunder (Thor Epic 21, 7 of 10).
+- **Already in hand or ordered as event books:** Civil War (Premier Collection, read), Spider-Island (Modern Epic 15), Absolute Carnage (read), Venom War (Dec 8).
+- **Wanted, with no price yet:** King in Black, Blood Hunt and One World Under Doom omnibuses. These three sit on the Avengers, Strange and Venom pages alike.
+- **Everything else is not in any of your books** (the Avengers events from Disassembled to Empyre, Spider-Man's modern events, Thor's Siege and War of the Realms, Daredevil's Shadowland and Devil's Reign, Strange's Damnation). They are modern events collected as their own trades or omnibuses; the vault holds no prices for them, so the first step would be to look the collected edition up when you want one.
+- **Reading order for events:** each event is read when the line's route reaches it. For Spider-Man that means Kraven's Last Hunt with Epic 17 and Maximum Carnage with Epic 25, so neither changes the buying plan.
