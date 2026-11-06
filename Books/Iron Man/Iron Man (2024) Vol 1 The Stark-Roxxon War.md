@@ -3,7 +3,8 @@ line: "Iron Man"
 type: "TPB"
 edition: "IM2024 Vol 1"
 title: "Iron Man (2024) Vol 1 The Stark-Roxxon War"
-status: "wanted"
+cart: "2026-12"
+status: "planned"
 read: false
 modern: true
 issues: "Iron Man (2024) #1-5"

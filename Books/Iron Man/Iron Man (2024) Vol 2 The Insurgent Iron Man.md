@@ -3,7 +3,8 @@ line: "Iron Man"
 type: "TPB"
 edition: "IM2024 Vol 2"
 title: "Iron Man (2024) Vol 2 The Insurgent Iron Man"
-status: "wanted"
+cart: "2026-12"
+status: "planned"
 read: false
 modern: true
 issues: "Iron Man (2024) #6-10"

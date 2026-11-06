@@ -18,7 +18,7 @@
 | Month (cart date) | Order | Spend | Owed after the month's 150 |
 |---|---|---|---|
 | Nov 24-25 | Dragon Ball 9 (23) + the Q1 pre-order group (130.50) | 153.50 | 338 |
-| Dec (gift cart, outside) | Thor Omnibus 4, Strange Masterworks 10 and 11 | 227.50 | n/a |
+| Dec (gift cart, outside) | Thor Omnibus 4, Strange Masterworks 10 and 11, Iron Man (2024) Vol 1 and 2 | 257.28 | n/a |
 | Dec 24 | Duggan #14, 15, 17, 18 (eBay Germany) | 24.40 | 212 |
 | Jan 24 | Spider-Man Omnibus 4 + Epic 9 (Walt's) | 152 | 214 |
 | Feb 24 | Daredevil Omnibus 3 + **Daredevil Epic 17** + Extremis (Walt's) | 162.69 | 226 |
@@ -34,7 +34,7 @@ The most any month adds over 150 is 40 (March). Nothing is above 200. The 20 a m
 ## By line: what is bought, in reading order, and when
 | Line | Needs, in order | Bought |
 |---|---|---|
-| **Iron Man (#1)** | Epics 9 (omnibus), 10, 11, **12**, 13, 14, 15, then **16**, 17, 18, 19, 20 | Michelinie omnibus (ordered, Apr 13); Epic 12 in the Nov 24 group (39.50); Armor Wars omnibus in June and Dragon Seed in July for Epic 16. Modern filler: *Iron Man (2026)* Vol 1 (reading), Duggan #14-18 in December (#16 still missing). |
+| **Iron Man (#1)** | Epics 9 (omnibus), 10, 11, **12**, 13, 14, 15, then **16**, 17, 18, 19, 20 | Michelinie omnibus (ordered, Apr 13); Epic 12 in the Nov 24 group (39.50); Armor Wars omnibus in June and Dragon Seed in July for Epic 16. Modern fillers: *Iron Man (2026)* Vol 1 (read), *Iron Man (2024)* Vol 1 and 2 in the December gift cart, Duggan #14-18 in December (#16 still missing). |
 | **Strange (#2)** | Masterworks 10, 11, then Epics 8, 9, 10, 11, 12, 13 | Masterworks 10 and 11 in the December gift cart; Epic 8 owned; Epics 9, 10, 11 in March; Epic 12 in June; Epic 13 in the summer. |
 | **Spider-Man** | Omnibus 3, Epic 7, then Omnibus 4 (Epic 8), Epics 9, 10, 11, 12, then 13 (owned) | Omnibus 4 and Epic 9 in January; Epic 10 in July; Epics 11 and 12 in the summer; **Epic 30** in the Nov 24 group (39.50, FOC Nov 25). |
 | **Thor** | Omnibus 4, Omnibus 5, then Epics 9, 10, 11, 12, then Simonson | Omnibus 4 in the December gift cart; Omnibus 5 in April; Epic 9 onward from August. *Son of Asgard* before Omnibus 4 if you buy it. |
@@ -56,8 +56,9 @@ One Walt's in-stock order, over 150, so no shipping. Line books that can disappe
 - Thor Omnibus 4, 85 (last copy)
 - Strange Masterworks Vol 10, 75 (out of print, no fallback)
 - Strange Masterworks Vol 11, 67.50 (two copies left)
+- *Iron Man (2024)* Vol 1 *The Stark-Roxxon War*, 16.19 (**only 1 in stock at Walt's, accepted risk of waiting**) and Vol 2 *The Insurgent Iron Man*, 13.59 (the whole 2024 run, Iron Man's lead-in to the 2026 run, so Iron Man has something to read right after Christmas)
 
-**227.50.** About 72 is free under the 300; a modern extra (for example *Journey Into Mystery*, 24.99) fits, or a Side Read from [[Side Reads]].
+**257.28.** About 43 is free under the 300 (a Side Read, or *Journey Into Mystery*, 24.99, fits).
 
 ## Why each month holds what it holds
 - **January, Spider-Man Omnibus 4 + Epic 9 (152):** Spider-Man finishes Epic 7 around then and Epic 8 only exists inside Omnibus 4; Epic 9 follows it in order. It happens to cross 150 and ships free, but that was not the reason.
