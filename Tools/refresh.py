@@ -621,8 +621,18 @@ def make_tracker(notes, cart_month, today=None):
             qm = (rel[n].month - 1) // 3 * 3 + 1
             place = datetime.date(rel[n].year, qm, 1) - datetime.timedelta(days=1)
             quarters.setdefault((place.replace(day=1), f"Q{(qm + 2) // 3} {rel[n].year}"), []).append(n)
-    for (place, q), ns in quarters.items():
-        events.append((place, True, f"Place the {q} quarterly pre-order. Candidates: " + ", ".join(f"[[{n}]] ({rel[n]:%b %Y})" for n in sorted(ns, key=lambda n: rel[n]))))
+    # FOC deadlines of books not ordered yet (the plan itself is in Year Plan.md)
+    for n, fm in data.items():
+        foc = fm.get("foc")
+        if not foc or fm.get("status") in ("incoming", "owned", "covered"):
+            continue
+        try:
+            fd = foc if isinstance(foc, datetime.date) else datetime.date.fromisoformat(str(foc))
+        except ValueError:
+            continue
+        if fd >= today:
+            pp = fm.get("preorder_price")
+            events.append((fd, False, f"FOC deadline for [[{n}]]" + (f" (pre-order price {pp})" if pp else "")))
     L += ["## Coming up", ""] + [f"- **{d:%B %Y}**: {t}" if month_only else f"- **{d:%b %d, %Y}**: {t}"
                                  for d, month_only, t in sorted(events)] + [""]
 

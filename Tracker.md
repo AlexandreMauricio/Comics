@@ -36,7 +36,9 @@ Ordered and already published, so it should arrive any time.
 ## Coming up
 
 - **Nov 24, 2026**: Place the November cart
-- **December 2026**: Place the Q1 2027 quarterly pre-order. Candidates: [[SM Epic 30 - Maximum Clonage]] (Feb 2027), [[DD Epic 10 - Redemption]] (Mar 2027), [[IM Epic 12 - Iron Monger]] (Mar 2027)
+- **Nov 25, 2026**: FOC deadline for [[SM Epic 30 - Maximum Clonage]] (pre-order price 39.5)
+- **Dec 16, 2026**: FOC deadline for [[DD Epic 10 - Redemption]] (pre-order price 39.5)
+- **Dec 16, 2026**: FOC deadline for [[IM Epic 12 - Iron Monger]] (pre-order price 39.5)
 
 ## Next reads
 
