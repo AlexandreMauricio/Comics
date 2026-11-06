@@ -3,8 +3,8 @@ line: "Thor"
 type: "Epic Collection"
 number: 6
 title: "Into the Dark Nebula"
-cart: "2026-12"
-status: "planned"
+cart: ""
+status: "wanted"
 read: false
 years: "1972-1973"
 issues: "Thor #195-216"
@@ -26,8 +26,8 @@ covered_by: ["[[The Mighty Thor Omnibus Vol 4]]"]
 goodreads_rating: 3.48
 goodreads_votes: 46
 goodreads_checked: "2026-09-29"
-urgency: "high"
-urgency_reason: "Omnibus 4 is gone from Walt's; Cheap-Comics 50 (plus 20 shipping, three-book order)"
+urgency: "low"
+urgency_reason: "Fallback if Omnibus 4 on Vinted is gone: Cheap-Comics Epics 6 (50) and 7 (60)"
 seq: 6
 purpose: "reading"
 missing_before: 0

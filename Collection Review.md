@@ -15,7 +15,7 @@ Snapshot of **2026-11-06**, built from the book notes. "Have" means owned, cover
 **Iron Man.** Epic 12 (about 45 expected, March release), Epic 19 (40.99 Walt's), Epic 21 and 22 (about 50 Walt's), Armor Wars omnibus (78.99, stock to verify), Dragon Seed (24.90, Amazon.es), Michelinie omnibus (ordered, 83.99). Epic 16 and 18 are out of print (Epic 18: ceiling 150).
 **Doctor Strange.** Masterworks 10 (75, limited) and 11 (67.50, 2 copies), Epic 9 (30 Cheap-Comics, sold out at Walt's), 10 (40 Cheap-Comics, 39 Walt's), 11 (24.90 Cheap-Comics), 12 (44.90), 13 (49.50 Cheap-Comics).
 **Spider-Man.** Omnibus 4 (115 Walt's), Epic 9 (37 Walt's). Epics 10-12 and Omnibus 5-7 have no price yet. Epic 22 was seen at 32.20 on Vinted (not bought).
-**Thor.** Epic 6 (50 Cheap-Comics), Omnibus 4 (gone from Walt's, 2026-11-11), Omnibus 5 (104.99 Walt's, not planned), Epic 7 (60 Cheap-Comics, sold out at Walt's), Epic 8 (75 Cheap-Comics), Simonson omnibus (125 Walt's, 99.50 Cheap-Comics), many Epics at Cheap-Comics (see [[Year Plan]]).
+**Thor.** Epic 6 (50 Cheap-Comics), Omnibus 4 (gone from Walt's; 74.20 plus shipping on Vinted, 2026-11-12), Omnibus 5 (104.99 Walt's), Epic 7 (60 Cheap-Comics, sold out at Walt's), Epic 8 (75 Cheap-Comics), Simonson omnibus (125 Walt's, 99.50 Cheap-Comics), many Epics at Cheap-Comics (see [[Year Plan]]).
 **Daredevil.** Omnibus 3 (105), Omnibus 4 (95), **Epic 8 (sold out at Walt's, 75 at Cheap-Comics)**, the Miller omnibus is not findable, Epic 9 ordered, Epic 10 not listed.
 **Avengers.** Epic 2 and 3 (35 at Cheap-Comics, regular 75), the West Coast Avengers Epics (about 45 at Walt's, several limited), see [[Series/Avengers]].
 

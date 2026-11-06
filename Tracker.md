@@ -59,8 +59,6 @@ Ordered and already published, so it should arrive any time.
 - [[Doctor Strange Masterworks Vol 11]]: Only 2 copies left at Walt's, discounted from 75 to 67.50. Bridge to Epic 8., not in the next cart
 - [[IM Epic 16 - War Games]]: Out of print, hard to find, not in the next cart
 - [[IM Epic 18 - The Return of Tony Stark]]: Out of print, ceiling 150 landed, not in the next cart
-- [[The Mighty Thor Omnibus Vol 4]]: Gone from Walt's (checked 2026-11-11). Route without it: Thor Epics 6 and 7 (Cheap-Comics 50 and 60)., not in the next cart
-- [[Thor Epic 06 - Into the Dark Nebula]]: Omnibus 4 is gone from Walt's; Cheap-Comics 50 (plus 20 shipping, three-book order), not in the next cart
-- [[Thor Epic 07 - Ulik Unchained]]: Sold out at Walt's; Cheap-Comics 60. Now the only route to #217-241 since Omnibus 4 is gone, not in the next cart
+- [[The Mighty Thor Omnibus Vol 4]]: Gone from Walt's (2026-11-11); one copy on Vinted at 74.20 plus shipping (2026-11-12). Buy as soon as you decide., not in the next cart
 
 More: [[Cart Planner]] · [[Incoming and Pre-orders.base|Incoming]] · [[Buy List.base|Buy List]] · [[Reading Queue.base|Reading Queue]] · [[Comics Hub]]

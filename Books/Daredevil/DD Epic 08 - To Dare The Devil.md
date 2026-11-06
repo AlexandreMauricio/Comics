@@ -7,7 +7,7 @@ price_seen: 75
 store: "Cheap-Comics"
 urgency: "high"
 urgency_reason: "Sold out at Walt's; 75 at Cheap-Comics; the Miller omnibus cannot be found"
-cart: "2027-03"
+cart: "2027-04"
 status: "wanted"
 read: false
 years: "1978-1981"

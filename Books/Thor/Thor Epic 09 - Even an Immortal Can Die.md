@@ -3,7 +3,7 @@ line: "Thor"
 type: "Epic Collection"
 number: 9
 title: "Even an Immortal Can Die"
-cart: "2027-05"
+cart: "2027-07"
 status: "wanted"
 read: false
 years: "1977-1979"

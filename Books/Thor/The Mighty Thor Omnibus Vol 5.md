@@ -3,8 +3,8 @@ line: "Thor"
 type: "Omnibus"
 number: 5
 title: "The Mighty Thor Omnibus Vol 5"
-cart: ""
-status: "wanted"
+cart: "2027-02"
+status: "planned"
 read: false
 issues: "Thor #229-266; Annual #5-6; Marvel Premiere #26; Marvel Spotlight #30"
 pages: "904"

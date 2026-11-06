@@ -3,7 +3,7 @@ line: "Doctor Strange"
 type: "Epic Collection"
 number: 9
 title: "The Vampiric Verses"
-cart: "2026-12"
+cart: "2027-04"
 status: "wanted"
 read: false
 years: "1990–1991"

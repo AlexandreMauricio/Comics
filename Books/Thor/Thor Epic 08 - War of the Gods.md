@@ -3,8 +3,10 @@ line: "Thor"
 type: "Epic Collection"
 number: 8
 title: "War of the Gods"
-cart: "2027-03"
-status: "planned"
+cart: ""
+urgency: "low"
+urgency_reason: "Fallback if Omnibus 4 on Vinted is gone: Cheap-Comics Epics 6 (50) and 7 (60)"
+status: "wanted"
 read: false
 years: "1975-1977"
 issues: "Thor #242-259, Annual #5; Marvel Spotlight #30"
