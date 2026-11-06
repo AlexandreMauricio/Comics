@@ -7,9 +7,10 @@ I love mythologies. I didn't like him always asking his father for help, and I s
 
 ## Plan and status
 
-- Read up to Epic 4. Next: Epic 5 (in Omnibus 3). Then Omnibus 4 (85, last copy; fallback Epic 6 at Cheap-Comics) and Omnibus 5 (104.99).
-- Later: Simonson omnibus (Epic 13 and the unreleased 14-15 stretch).
-- Context: Thor was killed in *Immortal Thor* #24 (2025); the modern Thor titles continue with new characters. Modern: Thor Gorr Premier (Mar 9).
+- Read up to Epic 5 (6/10). Nothing to read now; *Thor: Son of Asgard* (about 13) goes before Omnibus 4 if you buy it.
+- Next: Omnibus 4 (85, last copy; December birthday cart; fallback Epic 6 at Cheap-Comics), Omnibus 5 (104.99, February).
+- Checkpoint in July: Epics 9-12 or the Simonson omnibus (Epic 13). The site comparison says Omnibus 4 and 5 are the books it skips ([[Reading Orders Check]]).
+- Context: Thor was killed in *Immortal Thor* #24 (2025). Modern: Thor Gorr Premier (Mar 9, optional).
 
 - Reading-order check (2026-11-06): the site jumps from Epic 5 to Epic 10 and then Simonson, skipping Omnibus 4 and 5. They are the first to drop. Thor: Son of Asgard goes before Omnibus 4 ([[Side Reads]]). See [[Reading Orders Check]].
 

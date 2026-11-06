@@ -7,6 +7,7 @@ price_paid: 18.28
 ordered: 2026-11-04
 budget_month: "2026-10"
 next_read: true
+reading_started: 2026-11-06
 status: "owned"
 read: false
 budget: "monthly"

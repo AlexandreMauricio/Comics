@@ -13,7 +13,7 @@ Every Epic, omnibus, TPB and important single is a note in `Books/<line>/`. The 
 | `read` | true/false |
 | `next_read` | true on the one book to read next in that line |
 | `my_rating` | your own rating after reading, 1-10. Your impressions go in the note's "My impressions" section and in [[Reading Log]] |
-| `budget` | `monthly` or `quarterly` (quarterly pre-orders are outside the 200 EUR) |
+| `budget` | `monthly` or `quarterly` (quarterly pre-orders count inside the 150 a month, see [[Collecting Philosophy]]) |
 | `price_paid` / `price_seen` / `store` / `price_note` | what I paid, what I saw, and where |
 | `ordered` | date the order was placed (e.g. `2026-09-24`). Puts the book in the right budget month on the Spending dashboard |
 | `order_ref` | store and order number, e.g. `"Walt's #127228"` |
@@ -48,6 +48,13 @@ After orders, arrivals or finished books, ask Claude to run `Tools/refresh.py`. 
 - rewrites [[Cart Planner]] (the cart shown is the one for the next 24th; `--cart 2026-11` picks another month),
 - rewrites the Lines table in [[Comics Hub]] and the tables in [[Ratings Overview]] (only the parts between the `%% generated %%` markers),
 - runs the checks: two next-reads in one line, one-way `covers`/`covered_by` links, `covered` Epics with no omnibus in hand, paid books still marked wanted, read Epics whose omnibus only had part of them, and similar. `refresh.py check` runs only the checks.
+
+## Other notes and files
+- [[Year Plan]]: the month-by-month plan, the allowance ledger and the checkpoints. [[Side Reads]]: add-ons and retellings. [[Reading Orders Check]]: the character reading-order pages compared with your Epics, and the event rows.
+- `Series/<line>.md`: your own text at the top ("Why I read it"), then a "Plan and status" I keep current, then a table between `%% generated %%` markers. **If a table has rows typed by hand (as in Series/Avengers.md) `refresh.py` leaves the whole block alone.**
+- [[Purchase Log]] is yours and is kept by hand; the Spending dashboard reads the book notes, not the log.
+- `CLAUDE.md` is for Claude: how to work in this vault.
+- `Archive/`: old plans kept for history.
 
 ## Routine
 - Book arrives: tell me, or change its `status` to `owned`. Epics inside an omnibus update themselves on the next refresh.

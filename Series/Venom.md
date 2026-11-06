@@ -7,9 +7,9 @@ Absolute Carnage: loved it. With Venom First Host (enjoyed) and the Venom War is
 
 ## Plan and status
 
-- Read: Absolute Carnage, Venom First Host. Ordered: Venom War Omnibus (Dec 8), Carnage Modern Era Epic 2 (ships after Oct 6).
-- Modern: the new *Venom* series (Eddie Brock and the symbiote reunited, Charles Soule and Tommaso Bianchi) starts with #1 on Oct 14. *Friendly Neighborhood Mary Jane* #1 (Nov 4) is a separate series.
-- Wanted: King in Black Omnibus. Prices and stock not checked yet.
+- Read: Absolute Carnage (9/10), Venom First Host, Carnage Modern Era Epic 2.
+- Ordered: Venom War Omnibus (Dec 8), *Venom* (2026) #1 (Kingpin Books, ordered Nov 4).
+- Wanted: King in Black Omnibus (no price).
 
 - Reading-order check (2026-11-06): the site treats the Cates run (First Host, Absolute Carnage) as the core. See [[Reading Orders Check]].
 

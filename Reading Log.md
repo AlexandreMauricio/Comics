@@ -24,6 +24,7 @@ Short impressions per book. Add a rating (1-10) when known. Newest last.
 - Epic 2: Early Spidey feels rude/aggressive compared with the modern version.
 - Epic 3 (Spider-Man No More!): 7/10 (finished 2026-10-18). Early on he was rude and not the Spidey I grew up with, but I can see him starting to become him.
 - Epic 4 (The Goblin Lives): 6/10 (finished 2026-10-26). Liked it. Next is Epic 5, but not starting it yet.
+- Epic 5 (The Secret of the Petrified Tablet, in Omnibus 3): started, paused on 2026-11-06 to read Iron Man (2026) Vol 1 ("it's been a lot of Spidey lately").
 
 ## Thor
 - Epic 1-2: rough start ("Father help", 60-second rule).

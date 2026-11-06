@@ -7,9 +7,10 @@ Spidey is Spidey: I grew up with lots of Spider-Man movies, cartoons and games. 
 
 ## Plan and status
 
-- Runway: Epic 3 (incoming), Epic 4, Omnibus 3 (Epics 5-6), Epic 7. Epic 8 only comes in Omnibus 4 (115).
-- Own 13, 17 and 18 as well, behind the gap. Epic 29 is ordered (Dec 8); Epic 30 has a Nov 25 pre-order deadline (39.50).
-- Modern: *Spider-Island* is incoming.
+- Read up to Epic 4 (6/10). Epic 5 (in Omnibus 3) is started and paused while you read Iron Man.
+- Next: Epic 5-6 (Omnibus 3), Epic 7, then Omnibus 4 (Epic 8, January), Epic 9 (February), Epics 10-12. Owned behind the gap: Epics 13, 17, 18 and 29 (arrives Dec 8).
+- Epic 30 is dropped from the plan (its Nov 25 pre-order price is skipped).
+- Modern: *Spider-Island* is owned and unread. Side reads: *Untold Tales* omnibus, *Season One* ([[Side Reads]]).
 
 - Reading-order check (2026-11-06): Omnibus 4 and Epic 9 are on the route; Epics 10-12 are skipped by the site but needed to reach Epic 13. See [[Reading Orders Check]].
 
@@ -53,7 +54,7 @@ Spidey is Spidey: I grew up with lots of Spider-Man movies, cartoons and games. 
 | [[SM Epic 27 - The Clone Saga\|Epic 27: The Clone Saga]] | wanted | - | - | - |
 | [[SM Epic 28 - Web of Life, Web of Death\|Epic 28: Web of Life, Web of Death]] | wanted | - | - | - |
 | [[SM Epic 29 - The Mark of Kaine\|Epic 29: The Mark of Kaine]] | incoming | 39.5 paid | Walt's | releases Dec 8, 2026 |
-| [[SM Epic 30 - Maximum Clonage\|Epic 30: Maximum Clonage]] | planned | 39.5 (reg 54.99) seen | Walt's | releases Feb 9, 2027; FOC Nov 25; FOC Nov 25 (the day after payday): 39.50 vs 54.99 after. |
+| [[SM Epic 30 - Maximum Clonage\|Epic 30: Maximum Clonage]] | wanted | 39.5 (reg 54.99) seen | Walt's | releases Feb 9, 2027; FOC Nov 25; FOC Nov 25 (the day after payday): 39.50 vs 54.99 after. |
 
 ### Modern and events
 

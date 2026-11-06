@@ -1,29 +1,21 @@
 # Reading Rotation
 
-Draft v2 of **2026-10-05**, simulated against [[Year Plan]] v3 using the arrival date of every book. Rotation order each round: **Strange, Thor, Iron Man, Spider-Man, Daredevil, then modern or event books**. A round gives each line one unit (one Epic, or one omnibus chunk). **WAIT** means that line has nothing contiguous to read yet and the turn goes to modern books.
+Rewritten **2026-11-06**; the old simulation (built on Year Plan v3) is obsolete and was removed (it is in git history).
 
-## The pace that fits the budget
-- At 150 a month you buy about 3 units a month. So each of the five lines can get one new unit about **every 7 weeks**, not every month. That makes **8 rounds** between October 2026 and September 2027.
-- A 30-day round (one unit per line per month) needs about 65 units in the year and the budget buys about 40. The first Year Plan (v2.3) stalled Thor 9 of 13 rounds and Daredevil 7. At the 7-week pace it still stalled Thor 4 and Daredevil 3. That plan did not satisfy the rotation.
-- The current plan (v3) was built from the rotation: it buys a line's next book before its turn comes. It stalls Strange 1, Thor 1, Daredevil 1 and Iron Man 3 (by design) in 8 rounds.
+## The rule
+Every line keeps **1 or 2 books to read next and 1 or 2 ahead**, in order. **Iron Man is line #1**, then Strange, then Spider-Man, Thor and Daredevil. Modern books are palate cleansers for the gaps. At about 150 a month the money buys roughly 2 to 3 units a month, so a line can have a gap now and then, and the gap is filled with modern books.
 
-## The rotation, round by round (7-week rounds)
-| Round | Starts | Strange | Thor | Iron Man | Spider-Man | Daredevil | Modern |
-|---|---|---|---|---|---|---|---|
-| 1 | Oct 5 | WAIT (Masterworks 10 arrives Oct 31) | Epic 5 | Epic 8 | Epic 3 | Omnibus 2, Epic 3 | IM 2022 Vol 1 and 2 |
-| 2 | Nov 23 | Masterworks 10 | Epic 6 (Omnibus 4) | WAIT (Epic 9 not yet) | Epic 4 | Omnibus 2, Epic 4 part | Carnage Modern 2, Spider-Island |
-| 3 | Jan 11 | Masterworks 11 | Epic 7a (Omnibus 4) | WAIT | Epic 5 (Omnibus 3) | Omnibus 3 part 1 | Jack Murdock, Venom #1 |
-| 4 | Mar 1 | Epic 8 | Epics 7b and 8 (Omnibus 5) | WAIT | Epic 6 (Omnibus 3) | Omnibus 3 part 2 | IM 2026 Vol 1, Avengers #1 |
-| 5 | Apr 19 | Epic 9 | Epic 9 | **Epic 9 (Michelinie omnibus)** | Epic 7 | Omnibus 4 part 1 | Venom War omnibus |
-| 6 | Jun 7 | Epic 10 | Epic 10 | Epic 10 | Epic 8 (Omnibus 4) | Omnibus 4 part 2 | *Journey Into Mystery* |
-| 7 | Jul 26 | Epic 11 | Epic 11 | Epic 11 | Epic 9 | WAIT (Miller omnibus arrives Aug 31) | Extremis, Thor Gorr |
-| 8 | Sep 13 | Epic 12 | WAIT (Epic 12 bought in July, arrives later) | Epic 12 | Epic 10 | Miller omnibus (Epics 8-9) | IM 2026 Vol 2 |
+## Where each line is (2026-11-06)
+| Line | Reading now or next | Then | Waiting for |
+|---|---|---|---|
+| **Iron Man (#1)** | *Iron Man (2026)* Vol 1 (reading) | Duggan #14 and #15 (December), then Epic 9 in the Michelinie omnibus (Apr 13), Epics 10, 11, 12, 13, 14, 15 in a row | Epic 12 (April buy), the Epic 16 route (Armor Wars omnibus, Dragon Seed) |
+| **Strange** | nothing | Masterworks 10 and 11 (December birthday cart), Epic 8 (owned), Epics 9-11 (March) | the December cart |
+| **Spider-Man** | Epic 5 (in Omnibus 3), started and paused | Epic 6 (Omnibus 3), Epic 7, then Omnibus 4 (Epic 8, January), Epic 9 (February), Epics 10-12 | Omnibus 4 |
+| **Thor** | nothing (*Son of Asgard* if you buy it) | Omnibus 4 (December cart), Omnibus 5 (February) | the December cart |
+| **Daredevil** | the rest of Omnibus 2 (the Epic 4 part), before the January checkpoint | Omnibus 3, then Epic 8 (Cheap-Comics, March) | the January checkpoint |
+| **Venom / modern** | *Venom War* (Dec 8), Spider-Island, *Venom* #1 (ordered) | | |
 
-## What the simulation shows
-- **The four WAITs are known.** Strange waits one round for Masterworks 10. Iron Man waits rounds 2-4 for the Michelinie omnibus (Apr 13), filled with the Iron Man 2022 and 2026 books, Extremis and the modern pool. Daredevil waits in round 7 and Thor in round 8 unless the Miller omnibus is ordered in July and Thor Epic 12 arrives by then.
-- **The modern books are the fillers.** There are about 13 of them (the Iron Man 2022 and 2026 TPBs, the Carnage and Spider-Island Epics, Venom War, Journey, Extremis, Gorr, the new Venom and Avengers issues). They run out by about round 7, so keep adding them if you read faster than one unit per line every 7 weeks.
-- **Spider-Man never waits.** It has the deepest stock and a placeholder for Epic 10.
-- **Iron Man is full from April:** Epics 9 to 15 in a row, then Epic 16 needs the Armor Wars omnibus plus Dragon Seed, which the plan leaves for after September.
-
-## If you read faster
-If you read a line's unit in two or three days instead of seven weeks, that line runs dry earlier than shown, and the next unit has to arrive sooner. Tell me and I shift the purchases forward; the budget will not stretch to more than about three units a month.
+## Notes
+- Strange and Thor have nothing to read until the December cart. That is accepted; *Son of Asgard* (about 13) and Iron Man's modern books fill the time.
+- You read fast (a Thor or Iron Man Epic in a day or two), so the stock at home is the thing to watch. If a line runs dry sooner than shown here, tell me and I move that line's next book earlier in [[Year Plan]].
+- The site comparison in [[Reading Orders Check]] says which books are the first to drop if the money runs short: Thor Omnibus 4 and 5, Daredevil Omnibus 3 and 4, Avengers Epics 18-28.

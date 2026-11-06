@@ -3,7 +3,7 @@ line: "Spider-Man"
 type: "Epic Collection"
 number: 30
 title: "Maximum Clonage"
-status: "planned"
+status: "wanted"
 read: false
 budget: "quarterly"
 years: "1995"
@@ -22,7 +22,7 @@ ai_acquisition: "Preorder Feb 2027"
 ai_reason: "Completionists only. Lowest priority."
 ai_source: "ChatGPT/Gemini (unverified)"
 seq: 30
-purpose: "preorder"
+purpose: "security"
 missing_before: 18
 foc: "2026-11-25"
 preorder_price: 39.5

@@ -7,8 +7,8 @@ Sure, why not get more one day. The new series interested me because Spider-Man 
 
 ## Plan and status
 
-- Classic: Epic 1 read, nothing else planned.
-- Modern: *Avengers* (2026) by Chip Zdarsky and Marco Checchetto starts with #1 on Nov 4. Test with #1-2 before any subscription.
+- Classic: Epic 1 read. Avengers is Iron Man's support line, so only Epics 2-17 matter (the site's route skips 18-28). Epics 2 and 3 are 35 each at Cheap-Comics (optional, March).
+- Modern: *Avengers* (2026) #1 is parked (the FOC passed): wait for the first TPB. The West Coast Avengers table at the bottom is typed by hand.
 
 - Reading-order check (2026-11-06): the site's route covers Epics 2-17 and skips Epics 18-28. See [[Reading Orders Check]].
 

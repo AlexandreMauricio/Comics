@@ -3,6 +3,8 @@ line: "Spider-Man"
 type: "Epic Collection"
 number: 5
 title: "The Secret of the Petrified Tablet"
+reading_started: 2026-11-02
+reading_note: "paused 2026-11-06"
 status: "covered"
 read: false
 next_read: true

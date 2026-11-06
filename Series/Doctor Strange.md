@@ -7,9 +7,9 @@ As a 2000 kid I grew up with Harry Potter too, but this is a different, better v
 
 ## Plan and status
 
-- Read up to Epic 5 (6/10). Next: Masterworks Vol 10, then Vol 11 (they stand in for the unreleased Epics 6-7; Vol 9 is skipped on purpose), then Epic 8.
-- After that Epics 9 and 10 (wanted), then 11-13 (no prices yet).
-- Modern: *Journey Into Mystery* (Dec 8), Aaron and Bachalo omnibus (84.70 on Vinted). Backstory omnibuses (Blood Hunt, One World Under Doom) are optional.
+- Read up to Epic 5 (6/10). Nothing to read now.
+- Next: Masterworks Vol 10 and Vol 11 (December birthday cart; they stand in for the unreleased Epics 6-7; Vol 9 is skipped on purpose), then Epic 8 (owned), then Epics 9-11 (Cheap-Comics, March), Epic 12 (May), Epic 13 (September).
+- Modern: *Journey Into Mystery* (Dec 8, optional), Aaron and Bachalo omnibus (84.70 on Vinted). The Blood Hunt and One World Under Doom omnibuses are optional.
 
 - Reading-order check (2026-11-06): the site recommends your whole Epic route, so nothing is skippable. See [[Reading Orders Check]].
 
