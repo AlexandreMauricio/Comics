@@ -5,7 +5,7 @@ This is the user's Obsidian vault for planning and tracking their **physical Mar
 ## Who and what
 - Collects and reads **Marvel Epic Collections** (omnibuses as substitutes). Lines, in priority: **Iron Man (#1)**, Doctor Strange (#2), Spider-Man, Thor, Daredevil. Avengers is Iron Man's support line. Modern books are palate cleansers. Venom is an interest. See `Series/<line>.md` ("Why I read it" is the user's own text: don't rewrite it).
 - Reads **fast** (an Epic in one or two days). Physical only, no digital. Stores: Walt's (default, careful packing), Cheap-Comics, Amazon.es, Vinted, eBay (UK and Germany), Kingpin Books.
-- The user wants every story, in order. The reading-order site (see [[Reading Orders Check]]) only says what to drop first when money is short; it never changes the order.
+- The user wants **every comic on these lines collected** (as Epics or omnibuses) and read in order, and doesn't mind paying early to secure a book. The reading-order site (see [[Reading Orders Check]]) only says what to drop first when money is short; it never changes the order.
 
 ## Where things live
 - `Books/<Line>/*.md`: one note per book. The YAML properties are the data (see [[How this vault works]]). Never invent prices, dates or stock: record what the user told you or what you read on a page, and say so.

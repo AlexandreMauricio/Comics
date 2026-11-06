@@ -3,8 +3,8 @@ line: "Daredevil"
 type: "Epic Collection"
 number: 10
 title: "Redemption"
-cart: ""
-status: "wanted"
+cart: "2026-11"
+status: "planned"
 read: false
 budget: "quarterly"
 years: "1983-1985"
@@ -23,7 +23,7 @@ ai_acquisition: "Preorder March 2027"
 ai_reason: "Transitional post-Miller period."
 ai_source: "ChatGPT/Gemini (unverified)"
 seq: 10
-purpose: "future"
+purpose: "preorder"
 missing_before: 5
 source: "Epics.xlsx Main Page + Ranking tab, cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"
 wikipedia_checked: "2026-09-29"

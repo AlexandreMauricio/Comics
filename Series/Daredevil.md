@@ -9,7 +9,7 @@ He isn't that special to me, but I've always liked lawyer shows, and a normal la
 
 - Read up to Epic 3 (6/10), plus *Battlin' Jack Murdock*. Scores so far: 8, 7, 6.
 - Next: the rest of Omnibus 2 (the Epic 4 part), read before the January checkpoint. Then Omnibus 3 (105) and Omnibus 4 (95) if the checkpoint passes.
-- Epic 8 (*To Dare The Devil*) is the book the site treats as core: sold out at Walt's, 75 at Cheap-Comics (March order); the Miller omnibus is not findable. Epic 9 is ordered (Dec 1). Epic 10 is not planned.
+- Epic 8 (*To Dare The Devil*) is the book the site treats as core: sold out at Walt's, 75 at Cheap-Comics (March order); the Miller omnibus is not findable. Epic 9 is ordered (Dec 1). Epic 10 is in the Q1 pre-order group (March release).
 - Modern: Daredevil (2026) is parked.
 
 - Reading-order check (2026-11-06): the site skips #1-157 and starts at the Miller era (Epic 8). Omnibus 3 and 4 are the first to drop; find the price of Epic 8 and the Miller omnibus. See [[Reading Orders Check]].
@@ -33,7 +33,7 @@ He isn't that special to me, but I've always liked lawyer shows, and a normal la
 | [[DD Epic 08 - To Dare The Devil\|Epic 8: To Dare The Devil]] | wanted | 75 seen | Cheap-Comics | Sold out at Walt's; 75 at Cheap-Comics; the Miller omnibus cannot be found |
 | [[Daredevil by Frank Miller and Klaus Janson Omnibus\|Daredevil by Frank Miller and Klaus Janson Omnibus]] | wanted | - | - | Not findable anywhere (checked 2026-11-06). |
 | [[DD Epic 09 - Resurrection\|Epic 9: Resurrection]] | incoming | 39.5 paid | Walt's | releases Dec 1, 2026 |
-| [[DD Epic 10 - Redemption\|Epic 10: Redemption]] | wanted | - | - | releases Mar 2027 |
+| [[DD Epic 10 - Redemption\|Epic 10: Redemption]] | planned | - | - | releases Mar 2027 |
 | [[DD Epic 11 - Not yet released\|Epic 11: Not yet released]] | unreleased | - | - | - |
 | [[DD Epic 12 - It Comes with the Claws\|Epic 12: It Comes with the Claws]] | wanted | - | - | Sold out can't find |
 | [[Daredevil by Nocenti & Romita JR. Vol. 1\|Daredevil by Nocenti & Romita JR. Vol. 1]] | wanted | - | - | Alternative for epic 12, also sold out (covers #234-266) |

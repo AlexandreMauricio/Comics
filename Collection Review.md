@@ -7,9 +7,9 @@ Snapshot of **2026-11-06**, built from the book notes. "Have" means owned, cover
 |---|---|---|---|---|---|---|---|
 | Iron Man | 22 | 16 | 1 (Epic 12) | 5 (16 and 18 are OOP) | 0 (Epic 9 comes in the Michelinie omnibus, ordered) | Epic 8 | Epic 9 (omnibus, Apr 13), then Epic 12 |
 | Doctor Strange | 13 | 6 | 0 | 5 | 2 (Epics 6 and 7) | Epic 5 | Masterworks 10 and 11 stand in for Epics 6-7 |
-| Spider-Man | 30 | 11 | 0 | 17 | 2 (Epics 14 and 16) | Epic 4 | Epic 8 (Omnibus 4) |
+| Spider-Man | 30 | 11 | 1 (Epic 30) | 16 | 2 (Epics 14 and 16) | Epic 4 | Epic 8 (Omnibus 4) |
 | Thor | 25 | 5 | 0 | 18 | 2 (Epics 14 and 15) | Epic 5 | Epic 6 (Omnibus 4) |
-| Daredevil | 21 | 4 | 0 | 15 | 1 (Epic 11) | Epic 3 | Epic 4 (Omnibus 3) |
+| Daredevil | 21 | 4 | 1 (Epic 10) | 14 | 1 (Epic 11) | Epic 3 | Epic 4 (Omnibus 3) |
 
 ## Prices and stock known
 **Iron Man.** Epic 12 (about 45 expected, March release), Epic 19 (40.99 Walt's), Epic 21 and 22 (about 50 Walt's), Armor Wars omnibus (78.99, stock to verify), Dragon Seed (24.90, Amazon.es), Michelinie omnibus (ordered, 83.99). Epic 16 and 18 are out of print (Epic 18: ceiling 150).
