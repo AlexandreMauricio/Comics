@@ -65,7 +65,7 @@ As a developer, a kid from 2000 and a nerd who grew up with the MCU, the technol
 | [[Invincible Iron Man (2022) 18\|Invincible Iron Man (2022) #18]] | wanted | 4.8 seen | - | eBay, slow hunt, 1-2 per month at most |
 | [[Invincible Iron Man (2022) 19\|Invincible Iron Man (2022) #19]] | owned | 6.5 paid | Walt's | Skottie Young variant, about 6-7 Arrived 2026-10-09. |
 | [[Invincible Iron Man (2022) 20\|Invincible Iron Man (2022) #20]] | owned | 6.5 paid | Walt's | About 6-7 Arrived 2026-10-09. |
-| [[Iron Man (2024) Vol 1 The Stark-Roxxon War\|Iron Man (2024) Vol 1 The Stark-Roxxon War]] | planned | 16.19 seen | Walt's | Walt's 16.19, only 1 in stock (seen 2026-11-09) |
+| [[Iron Man (2024) Vol 1 The Stark-Roxxon War\|Iron Man (2024) Vol 1 The Stark-Roxxon War]] | planned | 16.19 seen | Walt's | Walt's 16.19, only 1 in stock (seen 2026-11-09). |
 | [[Iron Man (2024) Vol 2 The Insurgent Iron Man\|Iron Man (2024) Vol 2 The Insurgent Iron Man]] | planned | 13.59 seen | Walt's | Walt's 13.59 (seen 2026-11-09) |
 | [[Iron Man (2026) Vol 1 A New Nightmare\|Iron Man (2026) Vol 1 A New Nightmare]] | owned | 18.28 paid | Amazon | read; Amazon, 18.28 paid. |
 | [[Iron Man (2026) 1 liked cover\|Iron Man (2026) #1 liked cover]] | wanted | 15 seen | Walt's | Single at Walt's, one cover liked. |

@@ -44,7 +44,7 @@ Ordered and already published, so it should arrive any time.
 
 | Line | Next read | Status |
 |---|---|---|
-| Spider-Man | [[SM Epic 05 - The Secret of the Petrified Tablet\|Epic 5]] | covered |
+| Spider-Man | [[SM Epic 06 - The Death of Captain Stacy\|Epic 6]] | covered |
 
 ## Needs attention
 

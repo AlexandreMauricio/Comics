@@ -5,6 +5,7 @@ number: 6
 title: "The Death of Captain Stacy"
 status: "covered"
 read: false
+next_read: true
 years: "1970-1972"
 issues: "Amazing Spider-Man #86–104"
 writers: "Stan Lee, Roy Thomas"

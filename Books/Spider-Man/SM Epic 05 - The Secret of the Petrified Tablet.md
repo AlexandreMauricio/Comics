@@ -4,10 +4,10 @@ type: "Epic Collection"
 number: 5
 title: "The Secret of the Petrified Tablet"
 reading_started: 2026-11-02
-reading_note: "paused 2026-11-06"
 status: "covered"
-read: false
-next_read: true
+read: true
+my_rating: 6
+next_read: false
 years: "1968-1970"
 issues: "Amazing Spider-Man #68–85, Annual #5"
 writers: "Stan Lee"

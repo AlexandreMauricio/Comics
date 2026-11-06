@@ -10,7 +10,7 @@ Every line keeps **1 or 2 books to read next and 1 or 2 ahead**, in order. **Iro
 |---|---|---|---|
 | **Iron Man (#1)** | *Iron Man (2026)* Vol 1 (reading) | Duggan #14 and #15 (December), then Epic 9 in the Michelinie omnibus (Apr 13), Epics 10, 11, 12, 13, 14, 15 in a row | Epic 12 (April buy), the Epic 16 route (Armor Wars omnibus, Dragon Seed) |
 | **Strange** | nothing | Masterworks 10 and 11 (December birthday cart), Epic 8 (owned), Epics 9-11 (March) | the December cart |
-| **Spider-Man** | Epic 5 (in Omnibus 3), started and paused | Epic 6 (Omnibus 3), Epic 7, then Omnibus 4 (Epic 8, January), Epic 9 (February), Epics 10-12 | Omnibus 4 |
+| **Spider-Man** | Epic 6 (the second half of Omnibus 3) | Epic 7, then Omnibus 4 (Epic 8, January), Epic 9 (February), Epics 10-12 | Omnibus 4 |
 | **Thor** | nothing (*Son of Asgard* if you buy it) | Omnibus 4 (December cart), Omnibus 5 (February) | the December cart |
 | **Daredevil** | the rest of Omnibus 2 (the Epic 4 part), before the January checkpoint | Omnibus 3, then Epic 8 (Cheap-Comics, March) | the January checkpoint |
 | **Venom / modern** | *Venom War* (Dec 8), Spider-Island, *Venom* #1 (ordered) | | |

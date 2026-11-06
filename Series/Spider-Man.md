@@ -7,7 +7,7 @@ Spidey is Spidey: I grew up with lots of Spider-Man movies, cartoons and games. 
 
 ## Plan and status
 
-- Read up to Epic 4 (6/10). Epic 5 (in Omnibus 3) is started and paused while you read Iron Man.
+- Read up to Epic 5 (6/10; Epic 4 also 6/10). Next: Epic 6 (the second half of Omnibus 3), then Epic 7.
 - Next: Epic 5-6 (Omnibus 3), Epic 7, then Omnibus 4 (Epic 8, January), Epic 9 (February), Epics 10-12. Owned behind the gap: Epics 13, 17, 18 and 29 (arrives Dec 8).
 - Epic 30 is back on the list: pre-order at 39.50 by Nov 25 (FOC), in the Q1 pre-order group.
 - Modern: *Spider-Island* is owned and unread. Side reads: *Untold Tales* omnibus, *Season One* ([[Side Reads]]).
@@ -24,7 +24,7 @@ Spidey is Spidey: I grew up with lots of Spider-Man movies, cartoons and games. 
 | [[SM Epic 02 - Great Responsibility\|Epic 2: Great Responsibility]] | owned | 49.99 paid | Cheap-Comics | read |
 | [[SM Epic 03 - Spider-Man No More!\|Epic 3: Spider-Man No More!]] | owned | 40.99 paid | Walt's | read, 7/10; Pre-order. |
 | [[SM Epic 04 - The Goblin Lives\|Epic 4: The Goblin Lives]] | owned | 67.9 paid | Vinted | read, 6/10; 67.90 with shipping on Vinted. |
-| [[SM Epic 05 - The Secret of the Petrified Tablet\|Epic 5: The Secret of the Petrified Tablet]] | covered | - | - | in The Amazing Spider-Man Omnibus Vol 3 |
+| [[SM Epic 05 - The Secret of the Petrified Tablet\|Epic 5: The Secret of the Petrified Tablet]] | covered | - | - | read, 6/10; in The Amazing Spider-Man Omnibus Vol 3 |
 | [[The Amazing Spider-Man Omnibus Vol 3\|The Amazing Spider-Man Omnibus Vol 3]] | owned | 108.5 paid | Vinted | 108.50 with shipping on Vinted. |
 | [[SM Epic 06 - The Death of Captain Stacy\|Epic 6: The Death of Captain Stacy]] | covered | - | - | in The Amazing Spider-Man Omnibus Vol 3 |
 | [[SM Epic 07 - The Goblin's Last Stand\|Epic 7: The Goblin's Last Stand]] | owned | 30.99 paid | Walt's | 40.99 minus a 10 newsletter discount |
