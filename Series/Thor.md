@@ -11,6 +11,8 @@ I love mythologies. I didn't like him always asking his father for help, and I s
 - Later: Simonson omnibus (Epic 13 and the unreleased 14-15 stretch).
 - Context: Thor was killed in *Immortal Thor* #24 (2025); the modern Thor titles continue with new characters. Modern: Thor Gorr Premier (Mar 9).
 
+- Reading-order check (2026-11-06): the site jumps from Epic 5 to Epic 10 and then Simonson, skipping Omnibus 4 and 5. They are the first to drop. Thor: Son of Asgard goes before Omnibus 4 ([[Side Reads]]). See [[Reading Orders Check]].
+
 ## Books
 %% begin generated: books %%
 ### Classic

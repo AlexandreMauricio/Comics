@@ -11,6 +11,8 @@ As a 2000 kid I grew up with Harry Potter too, but this is a different, better v
 - After that Epics 9 and 10 (wanted), then 11-13 (no prices yet).
 - Modern: *Journey Into Mystery* (Dec 8), Aaron and Bachalo omnibus (84.70 on Vinted). Backstory omnibuses (Blood Hunt, One World Under Doom) are optional.
 
+- Reading-order check (2026-11-06): the site recommends your whole Epic route, so nothing is skippable. See [[Reading Orders Check]].
+
 ## Books
 %% begin generated: books %%
 ### Classic

@@ -10,6 +10,8 @@ Sure, why not get more one day. The new series interested me because Spider-Man 
 - Classic: Epic 1 read, nothing else planned.
 - Modern: *Avengers* (2026) by Chip Zdarsky and Marco Checchetto starts with #1 on Nov 4. Test with #1-2 before any subscription.
 
+- Reading-order check (2026-11-06): the site's route covers Epics 2-17 and skips Epics 18-28. See [[Reading Orders Check]].
+
 ## Books
 %% begin generated: books %%
 ### Classic

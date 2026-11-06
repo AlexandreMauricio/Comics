@@ -11,6 +11,8 @@ Absolute Carnage: loved it. With Venom First Host (enjoyed) and the Venom War is
 - Modern: the new *Venom* series (Eddie Brock and the symbiote reunited, Charles Soule and Tommaso Bianchi) starts with #1 on Oct 14. *Friendly Neighborhood Mary Jane* #1 (Nov 4) is a separate series.
 - Wanted: King in Black Omnibus. Prices and stock not checked yet.
 
+- Reading-order check (2026-11-06): the site treats the Cates run (First Host, Absolute Carnage) as the core. See [[Reading Orders Check]].
+
 ## Books
 %% begin generated: books %%
 ### Events and modern runs

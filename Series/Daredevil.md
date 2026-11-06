@@ -11,6 +11,8 @@ He isn't that special to me, but I've always liked lawyer shows, and a normal la
 - Epic 9 is ordered (Dec 1). Epic 10 is not listed yet.
 - Modern: Daredevil (2026) Vol 1 (Dec 22), *Battlin' Jack Murdock* (incoming).
 
+- Reading-order check (2026-11-06): the site skips #1-157 and starts at the Miller era (Epic 8). Omnibus 3 and 4 are the first to drop; find the price of Epic 8 and the Miller omnibus. See [[Reading Orders Check]].
+
 ## Books
 %% begin generated: books %%
 ### Classic

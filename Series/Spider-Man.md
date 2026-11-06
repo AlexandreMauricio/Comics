@@ -11,6 +11,8 @@ Spidey is Spidey: I grew up with lots of Spider-Man movies, cartoons and games. 
 - Own 13, 17 and 18 as well, behind the gap. Epic 29 is ordered (Dec 8); Epic 30 has a Nov 25 pre-order deadline (39.50).
 - Modern: *Spider-Island* is incoming.
 
+- Reading-order check (2026-11-06): Omnibus 4 and Epic 9 are on the route; Epics 10-12 are skipped by the site but needed to reach Epic 13. See [[Reading Orders Check]].
+
 ## Books
 %% begin generated: books %%
 ### Classic

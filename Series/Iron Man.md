@@ -11,6 +11,8 @@ As a developer, a kid from 2000 and a nerd who grew up with the MCU, the technol
 - Epic 16: Armor Wars Omnibus plus Dragon Seed TPB (misses #267-269 and #276-277). Epic 18 is out of print (ceiling 150 landed). Epics 21 and 22 are the lowest rated, last.
 - While Iron Man waits for April: Invincible Iron Man (2022) TPBs, Iron Man (2026) Vol 1, Extremis.
 
+- Reading-order check (2026-11-06): the plan is on the site's route. Epics 14, 15 and 18-22 are the first to drop; Cantwell's *Iron Man* (2020-23) is the natural next modern run. See [[Reading Orders Check]].
+
 ## Books
 %% begin generated: books %%
 ### Classic

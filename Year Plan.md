@@ -91,6 +91,13 @@ If the Daredevil checkpoint fails, this order is Spider-Man Omnibus 4 alone (127
 ## Not planned
 Avengers #1 as a separate order, Daredevil Epic 10 as its own order, Iron Man Epics 18-22 (Epic 18 is out of print: keep an alert), event omnibuses (no prices yet), West Coast Avengers (6 of 8 Epics are OOP or limited).
 
+## Site check (2026-11-06, see [[Reading Orders Check]])
+- **Thor:** Omnibus 4 and 5 are about 190 for books the site's route skips, the same books Goodreads rates 3.1-3.9. They stay in the plan because you want every story, but they are the first to drop.
+- **Daredevil:** Omnibus 3 and 4 are about 200 for books the site skips (#1-157), and your scores are 8, 7, 6. The books the site treats as core are Epic 8 and the Miller omnibus: find their prices before spending on the omnibuses.
+- **Avengers:** the site's route stops at Epic 17. Epics 18-28 are not needed.
+- **Iron Man:** confirmed. Epic 12, Armor Wars and Dragon Seed are on the site's route. Epics 18-22 are the cheapest to give up.
+- **Spider-Man:** unchanged. Omnibus 4 and Epic 9 are on the route; Epics 10-12 are what you need to read in order to reach Epic 13.
+
 ## Daredevil checkpoint
 Epic 1 was 8, Epic 2 was 7, Epic 3 was 6. Read the rest of Omnibus 2 (the Epic 4 part) before January. If it is also 6 or lower, hold Omnibus 3 (105) and Omnibus 4 (95) and use that room elsewhere. If it picks up, buy as planned.
 
