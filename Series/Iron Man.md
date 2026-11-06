@@ -64,7 +64,7 @@ As a developer, a kid from 2000 and a nerd who grew up with the MCU, the technol
 | [[Invincible Iron Man (2022) 18\|Invincible Iron Man (2022) #18]] | wanted | 4.8 seen | - | eBay, slow hunt, 1-2 per month at most |
 | [[Invincible Iron Man (2022) 19\|Invincible Iron Man (2022) #19]] | owned | 6.5 paid | Walt's | Skottie Young variant, about 6-7 Arrived 2026-10-09. |
 | [[Invincible Iron Man (2022) 20\|Invincible Iron Man (2022) #20]] | owned | 6.5 paid | Walt's | About 6-7 Arrived 2026-10-09. |
-| [[Iron Man (2026) Vol 1 A New Nightmare\|Iron Man (2026) Vol 1 A New Nightmare]] | incoming | 18.28 paid | Amazon | Decision 2026-10-01: order at Walt's (about 17 + about 9 shipping = about 26) for careful packing,... |
+| [[Iron Man (2026) Vol 1 A New Nightmare\|Iron Man (2026) Vol 1 A New Nightmare]] | owned | 18.28 paid | Amazon | Amazon, 18.28 paid. |
 | [[Iron Man (2026) 1 liked cover\|Iron Man (2026) #1 liked cover]] | wanted | 15 seen | Walt's | Single at Walt's, one cover liked. |
 | [[Iron Man (2026) 1-4 connecting cartoony covers (set of four)\|Iron Man (2026) #1-4 connecting cartoony covers (set of four)]] | wanted | 25 seen | Vinted | Skottie Young 4-part connecting variant, exists for #1-4 only. |
 | [[Iron Man (2026) Vol 2\|Iron Man (2026) Vol 2]] | wanted | - | - | releases May 4, 2027 |

@@ -31,6 +31,7 @@ Sorted by purpose, then by how short the line's runway is, then by the first com
 | reading | Spider-Man | 3 | [[The Amazing Spider-Man Omnibus Vol 4]] | wanted | 115 | Walt's | 0 | medium - Only route to Epic 8, 115 at Walt's |
 | reading | Spider-Man | 3 | [[SM Epic 08 - Man-Wolf at Midnight]] | wanted | 115 | Walt's | 0 |  |
 | security | Daredevil | 0 | [[Daredevil Omnibus Vol 4]] | wanted | 95 | Walt's | 2 | medium - Just released, discounted 95 vs 125 |
+| security | Daredevil | 0 | [[DD Epic 08 - To Dare The Devil]] | wanted | 75 | Cheap-Comics | 4 | high - Sold out at Walt's; 75 at Cheap-Comics; the Miller omnibus cannot be found |
 | security | Doctor Strange | 0 | [[Doctor Strange Masterworks Vol 11]] | wanted | 67.5 | Walt's | 1 | high - Only 2 copies left at Walt's, discounted from 75 to 67.50. Bridge to Epic 8. |
 | security | Doctor Strange | 0 | [[DS Epic 09 - The Vampiric Verses]] | wanted | 30 | Cheap-Comics | 2 | medium - Sold out at Walt's; 30 at Cheap-Comics |
 | security | Iron Man | 3 | [[Iron Man Armor Wars Omnibus]] | wanted | 78.99 | Walt's | 1 | medium - On sale 78.99, check real stock |

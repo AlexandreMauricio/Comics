@@ -17,7 +17,6 @@ Ordered and already published, so it should arrive any time.
 | Book | Store | Paid | Ordered | Note |
 |---|---|---|---|---|
 | [[Venom (2026) 1]] | Kingpin Books | 11.89 | 2026-11-04 | Eddie Brock and the symbiote reunited; Charles Soule and Tommaso Bianchi. Singles run about 6-8; exact Walt's price not checked. |
-| [[Iron Man (2026) Vol 1 A New Nightmare]] | Amazon | 18.28 | 2026-11-04 | Decision 2026-10-01: order at Walt's (about 17 + about 9 shipping = about 26) for careful packing, instead of Amazon at 18 with free Prime shipping. Singles are 6-8 each; see Modern Runs. |
 
 ## Pre-orders (not released yet)
 
@@ -37,15 +36,16 @@ Ordered and already published, so it should arrive any time.
 
 | Line | Next read | Status |
 |---|---|---|
+| Iron Man | [[Iron Man (2026) Vol 1 A New Nightmare]] | owned |
 | Spider-Man | [[SM Epic 05 - The Secret of the Petrified Tablet\|Epic 5]] | covered |
 
 ## Needs attention
 
 - DS Epic 04 - Alone Against Eternity: read, but the omnibus you read it in has only part of it (not in it: Doctor Strange (vol. 2) #23-28)
-- Iron Man: no book has next_read
 - Doctor Strange: no book has next_read
 - Thor: no book has next_read
 - Daredevil: no book has next_read
+- [[DD Epic 08 - To Dare The Devil]]: Sold out at Walt's; 75 at Cheap-Comics; the Miller omnibus cannot be found, not in the next cart
 - [[Daredevil Omnibus Vol 3]]: Out of print, last copies at Walt's at 105 (in stock 2026-09-30, no count shown), not in the next cart
 - [[Doctor Strange Masterworks Vol 10]]: Out of print / limited supply at Walt's (75). Bridge from Epic 5 toward Epic 8., not in the next cart
 - [[Doctor Strange Masterworks Vol 11]]: Only 2 copies left at Walt's, discounted from 75 to 67.50. Bridge to Epic 8., not in the next cart

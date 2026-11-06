@@ -6,7 +6,8 @@ title: "Iron Man (2026) Vol 1 A New Nightmare"
 price_paid: 18.28
 ordered: 2026-11-04
 budget_month: "2026-10"
-status: "incoming"
+next_read: true
+status: "owned"
 read: false
 budget: "monthly"
 issues: "Iron Man (2026) #1-6"
@@ -17,7 +18,7 @@ cart: ""
 writers: "Joshua Williamson"
 artists: "Carmen Carnero"
 isbn: ["9781302969066"]
-price_note: "Decision 2026-10-01: order at Walt's (about 17 + about 9 shipping = about 26) for careful packing, instead of Amazon at 18 with free Prime shipping. Singles are 6-8 each; see Modern Runs."
+price_note: "Amazon, 18.28 paid. Arrived 2026-11-06."
 seq: 2001
 order: 2001
 source: "Conversation with user (2026-09)"

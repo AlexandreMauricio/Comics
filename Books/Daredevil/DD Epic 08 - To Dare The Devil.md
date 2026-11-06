@@ -3,6 +3,11 @@ line: "Daredevil"
 type: "Epic Collection"
 number: 8
 title: "To Dare The Devil"
+price_seen: 75
+store: "Cheap-Comics"
+urgency: "high"
+urgency_reason: "Sold out at Walt's; 75 at Cheap-Comics; the Miller omnibus cannot be found"
+cart: "2027-03"
 status: "wanted"
 read: false
 years: "1978-1981"
@@ -26,7 +31,7 @@ goodreads_rating: 4.37
 goodreads_votes: 43
 goodreads_checked: "2026-09-29"
 seq: 8
-purpose: "future"
+purpose: "security"
 missing_before: 4
 coverage_gaps: "#162; Bizarre Adventures #28"
 source: "Epics.xlsx Main Page + Ranking tab, cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"

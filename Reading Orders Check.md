@@ -2,7 +2,9 @@
 
 Compared on 2026-11-06 against the eight character pages on comicbookreadingorders.com (Iron Man, Spider-Man, Thor, Avengers, Fantastic Four, Daredevil, Doctor Strange, Venom). The site's list was read issue by issue and matched to the issues each of your Epics, omnibuses and TPBs collects (the `issues` field of each book note).
 
-**How to read the tables.** "Site issues in it" counts the issues of that book that the site's route includes. *yes* means most of the book is on the site's route, *partly* means some of it, *skipped* means none. The site is a **short route for a first-time reader**, not a verdict on quality: you want every story, so *skipped* does not mean "don't read it". It tells you which books are the **first to drop if money is tight** and which are the core. Two limits: the match is by series and issue number, so crossover issues in other titles (for example Kraven's Last Hunt) show as skipped, and classic runs of a second volume (for example Doctor Strange vol. 2) are read by hand below.
+**How I checked.** I downloaded each page and read its list of single issues (title, year and the site's own note), then matched each issue by series name and number to the issues that each of your books collects (the `issues` field of the book notes). The tables below come from that match. **The first version of this check missed the pages' event rows**: events such as Kraven's Last Hunt are rows on the character page that link to their own event page, and I did not read those pages. They are listed in the *Events on the character pages* section below. That is also why a book like Spider-Man Epic 17 (Kraven's Last Hunt) shows as "skipped" in its table: its issues are in other titles (Web of Spider-Man, Spectacular Spider-Man) and the site lists them as an event.
+
+**How to read the tables.** "Site issues in it" counts the issues of that book that the site's route includes. *yes* means most of the book is on the site's route, *partly* means some of it, *skipped* means none. The site is a **short route for a first-time reader**, not a verdict on quality: you want every story, so *skipped* does not mean "don't read it". It tells you which books are the **first to drop if money is tight** and which are the core. The match is by series and issue number, so crossovers in other titles and the classic runs of a second volume (for example Doctor Strange vol. 2) are read by hand below.
 
 ## Iron Man
 The site's route: a few early Tales of Suspense issues, then #113 onward (Demon in a Bottle and everything after), covering Epic 8, the Michelinie omnibus, Epics 10, 11, 12, 13, the Armor Wars omnibus, Epic 16 and Dragon Seed, then the modern runs.
@@ -123,7 +125,7 @@ The site's route covers Epics 1-4 (your Omnibus 1-3), then **jumps from Epic 5 s
 ## Daredevil
 The site's route **skips #1-157 entirely** (your Epics 1-7 and Omnibus 2, 3 and 4) and starts at #158, which is the Miller era (Epic 8 and the Miller omnibus), then Epic 9, parts of Epics 10 and 12, the Nocenti omnibuses, Epics 13 and 14.
 - **Why it matters:** Daredevil Omnibus 3 (105) and 4 (95) are about 200 for books the site skips, and your scores are falling (8, 7, 6). The books the site treats as core are **Epic 8 and the Miller omnibus**, and I have no price for either.
-- **First to find out:** the price and stock of Epic 8 (*To Dare The Devil*) and the Miller omnibus. They matter more than the omnibuses.
+- **Checked 2026-11-06:** Epic 8 (*To Dare The Devil*) is **sold out at Walt's** and **75 at Cheap-Comics** (plus 20 shipping); the **Miller omnibus is not findable anywhere**. So Epic 8 at Cheap-Comics is the only route to the Miller era, and it is the book to secure.
 - **The site also opens with** *Daredevil: The Man Without Fear* #1-5 (the 1993 Miller miniseries, in [[Side Reads]]) and the Daredevil vol. 2 to 8 runs (Smith, Bendis, Brubaker, Waid, Soule, Zdarsky) as modern.
 
 | Your book | Status | Site issues in it | The site's route |
@@ -181,3 +183,18 @@ The site's route opens with the Amazing Spider-Man issues around the black costu
 3. **Avengers:** stop at Epic 17. The plan's Avengers Epics 2 and 3 are correct; Epics 18 to 28 can be taken off the list.
 4. **Iron Man:** the plan is confirmed (omnibus, Epic 12, Armor Wars, Dragon Seed). Epics 18-22 are the cheapest to give up.
 5. **Spider-Man:** Omnibus 4, then Epic 9, then Epics 10-12, then 13: unchanged.
+
+## Events on the character pages
+Each character page has event rows that link to a separate reading-order page for that event (about 60 in all, 2 for Iron Man, 15 for Spider-Man, 3 for Thor, 27 for Avengers, 2 for Daredevil, 3 for Strange, 10 for Venom). Issue counts are the site's.
+
+| Line | Events, with the site's issue count | In your books |
+|---|---|---|
+| Iron Man | Civil War (132), Civil War II (152) | Civil War: you have the Premier Collection (read, 7/10) |
+| Spider-Man | **Kraven's Last Hunt (7)**, **Maximum Carnage (14)**, Second Clone Saga (161), Identity Crisis (8), The Other (12), Civil War (132), One More Day (4), **Spider-Island (32)**, Goblin Nation (11), Spider-Verse (32), Dead No More / Clone Conspiracy (24), Venom Inc. (6), Spider-Geddon (26), **Absolute Carnage (30)**, Gang War (31) | Kraven's Last Hunt = Epic 17 (owned). Maximum Carnage = Epic 25 (wanted). Spider-Island = your Modern Epic 15 (owned). Absolute Carnage = owned and read (9/10). The Clone Saga events sit in Epics 27-30. |
+| Thor | Blood and Thunder (13), Siege (44), War of the Realms (63) | Blood and Thunder = Epic 21 (wanted) |
+| Avengers | **Avengers/Defenders War (8)**, Avengers Disassembled (34), Civil War (132), The Initiative (80), Secret Invasion (126), Dark Reign (290), Siege (44), Heroic Age (116), Fear Itself (121), Shattered Heroes (74), Avengers vs X-Men (71), Age of Ultron (18), Infinity (54), Inhumanity (21), Original Sin (67), AXIS (56), Secret Wars 2015 (229), Standoff (18), Civil War II (152), Secret Empire (77), War of the Realms (63), Empyre (38), King in Black (65), A.X.E. Judgment Day (35), Blood Hunt (54), **One World Under Doom (72)** and others | Avengers/Defenders War = Avengers Epic 7. Blood Hunt, One World Under Doom and King in Black have omnibuses in your vault (wanted, no prices). |
+| Daredevil | Shadowland (31), Devil's Reign (25) | modern, not in your books |
+| Strange | Avengers/Defenders War (8), Damnation (15), Death of Doctor Strange (12) | none |
+| Venom | Maximum Carnage (14), Spider-Island (32), Minimum Carnage (6), Black Vortex (13), Venomverse (13), Venom Inc. (6), **Absolute Carnage (30)**, King in Black (65), Dark Web (21), **Venom War (37)** | Absolute Carnage: owned and read. Venom War: the omnibus is ordered (Dec 8). |
+
+This answers your note that events sit "in the middle of almost everything": the site treats Kraven's Last Hunt, Maximum Carnage, Spider-Island, Absolute Carnage and Venom War as stand-alone events to read inside the character's route. I have **not** read the event pages themselves yet, so the table does not say which collected book holds each event beyond the matches above.

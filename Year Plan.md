@@ -51,12 +51,13 @@ If the Daredevil checkpoint fails, this order is Spider-Man Omnibus 4 alone (127
 - Spider-Man Epic 9, 37 (right after Epic 8, which comes in Omnibus 4)
 - Iron Man Extremis Premier, 12.79 (modern; it also takes the order over 150)
 
-## March 24 (balance 46.43; plan 114.90, so 68.47 over)
-**Cart 1: Cheap-Comics, in stock, 114.90**
+## March 24 (balance 46.43; plan 189.90, so 143.47 over)
+**Cart 1: Cheap-Comics, in stock, 189.90**
 - Strange Epic 9, 30; Epic 10, 40; Epic 11, 24.90 (out of print)
+- **Daredevil Epic 8, 75** (sold out at Walt's; the Miller omnibus is not findable; the book the site treats as core for Daredevil)
 - Shipping, 20
 
-*Optional, first to drop:* Avengers Epic 2 and 3 (35 each at the sale price) would make the order 184.90 and push the debt another 70.
+*Optional, first to drop:* Avengers Epic 2 and 3 (35 each at the sale price) would make the order 259.90 and push the debt another 70.
 
 ## April 24 (balance 81.53; plan about 152.79, so 71.26 over)
 **Cart 1: Walt's, in stock, 152.79, free shipping**

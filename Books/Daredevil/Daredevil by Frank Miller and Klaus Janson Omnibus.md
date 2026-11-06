@@ -3,6 +3,7 @@ line: "Daredevil"
 type: "Omnibus"
 edition: "Miller Janson"
 title: "Daredevil by Frank Miller and Klaus Janson Omnibus"
+price_note: "Not findable anywhere (checked 2026-11-06)."
 status: "wanted"
 read: false
 issues: "Daredevil #158-161, 163-191; What If #28"
