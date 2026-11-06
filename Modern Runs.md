@@ -23,6 +23,7 @@ Research from 2026-09-29 (Marvel, retailer and Wikipedia pages found by web sear
 ### Recommendation
 - **October:** Vol 1 TPB only (17), as planned. No singles.
 - **November:** read Vol 1, then decide on the connecting set. It's a pure trophy, duplicated by the TPB, so only if you love the art. Skip #5-6 singles, since they're in Vol 1.
+- **Update 2026-11-09:** Vol 1 read and loved. Decision pending between singles #7 onward (about 7 each; #7 to #10 are out, #11 and #12 follow in Nov and Dec) and waiting for Vol 2 on May 4, 2027. Singles at Walt's carry the 12 shipping, so Kingpin Books, Vinted or an order already over 150 are the cheaper places. If you buy the singles you do not need Vol 2 to read, but you may still want it to collect.
 - **Bridge decision (also after reading Vol 1):** if hooked, #7 to #11 as standard-cover singles would be about 30-40 vs 17-20 for Vol 2 in May 2027, so about 15-20 extra to read 6 months earlier. Buy them in chunks of Vol 2 only, and don't bridge #12 onward before Vol 3 is announced. If you're lukewarm, wait for the TPBs.
 
 ## Invincible Iron Man (2022), Gerry Duggan

@@ -44,12 +44,12 @@ Ordered and already published, so it should arrive any time.
 
 | Line | Next read | Status |
 |---|---|---|
-| Iron Man | [[Iron Man (2026) Vol 1 A New Nightmare]] | owned |
 | Spider-Man | [[SM Epic 05 - The Secret of the Petrified Tablet\|Epic 5]] | covered |
 
 ## Needs attention
 
 - DS Epic 04 - Alone Against Eternity: read, but the omnibus you read it in has only part of it (not in it: Doctor Strange (vol. 2) #23-28)
+- Iron Man: no book has next_read
 - Doctor Strange: no book has next_read
 - Thor: no book has next_read
 - Daredevil: no book has next_read

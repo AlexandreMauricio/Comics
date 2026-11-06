@@ -12,6 +12,7 @@ Short impressions per book. Add a rating (1-10) when known. Newest last.
 - Epic 7 (Ten Rings to Rule the World): loved it, devoured in 2 days (2026-10-03). Amazing stories and art; Madame Masque and Sitwell appear, characters I didn't know I missed.
 - Epic 8 (Demon in a Bottle): finished 2026-10-19, "so good"; wants Epic 9 right away. No score yet.
 - Invincible Iron Man (2022) Vol 2, The Wedding of Tony Stark and Emma Frost (#7-12) and #13: read 2026-10-11, "loving it". 8/10 for both Vol 2 and #13.
+- Iron Man (2026) Vol 1, A New Nightmare (#1-6): finished about 2026-11-09, "loved it". No score yet. Wants more: either singles #7 onward or Vol 2 on May 4, 2027.
 
 ## Doctor Strange
 - Epic 1: loved it.

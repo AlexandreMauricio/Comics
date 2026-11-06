@@ -6,10 +6,10 @@ title: "Iron Man (2026) Vol 1 A New Nightmare"
 price_paid: 18.28
 ordered: 2026-11-04
 budget_month: "2026-10"
-next_read: true
+next_read: false
 reading_started: 2026-11-06
 status: "owned"
-read: false
+read: true
 budget: "monthly"
 issues: "Iron Man (2026) #1-6"
 release_date: "2026-10-27"
