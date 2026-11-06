@@ -11,7 +11,7 @@ This is the user's Obsidian vault for planning and tracking their **physical Mar
 ## Where things live
 - `Books/<Line>/*.md`: one note per book. The YAML properties are the data (see [[How this vault works]]). Never invent prices, dates or stock: record what the user told you or what you read on a page, and say so.
 - `Year Plan.md`: **the current plan** month by month, with the allowance ledger and checkpoints. Read it first. `Tracker.md` and `Cart Planner.md` are generated.
-- `Reading Rotation.md` (where each line is), `Collection Review.md` (snapshot), `Side Reads.md` (add-ons), `Reading Orders Check.md` (site comparison and event rows), `Reading Log.md` (the user's impressions and scores), `Purchase Log.md` (the user's own, don't rewrite it), `Collecting Philosophy.md` (rules), `Modern Runs.md` (modern policy and runs), `Archive/` (old plans).
+- `Reading Rotation.md` (where each line is), `Collection Review.md` (snapshot), `Side Reads.md` (add-ons), `Reading Orders Check.md` and `Comic Book Herald Check.md` (the two reading-order sites compared with the books, plus event rows), `Reading Log.md` (the user's impressions and scores), `Purchase Log.md` (the user's own, don't rewrite it), `Collecting Philosophy.md` (rules), `Modern Runs.md` (modern policy and runs), `Archive/` (old plans).
 - `Tools/refresh.py` recomputes derived data, the Hub, Tracker, Cart Planner, Ratings Overview and the generated tables in `Series/*.md`. **Run it after every change to a book note:** `python Tools/refresh.py`. `refresh.py check` only runs the checks.
 
 ## Routines

@@ -24,7 +24,7 @@ Start here. The book database is the `Books/` folder (one note per book, with pr
 - [[Sources and Verification]] - where each piece of data came from and where to check it
 - [[Collecting Philosophy]] - rules, budget, formats
 - [[Monthly Carts]] - how a cart is built
-- [[Purchase Log]] · [[Reading Log]] · [[Research Notes]] · [[Wikipedia Cross-check]] · [[Modern Runs]] · [[Side Reads]] · [[Reading Orders Check]] · [[Shelf]]
+- [[Purchase Log]] · [[Reading Log]] · [[Research Notes]] · [[Wikipedia Cross-check]] · [[Modern Runs]] · [[Side Reads]] · [[Reading Orders Check]] · [[Comic Book Herald Check]] · [[Shelf]]
 - `Archive/` - old text notes replaced by the dashboards, kept for history
 
 ## Lines

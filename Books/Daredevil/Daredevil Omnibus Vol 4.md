@@ -3,7 +3,7 @@ line: "Daredevil"
 type: "Omnibus"
 number: 4
 title: "Daredevil Omnibus Vol 4"
-cart: "2027-04"
+cart: "2027-05"
 status: "wanted"
 read: false
 issues: "Daredevil #120-158, Annual #4; Ghost Rider #20; Marvel Premiere #39-40, #43; material from What If #8"
