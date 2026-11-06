@@ -170,7 +170,10 @@ The site's route: Avengers #1-8, then **#34-114, #119-177, #181-187, #194-196 an
 - Epic 1 (#1-20) is only partly on the route (#1-8), as you said; the 2004 Casey/Kolins *Earth's Mightiest Heroes* covers the same ground (see [[Side Reads]]).
 
 ## Fantastic Four
-The site's route covers FF Epics 1, 2 and 3 in full and the omnibus 2. You own Epic 1. FF is not one of your active lines.
+(Updated 2026-11-11.) The site's route covers **FF Epics 1, 2 and 3 in full and the Lee and Kirby omnibus 2**, then it picks up in the 1980s and later runs. You own Epic 1 and liked it. The full list of FF Epics is on the [[Fantastic Four]] page, and the two unreleased numbers (15 and 16) are the Byrne stretch.
+
+## Hercules
+(New, 2026-11-11.) The site's route is short and mostly crossovers: *Journey Into Mystery* Annual #1 (his debut), Tales to Astonish #79, **Champions #1 to #17**, **Avengers #270 to #285** (your Avengers Epics 16 and 17), then Incredible Hulk #112, **Incredible Hercules #113 to #141**, *Herc* #1 to #10, the 2016 series, Avengers (2016 and later) and Guardians of the Galaxy (2019) tie-ins, and the **Chaos War** event. See [[Hercules]].
 
 ## Venom
 The site's route opens with the Amazing Spider-Man issues around the black costume and Venom's first appearances (inside your Spider-Man Epics 18 and 19, around #252-375), then Thunderbolts #110-127, Venom vol. 2, Dark Avengers, *Venom: Space Knight*, and the **Cates run (Venom vol. 4, 2018-21)**, which is where *Venom First Host* and *Absolute Carnage* come from, then Venom vol. 5 and King in Black.

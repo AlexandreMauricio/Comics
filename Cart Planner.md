@@ -86,6 +86,7 @@ Sorted by purpose, then by how short the line's runway is, then by the first com
 | modern | Doctor Strange | 0 | [[One World Under Doom Omnibus]] | wanted |  |  |  |  |
 | modern | Fantastic Four | 0 | [[Fantastic Four Omnibus Vol 2]] | wanted |  |  |  |  |
 | modern | Fantastic Four | 0 | [[FF Omnibus 1]] | wanted |  |  |  |  |
+| modern | Venom | 0 | [[Friendly Neighborhood Mary Jane 1]] | wanted |  | Walt's |  |  |
 | modern | Iron Man | 3 | [[Invincible Iron Man by Gerry Duggan Vol 3 Iron and Diamonds]] | oop |  |  |  |  |
 | modern | Iron Man | 3 | [[Invincible Iron Man (2022) 14]] | wanted | 4.8 |  |  | low - eBay, slow hunt, 1-2 per month at most |
 | modern | Iron Man | 3 | [[Invincible Iron Man (2022) 15]] | wanted | 3.91 |  |  | low - eBay, slow hunt, 1-2 per month at most |
@@ -98,9 +99,8 @@ Sorted by purpose, then by how short the line's runway is, then by the first com
 | modern | Iron Man | 3 | [[Iron Man (2026) 1-4 connecting cartoony covers (set of four)]] | wanted | 25 | Vinted |  |  |
 | modern | Iron Man | 3 | [[Iron Man (2026) Vol 2]] | wanted |  |  |  |  |
 | modern | Avengers |  | [[Avengers (2026) 1]] | wanted |  | Walt's |  |  |
-| modern | Venom |  | [[Friendly Neighborhood Mary Jane 1]] | wanted |  | Walt's |  |  |
+| event | Venom | 0 | [[King in Black Omnibus]] | wanted |  |  |  |  |
 | event | Secret Wars |  | [[Marvel Super Heroes Secret Wars Omnibus]] | wanted |  |  |  |  |
-| event | Venom |  | [[King in Black Omnibus]] | wanted |  |  |  |  |
 
 - **reading**: nothing unowned sits between your reading position and this book. This is the 'next Epic' slot.
 - **security**: out of print, or a deadline (discount, last copy). Ahead of a gap, so it doesn't advance reading yet.

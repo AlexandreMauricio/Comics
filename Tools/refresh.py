@@ -331,6 +331,8 @@ def make_hub_lines(notes, pos, runway, gap, line_epics):
         L.append(f"| {name} | {'Epic ' + str(max(done)) if done else '-'} | {', '.join(nxt) or '-'} | {max(runway.get(line, 0) - 1, 0)} | {gtxt} |")
     L.append("| [[Venom]] | events and singles | | | |")
     L.append("| [[Avengers]] | Epic 1 read | | | |")
+    L.append("| [[Fantastic Four]] | Epic 1 read, parked line | | | |")
+    L.append("| [[Hercules]] | parked line, nothing bought | | | |")
     L.append("| [[Other Series]] | tried, mostly dropped | | | |")
     replace_block(VAULT + "Comics Hub.md", "lines", "\n".join(L))
 
@@ -340,7 +342,8 @@ def make_hub_lines(notes, pos, runway, gap, line_epics):
 LINE_PAGES = {
     "Iron Man": ["Iron Man"], "Doctor Strange": ["Doctor Strange"], "Spider-Man": ["Spider-Man"], "Thor": ["Thor"],
     "Daredevil": ["Daredevil"], "Venom": ["Venom", "Carnage"], "Avengers": ["Avengers"],
-    "Other Series": ["Fantastic Four", "Ant-Man", "Hulk", "Moon Knight", "Secret Wars"],
+    "Fantastic Four": ["Fantastic Four"], "Hercules": ["Hercules"],
+    "Other Series": ["Ant-Man", "Hulk", "Moon Knight", "Secret Wars"],
 }
 MODERN_TYPES = ("TPB", "Single", "Premier Collection", "Graphic Novel")
 
