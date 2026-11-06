@@ -35,7 +35,7 @@ As a developer, a kid from 2000 and a nerd who grew up with the MCU, the technol
 | [[IM Epic 09 - Not yet released\|Epic 9: Not yet released]] | incoming | - | - | Covered by the Michelinie/Layton/Romita Jr Omnibus (#115-157), April 2027. |
 | [[IM Epic 10 - The Enemy Within\|Epic 10: The Enemy Within]] | owned | 115.25 paid | Vinted | 115.25 with shipping on Vinted (offer of 105). |
 | [[IM Epic 11 - Duel of Iron\|Epic 11: Duel of Iron]] | owned | 49.5 paid | Cheap-Comics | - |
-| [[IM Epic 12 - Iron Monger\|Epic 12: Iron Monger]] | planned | - | - | releases Mar 2027; Pre-order in December (Q1 2027 quarterly slot) |
+| [[IM Epic 12 - Iron Monger\|Epic 12: Iron Monger]] | planned | - | Walt's | releases Mar 9, 2027; FOC Dec 16; Pre-order in December (Q1 2027 quarterly slot) |
 | [[IM Epic 13 - Stark Wars\|Epic 13: Stark Wars]] | owned | 45 paid | Walt's | - |
 | [[Iron Man Armor Wars Omnibus\|Iron Man Armor Wars Omnibus]] | wanted | 78.99 seen | Walt's | On sale 78.99, check real stock |
 | [[IM Epic 14 - Return of the Ghost\|Epic 14: Return of the Ghost]] | owned | 33.35 paid | Vinted | 33.35 with shipping included (Vinted). |

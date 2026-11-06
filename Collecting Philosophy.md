@@ -18,6 +18,7 @@ TPB is the default; singles only to test a new run, as a cover trophy, or as a b
 ## Priorities (confirmed 2026-11-06)
 - **Line books first, bought in reading order.** Never buy a book before the books that come before it in the line. Every line keeps 1 or 2 books to read next and 1 or 2 ahead.
 - **Iron Man is line #1.** Strange is #2. Modern books are palate cleansers and matter little; they only ride along when they cost nothing extra.
+- **Nothing is dropped.** The plan may run over the allowance and be paid back later (decided 2026-11-07); only timing moves.
 - **Securing a book matters more than when the money leaves.** Paying early for a last copy, an out-of-print book or a pre-order price is fine.
 - **Group orders to save shipping.** Walt's charges 12 under 150 (it was 9 until Oct 2026) and ships free from 150, Cheap-Comics is a flat 20 and needs three books, Amazon.es is free with Prime. Pre-orders that release within about two months of each other go in one order.
 - **New modern runs:** trial singles (#1, #2) only on the FOC pre-order, otherwise wait for the first TPB.

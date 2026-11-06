@@ -4,6 +4,11 @@ type: "Epic Collection"
 number: 12
 title: "Iron Monger"
 cart: "2026-11"
+foc: "2026-12-16"
+preorder_price: 39.5
+regular_price: 54.99
+store: "Walt's"
+price_note: "Walt's pre-order 39.50 (regular 54.99), FOC Dec 16, releases Mar 9, 2027 (checked 2026-11-07). Ordered with Spider-Man 30 by Nov 25 to save a shipping."
 status: "planned"
 read: false
 budget: "quarterly"
@@ -13,7 +18,7 @@ writers: "Denny O'Neil"
 artists: "Rich Buckler, Sal Buscema, Herb Trimpe, Mark Bright, Paul Ryan"
 pages: "512"
 era: "Secret Wars 2"
-release_date: "2027-03"
+release_date: "2027-03-09"
 editions: ["Mar 9, 2027"]
 isbn: ["978-1302972486"]
 cover_note: "Iron Man #200 cover"

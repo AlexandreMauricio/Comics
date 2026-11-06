@@ -38,8 +38,8 @@ Sorted by purpose, then by how short the line's runway is, then by the first com
 | security | Iron Man | 3 | [[IM Epic 16 - War Games]] | oop |  |  | 1 | high - Out of print, hard to find |
 | security | Iron Man | 3 | [[IM Epic 18 - The Return of Tony Stark]] | oop |  |  | 2 | high - Out of print, ceiling 150 landed |
 | security | Spider-Man | 3 | [[SM Epic 09 - Spider-Man or Spider-Clone]] | wanted | 37 | Walt's | 1 | medium - Discounted 37 vs 45 at Walt's |
-| preorder | Daredevil | 0 | [[DD Epic 10 - Redemption]] | planned |  |  | 5 |  |
-| preorder | Iron Man | 3 | [[IM Epic 12 - Iron Monger]] | planned |  |  | 0 | medium - Pre-order in December (Q1 2027 quarterly slot) |
+| preorder | Daredevil | 0 | [[DD Epic 10 - Redemption]] | planned |  | Walt's | 5 |  |
+| preorder | Iron Man | 3 | [[IM Epic 12 - Iron Monger]] | planned |  | Walt's | 0 | medium - Pre-order in December (Q1 2027 quarterly slot) |
 | preorder | Spider-Man | 3 | [[SM Epic 30 - Maximum Clonage]] | planned | 39.5 | Walt's | 18 | high - FOC Nov 25 (the day after payday): 39.50 vs 54.99 after. Release Feb 9, 2027. |
 | future | Daredevil | 0 | [[DD Epic 05 - Going Out West]] | wanted |  |  | 1 |  |
 | future | Daredevil | 0 | [[DD Epic 06 - Watch Out for Bullseye]] | wanted |  |  | 2 |  |
@@ -110,8 +110,8 @@ Sorted by purpose, then by how short the line's runway is, then by the first com
 
 | Book | Store | Price | Purpose |
 |---|---|---|---|
-| [[DD Epic 10 - Redemption]] |  | 0 | preorder |
-| [[IM Epic 12 - Iron Monger]] |  | 0 | preorder |
+| [[DD Epic 10 - Redemption]] | Walt's | 0 | preorder |
+| [[IM Epic 12 - Iron Monger]] | Walt's | 0 | preorder |
 | [[SM Epic 30 - Maximum Clonage]] | Walt's | 39.5 | preorder |
 
 Subtotal of listed books: **39.5 EUR**. Add shipping by store (Walt's about 9 below 150, free above; Cheap-Comics about 20 flat). Planning default 150 (tiers 170/220/290), no advances; quarterly pre-orders count inside it.
