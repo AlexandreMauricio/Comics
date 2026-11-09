@@ -55,7 +55,7 @@ So the Venom Epics that are worth buying are the ones that are not Spidey comics
 | [[Venom (2026) 1\|Venom (2026) #1]] | owned | 11.89 paid | Kingpin Books | read, 6.5/10; Kingpin Books (Portuguese store), 11.89 with shipping; the price includes the issue bagged and... |
 | [[Friendly Neighborhood Mary Jane 1\|Friendly Neighborhood Mary Jane #1]] | wanted | - | Walt's | Ashley Allen and Phil Noto; Mary Jane uses a top-secret gift from Venom. |
 | [[Venom Modern 01 - Shiver\|Shiver]] | parked | - | - | Its own series (0 issues in your Spider-Man Epics). |
-| [[Venom (2026) 2\|Venom (2026) #2]] | wanted | - | Kingpin Books | Follow-up to #1 (you liked it, 6 or 7 out of 10, 'barely a start'). |
+| [[Venom (2026) 2\|Venom (2026) #2]] | wanted | - | Kingpin Books | releases Nov 25, 2026; Follow-up to #1 (you liked it, 6 or 7 out of 10, 'barely a start'). |
 | [[Venom Modern 02 - Sting of the Scorpion\|Sting of the Scorpion]] | parked | - | - | Its own series (0 issues in your Spider-Man Epics). |
 | [[Venom Modern 04 - Agent Venom\|Agent Venom]] | parked | - | - | Its own series (0 issues in your Spider-Man Epics). |
 | [[Venom Modern 05 - The Savage Six\|The Savage Six]] | parked | - | - | Its own series (0 issues in your Spider-Man Epics). |
