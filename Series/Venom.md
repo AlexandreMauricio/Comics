@@ -8,7 +8,7 @@ Absolute Carnage: loved it. With Venom First Host (enjoyed) and the Venom War is
 ## Plan and status
 
 - Read: Absolute Carnage (9/10), Venom First Host, Carnage Modern Era Epic 2.
-- Ordered: Venom War Omnibus (Dec 8), *Venom* (2026) #1 (Kingpin Books, ordered Nov 4).
+- *Venom* (2026) #1 read (6 or 7 out of 10; Kingpin Books, 11.89 with shipping, bagged and boarded). **#2 is wanted next**; if you like it, Vol 1 when announced. Ordered: Venom War Omnibus (Dec 8).
 - Wanted: King in Black Omnibus (no price).
 ## Venom as a line (decided 2026-11-09)
 The Venom and Carnage Epic Collections from the Wikipedia table are now notes of their own (all parked, with the overlap with your Spider-Man Epics in each note); they appear in the table below. Venom Epic 3 is not on the Wikipedia table I read, and the Modern Era Epic 3 is missing too.
@@ -52,9 +52,10 @@ So the Venom Epics that are worth buying are the ones that are not Spidey comics
 | [[Venom Epic 07 - The Hunger\|Epic 7: The Hunger]] | parked | - | - | All its own series (0 issues in your Spider-Man Epics). |
 | [[Venom Epic 08 - Shadows of the Past\|Epic 8: Shadows of the Past]] | parked | - | - | 1 of 14 issues is in your Spider-Man Epics; mostly its own series. |
 | [[Carnage Modern 02 - Prophecy of the Darkhold\|Epic 2: Prophecy of the Darkhold]] | owned | 44.99 paid | Walt's | read; Pre-order. |
-| [[Venom (2026) 1\|Venom (2026) #1]] | incoming | 11.89 paid | Kingpin Books | Eddie Brock and the symbiote reunited; Charles Soule and Tommaso Bianchi. |
+| [[Venom (2026) 1\|Venom (2026) #1]] | owned | 11.89 paid | Kingpin Books | read, 6.5/10; Kingpin Books (Portuguese store), 11.89 with shipping; the price includes the issue bagged and... |
 | [[Friendly Neighborhood Mary Jane 1\|Friendly Neighborhood Mary Jane #1]] | wanted | - | Walt's | Ashley Allen and Phil Noto; Mary Jane uses a top-secret gift from Venom. |
 | [[Venom Modern 01 - Shiver\|Shiver]] | parked | - | - | Its own series (0 issues in your Spider-Man Epics). |
+| [[Venom (2026) 2\|Venom (2026) #2]] | wanted | - | Kingpin Books | Follow-up to #1 (you liked it, 6 or 7 out of 10, 'barely a start'). |
 | [[Venom Modern 02 - Sting of the Scorpion\|Sting of the Scorpion]] | parked | - | - | Its own series (0 issues in your Spider-Man Epics). |
 | [[Venom Modern 04 - Agent Venom\|Agent Venom]] | parked | - | - | Its own series (0 issues in your Spider-Man Epics). |
 | [[Venom Modern 05 - The Savage Six\|The Savage Six]] | parked | - | - | Its own series (0 issues in your Spider-Man Epics). |
