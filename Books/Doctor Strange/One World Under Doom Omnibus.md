@@ -29,7 +29,7 @@ tags: ["comics", "line/doctor-strange"]
 ## Status
 - **wanted** (event omnibus for the modern Strange backstory; not needed to follow Journey Into Mystery)
 - Doom, as Sorcerer Supreme, takes over the world. US list price $150. Walt's price and FOC not known yet; for a Mar 9 release the FOC may already have passed (inference).
-- Release 2027-03-09. **Walt's 113 (usual 150); the FOC passed on Sep 23, so this is a discount that may end.** Decision 2026-11-12: wanted because events touch your favorite characters (Iron Man, Fantastic Four, Doom, the Avengers); not scheduled yet. Options: a separate Walt's pre-order with the birthday money in December (about 125 with shipping, ships after Mar 9), or later. It duplicates Iron Man (2024) Vol 2, which you want anyway (decision 2026-11-12).
+- Release 2027-03-09. **Walt's 113 (usual 150); the FOC passed on Sep 23, so this is a discount that may end.** Decision 2026-11-12: wanted because events touch your favorite characters (Iron Man, Fantastic Four, Doom, the Avengers); not scheduled yet. Not in the birthday cart (decided 2026-11-12); revisit in January or February (a separate Walt's pre-order, about 125 with shipping, ships after Mar 9). It duplicates Iron Man (2024) Vol 2, which you want anyway (decision 2026-11-12).
 
 ## My impressions
 (see [[Reading Log]]; add notes here)

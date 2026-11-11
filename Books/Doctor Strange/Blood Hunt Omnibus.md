@@ -28,7 +28,7 @@ tags: ["comics", "line/doctor-strange"]
 ## Status
 - **wanted** (event omnibus for the modern Strange backstory; not needed to follow Journey Into Mystery)
 - In Blood Hunt #5 (2024) Doctor Doom takes the Sorcerer Supreme title from Strange. US list price $150. Walt's price and FOC not known yet.
-- Release 2026-10-06. **Walt's 113 (usual 150).** Decision 2026-11-12: interested, but it is an event and *Venom War* is already coming, so it is parked; revisit at the birthday cart or when a month has room. It sits on the Strange, Spider-Man, Venom and Avengers pages alike.
+- Release 2026-10-06. **Walt's 113 (usual 150).** Decision 2026-11-12: interested, but it is an event and *Venom War* is already coming, so it is parked; not in the birthday cart (decided 2026-11-12); revisit when a month has room. It sits on the Strange, Spider-Man, Venom and Avengers pages alike.
 
 ## My impressions
 (see [[Reading Log]]; add notes here)
