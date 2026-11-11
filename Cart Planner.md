@@ -82,7 +82,7 @@ Sorted by purpose, then by how short the line's runway is, then by the first com
 | future | Iron Man | 3 | [[IM Epic 22 - Age of Innocence]] | wanted | 50 | Walt's | 5 | low - Low rated, last purchase |
 | modern | Doctor Strange | 0 | [[Doctor Strange by Aaron and Bachalo Omnibus]] | wanted | 84.7 | Vinted |  |  |
 | modern | Doctor Strange | 0 | [[Doctor Strange Vol 1 Journey Into Mystery]] | wanted | 24.99 | Walt's |  |  |
-| modern | Doctor Strange | 0 | [[Blood Hunt Omnibus]] | wanted |  |  |  |  |
+| modern | Doctor Strange | 0 | [[Blood Hunt Omnibus]] | wanted | 113 | Walt's |  |  |
 | modern | Doctor Strange | 0 | [[One World Under Doom Omnibus]] | wanted |  |  |  |  |
 | modern | Fantastic Four | 0 | [[Fantastic Four Omnibus Vol 2]] | wanted |  |  |  |  |
 | modern | Fantastic Four | 0 | [[FF Omnibus 1]] | wanted |  |  |  |  |

@@ -75,6 +75,7 @@ The releases span Feb 9 to Mar 9, inside Walt's two-month limit. Splitting would
 - **Epic 17 now (44.90, February):** about 30 more now, but you read the miniseries first and keep the rest for when Daredevil reaches Epic 17, and the book is secured while it is still in stock. Since you want Epic 17 anyway, this is the better choice, and the plan uses it.
 
 ## Modern and optional
+- **Blood Hunt Omnibus (Walt's 113, usual 150, about 54 issues):** the event behind Strange's modern status quo (Doom takes the Sorcerer Supreme title). Parked on 2026-11-12: it is an event and *Venom War* is already coming. If you want it, the natural slot is the December birthday money (it would take that total to about 381, above the 300 you set), or a later month. The discount may end.
 - Duggan #16 (alerts on), *Journey Into Mystery* (24.99), *Iron Man (2026)* Vol 2 (~17, released May 4): only when an order already ships free or a month has room.
 
 ## Not planned
