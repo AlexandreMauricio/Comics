@@ -1,6 +1,6 @@
 # Year Plan, October 2026 to September 2027
 
-**Draft v6.4, 2026-11-12 (Thor Omnibus 4 found on Vinted). Every line collected, in reading order, nothing dropped, every month close to 150, bought so the lines read at the same pace ([[Reading Rotation]]).** Rules:
+**Draft v6.5, 2026-11-12 (Venom 2025 Vol 1 and 2 added). Every line collected, in reading order, nothing dropped, every month close to 150, bought so the lines read at the same pace ([[Reading Rotation]]).** Rules:
 1. **Reading order first.** Every line keeps 1 or 2 books to read next and 1 or 2 ahead. A book is never bought before the books that come before it.
 2. **Nothing is removed and no route is skipped.** The plan may run over the allowance and be paid back later; only timing moves (decided 2026-11-07).
 3. **Iron Man is line #1**, Strange #2. Modern books are palate cleansers and only ride along when they cost nothing extra.
@@ -17,19 +17,19 @@
 ## Month by month
 | Month (cart date) | Order | Spend | Owed after the month's 150 |
 |---|---|---|---|
-| Nov 24-25 | Dragon Ball 9 (23) + the Q1 pre-order group (130.50) | 153.50 | 338 |
-| Dec (gift orders, outside) | Walt's: Strange Masterworks 10 and 11, Iron Man (2024) Vol 1 and 2 (172.28) + **Thor Omnibus 4 from Vinted (74.20 + about 4-7 shipping)** | about 251 | n/a |
-| Dec 24 | Duggan #14, 15, 17, 18 (eBay Germany) | 24.40 | 212 |
-| Jan 24 | Daredevil Omnibus 3 + **Daredevil Epic 17** + Extremis (Walt's) | 162.69 | 225 |
-| Feb 24 | **Thor Omnibus 5** (Walt's) | 117 | 192 |
-| Mar 24 | Spider-Man Omnibus 4 + Epic 9 (Walt's) | 152 | 194 |
-| Apr 24 | Cheap-Comics: Strange Epics 9 and 11 + Daredevil Epic 8 | 149.90 | 194 |
-| May 24 | Daredevil Omnibus 4 + Spider-Man Epic 10 (about 40) + *Iron Man (2026)* Vol 2 (about 17) (Walt's, free shipping) | about 152 | 196 |
-| Jun 24 | Armor Wars omnibus + Strange Epic 12 + Strange Epic 10 (Walt's, free shipping) | 162.89 | 209 |
-| Jul (about 123) | Dragon Seed (Amazon.es) + Thor Epic 9 (49.99) | about 75 | about 111 |
-| Aug-Sep (about 123) | Strange Epic 13, Spider-Man Epics 11 and 12, Thor Epic 10 onward | about 123 each | about 111 |
+| Nov 24-25 | Dragon Ball 9 (23) + the Q1 pre-order group (142.50, with Venom Vol 2) | 165.50 | 350 |
+| Dec (gift orders, outside) | Walt's: Strange Masterworks 10 and 11, Iron Man (2024) Vol 1 and 2, Venom (2025) Vol 1 (189.28) + **Thor Omnibus 4 from Vinted (74.20 + about 4-7 shipping)** | about 268 | n/a |
+| Dec 24 | Duggan #14, 15, 17, 18 (eBay Germany) | 24.40 | 224 |
+| Jan 24 | Daredevil Omnibus 3 + **Daredevil Epic 17** + Extremis (Walt's) | 162.69 | 237 |
+| Feb 24 | **Thor Omnibus 5** (Walt's) | 117 | 204 |
+| Mar 24 | Spider-Man Omnibus 4 + Epic 9 (Walt's) | 152 | 206 |
+| Apr 24 | Cheap-Comics: Strange Epics 9 and 11 + Daredevil Epic 8 | 149.90 | 206 |
+| May 24 | Daredevil Omnibus 4 + Spider-Man Epic 10 (about 40) + *Iron Man (2026)* Vol 2 (about 17) (Walt's, free shipping) | about 152 | 208 |
+| Jun 24 | Armor Wars omnibus + Strange Epic 12 + Strange Epic 10 (Walt's, free shipping) | 162.89 | 221 |
+| Jul (about 123) | Dragon Seed (Amazon.es) + Thor Epic 9 (49.99) | about 75 | about 173 |
+| Aug-Sep (about 123) | Strange Epic 13, Spider-Man Epics 11 and 12, Thor Epic 10 onward | about 123 each | about 173 |
 
-Every month from January to June is within about 15 of 150. The December gift orders are about 251, under your 300. Nothing is above 200. The 20 a month kept for singles is not in this table.
+Every month from January to June is within about 15 of 150. The December gift orders are about 268, under your 300. Nothing is above 200. The 20 a month kept for singles is not in this table.
 
 ## By line: what is bought, in reading order, and when
 | Line | Needs, in order | Bought |
@@ -42,9 +42,10 @@ Every month from January to June is within about 15 of 150. The December gift or
 
 The reading supply holds: Strange and Thor reopen with the December gift orders, Spider-Man reopens in February, Daredevil in March, and Iron Man's long run from April.
 
-## November 24-25: the Q1 pre-order group (130.50)
+## November 24-25: the Q1 pre-order group (142.50)
 One Walt's pre-order that ships after the latest release (March 9, 2027):
 - Spider-Man Epic 30, *Maximum Clonage*, 39.50 (regular 54.99; **FOC Nov 25**; releases Feb 9)
+- *Venom* (2025) Vol 2, 12 (regular 16; FOC Dec 9; releases Feb 23) - the Madame Masque run's second volume, bought with the group so it shares the shipping
 - Iron Man Epic 12, *Iron Monger*, 39.50 (regular 54.99; FOC Dec 16; releases Mar 9)
 - Daredevil Epic 10, *Redemption*, 39.50 (regular 54.99; FOC Dec 16; releases Mar 9)
 - Shipping, 12
@@ -52,10 +53,10 @@ One Walt's pre-order that ships after the latest release (March 9, 2027):
 The releases span Feb 9 to Mar 9, inside Walt's two-month limit. Splitting would only add a second shipping, because Dec 16 is in the same budget month. Thor Gorr (12.79, Mar 9) can ride along if you want it.
 
 ## December: birthday and Christmas gift orders (outside the 150)
-- **Walt's, in stock, free shipping (172.28):** Strange Masterworks Vol 10 (75, out of print, no fallback), Vol 11 (67.50, two copies left), *Iron Man (2024)* Vol 1 (16.19, only 1 in stock; accepted risk) and Vol 2 (13.59).
+- **Walt's, in stock, free shipping (189.28):** Strange Masterworks Vol 10 (75, out of print, no fallback), Vol 11 (67.50, two copies left), *Iron Man (2024)* Vol 1 (16.19, only 1 in stock; accepted risk) and Vol 2 (13.59), and *Venom* (2025) Vol 1 *Behind the Masque* (17, releases Nov 17).
 - **Vinted: Thor Omnibus 4 (74.20 plus shipping, about 4 to 7):** gone from Walt's; one copy found on Vinted on 2026-11-12. It is a used copy: check the photos and ask the seller about condition before buying. It cannot wait for December if you want it, since it is one copy; paying for it now and calling it birthday money is fine.
 
-**About 251 together**, under your 300 (about 49 free).
+**About 268 together**, under your 300 (about 32 free).
 
 **Why the omnibus route and not the Epics:** Omnibus 4 (#195 to #228) plus Omnibus 5 (#229 to #266) cover #195 to #266 in two books for about 190 (74.20 + shipping + 104.99 + 12). The Epic route (Epics 6, 7, 8) covers #195 to #259 for about 205 with shipping and needs three books. If the Vinted copy is gone, Epics 6 and 7 at Cheap-Comics (50 and 60) are the fallback.
 
