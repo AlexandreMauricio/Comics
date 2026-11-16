@@ -3,7 +3,7 @@ line: "Venom"
 type: "TPB"
 edition: "Venom 2025 Vol 1"
 title: "Venom (2025) Vol 1 Behind the Masque"
-status: "planned"
+status: "wanted"
 read: false
 modern: true
 issues: "Venom (2025) #250-254"
@@ -12,7 +12,7 @@ writers: "Al Ewing (a listing also names Charles Soule)"
 store: "Walt's"
 regular_price: 20
 price_seen: 17
-cart: "2026-12"
+cart: ""
 price_note: "Walt's 17 (regular 20), releases Nov 17, 2026, no FOC left. Retailers list it at 19.99 US, 168 pages (checked 2026-11-11)."
 order: 3010
 seq: 3010

@@ -16,7 +16,7 @@ store: "Vinted"
 covers: ["[[Thor Epic 06 - Into the Dark Nebula]]"]
 urgency: "high"
 urgency_reason: "Gone from Walt's (2026-11-11); one copy on Vinted at 74.20 plus shipping (2026-11-12). Buy as soon as you decide."
-cart: "2026-12"
+cart: "2026-11"
 seq: 6.5
 purpose: "reading"
 missing_before: 0

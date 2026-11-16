@@ -11,7 +11,7 @@ Rewritten **2026-11-10** around one idea: **all five lines move at the same pace
 ## The rounds (arrival dates from [[Year Plan]])
 | Round | Starts | Iron Man | Strange | Thor | Spider-Man | Daredevil |
 |---|---|---|---|---|---|---|
-| 1 | Nov 16 | modern (*Iron Man (2026)* done; the rest waits for December) | waiting for the Dec 28 gift order; *Journey Into Mystery* if bought | **Omnibus 4, first half** (if the Vinted copy is bought now); *Son of Asgard* if bought | Epic 6 (Omnibus 3) | the rest of Omnibus 2 |
+| 1 | Nov 16 | modern (*Iron Man (2026)* done; the rest waits for December) | waiting for the Dec 24 order; *Journey Into Mystery* if bought | **Omnibus 4, first half** (if the Vinted copy is bought in November); *Son of Asgard* if bought | Epic 6 (Omnibus 3) | the rest of Omnibus 2 |
 | 2 | Jan 4 | Iron Man (2024) Vol 1 | Masterworks 10 | Omnibus 4, second half | Epic 7 | *Man Without Fear* (in Epic 17), Omnibus 3 part 1 |
 | 3 | Feb 22 | Iron Man (2024) Vol 2 | Masterworks 11 | Omnibus 5, first half | Omnibus 4 (Epic 8), arriving about Apr 1 | Omnibus 3 part 2 |
 | 4 | Apr 12 | **Epic 9 (Michelinie omnibus)** | Epic 8 (owned) | Omnibus 5, second half | Epic 9 | Epic 8 (Cheap-Comics, arrives about May 1) |
