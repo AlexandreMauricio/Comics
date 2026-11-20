@@ -8,7 +8,7 @@ I love mythologies. I didn't like him always asking his father for help, and I s
 ## Plan and status
 
 - Read up to Epic 5 (6/10). Nothing to read now; *Thor: Son of Asgard* (about 13) goes before Epic 6 if you buy it.
-- **Omnibus 4 is gone from Walt's (2026-11-11) but one copy is on Vinted at 74.20 plus shipping (2026-11-12).** Plan: Omnibus 4 now or in December, Omnibus 5 in February (104.99, Walt's), Epic 9 in July. If the Vinted copy goes: Epics 6 and 7 at Cheap-Comics (50 and 60).
+- **Omnibus 4 is gone from Walt's (2026-11-11); one copy was on Vinted at 74.20 plus shipping.** Plan: Omnibus 4 in January (Vinted if the copy is still there, otherwise Epics 6 and 7 at Cheap-Comics, 50 and 60), Omnibus 5 in March (104.99, Walt's). Epic 9 and on after September. Not bought in November, so as not to raise the debt.
 - Checkpoint in July: Epics 9-12 or the Simonson omnibus (Epic 13). The site comparison says Omnibus 4 and 5 are the books it skips ([[Reading Orders Check]]).
 - Context: Thor was killed in *Immortal Thor* #24 (2025). Modern: Thor Gorr Premier (Mar 9, optional).
 

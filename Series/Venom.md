@@ -61,7 +61,7 @@ So the Venom Epics that are worth buying are the ones that are not Spidey comics
 | [[Venom Modern 04 - Agent Venom\|Agent Venom]] | parked | - | - | Its own series (0 issues in your Spider-Man Epics). |
 | [[Venom Modern 05 - The Savage Six\|The Savage Six]] | parked | - | - | Its own series (0 issues in your Spider-Man Epics). |
 | [[Venom Modern 06 - Space Knight\|Space Knight]] | parked | - | - | Its own series (0 issues in your Spider-Man Epics). |
-| [[Venom (2025) Vol 1 Behind the Masque\|Venom (2025) Vol 1 Behind the Masque]] | wanted | 17 (reg 20) seen | Walt's | releases Nov 17, 2026; Walt's 17 (regular 20), releases Nov 17, 2026, no FOC left. |
+| [[Venom (2025) Vol 1 Behind the Masque\|Venom (2025) Vol 1 Behind the Masque]] | wanted | 17 (reg 20) seen | Walt's | Walt's 17 (regular 20), releases Nov 17, 2026, no FOC left. |
 | [[Venom (2025) Vol 2\|Venom (2025) Vol 2]] | planned | - | Walt's | releases Feb 23, 2027; FOC Dec 9; Walt's pre-order 12 (regular 16), FOC Dec 9, releases Feb 23, 2027 (checked 2026-11-11). |
 | [[Carnage Modern 01 - Carnage U.S.A.\|Carnage U.S.A.]] | parked | - | - | Its own series. |
 

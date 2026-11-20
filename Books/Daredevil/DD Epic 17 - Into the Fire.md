@@ -3,7 +3,7 @@ line: "Daredevil"
 type: "Epic Collection"
 number: 17
 title: "Into the Fire"
-cart: "2027-01"
+cart: ""
 status: "wanted"
 read: false
 years: "1993-1994"

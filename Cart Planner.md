@@ -118,7 +118,6 @@ Sorted by purpose, then by how short the line's runway is, then by the first com
 | [[DD Epic 10 - Redemption]] | Walt's | 0 | preorder |
 | [[IM Epic 12 - Iron Monger]] | Walt's | 0 | preorder |
 | [[SM Epic 30 - Maximum Clonage]] | Walt's | 39.5 | preorder |
-| [[The Mighty Thor Omnibus Vol 4]] | Vinted | 74.2 | reading |
 | [[Venom (2025) Vol 2]] | Walt's | 0 | modern |
 
-Subtotal of listed books: **113.7 EUR**. Add shipping by store (Walt's about 9 below 150, free above; Cheap-Comics about 20 flat). Planning default 150 (tiers 170/220/290), no advances; quarterly pre-orders count inside it.
+Subtotal of listed books: **39.5 EUR**. Add shipping by store (Walt's about 9 below 150, free above; Cheap-Comics about 20 flat). Planning default 150 (tiers 170/220/290), no advances; quarterly pre-orders count inside it.

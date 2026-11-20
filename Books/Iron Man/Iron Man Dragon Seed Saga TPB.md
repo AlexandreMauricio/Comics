@@ -3,7 +3,7 @@ line: "Iron Man"
 type: "TPB"
 edition: "Dragon Seed Saga"
 title: "Iron Man Dragon Seed Saga TPB"
-cart: "2027-07"
+cart: ""
 status: "wanted"
 read: false
 issues: "Iron Man #270-275"
