@@ -10,25 +10,25 @@
 
 ## Where the budget stands
 - Hobby spending Sep 24 - Oct 23 was 445.88 against 150; since then Just Dance, Cuphead and a manga volume (62.52), the Nov 4 pair (*Iron Man (2026)* Vol 1 18.28, *Venom* #1 11.89), the Michelinie omnibus (95.99), and the two things you are still doing in November: Dragon Ball 9 (23) and the Q1 pre-order group (142.50).
-- **Debt after the November orders: about 350.** Every month from December is planned below 150, so it falls to about **14 by the end of September** if nothing else is bought.
+- **Debt after the November orders: about 338.** Every month from December is planned below 150 for books, so it falls to about **2 by the end of September** on books alone. **The subscriptions count against the 150 too** (Disney+ about 9 and your half of Spotify about 6, so about 15 a month, since you put them inside the 150); that adds about 150 over ten months, so the real September figure is about **150**, not 2.
 - **Thor Omnibus 4 is not bought now.** The Vinted copy (74.20) may be gone by January; the fallback is Thor Epics 6 and 7 at Cheap-Comics (50 and 60, three-book order).
 
 ## Month by month
 | Month (cart date) | Order | Spend | Owed after the month's 150 |
 |---|---|---|---|
-| Nov 24-25 | Dragon Ball 9 (23) + the Q1 pre-order group (142.50: Spider-Man 30, Iron Man 12, Daredevil 10, *Venom* (2025) Vol 2) | 165.50 | 350 |
-| Dec 24 | Walt's: **Strange Masterworks 10** + *Iron Man* (2024) **Vol 1 and Vol 2** | 116.78 | 317 |
-| Jan 24 | **Thor Omnibus 4** (Vinted, about 79; fallback Epics 6 and 7) | about 79 | 246 |
-| Feb 24 | Walt's: **Strange Masterworks 11** | 79.50 | 175 |
-| Mar 24 | Walt's: **Thor Omnibus 5** | 116.99 | 142 |
-| Apr 24 | Walt's: **Daredevil Omnibus 3** | 117 | 109 |
-| May 24 | Cheap-Comics: **Strange Epics 9 and 11 + Daredevil Epic 8** | 149.90 | 109 |
-| Jun 24 | Walt's: **Spider-Man Omnibus 4 + Epic 9** (free shipping) | 152 | 111 |
-| Jul 24 (about 123) | Walt's: **Daredevil Omnibus 4 + Strange Epic 10** | about 146 | 134 |
-| Aug 24 (about 123) | Walt's: Spider-Man Epic 10 + *Iron Man (2026)* Vol 2 | about 69 | 80 |
-| Sep 24 (about 123) | Walt's: Strange Epic 12 (and the rest of the list below) | about 57 | 14 |
+| Nov 24-25 | Dragon Ball 9 (23) + the Q1 pre-order group (130.50: Spider-Man 30, Iron Man 12, Daredevil 10) | 153.50 | 338 |
+| Dec 24 | Walt's: **Strange Masterworks 10** + *Iron Man* (2024) **Vol 1 and Vol 2** | 116.78 | 305 |
+| Jan 24 | **Thor Omnibus 4** (Vinted, about 79; fallback Epics 6 and 7) | about 79 | 234 |
+| Feb 24 | Walt's: **Strange Masterworks 11** | 79.50 | 163 |
+| Mar 24 | Walt's: **Thor Omnibus 5** | 116.99 | 130 |
+| Apr 24 | Walt's: **Daredevil Omnibus 3** | 117 | 97 |
+| May 24 | Cheap-Comics: **Strange Epics 9 and 11 + Daredevil Epic 8** | 149.90 | 97 |
+| Jun 24 | Walt's: **Spider-Man Omnibus 4 + Epic 9** (free shipping) | 152 | 99 |
+| Jul 24 (about 123) | Walt's: **Daredevil Omnibus 4 + Strange Epic 10** | about 146 | 122 |
+| Aug 24 (about 123) | Walt's: Spider-Man Epic 10 + *Iron Man (2026)* Vol 2 | about 69 | 68 |
+| Sep 24 (about 123) | Walt's: Strange Epic 12 (and the rest of the list below) | about 57 | 2 |
 
-The tightest month is November (165.50, already committed). Every other month is at or under 152, and none is over 200.
+The tightest month is November (153.50, already committed). Every other month is at or under 152, and none is over 200.
 
 ## By line: bought in reading order, and when
 | Line | Needs, in order | Bought |
@@ -50,15 +50,14 @@ Spending below the allowance to lower the debt means some lines wait for their n
 These wait, which is what keeps every month below 150. Nothing in this list is removed from the plan:
 Duggan #14, 15, 17, 18 (24.40), Extremis (12.79), Daredevil Epic 17 (44.90), *Venom* (2025) Vol 1 (17), Armor Wars omnibus and Dragon Seed (103.89, Iron Man reaches Epic 16 around 2028), Thor Epic 9 onward, Spider-Man Epics 11 and 12, Strange Epic 13, and the event omnibuses. The risky ones are the books that may go out of stock: Armor Wars ("on sale, check stock"), Daredevil Epic 17 ("limited supply") and the Iron Man (2024) Vol 1 last copy (Walt's 16.19; Amazon 23 as fallback). Tell me if you want any of them pulled earlier.
 
-## November 24-25: the Q1 pre-order group (142.50)
+## November 24-25: the Q1 pre-order group (130.50)
 One Walt's pre-order that ships after the latest release (March 9, 2027):
 - Spider-Man Epic 30, *Maximum Clonage*, 39.50 (regular 54.99; **FOC Nov 25**; releases Feb 9)
 - Iron Man Epic 12, *Iron Monger*, 39.50 (regular 54.99; FOC Dec 16; releases Mar 9)
 - Daredevil Epic 10, *Redemption*, 39.50 (regular 54.99; FOC Dec 16; releases Mar 9)
-- *Venom* (2025) Vol 2, 12 (regular 16; FOC Dec 9; releases Feb 23)
 - Shipping, 12
 
-The releases span Feb 9 to Mar 9, inside Walt's two-month limit. Dec 16 and Dec 9 are in the same budget month as Nov 25, so splitting would only add a second shipping.
+The releases span Feb 9 to Mar 9, inside Walt's two-month limit. Dec 16 is in the same budget month as Nov 25, so splitting would only add a second shipping. *Venom* (2025) Vol 2 (12, FOC Dec 9) is **not** in it: Vol 1 is deferred, and you read in order, so Vol 2 waits for Vol 1.
 
 ## Why each month holds what it holds
 - **December, Strange Masterworks 10 + Iron Man (2024) Vol 1 and 2 (116.78):** Strange has nothing to read and Masterworks 10 is out of print with no fallback; Iron Man needs the 2024 volumes (Vol 1 is the last copy at Walt's) to bridge to April.

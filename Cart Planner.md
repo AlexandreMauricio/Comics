@@ -89,7 +89,7 @@ Sorted by purpose, then by how short the line's runway is, then by the first com
 | modern | Venom | 0 | [[Friendly Neighborhood Mary Jane 1]] | wanted |  | Walt's |  |  |
 | modern | Venom | 0 | [[Venom (2026) 2]] | wanted |  | Kingpin Books |  |  |
 | modern | Venom | 0 | [[Venom (2025) Vol 1 Behind the Masque]] | wanted | 17 | Walt's |  |  |
-| modern | Venom | 0 | [[Venom (2025) Vol 2]] | planned |  | Walt's |  |  |
+| modern | Venom | 0 | [[Venom (2025) Vol 2]] | wanted |  | Walt's |  |  |
 | modern | Iron Man | 3 | [[Invincible Iron Man by Gerry Duggan Vol 3 Iron and Diamonds]] | oop |  |  |  |  |
 | modern | Iron Man | 3 | [[Invincible Iron Man (2022) 14]] | wanted | 4.8 |  |  | low - eBay, slow hunt, 1-2 per month at most |
 | modern | Iron Man | 3 | [[Invincible Iron Man (2022) 15]] | wanted | 3.91 |  |  | low - eBay, slow hunt, 1-2 per month at most |
@@ -118,6 +118,5 @@ Sorted by purpose, then by how short the line's runway is, then by the first com
 | [[DD Epic 10 - Redemption]] | Walt's | 0 | preorder |
 | [[IM Epic 12 - Iron Monger]] | Walt's | 0 | preorder |
 | [[SM Epic 30 - Maximum Clonage]] | Walt's | 39.5 | preorder |
-| [[Venom (2025) Vol 2]] | Walt's | 0 | modern |
 
 Subtotal of listed books: **39.5 EUR**. Add shipping by store (Walt's about 9 below 150, free above; Cheap-Comics about 20 flat). Planning default 150 (tiers 170/220/290), no advances; quarterly pre-orders count inside it.

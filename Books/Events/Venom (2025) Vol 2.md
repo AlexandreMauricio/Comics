@@ -3,7 +3,7 @@ line: "Venom"
 type: "TPB"
 edition: "Venom 2025 Vol 2"
 title: "Venom (2025) Vol 2"
-status: "planned"
+status: "wanted"
 read: false
 modern: true
 issues: "Venom (2025) #255-262"
@@ -13,7 +13,7 @@ store: "Walt's"
 foc: "2026-12-09"
 preorder_price: 12
 regular_price: 16
-cart: "2026-11"
+cart: ""
 price_note: "Walt's pre-order 12 (regular 16), FOC Dec 9, releases Feb 23, 2027 (checked 2026-11-11). Goes in the Nov 24-25 Q1 pre-order group: the releases (Feb 9 to Mar 9) are within two months."
 order: 3011
 seq: 3011
