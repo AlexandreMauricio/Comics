@@ -54,7 +54,7 @@ Spidey is Spidey: I grew up with lots of Spider-Man movies, cartoons and games. 
 | [[SM Epic 27 - The Clone Saga\|Epic 27: The Clone Saga]] | wanted | - | - | - |
 | [[SM Epic 28 - Web of Life, Web of Death\|Epic 28: Web of Life, Web of Death]] | wanted | - | - | - |
 | [[SM Epic 29 - The Mark of Kaine\|Epic 29: The Mark of Kaine]] | incoming | 39.5 paid | Walt's | releases Dec 8, 2026 |
-| [[SM Epic 30 - Maximum Clonage\|Epic 30: Maximum Clonage]] | planned | 39.5 (reg 54.99) seen | Walt's | releases Feb 9, 2027; FOC Nov 25; FOC Nov 25 (the day after payday): 39.50 vs 54.99 after. |
+| [[SM Epic 30 - Maximum Clonage\|Epic 30: Maximum Clonage]] | incoming | 39.5 paid | Walt's | releases Feb 9, 2027; FOC Nov 25 (the day after payday): 39.50 vs 54.99 after. |
 
 ### Modern and events
 

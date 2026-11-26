@@ -25,7 +25,7 @@ goodreads_votes: 207
 goodreads_checked: "2026-09-29"
 seq: 15
 purpose: "future"
-missing_before: 10
+missing_before: 9
 covered_by: ["[[Daredevil by Nocenti & Romita JR. Vol. 2]]"]
 price_seen: 44.9
 regular_price: 49.99

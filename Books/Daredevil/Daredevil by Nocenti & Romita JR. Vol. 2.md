@@ -13,7 +13,7 @@ covers_partial: ["[[DD Epic 13 - A Touch of Typhoid]]", "[[DD Epic 15 - Last Rit
 line_note: "Alternative for 13 and 14, covers #267-291"
 seq: 13.5
 purpose: "future"
-missing_before: 8
+missing_before: 7
 source: "Wikipedia Marvel Omnibus (2026-09-29) + line page edit"
 verified: false
 tags: ["comics", "line/daredevil"]

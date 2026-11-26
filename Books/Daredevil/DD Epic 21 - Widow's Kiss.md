@@ -25,7 +25,7 @@ goodreads_votes: 117
 goodreads_checked: "2026-09-29"
 seq: 21
 purpose: "future"
-missing_before: 16
+missing_before: 15
 price_seen: 99.5
 store: "Cheap-Comics"
 source: "Epics.xlsx Main Page + Ranking tab, cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"

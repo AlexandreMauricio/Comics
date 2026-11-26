@@ -13,7 +13,7 @@ covers_partial: ["[[DD Epic 13 - A Touch of Typhoid]]"]
 line_note: "Alternative for epic 12, also sold out (covers #234-266)"
 seq: 12.5
 purpose: "future"
-missing_before: 7
+missing_before: 6
 source: "Wikipedia Marvel Omnibus (2026-09-29) + line page edit"
 verified: false
 tags: ["comics", "line/daredevil"]

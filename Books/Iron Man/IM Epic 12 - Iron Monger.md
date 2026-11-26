@@ -3,15 +3,19 @@ line: "Iron Man"
 type: "Epic Collection"
 number: 12
 title: "Iron Monger"
-cart: "2026-11"
+cart: ""
 foc: "2026-12-16"
 preorder_price: 39.5
 regular_price: 54.99
 store: "Walt's"
-price_note: "Walt's pre-order 39.50 (regular 54.99), FOC Dec 16, releases Mar 9, 2027 (checked 2026-11-07). Ordered with Spider-Man 30 by Nov 25 to save a shipping."
-status: "planned"
+price_note: "Walt's pre-order #143053, 39.50 (regular 54.99). Order total 130.50 with shipping for three books; ships after Mar 9, 2027."
+price_paid: 39.5
+ordered: 2026-11-24
+budget_month: "2026-11"
+order_ref: "Walt's #143053"
+status: "incoming"
 read: false
-budget: "quarterly"
+budget: "monthly"
 years: "1985-1987"
 issues: "Iron Man #196–214, Annual #8"
 writers: "Denny O'Neil"
@@ -33,8 +37,6 @@ milestone: "yes (per ChatGPT)"
 urgency: "medium"
 urgency_reason: "Pre-order in December (Q1 2027 quarterly slot)"
 seq: 12
-purpose: "preorder"
-missing_before: 0
 source: "Epics.xlsx Main Page + Ranking tab, cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"
 wikipedia_checked: "2026-09-29"
 verified: true

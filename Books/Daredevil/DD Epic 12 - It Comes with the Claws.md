@@ -26,7 +26,7 @@ goodreads_votes: 138
 goodreads_checked: "2026-09-29"
 seq: 12
 purpose: "future"
-missing_before: 7
+missing_before: 6
 covered_by: ["[[Daredevil by Nocenti & Romita JR. Vol. 1]]"]
 line_note: "Sold out can't find"
 source: "Epics.xlsx Main Page + Ranking tab, cross-checked with Wikipedia Marvel Epic Collection (2026-09-29)"

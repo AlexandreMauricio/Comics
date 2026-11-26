@@ -26,7 +26,7 @@ goodreads_votes: 64
 goodreads_checked: "2026-09-29"
 seq: 17
 purpose: "future"
-missing_before: 12
+missing_before: 11
 price_seen: 44.9
 regular_price: 49.99
 store: "Walt's"

@@ -25,7 +25,7 @@ goodreads_votes: 89
 goodreads_checked: "2026-09-29"
 seq: 16
 purpose: "future"
-missing_before: 11
+missing_before: 10
 price_seen: 125.0
 store: "Cheap-Comics"
 line_note: "Sold out"

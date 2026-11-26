@@ -26,7 +26,7 @@ goodreads_votes: 391
 goodreads_checked: "2026-09-29"
 seq: 13
 purpose: "future"
-missing_before: 8
+missing_before: 7
 covered_by: ["[[Daredevil by Nocenti & Romita JR. Vol. 1]]", "[[Daredevil by Nocenti & Romita JR. Vol. 2]]"]
 price_seen: 49.5
 store: "Cheap-Comics"

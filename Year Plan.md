@@ -51,6 +51,7 @@ These wait, which is what keeps every month below 150. Nothing in this list is r
 Duggan #14, 15, 17, 18 (24.40), Extremis (12.79), Daredevil Epic 17 (44.90), *Venom* (2025) Vol 1 (17), Armor Wars omnibus and Dragon Seed (103.89, Iron Man reaches Epic 16 around 2028), Thor Epic 9 onward, Spider-Man Epics 11 and 12, Strange Epic 13, and the event omnibuses. The risky ones are the books that may go out of stock: Armor Wars ("on sale, check stock"), Daredevil Epic 17 ("limited supply") and the Iron Man (2024) Vol 1 last copy (Walt's 16.19; Amazon 23 as fallback). Tell me if you want any of them pulled earlier.
 
 ## November 24-25: the Q1 pre-order group (130.50)
+**Ordered: Walt's #143053** (all three books; releases Feb 9 and Mar 9; it ships after Mar 9).
 One Walt's pre-order that ships after the latest release (March 9, 2027):
 - Spider-Man Epic 30, *Maximum Clonage*, 39.50 (regular 54.99; **FOC Nov 25**; releases Feb 9)
 - Iron Man Epic 12, *Iron Monger*, 39.50 (regular 54.99; FOC Dec 16; releases Mar 9)
